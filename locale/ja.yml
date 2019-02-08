@@ -1,0 +1,449 @@
+actions:
+  'gohome': ホームへ
+  'loginas': ログイン...
+added: '{{path}}を追加しました'
+admin:
+  api.title: ''
+  auth.title: ''
+  contribute.becomeAPatron: ''
+  contribute.contribute: ''
+  contribute.followUsOnTwitter: ''
+  contribute.foundABug: ''
+  contribute.fundOurWork: ''
+  contribute.helpTranslate: ''
+  contribute.makeADonation: ''
+  contribute.needYourHelp: ''
+  contribute.openCollective: ''
+  contribute.openSource: ''
+  contribute.openSourceContributors: ''
+  contribute.patreon: ''
+  contribute.shop: ''
+  contribute.spreadTheWord: ''
+  contribute.submitAnIdea: ''
+  contribute.submitAnIdeaLink: ''
+  contribute.subtitle: ''
+  contribute.talkToFriends: ''
+  contribute.title: ''
+  contribute.tshirts: ''
+  dashboard.subtitle: ''
+  dashboard.title: ''
+  dev.title: ''
+  editor.title: ''
+  general.siteBranding: ''
+  general.siteInfo: ''
+  general.subtitle: ''
+  general.title: ''
+  groups.title: ''
+  locale.activeNamespaces.hint: ''
+  locale.activeNamespaces.label: ''
+  locale.autoUpdate.hint: ''
+  locale.autoUpdate.hintWithNS: ''
+  locale.autoUpdate.label: ''
+  locale.base.hint: ''
+  locale.base.label: ''
+  locale.base.labelWithNS: ''
+  locale.download: ''
+  locale.namespaces.hint: ''
+  locale.namespaces.label: ''
+  locale.namespacing: ''
+  locale.namespacingPrefixWarning.subtitle: ''
+  locale.namespacingPrefixWarning.title: ''
+  locale.settings: ''
+  locale.subtitle: ''
+  locale.title: ''
+  logging.title: ''
+  mail.configuration: ''
+  mail.dkim: ''
+  mail.subtitle: ''
+  mail.title: ''
+  nav.modules: ''
+  nav.site: ''
+  nav.system: ''
+  nav.users: ''
+  navigation.delete: ''
+  navigation.divider: ''
+  navigation.edit: ''
+  navigation.emptyList: ''
+  navigation.header: ''
+  navigation.icon: ''
+  navigation.label: ''
+  navigation.link: ''
+  navigation.navType.external: ''
+  navigation.navType.home: ''
+  navigation.navType.page: ''
+  navigation.navType.searchQuery: ''
+  navigation.noItemsText: ''
+  navigation.noSelectionText: ''
+  navigation.saveSuccess: ''
+  navigation.subtitle: ''
+  navigation.target: ''
+  navigation.targetType: ''
+  navigation.title: ''
+  navigation.untitled: ''
+  pages.title: ''
+  rendering.title: ''
+  search.title: ''
+  stats.title: ''
+  storage.title: ''
+  system.configFile: ''
+  system.cpuCores: ''
+  system.currentVersion: ''
+  system.hostInfo: ''
+  system.hostname: ''
+  system.latestVersion: ''
+  system.os: ''
+  system.published: ''
+  system.ramUsage: ''
+  system.subtitle: ''
+  system.title: ''
+  system.totalRAM: ''
+  system.workingDirectory: ''
+  theme.title: ''
+  users.title: ''
+  utilities.title: ''
+alreadyexists: この記事は既に存在します
+auth:
+  actions.login: ログイン
+  actions.register: ''
+  errors.invalidLogin: 不正なログイン
+  errors.invalidLoginMsg: Eメール又はパスワードが無効です。
+  errors.invalidUserEmail: 無効なユーザーEメール
+  errors.loginError: ログインエラー
+  errors.notYetAuthorized: まだこのサイトにログインする権限がありません。
+  errors.tooManyAttempts: 試行回数が多すぎます
+  errors.tooManyAttemptsMsg: '短期間に失敗した試行回数が多すぎます。{{time}}にもう一度お試しください。'
+  errors.userNotFound: ユーザーが見つかりません
+  fields.email: ''
+  fields.emailUser: Eメール又はユーザー名
+  fields.name: ''
+  fields.password: パスワード
+  fields.verifyPassword: ''
+  forgotPasswordCancel: ''
+  forgotPasswordLink: ''
+  forgotPasswordSubtitle: ''
+  genericError: ''
+  invalidEmail: ''
+  invalidEmailUsername: ''
+  invalidPassword: ''
+  loginRequired: ログインが必要です
+  loginSuccess: ''
+  loginUsingStrategy: ''
+  missingEmail: ''
+  missingName: ''
+  missingPassword: ''
+  nameTooLong: ''
+  nameTooShort: ''
+  orLoginUsingStrategy: ''
+  passwordNotMatch: ''
+  passwordTooShort: ''
+  pleaseWait: ''
+  providers.azure: 'Azure Active Directory'
+  providers.facebook: Facebook
+  providers.github: GitHub
+  providers.google: 'Google ID'
+  providers.ldap: 'LDAP / Active Directory'
+  providers.local: ローカル
+  providers.slack: Slack
+  providers.windowslive: 'Microsoft Account'
+  registerCheckEmail: ''
+  registering: ''
+  registerSubTitle: ''
+  registerSuccess: ''
+  registerTitle: ''
+  sendResetPassword: ''
+  signingIn: ''
+  switchToLogin.link: ''
+  switchToLogin.text: ''
+  switchToRegister.link: ''
+  switchToRegister.text: ''
+  tfa.placeholder: ''
+  tfa.subtitle: ''
+  tfa.title: ''
+  tfa.verifyToken: ''
+common:
+  actions.add: ''
+  actions.apply: ''
+  actions.cancel: ''
+  actions.clear: ''
+  actions.create: ''
+  actions.delete: ''
+  actions.discard: ''
+  actions.download: ''
+  actions.edit: ''
+  actions.ok: ''
+  actions.proceed: ''
+  actions.refresh: ''
+  actions.save: ''
+  actions.saveChanges: ''
+  actions.upload: ''
+  footer.copyright: ''
+  footer.home: ホーム
+  footer.poweredBy: 'Powered by'
+  footer.top: トップ
+  newpage.create: ''
+  newpage.goback: ''
+  newpage.subtitle: ''
+  newpage.title: ''
+  notfound.gohome: ''
+  notfound.subtitle: ''
+  notfound.title: ''
+  unauthorized.action.create: ''
+  unauthorized.action.edit: ''
+  unauthorized.action.history: ''
+  unauthorized.action.source: ''
+  unauthorized.action.view: ''
+  unauthorized.goback: ''
+  unauthorized.login: ''
+  unauthorized.title: ''
+  welcome.createhome: ホームページの作成
+  welcome.subtitle: ます、ホームページを作りましょう。
+  welcome.title: Wikiへよこそ！
+debugmsg: 詳細なデバッグトレイル
+deleted: '{{path}}を削除又は名称を変更する'
+editor:
+  'codeblockinsert': コードブロックを挿入する
+  'codeblocklanguage': 言語
+  'codeblockloading': '{{name}}言語の構文を読み込み中'
+  'codeblockloadingerror': エラー：言語の構文を読み込めません。
+  'codeblocksuccess': コードブロックが挿入されました。
+  'codeblocktitle': コードブロックを挿入する
+  'discard': キャンセル
+  'filedeleteaction': 削除
+  'filedeletedefault': このファイル
+  'filedeleteloading': ファイルを削除中...
+  'filedeletesuccess': ファイルが削除されました。
+  'fileerror': 更新されたリスティングを読み込むことはできませんでした。
+  'filefolderempty': このフォルダは空いています。
+  'fileinsert': ファイルのリンクを挿入する
+  'fileloading': ファイルを読み込み中...
+  'filemoveaction': 移動...
+  'filemoveerror': '移動エラー：{{err}}'
+  'filemoveloading': ファイルを移動中...
+  'filemovesuccess': ファイルが移動されました。
+  'fileprocessing': 処理中...
+  'filerenameaction': 名称の変更
+  'filesuccess': ファイルリンクが挿入されました。
+  'filetitle': ファイルを挿入する
+  'fileupload': ファイルをアップロードする
+  'fileuploaderror': 'アップロードエラー：{{err}}'
+  'fileuploadsuccess': ファイルがアップロードされました。
+  'folders': フォルダ
+  'foldersloading': フォルダリストを読み込み中...
+  'imagealigncenter': 中
+  'imagealignleft': 左（デフォルト）
+  'imagealignlogo': ページロゴ
+  'imagealignright': 右
+  'imageinsert': 画像を挿入する
+  'imagesuccess': 画像が挿入されました。
+  'imagetitle': 画像を挿入する
+  'imageupload': 画像をアップロードする
+  'newfolder': 新しいフォルダ
+  'videoanymp4file': 標準MP4ファイル
+  'videoinsert': ビデオを挿入する
+  'videolinktitle': 埋め込むビデオへのリンクを入力してください：
+  'videonotsupported': このURLは無効かサポートされていません。
+  'videosuccess': ビデオコードが挿入されました。
+  'videosupportedtitle': 以下がサポートされています：
+  'videotitle': ビデオを挿入する
+  'page': ''
+  'save.createSuccess': ''
+  'save.error': ''
+  'save.pleaseWait': ''
+  'save.processing': ''
+  'save.updateSuccess': ''
+fileexists: 'ファイル{{path}}は既に存在します。'
+forbidden: 禁じられました
+forbiddendetail: このページにアクセスするために必要な権限がありません。
+generic: エラーが発生しました
+header:
+  'createdoc': 記事を作成する
+  'overview': 概要
+history:
+  'author': 著者
+  'commit': コミット
+  'comparewith': 比べる...
+  'pastversions': 過去のバージョン
+  'reverttoversion': バージョンに戻す
+  'sidebyside': サイドバイサイド画面
+  'timestamp': タイムスタンプ
+  'view': 見る
+invalidaction: 無効なアクション.
+invaliddestfolder: 無効なデスティネーションフォルダ
+invalidfiletype: 無効なファイルタイプ
+invalidfolder: 無効なフォルダ.
+invalidoperation: 無効な操作
+invalidpath: 無効なページパス
+invaliduserid: 無効なユーザーID
+loading:
+  'editor': 編集画面をロード中...
+  'source': ソースコードをロード中...
+modal:
+  'abort': 中止する
+  'anchorerror': クリップボードからのコピーが失敗しました。手動でURLをコピーしてください。
+  'anchorsuccess': URLがクリップボードにコピーされました。
+  'anchortitle': このセクションへのリンクをコピーする
+  'copyclipboard': クリップボードにコピーする
+  'create': 作成
+  'createpageinvalid': ページパスは無効です。
+  'createpagepath': 新しいページパスを入力してください：
+  'createpagetitle': 新しいページを作成する
+  'createuser': ユーザーを作成する
+  'createuserauthorize': ユーザーを承認する
+  'createuseremail': Eメール：
+  'createuseremailplaceholder': 例：taro.yamada@company.com
+  'createusername': 名前：
+  'createusernameplaceholder': 例：山田　太郎
+  'createuserpassword': パスポート：
+  'createuserprovider': プロバイダ：
+  'createusertitle': ユーザーを作成・承認する
+  'delete': 削除
+  'deletefiletitle': を削除する？
+  'deletefilewarn': 本当に削除しますか？
+  'deletepagetitle': このページを削除しますか？
+  'deletepagewarning': 本当にこのページを削除しますか？この操作は元に戻すことはできません！
+  'deleteusertitle': ユーザーアカウントの削除しますか？
+  'deleteuserwarning': 本当にこのユーザーアカウントを削除しますか？この操作は元に戻すことはできません！
+  'discard': キャンセル
+  'discardpagecreate': 本当にこのページを離れますか？これまでの書いたものは失われます！
+  'discardpageedit': 本当にこのページを離れますか？これまでの変更は失われます！
+  'discardpagestay': ページに留まる
+  'discardpagetitle': キャンセル？
+  'move': 移動する
+  'movepageinvalid': このページパスは無効又は許可されていません。
+  'movepagepath': 新しいページパスを入力してください：
+  'movepageplaceholder': page-name
+  'movepagetitle': ページを移動する
+  'movepagewarning': ページを移動又はページ名を変更する場合、リンクが壊れる可能性があります。その後、このページにリンクしているページは必ず編集してください。
+  'newfolderinvalid': フォルダ名は無効です。
+  'newfolderloading': 新しいフォルダを作成中...
+  'newfoldername': 新しいフォルダ名を入力してください：
+  'newfoldernameplaceholder': folder-name
+  'newfoldersuccess': '新しいフォルダ{{name}}が作成されました。'
+  'newfoldertitle': 新しいフォルダ
+  'renamefile': ファイル名を変更する
+  'renamefileerror': 'ファイル名の変更エラー：{{err}}'
+  'renamefileinvalid': ファイル名は無効です
+  'renamefileloading': ファイル名を変更中...
+  'renamefilename': 新しいファイル名（拡張子なし）を入力してください：
+  'renamefilenameplaceholder': ファイル名
+  'renamefiletitle': ファイルの名前を変更する
+nav:
+  'account': アカウント
+  'allpages': 全ての記事
+  'create': 作成
+  'discard': キャンセル
+  'edit': 編集
+  'history': 履歴
+  'home': ホーム
+  'login': ログイン
+  'logout': ログアウト
+  'move': 移動
+  'myprofile': マイページ
+  'normalview': 普通の画面
+  'root': ホーム
+  'savechanges': 保存する
+  'savedocument': 記事を保存する
+  'settings': 設定
+  'source': ソースコード
+  'stats': 統計
+  'sysinfo': システム内容
+  'syssettings': システム設定
+  'theme': テーマ
+  'users': ユーザー
+  'viewlatest': 最新を見る
+newpasswordtooshort: 新しいパスワードが短すぎます
+notexist: '記事{{path}}は存在しません'
+notexistdetail: この記事を作成しますか？
+parentinvalid: 親エントリは有効なファイルではありません。
+parentisroot: 親エントリはトップです。
+profile:
+  'displayname': 表示する名前
+  'displaynameexample': 山田　太郎
+  'email': Eメール
+  'lastprofileupdate': 最後のプロファイル更新
+  'membersince': アカウント登録日
+  'password': パスポート
+  'passwordverify': パスポートの確認
+  'provider': プロバイダ
+  'savechanges': 保存する
+  'subtitle': プロファイルと認証情報
+  'tfa': 二段認証
+  'tfadisable': 二段認証を無効にする
+  'tfadisabled': 無効済み
+  'tfaenable': 二段認証を有効にする
+  'tfaenabled': 有効済み
+remotetoolarge: モートファイルが大きすぎます
+reservedname: システムによって予約されているので、この名物名称で記事を作成することはできません。
+savefailed: 記事の保存は失敗しました
+search:
+  'didyoumean': 'もしかして...?'
+  'nomatch': 一致する結果はありません
+  'placeholder': 検索...
+  'results': 検索結果
+settings:
+  'subtitle': サイト設定を管理する
+sidebar:
+  'nav': ナビ
+  'navigation': ナビゲーション
+  'pagecontents': ページの内容
+  'pastversions': 履歴
+starterfailed: スターターコンテンツを読み込めませんでした
+stats:
+  'entries': 記事
+  'subtitle': 一般的なサイト統計
+  'uploads': アップロード
+  'users': ユーザー
+system:
+  'administrativetools': 管理ツール
+  'cores': CPUコア
+  'currentversion': 現在のバージョン
+  'cwd': 作業ディレクトリ
+  'flushcache': キャッシュをフラッシュしてインデックスを再構築する
+  'flushcachebtn': フラッシュと再構築する
+  'flushcachetext': コンテンツや検索結果の期限が滞っているか、最新のコンテンツがない場合は、キャッシュをフラッシュするとこれらの問題を解決できます。
+  'flushsessions': 全てのユーザーセッションをフラッシュする
+  'flushsessionsbtn': セッションをフラッシュする
+  'flushsessionstext': 全てのユーザーがログアウトし、再度ログインする必要があります。現在のセッションにも影響があります！
+  'hostinfo': ホスト情報
+  'hostname': ホスト名
+  'latestversion': 最新バージョン
+  'nodeversion': Node.jsバージョン
+  'os': オペレーティングシステム
+  'reinstall': 現在のバージョンを再インストールする
+  'resetaccounts': システムアカウントをデフォルトにリセットする
+  'resetaccountsbtn': システムアカウントをリセットする
+  'resetaccountstext': システムアカウント（ゲストアカウントなど）はデフォルト設定にリセットされます。
+  'subtitle': Wikiの情報とユーティリティ
+  'systemversion': システムバージョン
+  'totalmem': 合計メモリ
+  'upgrade': アップグレード
+  'versioncheckfailed': 最新バージョンを照会できません。後で再試行してください。
+theme:
+  'altcolor': 代替色
+  'altcolordesc': サイドバーに使用されます（暗い色調）
+  'codeblock':
+    'colorize': コードを色分けする
+    'dark': 暗いテーマを使用する
+    'title': コードブロック
+  'footercolordesc': フッターに使用されます（明るい色調）
+  'primarycolor': 原色
+  'primarycolordesc': トップナビゲーションバー、ヘッダー、リンクなどに使用されます
+  'reset': デフォルトに戻す
+  'savechanges': 保存する
+  'subtitle': Wikiのテーマを変更する
+  'footerColor': フッターの色
+unauthorized: 無許可
+updated: '{{path}}を変更しました'
+uploaded: '{{path}}をアップロード'
+users:
+  'createauthorize': ユーザーの作成・承認
+  'createdon': 作成日
+  'edituser': ユーザーの編集
+  'email': Eメール
+  'name': 名前
+  'provider': プロバイダ
+  'returntousers': ユーザー画面へ
+  'subtitle': ユーザーとアクセス権限の管理
+  'uniqueid': 一意なID
+  'updatedon': 変更日
+wiki: Wiki
