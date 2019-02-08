@@ -1,24 +1,21 @@
-actions:
-  'gohome': 回首夜
-  'loginas': 登錄為...
-added: '已新增 {{path}}'
 admin:
   api.title: 'API 存取'
   auth.title: 驗證
+  contribute.becomeAPatron: ''
   contribute.contribute: 貢獻
-  contribute.followUsOnTwitter: '透過 {{0}} 關注我們。'
-  contribute.foundABug: '發現了一個 bug？在{{0}}上提交問題。'
+  contribute.followUsOnTwitter: '透過 %1$s 關注我們。'
+  contribute.foundABug: '發現了一個 bug？在%1$s上提交問題。'
   contribute.fundOurWork: 資助我們的工作
-  contribute.helpTranslate: '協助您所用用語言的 Wiki.js 翻譯，請透過 {{0}} 讓我們知道。'
+  contribute.helpTranslate: '協助您所用用語言的 Wiki.js 翻譯，請透過 %1$s 讓我們知道。'
   contribute.makeADonation: 贊助
   contribute.needYourHelp: 我們需要您的協助來不斷改進此軟體和執行各種相關的服務(例如伺服器託管和網路)。
   contribute.openCollective: 'Wiki.js是Open Collective計劃的一部分。您可以通過每月或一次性捐款來提供贊助：'
-  contribute.openSource: 'Wiki.js事由{{1}}和{{2}}以{{0}}為您提供的免費開源軟件。'
+  contribute.openSource: Wiki.js事由%2$s和%3$s以%1$s為您提供的免費開源軟件。
   contribute.openSourceContributors: 貢獻者
   contribute.patreon: '通過Patreon成為支持者或贊助者（支援首席開發人員Nicolas Giard在Wiki.js全職工作的目標）'
   contribute.shop: 'Wiki.js 商店'
   contribute.spreadTheWord: 傳播這個詞
-  contribute.submitAnIdea: '提交一個點子或對 {{0}} 的一個提案進行表決。'
+  contribute.submitAnIdea: '提交一個點子或對 %1$s 的一個提案進行表決。'
   contribute.submitAnIdeaLink: 功能請求板
   contribute.subtitle: '協助支援 Wiki.js 的開發與維運'
   contribute.talkToFriends: 與您的朋友和同事討論Wiki.js有多棒！
@@ -46,18 +43,22 @@ admin:
   locale.namespaces.label: 多語言命名空間
   locale.namespacing: 多語系名空間
   locale.namespacingPrefixWarning.subtitle: 若沒有您使用語言的語系檔路徑，將會自動切換至預設語系。
-  locale.namespacingPrefixWarning.title: '語系檔將以所有路徑為前綴。 （例如/ {{langCode}} / page-name）'
+  locale.namespacingPrefixWarning.title: '語系檔將以所有路徑為前綴。 （例如/ %1$s / page-name）'
   locale.settings: 語系設定
   locale.subtitle: '為您的 Wiki 設定本地化選項'
   locale.title: 語言
   logging.title: 記錄檔
+  mail.configuration: ''
+  mail.dkim: ''
+  mail.subtitle: ''
+  mail.title: ''
   nav.modules: 模組
   nav.site: 網站
   nav.system: 系統
   nav.users: 使用者
-  navigation.delete: '刪除 {{kind}}'
+  navigation.delete: '刪除 %1$s'
   navigation.divider: 分隔
-  navigation.edit: '编辑 {{kind}}'
+  navigation.edit: '编辑 %1$s'
   navigation.emptyList: 導覽是空的
   navigation.header: 標頭
   navigation.icon: 圖示
@@ -74,7 +75,7 @@ admin:
   navigation.target: 目標
   navigation.targetType: 目標類型
   navigation.title: 導覽
-  navigation.untitled: '無標題 {{kind}}'
+  navigation.untitled: '無標題 %1$s'
   pages.title: 頁面
   rendering.title: 渲染
   search.title: 搜尋引擎
@@ -88,7 +89,7 @@ admin:
   system.latestVersion: 最新版本
   system.os: 作業系統
   system.published: 已發佈
-  system.ramUsage: '記憶體使用量： {{used}} / {{total}}'
+  system.ramUsage: '記憶體使用量： %1$s / %1$s'
   system.subtitle: 關於您系統的資訊
   system.title: 系統資訊
   system.totalRAM: 總記憶體
@@ -96,7 +97,6 @@ admin:
   theme.title: 主題
   users.title: 使用者
   utilities.title: 公用程式
-alreadyexists: 此條目已存在！
 auth:
   actions.login: 登入
   actions.register: 註冊
@@ -106,17 +106,32 @@ auth:
   errors.loginError: 登入錯誤
   errors.notYetAuthorized: 您尚未被授權登入此網站。
   errors.tooManyAttempts: 太多的嘗試！
-  errors.tooManyAttemptsMsg: '您在短時間內失敗了太多次，請 {{time}}  後再試一次。'
+  errors.tooManyAttemptsMsg: '您在短時間內失敗了太多次，請 %1$s  後再試一次。'
   errors.userNotFound: 找不到使用者
   fields.email: 電子郵件地址
   fields.emailUser: 'Email / 使用者名稱'
   fields.name: 名稱
   fields.password: 密碼
   fields.verifyPassword: 驗證密碼
+  forgotPasswordCancel: ''
   forgotPasswordLink: 忘記密碼
+  forgotPasswordSubtitle: ''
+  genericError: ''
+  invalidEmail: ''
+  invalidEmailUsername: ''
+  invalidPassword: ''
   loginRequired: 請先登入。
-  loginUsingStrategy: '使用{{strategy}}登錄'
+  loginSuccess: ''
+  loginUsingStrategy: 使用%1$s登錄
+  missingEmail: ''
+  missingName: ''
+  missingPassword: ''
+  nameTooLong: ''
+  nameTooShort: ''
   orLoginUsingStrategy: 或使用...登錄
+  passwordNotMatch: ''
+  passwordTooShort: ''
+  pleaseWait: ''
   providers.azure: 'Azure Active Directory'
   providers.facebook: Facebook
   providers.github: GitHub
@@ -125,10 +140,17 @@ auth:
   providers.local: 本地
   providers.slack: Slack
   providers.windowslive: 'Microsoft 帳戶'
+  registerCheckEmail: ''
+  registering: ''
+  registerSubTitle: ''
+  registerSuccess: ''
   registerTitle: 註冊名稱
+  sendResetPassword: ''
+  signingIn: ''
   switchToLogin.link: 切換登錄頁面鏈接
   switchToLogin.text: 切換到登錄頁面
-  switchToRegister.text: '切換註冊頁面{{link}}'
+  switchToRegister.link: ''
+  switchToRegister.text: 切換註冊頁面%1$s
   tfa.placeholder: XXXXXX
   tfa.subtitle: '安全碼 (必要)：'
   tfa.title: 雙因素驗證
@@ -149,262 +171,27 @@ common:
   actions.save: 儲存
   actions.saveChanges: 儲存修改
   actions.upload: 上傳
-  footer.copyright: '© {{year}} {{company}} 。版權所有。'
-  footer.home: 首頁
+  footer.copyright: '© %1$s %1$s 。版權所有。'
   footer.poweredBy: 提供者
-  footer.top: 回到頂部
   newpage.create: 建立頁面
   newpage.goback: 返回
   newpage.subtitle: 你想現在建立嗎？
   newpage.title: 這個頁面還不存在。
-  welcome.createhome: 建立首頁
-  welcome.subtitle: 讓我們開始建立首頁。
-  welcome.title: 歡迎來到您的維基！
-debugmsg: 詳細的除錯蹤跡
-deleted: '已刪除/已重命名{{path}}'
+  notfound.gohome: ''
+  notfound.subtitle: ''
+  notfound.title: ''
+  unauthorized.action.create: ''
+  unauthorized.action.edit: ''
+  unauthorized.action.history: ''
+  unauthorized.action.source: ''
+  unauthorized.action.view: ''
+  unauthorized.goback: ''
+  unauthorized.login: ''
+  unauthorized.title: ''
 editor:
-  'codeblockinsert': 插入程式碼區塊
-  'codeblocklanguage': 語言
-  'codeblockloading': '正在加載{{name}}語法'
-  'codeblockloadingerror': 錯誤：無法加載語法。
-  'codeblocksuccess': 您的程式碼區塊已插入。
-  'codeblocktitle': 插入程式碼區塊
-  'discard': 放棄
-  'filedeleteaction': 刪除
-  'filedeletedefault': 此檔案
-  'filedeleteloading': 檔案刪除中...
-  'filedeletesuccess': 檔案刪除成功。
-  'fileerror': 無法獲取更新列表
-  'filefolderempty': 此資料夾是空的。
-  'fileinsert': 插入連結到檔案
-  'fileloading': 獲取檔案......
-  'filemoveaction': 移动到..
-  'filemoveerror': '移動錯誤： {{err}}'
-  'filemoveloading': 檔案移動中...
-  'filemovesuccess': 檔案移動成功。
-  'fileprocessing': 處理中...
-  'filerenameaction': 重新命名
-  'filesuccess': 已插入檔案連結。
-  'filetitle': 插入檔案
-  'fileupload': 上傳檔案
-  'fileuploaderror': '上傳錯誤： {{err}}'
-  'fileuploadsuccess': 檔案上傳成功。
-  'folders': 資料夾
-  'foldersloading': 獲取資料夾列表...
-  'imagealigncenter': 置中
-  'imagealignleft': 左
-  'imagealignlogo': 頁面標誌
-  'imagealignright': 右
-  'imageinsert': 插入圖片
-  'imagesuccess': 圖片已插入。
-  'imagetitle': 插入圖片
-  'imageupload': 上傳圖片
-  'newfolder': 新的資料夾
-  'videoanymp4file': 任何標準的MP4檔案
-  'videoinsert': 插入影片
-  'videolinktitle': 輸入要插嵌入的影片連結：
-  'videonotsupported': 此網址無效或未支援！
-  'videosuccess': 影片代碼已插入。
-  'videosupportedtitle': 支援以下內容：
-  'videotitle': 插入影片
-  'page': 頁面
-  'save.createSuccess': 頁面建立成功。
-  'save.error': 建立頁面時發生錯誤
-  'save.pleaseWait': 請稍後...
-  'save.processing': 處理中
-fileexists: '檔案 {{path}} 已存在。'
-forbidden: 禁止
-forbiddendetail: 抱歉，您沒有訪問此頁面的必要權限。
-generic: 噢！有什麼不對勁
-header:
-  'createdoc': 創建新文件
-  'overview': 總攬
-history:
-  'author': 作者
-  'commit': 提交
-  'comparewith': 比較...
-  'pastversions': 歷史版本
-  'reverttoversion': 復原版本
-  'sidebyside': 並排查看
-  'timestamp': 時間戳紀
-  'view': 查看
-invalidaction: 無效的操作。
-invaliddestfolder: 無效的目力資料夾。
-invalidfiletype: 無效的檔案類型。
-invalidfolder: 無效的資料夾。
-invalidoperation: 無效的操作！
-invalidpath: 頁面路徑無效。
-invaliduserid: '無效的使用者 Id。'
-loading:
-  'editor': 加載編輯器......
-  'source': 正在載入來源...
-modal:
-  'abort': 退出
-  'anchorerror': 剪貼簿複製失敗。手動複製URL。
-  'anchorsuccess': 該URL已復製到剪貼簿。
-  'anchortitle': 複製鏈接到此部分
-  'copyclipboard': 複製到剪貼簿
-  'create': 建立
-  'createpageinvalid': 這個頁面路徑無效！
-  'createpagepath': 輸入新的頁面路徑：
-  'createpagetitle': 建立新頁面
-  'createuser': 建立使用者
-  'createuserauthorize': 授權使用者
-  'createuseremail': 'Email 地址：'
-  'createuseremailplaceholder': 例如：john.doe@company.com
-  'createusername': 全名：
-  'createusernameplaceholder': '例如：John Doe'
-  'createuserpassword': 密碼
-  'createuserprovider': 供應商
-  'createusertitle': '建立 / 授權使用者'
-  'delete': 刪除
-  'deletefiletitle': 刪除？
-  'deletefilewarn': 你確定你要刪除
-  'deletepagetitle': 刪除此頁面？
-  'deletepagewarning': 您確定要刪除此頁面嗎？此操作無法撤消！
-  'deleteusertitle': 刪除使用者帳戶？
-  'deleteuserwarning': 您確定要刪除此使用者帳號嗎？此操作無法撤消！
-  'discard': 放棄
-  'discardpagecreate': 您確定要離開此頁面嗎？所有到目前為止的編寫都將遺失喔！
-  'discardpageedit': 您確定要離開此頁面嗎？所有修改都將遺失喔！
-  'discardpagestay': 留在頁面上
-  'discardpagetitle': 放棄？
-  'move': 移動
-  'movepageinvalid': 這個頁面路徑無效或不允許！
-  'movepagepath': 輸入新的頁面路徑：
-  'movepageplaceholder': 頁面名稱
-  'movepagetitle': 移動頁面
-  'movepagewarning': 請注意，移動或重命名頁面可能會導致連結毀損。請確保編輯之後連結仍然可以連到此頁面的任何頁面！
-  'newfolderinvalid': 此資料夾名稱無效！
-  'newfolderloading': 建立新資料夾中...
-  'newfoldername': 輸入新資料夾名稱：
-  'newfoldernameplaceholder': 資料夾名稱
-  'newfoldersuccess': '新資料夾 {{name}} 已建立。'
-  'newfoldertitle': 新的資料夾
-  'renamefile': 重新命名
-  'renamefileerror': '重新命名錯誤： {{err}}'
-  'renamefileinvalid': 這個檔名無效！
-  'renamefileloading': 重新命名檔案
-  'renamefilename': 輸入文件的新檔案名稱（不帶副檔名）：
-  'renamefilenameplaceholder': 檔名
-  'renamefiletitle': 重新命名檔案
-nav:
-  'account': 帳戶
-  'allpages': 所有頁面
-  'create': 建立
-  'discard': 放棄
-  'edit': 編輯
-  'history': 歷史紀錄
-  'home': 首頁
-  'login': 登入
-  'logout': 登出
-  'move': 移動
-  'myprofile': 我的個人資料
-  'normalview': 普通視圖
-  'root': 首頁
-  'savechanges': 儲存修改
-  'savedocument': 儲存文件
-  'settings': 設定
-  'source': 來源
-  'stats': 統計
-  'sysinfo': 系統資訊
-  'syssettings': 系統設定
-  'theme': 彩色主題
-  'users': 使用者
-  'viewlatest': 查看最新版本
-newpasswordtooshort: 新密碼太短了！
-notexist: '條目{{path}}不存在！'
-notexistdetail: '您想建立這個條目嗎?'
-parentinvalid: 父條目不是有效檔案。
-parentisroot: '父條目是 root。'
-profile:
-  'displayname': 顯示名稱
-  'displaynameexample': 約翰·史密斯
-  'email': Email
-  'lastprofileupdate': 上次更新個人資料
-  'membersince': 從何時成為會員
-  'password': 密碼
-  'passwordverify': 驗證密碼
-  'provider': 供應商
-  'savechanges': 儲存變更
-  'subtitle': 檔案和身份驗證資訊
-  'tfa': 雙因素驗證
-  'tfadisable': '停用 2FA'
-  'tfadisabled': 停用
-  'tfaenable': 啟用2FA
-  'tfaenabled': 啟用
-remotetoolarge: 遠端的文件太大了！
-reservedname: 您無法使用此名稱建立檔案，因為這個名稱是系統保留的。
-savefailed: 無法儲存檔案
-search:
-  'didyoumean': 你的意思是...？
-  'nomatch': 沒有符合您查詢的結果
-  'placeholder': 搜索...
-  'results': 搜尋結果
-settings:
-  'subtitle': 管理網站設定
-sidebar:
-  'nav': NAV
-  'navigation': 導覽
-  'pagecontents': 頁面內容
-  'pastversions': 歷史版本
-starterfailed: 無法載入新手內容！
-stats:
-  'entries': 項目
-  'subtitle': 一般網站範圍的統計數據
-  'uploads': 上傳
-  'users': 使用者
-system:
-  'administrativetools': 管理工具
-  'cores': CPU核心
-  'currentversion': 目前版本
-  'cwd': 工作目錄
-  'flushcache': 刷新快取病重建索引
-  'flushcachebtn': 刷新和重建
-  'flushcachetext': 如果內容或搜索結果似乎已過時或未包含最新內容，則刷新快取可協助解決這些問題。
-  'flushsessions': '刷新所有已啟用的 sessions'
-  'flushsessionsbtn': '刷新 Session'
-  'flushsessionstext': '所有使用者都將會被登出並強制重新登入，您目前的 session 也會受到影響！'
-  'hostinfo': 主機資訊
-  'hostname': 主機名稱
-  'latestversion': 最新版本
-  'nodeversion': Node.js版本
-  'os': 作業系統
-  'reinstall': 重新安裝目前版本
-  'resetaccounts': 重置系統帳號為預設值
-  'resetaccountsbtn': 重置系統帳戶
-  'resetaccountstext': 系統帳戶（例如Guest帳戶）將重置為其預設設定。
-  'subtitle': 維基的訊息和公用工具
-  'systemversion': 系統版本
-  'totalmem': 總記憶體
-  'upgrade': 升級
-  'versioncheckfailed': 無法查詢最新版本。稍後再試。
-theme:
-  'altcolor': 替代顏色
-  'altcolordesc': 用於側邊欄（深色調）
-  'codeblock':
-    'colorize': 語法著色
-    'dark': 使用暗色主題
-    'title': 程式碼區塊
-  'footercolordesc': 用於頁尾（淺色調）
-  'primarycolor': 主要顏色
-  'primarycolordesc': 用於頂部導覽欄、標題、連結等。
-  'reset': 恢復預設值
-  'savechanges': 保存變更
-  'subtitle': '更改您 Wiki 的樣式與感受'
-  'footerColor': 頁尾顏色
-unauthorized: 未授權
-updated: '已更新 {{path}}'
-uploaded: '已上傳{{path}}'
-users:
-  'createauthorize': '建立 / 授權使用者'
-  'createdon': 建立時間：
-  'edituser': 編輯使用者
-  'email': 'Email 地址：'
-  'name': 名稱
-  'provider': 供應商
-  'returntousers': 返回使用者
-  'subtitle': 管理使用者和存取權限
-  'uniqueid': '唯一的 ID'
-  'updatedon': 上次更新時間：
-wiki: 維基
+  page: 頁面
+  save.createSuccess: 頁面建立成功。
+  save.error: 建立頁面時發生錯誤
+  save.pleaseWait: 請稍後...
+  save.processing: 處理中
+  save.updateSuccess: ''
