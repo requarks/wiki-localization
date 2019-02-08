@@ -1,15 +1,64 @@
-actions:
-  'gohome': 'Naar homepagina'
-  'loginas': 'Inloggen als...'
-added: '{{path}} toegevoegd'
 admin:
+  api.title: ''
+  auth.title: ''
+  contribute.becomeAPatron: ''
+  contribute.contribute: ''
+  contribute.followUsOnTwitter: ''
+  contribute.foundABug: ''
+  contribute.fundOurWork: ''
+  contribute.helpTranslate: ''
+  contribute.makeADonation: ''
+  contribute.needYourHelp: ''
+  contribute.openCollective: ''
+  contribute.openSource: ''
+  contribute.openSourceContributors: ''
+  contribute.patreon: ''
+  contribute.shop: ''
+  contribute.spreadTheWord: ''
+  contribute.submitAnIdea: ''
+  contribute.submitAnIdeaLink: ''
+  contribute.subtitle: ''
+  contribute.talkToFriends: ''
+  contribute.title: ''
+  contribute.tshirts: ''
+  dashboard.subtitle: ''
+  dashboard.title: ''
+  dev.title: ''
+  editor.title: ''
+  general.siteBranding: ''
+  general.siteInfo: ''
+  general.subtitle: ''
+  general.title: ''
+  groups.title: ''
+  locale.activeNamespaces.hint: ''
+  locale.activeNamespaces.label: ''
+  locale.autoUpdate.hint: ''
+  locale.autoUpdate.hintWithNS: ''
+  locale.autoUpdate.label: ''
+  locale.base.hint: ''
+  locale.base.label: ''
+  locale.base.labelWithNS: ''
+  locale.download: ''
+  locale.namespaces.hint: ''
+  locale.namespaces.label: ''
+  locale.namespacing: ''
+  locale.namespacingPrefixWarning.subtitle: ''
+  locale.namespacingPrefixWarning.title: ''
+  locale.settings: ''
+  locale.subtitle: ''
+  locale.title: ''
+  logging.title: ''
   mail.configuration: Configuratie
   mail.dkim: 'DKIM (optioneel)'
   mail.subtitle: 'Configureer e-mail instellingen'
   mail.title: Mail
-  navigation.delete: 'Verwijder {{kind}}'
+  nav.modules: ''
+  nav.site: ''
+  nav.system: ''
+  nav.users: ''
+  navigation.delete: 'Verwijder %1$s'
   navigation.divider: Verdeler
-  navigation.edit: 'Bewerk {{kind}}'
+  navigation.edit: 'Bewerk %1$s'
   navigation.emptyList: 'Navigatie is leeg'
   navigation.header: Koptekst
   navigation.icon: Pictogram
@@ -20,9 +69,34 @@ admin:
   navigation.navType.page: Pagina
   navigation.navType.searchQuery: Zoekopdracht
   navigation.noItemsText: 'Klik op de Toevoegen knop om je eerse navigatie-item toe te voegen.'
+  navigation.noSelectionText: ''
   navigation.saveSuccess: 'Navigatie succesvol opgeslagen.'
-  navigation.untitled: 'Zonder titel {{kind}}'
-alreadyexists: 'Deze pagina bestaat al!'
+  navigation.subtitle: ''
+  navigation.target: ''
+  navigation.targetType: ''
+  navigation.title: ''
+  navigation.untitled: 'Zonder titel %1$s'
+  pages.title: ''
+  rendering.title: ''
+  search.title: ''
+  stats.title: ''
+  storage.title: ''
+  system.configFile: ''
+  system.cpuCores: ''
+  system.currentVersion: ''
+  system.hostInfo: ''
+  system.hostname: ''
+  system.latestVersion: ''
+  system.os: ''
+  system.published: ''
+  system.ramUsage: ''
+  system.subtitle: ''
+  system.title: ''
+  system.totalRAM: ''
+  system.workingDirectory: ''
+  theme.title: ''
+  users.title: ''
+  utilities.title: ''
 auth:
   actions.login: Inloggen
   actions.register: Registreer
@@ -32,7 +106,7 @@ auth:
   errors.loginError: 'Inlog fout'
   errors.notYetAuthorized: 'Je hebt nog geen toegang gekregen tot deze site.'
   errors.tooManyAttempts: 'Te veel pogingen!'
-  errors.tooManyAttemptsMsg: 'Je hebt te veel pogingen gedaan om in te loggen, probeer het straks nog een keer {{time}}.'
+  errors.tooManyAttemptsMsg: 'Je hebt te veel pogingen gedaan om in te loggen, probeer het straks nog een keer %1$s.'
   errors.userNotFound: 'Gebruiker niet gevonden'
   fields.email: E-mailadres
   fields.emailUser: 'E-mail / Gebruikersnaam'
@@ -48,7 +122,7 @@ auth:
   invalidPassword: 'Voer een geldig wachtwoord in.'
   loginRequired: 'Inloggen verplicht'
   loginSuccess: 'Login succesvol! Doorsturen...'
-  loginUsingStrategy: 'Inloggen met {{strategy}}'
+  loginUsingStrategy: 'Inloggen met %1$s'
   missingEmail: 'Ontbrekend e-mailadres.'
   missingName: 'Naam ontbreekt.'
   missingPassword: 'Ontbrekend wachtwoord.'
@@ -74,265 +148,50 @@ auth:
   sendResetPassword: 'Reset wachtwoord'
   signingIn: Inloggen...
   switchToLogin.link: 'Inloggen in plaats daarvan'
-  switchToLogin.text: 'Heb je al een account? {{link}}'
+  switchToLogin.text: 'Heb je al een account? %1$s'
   switchToRegister.link: 'Maak een account aan'
-  switchToRegister.text: 'Heb je nog geen account? {{link}}'
+  switchToRegister.text: 'Heb je nog geen account? %1$s'
+  tfa.placeholder: ''
+  tfa.subtitle: ''
+  tfa.title: ''
+  tfa.verifyToken: ''
 common:
   actions.add: Toevoegen
   actions.apply: Toepassen
-  footer.home: Home
+  actions.cancel: ''
+  actions.clear: ''
+  actions.create: ''
+  actions.delete: ''
+  actions.discard: ''
+  actions.download: ''
+  actions.edit: ''
+  actions.ok: ''
+  actions.proceed: ''
+  actions.refresh: ''
+  actions.save: ''
+  actions.saveChanges: ''
+  actions.upload: ''
+  footer.copyright: ''
   footer.poweredBy: 'Powered by'
-  footer.top: 'Terug naar boven'
+  newpage.create: ''
+  newpage.goback: ''
+  newpage.subtitle: ''
+  newpage.title: ''
+  notfound.gohome: ''
+  notfound.subtitle: ''
+  notfound.title: ''
   unauthorized.action.create: 'Je kunt de pagina niet maken.'
   unauthorized.action.edit: 'Je kunt de pagina niet bewerken.'
   unauthorized.action.history: 'Je kunt de paginageschiedenis niet bekijken.'
+  unauthorized.action.source: ''
   unauthorized.action.view: 'Je kunt deze pagina niet bekijken.'
   unauthorized.goback: 'Ga terug'
+  unauthorized.login: ''
   unauthorized.title: Onbevoegd
-  welcome.createhome: 'Homepagina aanmaken'
-  welcome.subtitle: 'Ga aan de slag en maak de homepagina aan.'
-  welcome.title: 'Welkom bij jouw wiki!'
-debugmsg: 'Detailed debug trail'
-deleted: '{{path}} verwijderd/hernoemd'
 editor:
-  'codeblockinsert': 'Code blok invoegen'
-  'codeblocklanguage': Taal
-  'codeblockloading': 'Code syntax voor  {{name}} aan het inladen'
-  'codeblockloadingerror': 'Fout: Niet in staat om code syntax in te laden.'
-  'codeblocksuccess': 'Code blok is ingevoegd.'
-  'codeblocktitle': 'Code blok invoegen'
-  'discard': Annuleren
-  'filedeleteaction': Verwijderen
-  'filedeletedefault': 'dit bestand'
-  'filedeleteloading': 'Bestand wordt verwijderd...'
-  'filedeletesuccess': 'Bestand succesvol verwijderd.'
-  'fileerror': 'Niet in staat de vernieuwde lijst op te halen.'
-  'filefolderempty': 'Deze map is leeg.'
-  'fileinsert': 'Link naar bestand invoegen'
-  'fileloading': 'Bestanden ophalen...'
-  'filemoveaction': 'Verplaats naar...'
-  'filemoveerror': 'Verplaats fout: {{err}}'
-  'filemoveloading': 'Bestand wordt verplaatst...'
-  'filemovesuccess': 'Bestand succesvol verplaatst.'
-  'fileprocessing': 'Bezig met verwerken...'
-  'filerenameaction': Hernoem
-  'filesuccess': 'Link naar bestand is ingevoegd.'
-  'filetitle': 'Bestand invoegen'
-  'fileupload': 'Bestand(en) uploaden'
-  'fileuploaderror': 'Upload fout: {{err}}'
-  'fileuploadsuccess': 'Bestand(en) succesvol geüpload.'
-  'folders': Mappen
-  'foldersloading': 'Mappenlijst ophalen...'
-  'imagealigncenter': Gecentreerd
-  'imagealignleft': 'Links (standaard)'
-  'imagealignlogo': 'Pagina logo'
-  'imagealignright': Rechts
-  'imageinsert': 'Afbeelding invoegen...'
-  'imagesuccess': 'Afbeelding is ingevoegd.'
-  'imagetitle': 'Afbeelding invoegen...'
-  'imageupload': 'Afbeelding(en) uploaden'
-  'newfolder': 'Nieuwe map'
-  'videoanymp4file': 'Elk standaard MP4 bestand'
-  'videoinsert': 'Video invoegen'
-  'videolinktitle': 'Voer de link in van de video'
-  'videonotsupported': 'Deze URL is fout, of wordt niet ondersteund'
-  'videosuccess': 'De video is ingevoegd.'
-  'videosupportedtitle': 'De volgende worden ondersteund:'
-  'videotitle': 'Video invoegen'
-  'save.updateSuccess': 'Pagina succesvol bijgewerkt.'
-fileexists: 'Het bestand {{path}} bestaat al.'
-forbidden: Verboden
-forbiddendetail: 'Sorry, je hebt niet de benodigde permissies om toegang te krijgen tot deze pagina.'
-generic: 'Oeps, er ging iets mis'
-header:
-  'createdoc': 'Nieuw document aanmaken'
-  'overview': Overzicht
-history:
-  'author': Auteur
-  'commit': Commit
-  'comparewith': 'Vergelijken met...'
-  'pastversions': 'Vorige versies'
-  'reverttoversion': 'Versie terugzetten'
-  'sidebyside': 'Naast elkaar bekijken'
-  'timestamp': Tijdstempel
-  'view': Bekijken
-invalidaction: 'Ongeldige actie.'
-invaliddestfolder: 'Ongeldige bestemmingsmap!'
-invalidfiletype: 'Ongeldige bestandstype.'
-invalidfolder: 'Ongeldige map.'
-invalidoperation: 'Ongeldige actie!'
-invalidpath: 'Ongeldige pagina pad.'
-invaliduserid: 'Ongeldige gebruiker Id.'
-loading:
-  'editor': 'Tekstverwerker wordt geladen...'
-  'source': 'Paginabron wordt geladen...'
-modal:
-  'abort': Afbreken
-  'anchorerror': 'Fout bij het kopiëren. Kopieer de URL handmatig.'
-  'anchorsuccess': 'De URL is gekopiëerd naar het klembord.'
-  'anchortitle': 'Link naar dit onderdeel kopiëren'
-  'copyclipboard': 'Naar klembord kopiëren'
-  'create': Nieuw
-  'createpageinvalid': 'De pad van deze pagina is fout'
-  'createpagepath': 'Voer een nieuwe pad in:'
-  'createpagetitle': 'Nieuwe pagina'
-  'createuser': 'Nieuwe gebruiker'
-  'createuserauthorize': 'Gebruiker toegang verlenen'
-  'createuseremail': 'E-mail adres'
-  'createuseremailplaceholder': 'bijv. jan.jansen@bedrijf.nl'
-  'createusername': 'Volledige naam:'
-  'createusernameplaceholder': 'bijv. Jan Jansen'
-  'createuserpassword': 'Wachtwoord:'
-  'createuserprovider': 'Inlog dienst'
-  'createusertitle': 'Gebruiker aanmaken / toegang verlenen'
-  'delete': Verwijderen
-  'deletefiletitle': 'Verwijderen?'
-  'deletefilewarn': 'Weet je zeker dat je wil verwijderen'
-  'deletepagetitle': 'Deze pagina verwijderen?'
-  'deletepagewarning': 'Weet je zeker dat je deze pagina wilt verwijderen? Deze actie kan niet ongedaan gemaakt worden!'
-  'deleteusertitle': 'Gebruiker verwijderen?'
-  'deleteuserwarning': 'Weet je zeker dat je deze gebruiker wil verwijderen? Deze actie kan niet ongedaan gemaakt worden!'
-  'discard': Annuleren
-  'discardpagecreate': 'Weet je zeker dat je deze pagina wil verlaten en alles wat je hebt geschreven wil verliezen?'
-  'discardpageedit': 'Weet je zeker dat je deze pagina wil verlaten en alle onopgeslagen veranderingen wil verliezen?'
-  'discardpagestay': 'Op pagina blijven'
-  'discardpagetitle': 'Wijzigingen verwerpen?'
-  'move': Verplaatsen
-  'movepageinvalid': 'Deze pagina pad is fout of niet toegestaan!'
-  'movepagepath': 'Voer nieuwe pagina pad in:'
-  'movepageplaceholder': pagina-naam
-  'movepagetitle': 'Pagina verplaatsen'
-  'movepagewarning': 'Let op dat het verplaatsen, of hernoemen, van pagina''s kan leiden tot gebroken links. Zorg dat je alle referenties naar deze pagina bijwerkt.'
-  'newfolderinvalid': 'Deze map naam is fout!'
-  'newfolderloading': 'Nieuwe map wordt aangemaakt...'
-  'newfoldername': 'Voer de nieuwe map naam in:'
-  'newfoldernameplaceholder': 'Map naam'
-  'newfoldersuccess': 'Nieuwe map {{name}} is aangemaakt.'
-  'newfoldertitle': 'Nieuwe map'
-  'renamefile': Hernoemen
-  'renamefileerror': 'Hernoem fout: {{err}}'
-  'renamefileinvalid': 'Deze bestandsnaam is fout!'
-  'renamefileloading': 'Bestand wordt hernoemd...'
-  'renamefilename': 'Voer de nieuwe bestandsnaam in (zonder bestandsextensie):'
-  'renamefilenameplaceholder': Bestandsnaam
-  'renamefiletitle': 'Bestand hernoemen'
-nav:
-  'account': Account
-  'allpages': 'Alle pagina''s'
-  'create': Nieuw
-  'discard': Annuleren
-  'edit': Bewerken
-  'history': Geschiedenis
-  'home': Home
-  'login': Inloggen
-  'logout': Uitloggen
-  'move': Verplaatsen
-  'myprofile': Profiel
-  'normalview': 'Normaal uiterlijk'
-  'root': Home
-  'savechanges': Opslaan
-  'savedocument': 'Document opslaan'
-  'settings': Instellingen
-  'source': Paginabron
-  'stats': Statistieken
-  'sysinfo': 'Systeem informatie'
-  'syssettings': Systeeminstellingen
-  'theme': 'Kleuren thema'
-  'users': Gebruikers
-  'viewlatest': 'Bekijk nieuwste'
-newpasswordtooshort: 'Nieuw wachtwoord te kort!'
-notexist: 'De pagina {{path}} bestaat niet!'
-notexistdetail: 'Wil je deze pagina aanmaken?'
-parentinvalid: 'Parent pagina is een ongeldig bestand.'
-parentisroot: 'Parent pagina is hoofdpagina.'
-profile:
-  'displayname': Weergavenaam
-  'displaynameexample': 'Jan Jansen'
-  'email': E-mail
-  'lastprofileupdate': 'Profiel voor het laatst bewerkt'
-  'membersince': 'Lid sinds'
-  'password': Wachtwoord
-  'passwordverify': Wachtwoord
-  'provider': 'Inlog dienst'
-  'savechanges': 'Wijzigingen opslaan'
-  'subtitle': 'Profiel en authenticatie informatie'
-  'tfa': 'Twee-Factor Authenticatie'
-  'tfadisable': '2FA uitschakelen'
-  'tfadisabled': Uitgeschakeld
-  'tfaenable': '2FA inschakelen'
-  'tfaenabled': Ingeschakeld
-remotetoolarge: 'Externe bestand is te groot!'
-reservedname: 'Je kan geen bestand aanmaken met deze naam, het is namelijk door het systeem gereserveerd.'
-savefailed: 'Fout bij het opslaan van het document'
-search:
-  'didyoumean': 'Bedoelde je...?'
-  'nomatch': 'Geen resultaten gevonden'
-  'placeholder': Zoeken...
-  'results': Zoekresultaten
-settings:
-  'subtitle': 'Website configuratie beheren'
-sidebar:
-  'nav': NAV
-  'navigation': Navigatie
-  'pagecontents': 'Pagina inhoud'
-  'pastversions': 'Vorige versies'
-starterfailed: 'Niet in staat starterinhoud in te laden.'
-stats:
-  'entries': 'Pagina''s'
-  'subtitle': 'Algemene site statistieken'
-  'uploads': Uploads
-  'users': Gebruikers
-system:
-  'administrativetools': Hulpmiddelen
-  'cores': 'CPU cores'
-  'currentversion': 'Huidige versie'
-  'cwd': 'Working directory'
-  'flushcache': 'Cache legen en herindexeren'
-  'flushcachebtn': 'Cache legen en herindexeren'
-  'flushcachetext': 'Als pagina''s of zoekresultaten verouderd lijken, of nieuwe content niet bevatten, kan het legen van de cache daarbij helpen.'
-  'flushsessions': 'Actieve gebruikerssessies beëindigen'
-  'flushsessionsbtn': 'Sessies beëindigen'
-  'flushsessionstext': 'Alle actieve gebruikerssessies zullen gesloten worden. Alle gebruikers zullen opnieuw moeten inloggen. Ook jouw huidige sessie zal be-eindigen.'
-  'hostinfo': 'Host informatie'
-  'hostname': Hostname
-  'latestversion': 'Nieuwste versie'
-  'nodeversion': 'Node.js versie'
-  'os': Besturingssysteem
-  'reinstall': 'Huidige versie opnieuw installeren'
-  'resetaccounts': 'Systeem gebruikers terugzetten naar fabrieksinstellingen'
-  'resetaccountsbtn': 'Systeem accounts terugzetten'
-  'resetaccountstext': 'De systeem gebruikers (zoals Gast) zullen teruggezet worden naar hun originele instellingen.'
-  'subtitle': 'Informatie over- en hulpmiddelen voor jouw wiki'
-  'systemversion': 'Software versie'
-  'totalmem': 'Totale geheugen'
-  'upgrade': 'Versie bijwerken'
-  'versioncheckfailed': 'Niet in staat de nieuwste versie op te halen, probeer later nog eens.'
-theme:
-  'altcolor': 'Secundaire kleur'
-  'altcolordesc': 'Wordt gebruikt voor de zijbalk (in een donkerdere kleur)'
-  'codeblock':
-    'colorize': 'Gebruik kleuren syntax'
-    'dark': 'Gebruik donkere thema'
-    'title': 'Code blokken'
-  'footercolordesc': 'Wordt gebruikt in de footer (in een lichtere kleur)'
-  'primarycolor': 'Primaire kleur'
-  'primarycolordesc': 'Wordt gebruikt voor de bovenste navigatiebalk, titels, links, etc.'
-  'reset': 'Standaardinstellingen terugzetten'
-  'savechanges': Opslaan
-  'subtitle': 'Verander het uiterlijk van jouw wiki'
-  'footerColor': 'Footer kleur'
-unauthorized: 'Geen toegang'
-updated: '{{path}} bijgewerkt'
-uploaded: '{{path}} is geüpload'
-users:
-  'createauthorize': 'Gebruiker aanmaken '
-  'createdon': 'Aangemaakt op'
-  'edituser': 'Gebruiker bijwerken'
-  'email': E-mailadres
-  'name': Naam
-  'provider': 'Inlog dienst'
-  'returntousers': 'Terugkeren naar gebruikers'
-  'subtitle': 'Gebruikers en gebruikersrechten beheren'
-  'uniqueid': 'Unieke ID'
-  'updatedon': 'Bijgewerkt op'
-wiki: Wiki
+  page: ''
+  save.createSuccess: ''
+  save.error: ''
+  save.pleaseWait: ''
+  save.processing: ''
+  save.updateSuccess: 'Pagina succesvol bijgewerkt.'
