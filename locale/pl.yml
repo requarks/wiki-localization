@@ -1,0 +1,449 @@
+actions:
+  'gohome': 'Idź do strony głównej'
+  'loginas': 'Zaloguj się jako...'
+added: 'Dodano {{path}}'
+admin:
+  api.title: 'Dostęp API'
+  auth.title: Uwierzytelnianie
+  contribute.becomeAPatron: ''
+  contribute.contribute: Wesprzyj
+  contribute.followUsOnTwitter: 'Obserwuj nas na {{0}} .'
+  contribute.foundABug: 'Widzisz błąd? Zgłoś go na {{0}}.'
+  contribute.fundOurWork: 'Wesprzyj naszą pracę finansowo'
+  contribute.helpTranslate: 'Pomóż nam przetłumaczyć Wiki.js na swój język. Skontaktuj się z nami: {{0}}.'
+  contribute.makeADonation: 'Przekaż darowiznę'
+  contribute.needYourHelp: 'Potrzebujemy twojej pomocy, by móc rozwijać nasze oprogramowanie i utrzymywać szereg związanych z nim usług (np. hosting i utrzymanie sieci).'
+  contribute.openCollective: 'Wiki.js jest częścią inicjatywy Open Collective. Możesz wesprzeć nas finansowo poprzez deklarowane miesięczne wpłaty bądź jednorazowo:'
+  contribute.openSource: 'Wiki.js to darmowe oprogramowanie open-source, dostarczane z {0} przez {1} i {2}.'
+  contribute.openSourceContributors: współtwórcy
+  contribute.patreon: ''
+  contribute.shop: 'Sklep Wiki.js'
+  contribute.spreadTheWord: 'Rozpuść Wi(c/k)i'
+  contribute.submitAnIdea: 'Prześlij swój pomysł lub oddaj głos na pomysły zgłoszone przez innych na {{0}}.'
+  contribute.submitAnIdeaLink: 'pomysły na nowe funkcjonalności'
+  contribute.subtitle: 'Przyczyń się do rozwoju Wiki.js'
+  contribute.talkToFriends: 'Powiedz swoim przyjaciołom i znajomym jak fajna jest Wiki.js!'
+  contribute.title: 'Wesprzyj Wiki.js'
+  contribute.tshirts: 'Możesz też kupić t-shit Wiki.js aby wesprzeć projekt finansowo:'
+  dashboard.subtitle: 'BETA Build - WYŁĄCZNIE DO UŻYTKU TESTOWEGO'
+  dashboard.title: Dashboard
+  dev.title: 'Narzędzia developerskie'
+  editor.title: Redaktor
+  general.siteBranding: 'Personalizacja witryny'
+  general.siteInfo: 'Informacje o witrynie'
+  general.subtitle: 'Podstawowe ustawienia twojej wiki'
+  general.title: Ogólne
+  groups.title: Grupy
+  locale.activeNamespaces.hint: 'Lista aktywnych wersji językowych. Język ustawiony jako domyślny zawsze będzie aktywny, niezależnie od wyboru poniżej.'
+  locale.activeNamespaces.label: 'Aktywne wersje językowe'
+  locale.autoUpdate.hint: 'Automatycznie pobieraj aktualizacje tej wersji językowej gdy tylko będą dostępne.'
+  locale.autoUpdate.hintWithNS: 'Automatycznie pobieraj aktualizacje wszystkich aktywnych wersji językowych.'
+  locale.autoUpdate.label: 'Aktualizuj automatycznie'
+  locale.base.hint: 'Wszytkie elementy interfejsu użytkownika będą wyświetlane w wybranym języku.'
+  locale.base.label: 'Ustawienia regionalne'
+  locale.base.labelWithNS: 'Domyślny język'
+  locale.download: 'Pobierz wersje językowe'
+  locale.namespaces.hint: 'Włącz wiele wersji językowych tej samej strony.'
+  locale.namespaces.label: 'Dodatkowe wersje językowe'
+  locale.namespacing: 'Wersje językowe'
+  locale.namespacingPrefixWarning.subtitle: 'Ścieżki bez zdefiniowanego prefiksu będą automatycznie odsyłać do '
+  locale.namespacingPrefixWarning.title: 'Wszystkie ścieżki zostaną zaktualizowane o prefiks (np. /{{langCode}}/tytul-strony)'
+  locale.settings: 'Ustawienia regionalne'
+  locale.subtitle: 'Wybierz ustawienia regionalne swojej wiki'
+  locale.title: 'Ustawienia regionalne'
+  logging.title: Raportowanie
+  mail.configuration: Konfiguracja
+  mail.dkim: 'DKIM (opcjonalnie)'
+  mail.subtitle: 'Skonfiguruj ustawienia poczty'
+  mail.title: Poczta
+  nav.modules: Moduły
+  nav.site: Witryna
+  nav.system: System
+  nav.users: Użytkownicy
+  navigation.delete: 'Usuń {{kind}}'
+  navigation.divider: Podział
+  navigation.edit: 'Edytuj {{kind}}'
+  navigation.emptyList: 'Brak elementów'
+  navigation.header: Nagłówek
+  navigation.icon: Ikonka
+  navigation.label: Etykieta
+  navigation.link: Link
+  navigation.navType.external: 'Link zewnętrzny'
+  navigation.navType.home: 'Strona główna'
+  navigation.navType.page: Strona
+  navigation.navType.searchQuery: 'Wyszukiwana fraza'
+  navigation.noItemsText: 'Kliknij Dodaj, aby dodać pierwszy element nawigacji.'
+  navigation.noSelectionText: 'Wybierz element nawigacyjny po lewej.'
+  navigation.saveSuccess: 'Ustawienia nawigacji zostały zapisane'
+  navigation.subtitle: 'Zarządzaj nawigacją witryny'
+  navigation.target: 'Ścieżka docelowa'
+  navigation.targetType: Typ
+  navigation.title: Nawigacja
+  navigation.untitled: '{{kind}} bez nazwy'
+  pages.title: Strony
+  rendering.title: Renderowanie
+  search.title: Wyszukiwarka
+  stats.title: Statystyki
+  storage.title: 'Przestrzeń dyskowa'
+  system.configFile: 'Plik konfiguracyjny'
+  system.cpuCores: 'Rdzenie CPU'
+  system.currentVersion: 'Aktualna wersja'
+  system.hostInfo: 'Informacje o hoście'
+  system.hostname: 'Nazwa hosta'
+  system.latestVersion: 'Najnowsza wersja'
+  system.os: 'System operacyjny'
+  system.published: Opublikowano
+  system.ramUsage: 'Wykorzystanie pamięci RAM: {{used}} / {{total}}'
+  system.subtitle: 'Informacje o twoim systemie'
+  system.title: 'Informacja o systemie'
+  system.totalRAM: 'Łączna pamięć RAM'
+  system.workingDirectory: 'Katalog roboczy'
+  theme.title: Motyw
+  users.title: Użytkownicy
+  utilities.title: Narzędzia
+alreadyexists: 'Taki wpis już istnieje!'
+auth:
+  actions.login: 'Zaloguj się'
+  actions.register: 'Zarejestruj się'
+  errors.invalidLogin: 'Nieprawidłowy login'
+  errors.invalidLoginMsg: 'E-mail lub hasło jest nieprawidłowe.'
+  errors.invalidUserEmail: 'Nieprawidłowy adres e-mail'
+  errors.loginError: 'Błąd logowania'
+  errors.notYetAuthorized: 'Nie masz jeszcze autoryzacji do logowania się na tę stronę.'
+  errors.tooManyAttempts: 'Zbyt wiele prób!'
+  errors.tooManyAttemptsMsg: 'Zbyt wiele nieudanych prób w krótkim czasie, spróbuj ponownie {{time}}.'
+  errors.userNotFound: 'Nie znaleziono użytkownika'
+  fields.email: 'Adres e-mail'
+  fields.emailUser: 'Adres e-mail/nazwa użytkownika'
+  fields.name: Imię
+  fields.password: Hasło
+  fields.verifyPassword: 'Zweryfikuj hasło'
+  forgotPasswordCancel: Anuluj
+  forgotPasswordLink: 'Nie pamiętasz hasła?'
+  forgotPasswordSubtitle: 'Wprowadź swój adres e-mail, aby otrzymać instrukcję resetowania hasła:'
+  genericError: 'Uwierzytelnianie jest niedostępne.'
+  invalidEmail: 'Adres email jest nieprawidłowy.'
+  invalidEmailUsername: 'Wprowadź poprawny adres e-mail bądź nazwę użytkownika.'
+  invalidPassword: 'Wprowadź poprawne hasło.'
+  loginRequired: 'Wymagane zalogowanie'
+  loginSuccess: 'Zalogowano pomyślnie! Trwa przekierowywanie...'
+  loginUsingStrategy: 'Logowanie przy użyciu {{strategy}}'
+  missingEmail: 'Nie podano adresu e-mail.'
+  missingName: 'Brak nazwy.'
+  missingPassword: 'Nie podano hasła.'
+  nameTooLong: 'Nazwa jest za długa.'
+  nameTooShort: 'Nazwa jest za krótka.'
+  orLoginUsingStrategy: 'lub zaloguj się używając...'
+  passwordNotMatch: 'Hasła nie pasują do siebie.'
+  passwordTooShort: 'Hasło jest za krótkie.'
+  pleaseWait: Poczekaj
+  providers.azure: 'Azure Active Directory'
+  providers.facebook: Facebook
+  providers.github: GitHub
+  providers.google: 'Google ID'
+  providers.ldap: 'LDAP / Katalog roboczy'
+  providers.local: Lokalny
+  providers.slack: Slack
+  providers.windowslive: 'Konto Microsoft'
+  registerCheckEmail: 'Sprawdź skrzynkę e-mail by aktywować swoje konto.'
+  registering: 'Tworzę konto...'
+  registerSubTitle: 'Wypełnij poniższy formularz by utworzyć konto.'
+  registerSuccess: 'Konto zostało utworzone pomyślnie!'
+  registerTitle: 'Utwórz konto'
+  sendResetPassword: 'Zresetuj hasło'
+  signingIn: Logowanie...
+  switchToLogin.link: 'Podaj login i hasło'
+  switchToLogin.text: 'Posiadasz już konto? {{link}}'
+  switchToRegister.link: 'Utwórz konto'
+  switchToRegister.text: 'Nie masz jeszcze konta? {{link}}'
+  tfa.placeholder: XXXXXX
+  tfa.subtitle: 'Wymagany kod zabezpieczający:'
+  tfa.title: 'Uwierzytelnianie dwuetapowe'
+  tfa.verifyToken: Zweryfikuj
+common:
+  actions.add: Dodaj
+  actions.apply: Zapisz
+  actions.cancel: Anuluj
+  actions.clear: Wyczyść
+  actions.create: Utwórz
+  actions.delete: Usuń
+  actions.discard: 'Odrzuć zmiany'
+  actions.download: Pobierz
+  actions.edit: Edytuj
+  actions.ok: OK
+  actions.proceed: Kontynuuj
+  actions.refresh: Odśwież
+  actions.save: Zapisz
+  actions.saveChanges: 'Zapisz zmiany'
+  actions.upload: 'Prześlij plik'
+  footer.copyright: '© {{year}} {{company}}. Wszelkie prawa zastrzeżone.'
+  footer.home: 'Strona główna'
+  footer.poweredBy: 'Oparte na'
+  footer.top: 'Wróć do góry'
+  newpage.create: 'Stwórz stronę'
+  newpage.goback: Wróć
+  newpage.subtitle: 'Czy chcesz ją teraz utworzyć?'
+  newpage.title: 'Ta strona jeszcze nie istnieje.'
+  notfound.gohome: 'Strona główna'
+  notfound.subtitle: 'Ta strona nie istnieje.'
+  notfound.title: 'Nie znaleziono'
+  unauthorized.action.create: 'Nie możesz utworzyć strony.'
+  unauthorized.action.edit: 'Nie możesz edytować strony.'
+  unauthorized.action.history: 'Nie możesz wyświetlić historii strony.'
+  unauthorized.action.source: 'Nie można wyświetlić źródła strony.'
+  unauthorized.action.view: 'Nie możesz wyświetlić tej strony.'
+  unauthorized.goback: Wróć
+  unauthorized.login: 'Zaloguj się jako...'
+  unauthorized.title: 'Brak autoryzacji'
+  welcome.createhome: 'Utwórz stronę główną'
+  welcome.subtitle: 'Zacznijmy od stworzenia strony głównej.'
+  welcome.title: 'Witaj na swojej wiki!'
+debugmsg: 'Szczegółowy opis błędu'
+deleted: 'Usunięto/zmieniono nazwę {{path}}'
+editor:
+  'codeblockinsert': 'Wstaw blok kodu'
+  'codeblocklanguage': Język
+  'codeblockloading': 'Ładowanie składni języka dla {{name}}'
+  'codeblockloadingerror': 'Błąd: Nie można było wczytać składni języka.'
+  'codeblocksuccess': 'Wstawiono blok kodu.'
+  'codeblocktitle': 'Wstawianie bloku kodu'
+  'discard': 'Odrzuć zmiany'
+  'filedeleteaction': Usuń
+  'filedeletedefault': 'ten plik'
+  'filedeleteloading': 'Usuwanie pliku...'
+  'filedeletesuccess': 'Pomyślnie usunięto plik.'
+  'fileerror': 'Nie można było załadować zaktualizowanej listy.'
+  'filefolderempty': 'Ten folder jest pusty.'
+  'fileinsert': 'Wstaw link do pliku'
+  'fileloading': 'Ładowanie plików...'
+  'filemoveaction': 'Przenieś do...'
+  'filemoveerror': 'Błąd przenoszenia: {{err}}'
+  'filemoveloading': 'Przenoszenie pliku...'
+  'filemovesuccess': 'Pomyślnie przeniesiono plik.'
+  'fileprocessing': Ładowanie...
+  'filerenameaction': 'Zmień nazwę'
+  'filesuccess': 'Pomyślnie wstawiono link do pliku.'
+  'filetitle': 'Wstawianie pliku'
+  'fileupload': 'Prześlij plik(i)'
+  'fileuploaderror': 'Błąd przesyłania: {{err}}'
+  'fileuploadsuccess': 'Pomyślnie przesłano plik(i).'
+  'folders': Foldery
+  'foldersloading': 'Ładowanie listy folderów...'
+  'imagealigncenter': Wyśrodowanie
+  'imagealignleft': 'Do lewej (domyślne)'
+  'imagealignlogo': 'Logo strony'
+  'imagealignright': 'Do prawej'
+  'imageinsert': 'Wstaw obraz'
+  'imagesuccess': 'Pomyślnie wstawiono obraz.'
+  'imagetitle': 'Wstawianie obrazu'
+  'imageupload': 'Wstaw obraz(y)'
+  'newfolder': 'Nowy folder'
+  'videoanymp4file': 'Każdy standardowy plik MP4'
+  'videoinsert': 'Wstaw wideo'
+  'videolinktitle': 'Wstaw link do filmu, który chcesz osadzić:'
+  'videonotsupported': 'Ten adres URL jest nieprawidłowy lub nieobsługiwany!'
+  'videosuccess': 'Pomyślnie wstawiono kod wideo.'
+  'videosupportedtitle': 'Następujące witryny są obsługiwane:'
+  'videotitle': 'Wstawianie wideo'
+  'page': Strona
+  'save.createSuccess': 'Strona utworzona pomyślnie.'
+  'save.error': 'Podczas tworzenia strony wystąpił błąd'
+  'save.pleaseWait': Poczekaj...
+  'save.processing': Przetwarzanie
+  'save.updateSuccess': 'Strona zaktualizowana pomyślnie.'
+fileexists: 'Plik {{path}} już istnieje.'
+forbidden: Zabronione
+forbiddendetail: 'Niestety, nie masz wystarczających uprawnień aby wyświetlić tę stronę.'
+generic: 'Ups, coś poszło nie tak'
+header:
+  'createdoc': 'Stwórz nowy dokument'
+  'overview': Podsumowanie
+history:
+  'author': Autor
+  'commit': 'Zatwierdź zmiany'
+  'comparewith': 'Porównaj z...'
+  'pastversions': 'Dawne wersje'
+  'reverttoversion': 'Cofnij do wersji'
+  'sidebyside': 'Widok obok siebie'
+  'timestamp': Czas
+  'view': Zobacz
+invalidaction: 'Nieprawidłowa akcja.'
+invaliddestfolder: 'Nieprawidłowy folder docelowy!'
+invalidfiletype: 'Nieprawidłowy typ pliku.'
+invalidfolder: 'Nieprawidłowy folder.'
+invalidoperation: 'Nieprawidłowa operacja!'
+invalidpath: 'Nieprawidłowa ścieżka do strony.'
+invaliduserid: 'Nieprawidłowy identyfikator użytkownika'
+loading:
+  'editor': 'Ładuję edytor...'
+  'source': 'Ładuję źródło...'
+modal:
+  'abort': 'Zaniechaj zmian'
+  'anchorerror': 'Wystąpił błąd przy kopiowaniu do schowka. Skopiuj adres URL ręcznie.'
+  'anchorsuccess': 'Adres został skopiowany do schowka.'
+  'anchortitle': 'Skopiuj link do tej sekcji'
+  'copyclipboard': 'Skopiuj do schowka'
+  'create': Utwórz
+  'createpageinvalid': 'Ta ścieżka jest nieprawidłowa!'
+  'createpagepath': 'Podaj ścieżkę nowej strony:'
+  'createpagetitle': 'Utwórz nową stronę'
+  'createuser': 'Utwórz użytkownika'
+  'createuserauthorize': 'Autoryzuj użytkownika'
+  'createuseremail': 'Adres e-mail:'
+  'createuseremailplaceholder': 'np. jan.kowalski@firma.pl'
+  'createusername': 'Pełne imię:'
+  'createusernameplaceholder': 'np. Jan Kowalski'
+  'createuserpassword': 'Hasło:'
+  'createuserprovider': 'Dostawca:'
+  'createusertitle': 'Stwórz/autoryzuj użytkownika'
+  'delete': Usunięcie
+  'deletefiletitle': 'Usunąć?'
+  'deletefilewarn': 'Czy jesteś pewien, że chcesz usunąć'
+  'deletepagetitle': 'Usunąć tę stronę?'
+  'deletepagewarning': 'Na pewno chcesz usunąć tę stronę? Tej akcji nie da się odwrócić!'
+  'deleteusertitle': 'Usunąć konto użytkownika?'
+  'deleteuserwarning': 'Czy jesteś pewien, że chcesz usunąć to konto użytkownika? Ta akcja nie może zostać wycofana!'
+  'discard': 'Odrzuć zmiany'
+  'discardpagecreate': 'Czy jesteś pewien, że chcesz opuścić tą stronę i stracić wszystko co napisałeś?'
+  'discardpageedit': 'Czy jesteś pewien, że chcesz opuścić tą stronę i stracić wszystkie zmiany?'
+  'discardpagestay': 'Zostań na stronie'
+  'discardpagetitle': 'Odrzucić zmiany?'
+  'move': Przenieś
+  'movepageinvalid': 'Ścieżka tej strony jest nieprawidłowa lub niedozwolona!'
+  'movepagepath': 'Podaj nową ścieżkę strony:'
+  'movepageplaceholder': nazwa-strony
+  'movepagetitle': 'Przenieś stronę'
+  'movepagewarning': 'Pamiętaj, że przenoszenie lub zmienianie nazw stron może doprowadzić do uszkodzenia dotychczasowych odnośników. Pamiętaj, aby zedytować każdą stronę, która zawiera odnośnik do tej strony!'
+  'newfolderinvalid': 'Nazwa tego folderu jest nieprawidłowa!'
+  'newfolderloading': 'Tworzenie nowego folderu...'
+  'newfoldername': 'Podaj nową nazwę folderu:'
+  'newfoldernameplaceholder': 'nazwa folderu'
+  'newfoldersuccess': 'Nowy folder {{name}} został utworzony.'
+  'newfoldertitle': 'Nowy folder'
+  'renamefile': 'Zmień nazwę'
+  'renamefileerror': 'Błąd przy zmienianiu nazwy: {{err}}'
+  'renamefileinvalid': 'Ta nazwa pliku jest nieprawidłowa!'
+  'renamefileloading': 'Zmienianie nazwy pliku...'
+  'renamefilename': 'Wstaw nową nazwę pliku (bez rozszerzenia):'
+  'renamefilenameplaceholder': nazwa-pliku
+  'renamefiletitle': 'Zmienianie nazwy pliku'
+nav:
+  'account': Konto
+  'allpages': 'Wszystkie strony'
+  'create': Utwórz
+  'discard': 'Odrzuć zmiany'
+  'edit': Edytuj
+  'history': Historia
+  'home': 'Strona główna'
+  'login': 'Zaloguj się'
+  'logout': 'Wyloguj się'
+  'move': Przenieś
+  'myprofile': 'Mój profil'
+  'normalview': 'Widok normalny'
+  'root': 'Strona główna'
+  'savechanges': 'Zapisz zmiany'
+  'savedocument': 'Zapisz dokument'
+  'settings': Ustawienia
+  'source': Źródło
+  'stats': Statystyki
+  'sysinfo': 'Informacja o systemie'
+  'syssettings': 'Ustawienia systemowe'
+  'theme': 'Motyw kolorystyczny'
+  'users': Użytkownicy
+  'viewlatest': 'Zobacz najnowsze'
+newpasswordtooshort: 'Nowe hasło jest za krótkie!'
+notexist: 'Wpis {{path}} nie istnieje!'
+notexistdetail: 'Czy chcesz utworzyć ten wpis?'
+parentinvalid: 'Wpis nadrzędny nie jest prawidłowym plikiem.'
+parentisroot: 'Wpis nadrzędny to root.'
+profile:
+  'displayname': 'Nazwa wyświetlana'
+  'displaynameexample': 'Jan Kowalski'
+  'email': 'Adres e-mail'
+  'lastprofileupdate': 'Ostatnia aktualizacja profilu'
+  'membersince': 'Dołączenie do wiki'
+  'password': Hasło
+  'passwordverify': 'Zweryfikuj hasło'
+  'provider': Dostawca
+  'savechanges': 'Zapisz zmiany'
+  'subtitle': 'Informacje nt. profilu i uwierzytelniania'
+  'tfa': 'Uwierzytelnianie dwuetapowe'
+  'tfadisable': 'Wyłącz 2FA'
+  'tfadisabled': Wyłączone
+  'tfaenable': 'Włącz 2FA.'
+  'tfaenabled': Włączone
+remotetoolarge: 'Plik zdalny jest zbyt duży!'
+reservedname: 'Nie możesz utworzyć dokumentu wykorzystującego tę nazwę ponieważ jest ona zarezerwowana przez system.'
+savefailed: 'Nie udało się zapisać dokumentu'
+search:
+  'didyoumean': 'Czy chodziło ci o...?'
+  'nomatch': 'Brak wyników pasujących do zapytania'
+  'placeholder': Wyszukiwanie...
+  'results': 'Wyniki wyszukiwania'
+settings:
+  'subtitle': 'Zarządzaj konfiguracją strony'
+sidebar:
+  'nav': NAWIGACJA
+  'navigation': Nawigacja
+  'pagecontents': 'Zawartość strony'
+  'pastversions': 'Dawne wersje'
+starterfailed: 'Nie można załadować treści bazowej!'
+stats:
+  'entries': Wpisy
+  'subtitle': 'Ogólne statystyki'
+  'uploads': Pliki
+  'users': Użytkownicy
+system:
+  'administrativetools': 'Narzędzia administracyjne'
+  'cores': 'Rdzenie CPU'
+  'currentversion': 'Aktualna wersja'
+  'cwd': 'Katalog roboczy'
+  'flushcache': 'Wyczyść pamięć podręczną i odbuduj indeksy'
+  'flushcachebtn': 'Wyczyść i odbuduj'
+  'flushcachetext': 'Jeśli treść lub wyniki wyszukiwania są nieaktualne lub nie uwzględniają ostatnich zmian, wyczyszczenie pamięci podręcznej może pomóc rozwiązać ten problem.'
+  'flushsessions': 'Wyczyść sesje wszystkich aktywnych użytkowników'
+  'flushsessionsbtn': 'Wyczyść sesje'
+  'flushsessionstext': 'Wszyscy użytkownicy zostaną wylogowani i zmuszeni do ponownego zalogowania się. Będzie to także miało wpływ na twoją obecną sesję!'
+  'hostinfo': 'Informacje o hoście'
+  'hostname': 'Nazwa hosta'
+  'latestversion': 'Najnowsza wersja'
+  'nodeversion': 'Wersja Node.js'
+  'os': 'System operacyjny'
+  'reinstall': 'Przeinstaluj aktualną wersję'
+  'resetaccounts': 'Przywracanie ustawień domyślnych kont systemowych'
+  'resetaccountsbtn': 'Zresetuj konta systemowe'
+  'resetaccountstext': 'Przywraca domyślne ustawienia kont systemowych (na przykład konta Gościa).'
+  'subtitle': 'Informacje i narzędzia dla twojej wiki'
+  'systemversion': 'Wersja systemu'
+  'totalmem': 'Całkowita pamięć RAM'
+  'upgrade': Zaktualizuj
+  'versioncheckfailed': 'Wystąpił błąd przy sprawdzaniu najnowszej wersji. Spróbuj ponownie później.'
+theme:
+  'altcolor': 'Alternatywny kolor'
+  'altcolordesc': 'Wykorystywane w pasku bocznym (w ciemniejszym odcieniu)'
+  'codeblock':
+    'colorize': 'Koloruj składnię kodu'
+    'dark': 'Użyj ciemnego motywu'
+    'title': 'Bloki kodu'
+  'footercolordesc': 'Wykorzystywane w stopce (w jaśniejszym odcieniu)'
+  'primarycolor': 'Kolor podstawowy'
+  'primarycolordesc': 'Wykorzystywane w głównym menu, nagłówkach, linkach itd.'
+  'reset': 'Przywróć domyślne'
+  'savechanges': 'Zapisz zmiany'
+  'subtitle': 'Zmień wygląd swojej wiki'
+  'footerColor': 'Kolor stopki'
+unauthorized: 'Brak autoryzacji'
+updated: 'Zaktualizowano {{path}}'
+uploaded: 'Przesłano {{path}}'
+users:
+  'createauthorize': 'Stwórz/autoryzuj użytkownika'
+  'createdon': Utworzono
+  'edituser': 'Edytuj użytkownika'
+  'email': 'Adres e-mail'
+  'name': Imię
+  'provider': Dostawca
+  'returntousers': 'Wróć do Użytkowników'
+  'subtitle': 'Zarządzaj użytkownikami i prawami dostępu'
+  'uniqueid': 'Unikalny identyfikator'
+  'updatedon': Zaktualizowano
+wiki: Wiki
