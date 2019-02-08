@@ -1,10 +1,7 @@
-actions:
-  'gohome': 'Vai alla pagina principale'
-  'loginas': 'Accedi come...'
-added: 'Aggiunto {{path}}'
 admin:
   api.title: 'Accesso all''API'
   auth.title: Accesso
+  contribute.becomeAPatron: ''
   contribute.contribute: Contribuisci
   contribute.followUsOnTwitter: 'Seguici su {{0}}.'
   contribute.foundABug: 'Hai trovato un bug? Faccelo sapere su {{0}}.'
@@ -15,6 +12,7 @@ admin:
   contribute.openCollective: 'Wiki.js fa parte dell''iniziativa Open Collective. Puoi contribuire finanziariamente effettuando una donazione mensile o una tantum:'
   contribute.openSource: 'Wiki.js è un software gratuito e open source offerti con il {{0}} da {{1}} e {{2}} .'
   contribute.openSourceContributors: contributori
+  contribute.patreon: ''
   contribute.shop: 'Negozio di Wiki.js'
   contribute.spreadTheWord: 'Spargi la voce'
   contribute.submitAnIdea: 'Invia un''idea o vota una proposta su {{0}} .'
@@ -99,7 +97,6 @@ admin:
   theme.title: Tema
   users.title: Utenti
   utilities.title: Strumenti
-alreadyexists: 'Questa voce esiste già!'
 auth:
   actions.login: Accedi
   actions.register: Registrati
@@ -175,269 +172,26 @@ common:
   actions.saveChanges: 'Salva le modifiche'
   actions.upload: Carica
   footer.copyright: '© {{year}} {{company}}. Tutti i diritti riservati.'
-  footer.home: 'Pagina principale'
   footer.poweredBy: 'Basato su'
-  footer.top: 'Torna in cima'
   newpage.create: 'Crea la pagina'
   newpage.goback: 'Torna indietro'
   newpage.subtitle: 'Vuoi crearla ora?'
   newpage.title: 'Questa pagina non esiste ancora.'
+  notfound.gohome: ''
+  notfound.subtitle: ''
+  notfound.title: ''
   unauthorized.action.create: 'Non è possibile creare la pagina.'
   unauthorized.action.edit: 'Non è possibile modificare la pagina.'
   unauthorized.action.history: 'Non è possibile visualizzare la cronologia della pagina.'
   unauthorized.action.source: 'Non è possibile visualizzare il sorgente della pagina.'
   unauthorized.action.view: 'Non è possibile visualizzare questa pagina.'
   unauthorized.goback: 'Torna indietro'
+  unauthorized.login: ''
   unauthorized.title: 'Non autorizzato'
-  welcome.createhome: 'Crea la pagina principale'
-  welcome.subtitle: 'Iniziamo a creare la pagina principale.'
-  welcome.title: 'Benvenuto nella tua wiki!'
-debugmsg: 'Percorso dettagliato di debug'
-deleted: 'Eliminato/rinominato {{path}}'
 editor:
-  'codeblockinsert': 'Inserisci il blocco di codice'
-  'codeblocklanguage': Linguaggio
-  'codeblockloading': 'Caricamento della sintassi del codice per {{name}}'
-  'codeblockloadingerror': 'Errore: impossibile caricare la sintassi del linguaggio.'
-  'codeblocksuccess': 'Il tuo blocco di codice è stato inserito.'
-  'codeblocktitle': 'Inserisci il blocco di codice'
-  'discard': Scarta
-  'filedeleteaction': Elimina
-  'filedeletedefault': 'questo file'
-  'filedeleteloading': 'Eliminazione del file in corso...'
-  'filedeletesuccess': 'Il file è stato eliminato con successo.'
-  'fileerror': 'Impossibile recuperare la lista delle cartelle.'
-  'filefolderempty': 'Questa cartella è vuota.'
-  'fileinsert': 'Inserisci un link al file'
-  'fileloading': 'Recupero dei file in corso...'
-  'filemoveaction': 'Sposta in...'
-  'filemoveerror': 'Errore nello spostamento: {{err}}'
-  'filemoveloading': 'Spostamento del file in corso...'
-  'filemovesuccess': 'Il file è stato spostato correttamente.'
-  'fileprocessing': 'Elaborazione in corso...'
-  'filerenameaction': Rinomina
-  'filesuccess': 'Il link del file è stato inserito.'
-  'filetitle': 'Inserisci un file'
-  'fileupload': 'Carica dei file'
-  'fileuploaderror': 'Errore nel caricamento: {{err}}'
-  'fileuploadsuccess': 'I file sono stati caricati con successo.'
-  'folders': Cartelle
-  'foldersloading': 'Recupero della lista delle cartelle in corso...'
-  'imagealigncenter': Centrato
-  'imagealignleft': 'Sinistra (predefinito)'
-  'imagealignlogo': 'Logo della pagina'
-  'imagealignright': Destra
-  'imageinsert': 'Inserisci un''immagine'
-  'imagesuccess': 'L''immagine è stata inserita.'
-  'imagetitle': 'Inserisci un''immagine'
-  'imageupload': 'Carica delle immagini'
-  'newfolder': 'Nuova cartella'
-  'videoanymp4file': 'Qualsiasi file standard MP4'
-  'videoinsert': 'Inserisci un video'
-  'videolinktitle': 'Inserisci il link del video da incorporare:'
-  'videonotsupported': 'Questo URL non è valido o non è supportato!'
-  'videosuccess': 'Il codice del video è stato inserito.'
-  'videosupportedtitle': 'Sono supportati i seguenti:'
-  'videotitle': 'Inserisci un video'
-  'page': Pagina
-  'save.createSuccess': 'La pagina è stata creata con successo.'
-  'save.error': 'Si è verificato un errore durante la creazione della pagina.'
-  'save.pleaseWait': 'Attendere prego...'
-  'save.processing': 'Elaborazione in corso'
-  'save.updateSuccess': 'La pagina è stata aggiornata con successo.'
-fileexists: 'Il file {{path}} esiste già!'
-forbidden: 'Accesso non consentito'
-forbiddendetail: 'Siamo spiacenti, non hai i permessi necessari per accedere a questa pagina.'
-generic: 'Ops, qualcosa è andato storto'
-header:
-  'createdoc': 'Crea un nuovo documento'
-  'overview': Panoramica
-history:
-  'author': Autore
-  'commit': Commit
-  'comparewith': 'Confronta con...'
-  'pastversions': 'Versioni precedenti'
-  'reverttoversion': 'Ripristina la versione'
-  'sidebyside': 'Visualizzazione affiancata'
-  'timestamp': 'Data e ora'
-  'view': Visualizzazione
-invalidaction: 'L''azione non è valida.'
-invaliddestfolder: 'La cartella di destinazione non valida!'
-invalidfiletype: 'Il tipo di file non è valido.'
-invalidfolder: 'La cartella non è valida.'
-invalidoperation: 'L''operazione non è valida.'
-invalidpath: 'Il percorso della pagina non è valido.'
-invaliduserid: 'L''ID dell''utente non è valido.'
-loading:
-  'editor': 'Caricamento dell''editor in corso...'
-  'source': 'Caricamento del sorgente in corso...'
-modal:
-  'abort': Interrompi
-  'anchorerror': 'Non è stato possibile copiare negli appunti. Copia l''URL manualmente.'
-  'anchorsuccess': 'L''URL è stato copiato negli appunti.'
-  'anchortitle': 'Copia il link fino a questa sezione'
-  'copyclipboard': 'Copia negli appunti'
-  'create': Crea
-  'createpageinvalid': 'Il percorso della pagina non è valido!'
-  'createpagepath': 'Inserisci il nuovo percorso della pagina:'
-  'createpagetitle': 'Crea una nuova pagina'
-  'createuser': 'Crea un utente'
-  'createuserauthorize': 'Autorizza un utente'
-  'createuseremail': 'Indirizzo email:'
-  'createuseremailplaceholder': 'ad es. mario.rossi@azienda.com'
-  'createusername': 'Nome completo:'
-  'createusernameplaceholder': 'ad es. Mario Rossi'
-  'createuserpassword': 'Password:'
-  'createuserprovider': 'Fornitore:'
-  'createusertitle': 'Crea/autorizza l''utente'
-  'delete': Elimina
-  'deletefiletitle': 'Eliminare?'
-  'deletefilewarn': 'Sei sicuro di voler eliminare'
-  'deletepagetitle': 'Vuoi eliminare questa pagina?'
-  'deletepagewarning': 'Sei sicuro di voler eliminare questa pagina? Questa azione non può essere annullata!'
-  'deleteusertitle': 'Vuoi eliminare l''account utente?'
-  'deleteuserwarning': 'Sei sicuro di voler eliminare questo account utente? Questa azione non può essere annullata!'
-  'discard': Annulla
-  'discardpagecreate': 'Sei sicuro di voler lasciare questa pagina e perdere tutto ciò che hai scritto finora?'
-  'discardpageedit': 'Sei sicuro di voler uscire da questa pagina e perdere le modifiche fatte?'
-  'discardpagestay': 'Rimani sulla pagina'
-  'discardpagetitle': 'Annulla?'
-  'move': Sposta
-  'movepageinvalid': 'Il percorso della pagina non è valido o non è consentito!'
-  'movepagepath': 'Inserisci il nuovo percorso della pagina:'
-  'movepageplaceholder': nome-della-pagina
-  'movepagetitle': 'Sposta la pagina'
-  'movepagewarning': 'Attenzione: lo spostamento o la rinomina delle pagine potrebbe può causare il funzionamento non corretto dei link. Assicurati di modificare ogni pagina che porta a questa pagina in seguito!'
-  'newfolderinvalid': 'Questo nome della cartella non è valido!'
-  'newfolderloading': 'Creazione di una nuova cartella in corso...'
-  'newfoldername': 'Inserisci il nuovo nome della cartella:'
-  'newfoldernameplaceholder': 'nome della cartella'
-  'newfoldersuccess': 'La cartella {{name}} è stata creata.'
-  'newfoldertitle': 'Nuova cartella'
-  'renamefile': Rinomina
-  'renamefileerror': 'Errore nella rinominazione: {{err}}'
-  'renamefileinvalid': 'Il nome del file non è valido!'
-  'renamefileloading': 'Rinominazione del file in corso...'
-  'renamefilename': 'Inserisci il nuovo nome del file (senza l''estensione):'
-  'renamefilenameplaceholder': 'nome del file'
-  'renamefiletitle': 'Rinominazione del file'
-nav:
-  'account': Account
-  'allpages': 'Tutte le pagine'
-  'create': Crea
-  'discard': Scarta
-  'edit': Modifica
-  'history': Cronologia
-  'home': 'Pagina principale'
-  'login': Accedi
-  'logout': Esci
-  'move': Sposta
-  'myprofile': 'Il mio profilo'
-  'normalview': 'Visualizzazione normale'
-  'root': 'Pagina principale'
-  'savechanges': 'Salva le modifiche'
-  'savedocument': 'Salva il documento'
-  'settings': Impostazioni
-  'source': Sorgente
-  'stats': Statistiche
-  'sysinfo': 'Informazioni del sistema'
-  'syssettings': 'Impostazioni del sistema'
-  'theme': 'Colore del tema'
-  'users': Utenti
-  'viewlatest': 'Visualizza le ultime'
-newpasswordtooshort: 'La nuova password è troppo corta!'
-notexist: 'La voce {{path}} non esiste!'
-notexistdetail: 'Vuoi creare questa voce?'
-parentinvalid: 'La voce superiore non è un file valido.'
-parentisroot: 'La voce superiore è la radice.'
-profile:
-  'displayname': 'Nome visualizzato'
-  'displaynameexample': 'Mario Rossi'
-  'email': 'Indirizzo email'
-  'lastprofileupdate': 'Ultimo aggiornamento del profilo'
-  'membersince': 'Membro dal giorno'
-  'password': Password
-  'passwordverify': 'Verifica la password'
-  'provider': Fornitore
-  'savechanges': 'Salva le modifiche'
-  'subtitle': 'Profilo e informazioni di autenticazione'
-  'tfa': 'Verifica in due passaggi'
-  'tfadisable': 'Disattiva la verifica in due passaggi'
-  'tfadisabled': Disattivata
-  'tfaenable': 'Attiva la verifica in due passaggi'
-  'tfaenabled': Attivata
-remotetoolarge: 'Il file remoto è troppo grande!'
-reservedname: 'Non puoi creare un documento con questo nome perché è riservato al sistema.'
-savefailed: 'Impossibile salvare il documento'
-search:
-  'didyoumean': 'Intendevi...?'
-  'nomatch': 'Nessun risultato corrispondente alla tua richiesta'
-  'placeholder': Cerca...
-  'results': 'Risultati della ricerca'
-settings:
-  'subtitle': 'Gestisci la configurazione del sito'
-sidebar:
-  'nav': NAV
-  'navigation': Navigazione
-  'pagecontents': 'Contenuti della pagina'
-  'pastversions': 'Versioni precedenti'
-starterfailed: 'Impossibile caricare il contenuto iniziale!'
-stats:
-  'entries': Voci
-  'subtitle': 'Statistiche generali del sito'
-  'uploads': Upload
-  'users': Utenti
-system:
-  'administrativetools': 'Strumenti amministrativi'
-  'cores': 'Cores del processore'
-  'currentversion': 'Versione attuale'
-  'cwd': 'Cartella utilizzata'
-  'flushcache': 'Svuota la cache e ricostruisce gli indici'
-  'flushcachebtn': 'Svuota e ricostruisci'
-  'flushcachetext': 'Se il contenuto o i risultati di ricerca non sembrano aggiornati o non mostrano dei contenuti recenti, lo svuotamento della cache potrebbe aiutare a risolvere questi problemi.'
-  'flushsessions': 'Svuota tutte le sessioni attive di utenti.'
-  'flushsessionsbtn': 'Svuota le sessioni'
-  'flushsessionstext': 'Tutti gli utenti saranno disconnessi e costretti ad accedere nuovamente. Anche la tua sessione attuale sarà terminata!'
-  'hostinfo': 'Informazioni sull''host'
-  'hostname': 'Nome dell''host'
-  'latestversion': 'Ultima versione'
-  'nodeversion': 'Versione di Node.js'
-  'os': 'Sistema operativo'
-  'reinstall': 'Reinstallare la versione attuale'
-  'resetaccounts': 'Ripristina gli account di sistema ai valori predefiniti'
-  'resetaccountsbtn': 'Ripristina gli account di sistema'
-  'resetaccountstext': 'Gli account di sistema (come l''account ospite) saranno ripristinati alle impostazioni predefinite.'
-  'subtitle': 'Informazioni e strumenti per la tua wiki'
-  'systemversion': 'Versione del sistema'
-  'totalmem': 'Totale della memoria'
-  'upgrade': Aggiornamento
-  'versioncheckfailed': 'Impossibile trovare l''ultima versione. Riprova più tardi.'
-theme:
-  'altcolor': 'Colore secondario'
-  'altcolordesc': 'Verrà usato nella barra laterale (in un tono più scuro)'
-  'codeblock':
-    'colorize': 'Colorazione della sintassi del codice'
-    'dark': 'Usa il tema scuro'
-    'title': 'Blocchi di codice'
-  'footercolordesc': 'Utilizzato per il piè di pagina (in un tono più chiaro)'
-  'primarycolor': 'Colore primario'
-  'primarycolordesc': 'Verrà usato nella barra di navigazione, nelle intestazioni, nei link, ecc.'
-  'reset': 'Ripristina alle impostazioni predefinite'
-  'savechanges': 'Salva le modifiche'
-  'subtitle': 'Cambia l''aspetto della tua wiki'
-  'footerColor': 'Colore del piè di pagina'
-unauthorized: 'Non autorizzato'
-updated: 'Aggiornato {{path}}'
-uploaded: 'Caricato {{path}}'
-users:
-  'createauthorize': 'Crea/autorizza l''utente'
-  'createdon': 'Creato il giorno'
-  'edituser': 'Modifica l''utente'
-  'email': 'Indirizzo email'
-  'name': Nome
-  'provider': Fornitore
-  'returntousers': 'Ritorna agli utenti'
-  'subtitle': 'Gestione degli utenti e dei diritti di accesso'
-  'uniqueid': 'ID univoco'
-  'updatedon': 'Aggiornato il giorno'
-wiki: Wiki
+  page: Pagina
+  save.createSuccess: 'La pagina è stata creata con successo.'
+  save.error: 'Si è verificato un errore durante la creazione della pagina.'
+  save.pleaseWait: 'Attendere prego...'
+  save.processing: 'Elaborazione in corso'
+  save.updateSuccess: 'La pagina è stata aggiornata con successo.'
