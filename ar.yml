@@ -1,0 +1,18 @@
+admin:
+  locale.autoUpdate.hint: 'قم تلقائيًا بتنزيل التحديثات لهذه اللغة عندما تصبح متوفرة.'
+  locale.base.label: 'لغة الموقع'
+  locale.namespaces.hint: 'تمكين إصدارات لغة متعددة من نفس الصفحة.'
+  locale.namespacingPrefixWarning.subtitle: 'ستتم إعادة توجيه المسارات دون رمز لغة تلقائياً إلى اللغة الأساسية المحددة أعلاه.'
+common:
+  actions.cancel: إلغاء
+  actions.clear: مسح
+  actions.create: إنشاء
+  actions.delete: حذف
+  actions.discard: تجاهل
+  actions.download: تحميل
+  actions.edit: تحرير
+  actions.proceed: متابعة
+  actions.refresh: تحديث
+  actions.save: حفظ
+  actions.saveChanges: 'حفظ التغييرات'
+  actions.upload: رفع

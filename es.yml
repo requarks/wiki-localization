@@ -1,0 +1,283 @@
+actions:
+  'gohome': 'Ir a la Página Principal'
+  'loginas': 'Iniciar sesión como...'
+added: 'Se ha añadido {{path}}'
+alreadyexists: 'Esta entrada ya existe!'
+auth:
+  actions.login: 'Iniciar Sesión'
+  errors.invalidLogin: 'Ingreso inválido'
+  errors.invalidLoginMsg: 'El correo electrónico o la contraseña no son válidos.'
+  errors.invalidUserEmail: 'Correo electrónico inválido'
+  errors.loginError: 'Error de inicio de sesión'
+  errors.notYetAuthorized: 'Todavía no se te ha autorizado acceder a este sitio'
+  errors.tooManyAttempts: '¡Demasiados intentos!'
+  errors.tooManyAttemptsMsg: 'Has realizado demasiados intentos fallidos en un corto período de tiempo. Vuelve a intentarlo {{time}}.'
+  errors.userNotFound: 'Usuario no encontrado'
+  fields.emailUser: 'Correo electrónico / Nombre de usuario'
+  fields.password: Contraseña
+  loginRequired: 'Inicio de sesión requerido'
+  providers.azure: 'Azure Active Directory'
+  providers.facebook: Facebook
+  providers.github: GitHub
+  providers.google: 'ID de google'
+  providers.ldap: 'LDAP / Active Directory'
+  providers.local: Local
+  providers.slack: Slack
+  providers.windowslive: 'Cuenta de Microsoft'
+common:
+  footer.home: 'Página principal'
+  footer.poweredBy: 'Con la tecnología de'
+  footer.top: 'Volver arriba'
+  unauthorized.action.create: 'No puedes crear la página.'
+  unauthorized.action.edit: 'No puedes editar la página.'
+  unauthorized.action.history: 'No puedes ver el historial de la página.'
+  unauthorized.action.source: 'No puedes ver el código de fuente de la página.'
+  unauthorized.action.view: 'No puedes ver esta página.'
+  unauthorized.goback: Volver
+  unauthorized.title: 'No autorizado'
+  welcome.createhome: 'Crear página principal'
+  welcome.subtitle: 'Comencemos y creemos la página principal.'
+  welcome.title: '¡Bienvenido a tu wiki!'
+debugmsg: 'Información de depuración'
+deleted: 'Eliminado/Renombrado {{path}}'
+editor:
+  'codeblockinsert': 'Insertar Bloque de Código'
+  'codeblocklanguage': Lenguaje
+  'codeblockloading': 'Cargando sintaxis de código para {{name}}'
+  'codeblockloadingerror': 'Error: No se pudo cargar la sintaxis'
+  'codeblocksuccess': 'Tu bloque de código ha sido insertado'
+  'codeblocktitle': 'Insertar Bloque de Código'
+  'discard': Descartar
+  'filedeleteaction': Eliminar
+  'filedeletedefault': 'este archivo'
+  'filedeleteloading': 'Eliminando archivo...'
+  'filedeletesuccess': 'Archivo eliminado correctamente.'
+  'fileerror': 'No se puede obtener el listado actualizado.'
+  'filefolderempty': 'Esta carpeta está vacía'
+  'fileinsert': 'Insertar Vínculo a Archivo'
+  'fileloading': 'Obteniendo archivos ...'
+  'filemoveaction': 'Mover a...'
+  'filemoveerror': 'Error al mover: {{err}}'
+  'filemoveloading': 'Moviendo archivo...'
+  'filemovesuccess': 'Archivo movido correctamente.'
+  'fileprocessing': Procesando...
+  'filerenameaction': Renombrar
+  'filesuccess': 'El link al archivo ha sido insertado.'
+  'filetitle': 'Insertar Archivo'
+  'fileupload': 'Subir Archivo(s)'
+  'fileuploaderror': 'Error en la subida: {{err}}'
+  'fileuploadsuccess': 'Archivo(s) cargados correctamente.'
+  'folders': Carpetas
+  'foldersloading': 'Obteniendo la lista de carpetas ...'
+  'imagealigncenter': Centrado
+  'imagealignleft': 'Izquierda (predeterminado)'
+  'imagealignlogo': 'Logo de la página'
+  'imagealignright': Derecha
+  'imageinsert': 'Insertar imagen'
+  'imagesuccess': 'La imagen ha sido insertada.'
+  'imagetitle': 'Insertar imagen'
+  'imageupload': 'Subir imagen(es)'
+  'newfolder': 'Nueva carpeta'
+  'videoanymp4file': 'Cualquier archivo MP4 estándar'
+  'videoinsert': 'Insertar Video'
+  'videolinktitle': 'Ingresar el link al video a ser embebido'
+  'videonotsupported': 'La URL es inválida o no está soportada!'
+  'videosuccess': 'El código de video ha sido insertado'
+  'videosupportedtitle': 'Los siguientes están soportados:'
+  'videotitle': 'Insertar Video'
+fileexists: 'El archivo {{path}} ya existe.'
+forbidden: Prohibido
+forbiddendetail: 'Lo sentimos, no tienes los permisos necesarios para acceder a esta página.'
+generic: 'Oops! Algo salió mal'
+header:
+  'createdoc': 'Crear nuevo documento'
+  'overview': 'Información General'
+history:
+  'author': Autor
+  'commit': Commit
+  'comparewith': 'Comparar con...'
+  'pastversions': 'Versiones Previas'
+  'reverttoversion': 'Volver a la Versión'
+  'sidebyside': 'Vista lado a lado'
+  'timestamp': 'Marca de tiempo'
+  'view': Ver
+invalidaction: 'Acción inválida'
+invaliddestfolder: 'Carpeta de destino inválida!'
+invalidfiletype: 'Tipo de archivo inválido.'
+invalidfolder: 'Carpeta Inválida.'
+invalidoperation: '¡Operación inválida!'
+invalidpath: 'Ruta de página inválida.'
+invaliduserid: 'ID de Usuario Inválido'
+loading:
+  'editor': 'Cargando editor...'
+  'source': 'Cargando fuentes...'
+modal:
+  'abort': Abortar
+  'anchorerror': 'Falló la copia del Portapapeles. Copie la URL manualmente.'
+  'anchorsuccess': 'La URL ha sido copiada al portapapeles'
+  'anchortitle': 'Copiar enlace a esta sección'
+  'copyclipboard': 'Copiar al Portapapeles'
+  'create': Crear
+  'createpageinvalid': 'Ruta de página inválida!'
+  'createpagepath': 'Ingrese la nueva ruta de página:'
+  'createpagetitle': 'Crear Nueva Página'
+  'createuser': 'Crear Usuario'
+  'createuserauthorize': 'Autorizar Usuario'
+  'createuseremail': 'Correo Electrónico:'
+  'createuseremailplaceholder': 'ejemplo: juan.perez@organizacion.com'
+  'createusername': 'Nombre completo:'
+  'createusernameplaceholder': 'ejemplo: Juan Perez'
+  'createuserpassword': 'Contraseña:'
+  'createuserprovider': 'Proveedor:'
+  'createusertitle': 'Crear / Autorizar usuario'
+  'delete': Eliminar
+  'deletefiletitle': '¿Eliminar?'
+  'deletefilewarn': '¿Confirmas que deseas eliminar?'
+  'deletepagetitle': '¿Eliminar esta página?'
+  'deletepagewarning': '¿Confirma que desea eliminar esta página? Esta acción no se puede deshacer!'
+  'deleteusertitle': '¿Eliminar cuenta de usuario?'
+  'deleteuserwarning': '¿Confirma que desea eliminar esta cuenta de usuario? Esta acción no se puede deshacer!'
+  'discard': Descartar
+  'discardpagecreate': '¿Confirma que desea abandonar esta página y perder lo escrito al momento?'
+  'discardpageedit': '¿Confirma que desea abandonar esta página y perder los cambios?'
+  'discardpagestay': 'Quedarse en la página'
+  'discardpagetitle': 'Descartar?'
+  'move': Mover
+  'movepageinvalid': '¡Esta ruta es inválida o no está permitida!'
+  'movepagepath': 'Ingrese la nueva ruta de página:'
+  'movepageplaceholder': nombre-de-pagina
+  'movepagetitle': 'Mover página'
+  'movepagewarning': 'Mover o renombrar páginas puede romper los enlaces. Asegúrese de editar las páginas que enlazan a esta página!'
+  'newfolderinvalid': '¡Este nombre de carpeta no es válido!'
+  'newfolderloading': 'Creando nueva carpeta...'
+  'newfoldername': 'Ingresar el nuevo nombre de carpeta:'
+  'newfoldernameplaceholder': 'nombre de la carpeta'
+  'newfoldersuccess': 'Nueva carpeta {{name}} creada.'
+  'newfoldertitle': 'Nueva Carpeta'
+  'renamefile': Renombrar
+  'renamefileerror': 'Error al Renombrar: {{err}}'
+  'renamefileinvalid': '¡Este nombre de archivo no es válido!'
+  'renamefileloading': 'Renombrando archivo...'
+  'renamefilename': 'Introduzca el nuevo nombre del archivo (sin la extensión):'
+  'renamefilenameplaceholder': 'Nombre del archivo'
+  'renamefiletitle': 'Renombrar Archivo'
+nav:
+  'account': Cuenta
+  'allpages': 'Todas las páginas'
+  'create': Crear
+  'discard': Descartar
+  'edit': Editar
+  'history': Historia
+  'home': 'Página principal'
+  'login': 'Iniciar Sesión'
+  'logout': 'Cerrar Sesión'
+  'move': Mover
+  'myprofile': 'Mi perfil'
+  'normalview': 'Vista normal'
+  'root': 'Página principal'
+  'savechanges': 'Guardar Cambios'
+  'savedocument': 'Guardar documento'
+  'settings': Ajustes
+  'source': Fuente
+  'stats': Estadísticas
+  'sysinfo': 'Información del sistema'
+  'syssettings': 'Ajustes del sistema'
+  'theme': 'Tema de Colores'
+  'users': Usuarios
+  'viewlatest': 'Ver más reciente'
+newpasswordtooshort: '¡La nueva contraseña es demasiado corta!'
+notexist: 'La entrada {{path}} no existe!'
+notexistdetail: '¿Deseas crear esta entrada?'
+parentinvalid: 'La entrada superior no es un archivo válido'
+parentisroot: 'La entrada superior es la raíz'
+profile:
+  'displayname': 'Nombre para mostrar'
+  'displaynameexample': 'Juan Pérez'
+  'email': 'Correo electrónico'
+  'lastprofileupdate': 'Última actualización de perfil'
+  'membersince': 'Miembro desde'
+  'password': Contraseña
+  'passwordverify': 'Confirmar Contraseña'
+  'provider': Proveedor
+  'savechanges': 'Guardar Cambios'
+  'subtitle': 'Perfil e información de autenticación'
+  'tfa': 'Autenticación de dos factores'
+  'tfadisable': 'Desactivar 2FA'
+  'tfadisabled': Desactivado
+  'tfaenable': 'Activar 2FA'
+  'tfaenabled': Activado
+remotetoolarge: 'El archivo remoto es demasiado grande!'
+reservedname: 'No puede crear un documento con este nombre, ya que está reservado por el sistema.'
+savefailed: 'Error al guardar el documento'
+search:
+  'didyoumean': 'Quisiste decir...?'
+  'nomatch': 'No se han encontrado resultados'
+  'placeholder': Buscar...
+  'results': 'Resultados de búsqueda'
+settings:
+  'subtitle': 'Configuración del sitio'
+sidebar:
+  'nav': NAV
+  'navigation': Navegación
+  'pagecontents': 'Contenido de la página'
+  'pastversions': 'Versiones pasadas'
+starterfailed: 'No se pudo cargar el contenido de inicio!'
+stats:
+  'entries': Entradas
+  'subtitle': 'Estadísticas generales del sitio'
+  'uploads': Subidas
+  'users': Usuarios
+system:
+  'administrativetools': 'Herramientas administrativas'
+  'cores': 'CPU Cores'
+  'currentversion': 'Versión Actual'
+  'cwd': 'DIrectorio de Trabajo'
+  'flushcache': 'Limpiar caché y reconstruir índices'
+  'flushcachebtn': 'Limpiar y Reconstruir'
+  'flushcachetext': 'Si el contenido o resultados de búsqueda están obsoletos o no incluyen los últimos cambios, limpiar caché puede ayudar a resolver estos problemas.'
+  'flushsessions': 'Limpiar todas las sesiones de usuario activas'
+  'flushsessionsbtn': 'Limpiar Sesiones'
+  'flushsessionstext': 'Todos los usuarios serán desconectados y forzados a iniciar sesión nuevamente. ¡Su sesión actual también se verá afectada!'
+  'hostinfo': 'Información del Host'
+  'hostname': 'Nombre de host'
+  'latestversion': 'Última Versión'
+  'nodeversion': 'Versión de Node.js'
+  'os': 'Sistema Operativo'
+  'reinstall': 'Reinstalar la versión actual'
+  'resetaccounts': 'Restablecer cuentas del sistema a los valores predeterminados'
+  'resetaccountsbtn': 'Restablecer cuentas del sistema'
+  'resetaccountstext': 'Las cuentas del sistema (como la cuenta de invitado) se restablecerán a sus valores predeterminados.'
+  'subtitle': 'Información y utilidades para tu wiki'
+  'systemversion': 'Versión del Sistema'
+  'totalmem': 'Memoria Total'
+  'upgrade': Actualización
+  'versioncheckfailed': 'No se pudo consultar la última versión. Pruebe más tarde.'
+theme:
+  'altcolor': 'Color alternativo'
+  'altcolordesc': 'Se utiliza para la barra lateral (en un tono más oscuro)'
+  'codeblock':
+    'colorize': 'Colorear la sintaxis del código'
+    'dark': 'Utilizar Tema Oscuro'
+    'title': 'Bloques de código'
+  'footercolordesc': 'Utilizado para el pie de página (en un tono más claro)'
+  'primarycolor': 'Color primario'
+  'primarycolordesc': 'Se utiliza para la barra de navegación superior, encabezados, enlaces, etc.'
+  'reset': 'Volver a los valores predeterminados'
+  'savechanges': 'Guardar Cambios'
+  'subtitle': 'Cambiar la apariencia de tu wiki'
+  'footerColor': 'Color del pie de página'
+unauthorized: 'No autorizado'
+updated: '{{path}} Actualizado'
+uploaded: '{{path}} se ha subido'
+users:
+  'createauthorize': 'Crear / Autorizar usuario'
+  'createdon': 'Creado En'
+  'edituser': 'Editar Usuario'
+  'email': 'Dirección De Correo Electrónico'
+  'name': Nombre
+  'provider': Proveedor
+  'returntousers': 'Volver a Usuarios'
+  'subtitle': 'Administrar usuarios y derechos de acceso'
+  'uniqueid': 'ID Único'
+  'updatedon': 'Actualizado en'
+wiki: Wiki

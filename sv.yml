@@ -1,0 +1,447 @@
+actions:
+  'gohome': 'Gå Hem'
+  'loginas': 'Logga in som ...'
+added: 'Tillagt {{path}}'
+admin:
+  api.title: API-Åtkomst
+  auth.title: Autentisering
+  contribute.contribute: Bidra
+  contribute.followUsOnTwitter: 'Följ oss på {{0}}.'
+  contribute.foundABug: 'Hittat en bugg? Skicka ett ärende till {{0}}.'
+  contribute.fundOurWork: 'Finansiera vårt arbete'
+  contribute.helpTranslate: 'Hjälpa till att översätta Wiki.js på ditt språk. Låt oss veta på {{0}}.'
+  contribute.makeADonation: 'Gör en donation'
+  contribute.needYourHelp: 'Vi behöver din hjälp för att fortsätta förbättra programvaran och driva de olika tillhörande tjänsterna (t.ex. hosting och nätverk).'
+  contribute.openCollective: 'Wiki.js är en del av Open Collective-initiativet. Du kan bidra ekonomiskt genom att göra en månadsvis- eller engångsdonation:'
+  contribute.openSource: 'Wiki.js är ett fritt och öppet källkodsprogram som har tagits fram med {{0}} av {{1}} och {{2}} .'
+  contribute.openSourceContributors: Medverkande
+  contribute.shop: 'Wiki.js Butiken'
+  contribute.spreadTheWord: 'Sprid ordet'
+  contribute.submitAnIdea: 'Skicka in en idé eller rösta på ett förslag på {{0}} .'
+  contribute.submitAnIdeaLink: 'Efterfråga en idé'
+  contribute.subtitle: 'Hjälp till att stödja Wiki.js utveckling och verksamhet'
+  contribute.talkToFriends: 'Prata med dina vänner och kollegor om hur fantastisk Wiki.js är!'
+  contribute.title: 'Bidra till Wiki.js'
+  contribute.tshirts: 'Du kan också köpa Wiki.js t-shirts för att stödja projektet ekonomiskt:'
+  dashboard.subtitle: 'BETA Build - INTE FÖR ANVÄNDNING i PRODUKTION'
+  dashboard.title: Instrumentpanel
+  dev.title: Utvecklarverktyg
+  editor.title: Redigerare
+  general.siteBranding: 'Webbplats Branding'
+  general.siteInfo: Webbplatsinformation
+  general.subtitle: 'Huvudinställningarna för din wiki'
+  general.title: Allmänt
+  groups.title: Grupper
+  locale.activeNamespaces.hint: 'Lista över språk som är aktiverade för flerspråkiga namnrymder. Primärt språk definierad ovan kommer alltid att inkluderas oberoende av detta val.'
+  locale.activeNamespaces.label: 'Aktiva Namnrymder'
+  locale.autoUpdate.hint: 'Automatiskt hämta uppdateringar till det här språket när de blir tillgängliga.'
+  locale.autoUpdate.hintWithNS: 'Ladda ner uppdateringar automatiskt till alla namnutrymmen som är aktiverade nedan.'
+  locale.autoUpdate.label: 'Uppdatera Automatiskt'
+  locale.base.hint: 'Alla UI-element text kommer att visas i valt språk.'
+  locale.base.label: 'Webbplatsens Språk'
+  locale.base.labelWithNS: 'Webbplatsens Språk'
+  locale.download: 'Ladda Ner Språk'
+  locale.namespaces.hint: 'Möjliggör flera språkversioner av samma sida.'
+  locale.namespaces.label: 'Flerspråkiga Namnrymder'
+  locale.namespacing: 'Flerspråkig Namnutrymmen'
+  locale.namespacingPrefixWarning.subtitle: 'Länkar utan en språkkod kommer automatiskt att omdirigeras till basen som definieras ovan.'
+  locale.namespacingPrefixWarning.title: 'Språkkod kommer prefixas till alla länkar. (t.ex. / {{langCode}} / {{page-name}} )'
+  locale.settings: Språkinställningar
+  locale.subtitle: 'Ställ in språkinställningar för din wiki'
+  locale.title: Språk
+  logging.title: Loggning
+  mail.configuration: Konfiguration
+  mail.dkim: 'DKIM (valfritt)'
+  mail.subtitle: 'Konfigurera e-postinställningar'
+  mail.title: E-post
+  nav.modules: Moduler
+  nav.site: Webbplats
+  nav.system: System
+  nav.users: Användare
+  navigation.delete: 'Radera {{kind}}'
+  navigation.divider: Avdelare
+  navigation.edit: 'Redigera {{kind}}'
+  navigation.emptyList: 'Navigationen är tom'
+  navigation.header: Rubrik
+  navigation.icon: Ikon
+  navigation.label: Etikett
+  navigation.link: Länk
+  navigation.navType.external: 'Extern Länk'
+  navigation.navType.home: Hem
+  navigation.navType.page: Sida
+  navigation.navType.searchQuery: Sökfråga
+  navigation.noItemsText: 'Klicka på knappen Lägg till för att lägga till ditt första navigationsobjekt.'
+  navigation.noSelectionText: 'Välj ett navigeringsobjekt till vänster.'
+  navigation.saveSuccess: 'Navigering sparats.'
+  navigation.subtitle: 'Hantera sidnavigering'
+  navigation.target: Mål
+  navigation.targetType: Måltyp
+  navigation.title: Navigering
+  navigation.untitled: 'Untitled {{kind}}'
+  pages.title: Sidor
+  rendering.title: Rendering
+  search.title: Sökmotor
+  stats.title: Statistik
+  storage.title: Lagring
+  system.configFile: Konfigurationsfil
+  system.cpuCores: CPU-kärnor
+  system.currentVersion: 'Nuvarande Version'
+  system.hostInfo: Värdinformation
+  system.hostname: Värdnamn
+  system.latestVersion: 'Senaste Version'
+  system.os: Operativsystem
+  system.published: Publicerad
+  system.ramUsage: 'RAM-användning: {{used}} / {{total}}'
+  system.subtitle: 'Information om ditt system'
+  system.title: Systeminformation
+  system.totalRAM: 'Totalt RAM-minne'
+  system.workingDirectory: Arbetskatalog
+  theme.title: Tema
+  users.title: Användare
+  utilities.title: Verktyg
+alreadyexists: 'Denna post finns redan!'
+auth:
+  actions.login: 'Logga in'
+  actions.register: Registrera
+  errors.invalidLogin: 'Ogiltig Inloggning'
+  errors.invalidLoginMsg: 'E-postadressen eller lösenordet är ogiltigt.'
+  errors.invalidUserEmail: 'Ogiltig E-postadress'
+  errors.loginError: Inloggningsfel
+  errors.notYetAuthorized: 'Du har inte behörighet att logga in på den här webbplatsen än.'
+  errors.tooManyAttempts: 'För många försök!'
+  errors.tooManyAttemptsMsg: 'Du har gjort för många misslyckade försök på kort tid, försök igen {{time}}.'
+  errors.userNotFound: 'Användaren hittades inte'
+  fields.email: E-postadress
+  fields.emailUser: 'E-post / Användarnamn'
+  fields.name: Namn
+  fields.password: Lösenord
+  fields.verifyPassword: 'Verifiera Lösenord'
+  forgotPasswordCancel: Avbryt
+  forgotPasswordLink: 'Glömt ditt lösenord?'
+  forgotPasswordSubtitle: 'Ange din e-postadress för att få instruktioner för att återställa ditt lösenord:'
+  genericError: 'Autentisering är inte tillgänglig.'
+  invalidEmail: 'E-postadressen är ogiltig.'
+  invalidEmailUsername: 'Ange en giltig e-post / användarnamn.'
+  invalidPassword: 'Ange ett giltigt lösenord.'
+  loginRequired: 'Inloggning krävs'
+  loginSuccess: 'Inloggningen lyckades! Omdirigerar ...'
+  loginUsingStrategy: 'Logga in med {{strategy}}'
+  missingEmail: 'Saknar e-postadress.'
+  missingName: 'Namn saknas.'
+  missingPassword: 'Saknar lösenord.'
+  nameTooLong: 'Namnet är för långt.'
+  nameTooShort: 'Namnet är för kort.'
+  orLoginUsingStrategy: 'eller logga in med ...'
+  passwordNotMatch: 'Lösenorden matchar inte.'
+  passwordTooShort: 'Lösenordet är för kort.'
+  pleaseWait: 'Vänligen vänta'
+  providers.azure: 'Azure Active Directory'
+  providers.facebook: Facebook
+  providers.github: Github
+  providers.google: Google
+  providers.ldap: 'LDAP / Active Directory'
+  providers.local: Lokal
+  providers.slack: Slack
+  providers.windowslive: 'Microsoft Konto'
+  registerCheckEmail: 'Kolla din e-post för att aktivera ditt konto.'
+  registering: 'Skapar konto...'
+  registerSubTitle: 'Fyll i formuläret nedan för att skapa ditt konto.'
+  registerSuccess: 'Kontot har skapats!'
+  registerTitle: 'Skapa ett konto'
+  sendResetPassword: 'Återställ Lösenord'
+  signingIn: 'Loggar in...'
+  switchToLogin.link: 'Logga in istället'
+  switchToLogin.text: 'Har du redan ett konto? {{link}}'
+  switchToRegister.link: 'Skapa ett konto'
+  switchToRegister.text: 'Har du inget konto än? {{link}}'
+  tfa.placeholder: XXXXXX
+  tfa.subtitle: 'Säkerhetskod krävs:'
+  tfa.title: Tvåfaktorautentisering
+  tfa.verifyToken: Verifiera
+common:
+  actions.add: 'Lägg till'
+  actions.apply: Tillämpa
+  actions.cancel: Avbryt
+  actions.clear: Rensa
+  actions.create: Skapa
+  actions.delete: Radera
+  actions.discard: 'Kasta Bort'
+  actions.download: 'Ladda ner'
+  actions.edit: Ändra
+  actions.ok: OK
+  actions.proceed: 'Gå vidare'
+  actions.refresh: Uppdatera
+  actions.save: Spara
+  actions.saveChanges: 'Spara Ändringar'
+  actions.upload: 'Ladda upp'
+  footer.copyright: '© {{year}} {{company}} . Alla rättigheter förbehållna.'
+  footer.home: Hem
+  footer.poweredBy: 'Drivs av'
+  footer.top: 'Tillbaka till toppen'
+  newpage.create: 'Skapa Sida'
+  newpage.goback: 'Gå tillbaka'
+  newpage.subtitle: 'Vill du skapa det nu?'
+  newpage.title: 'Sidan finns inte ännu.'
+  notfound.gohome: Hem
+  notfound.subtitle: 'Sidan finns inte.'
+  notfound.title: 'Hittades inte'
+  unauthorized.action.create: 'Du kan inte skapa sidan.'
+  unauthorized.action.edit: 'Du kan inte redigera sidan.'
+  unauthorized.action.history: 'Du kan inte visa sidhistoriken.'
+  unauthorized.action.source: 'Du kan inte visa sidkällan.'
+  unauthorized.action.view: 'Du kan inte visa den här sidan.'
+  unauthorized.goback: 'Gå Tillbaka'
+  unauthorized.login: 'Logga in som ...'
+  unauthorized.title: Obehörig
+  welcome.createhome: 'Skapa Startsida'
+  welcome.subtitle: 'Låt oss komma igång och skapa startsidan.'
+  welcome.title: 'Välkommen till din wiki!'
+debugmsg: 'Detaljerad felsökningsväg'
+deleted: 'Raderad / Omdöpt {{path}}'
+editor:
+  'codeblockinsert': 'Infoga kodblocket'
+  'codeblocklanguage': Språk
+  'codeblockloading': 'Laddar kodsyntax för {{name}}'
+  'codeblockloadingerror': 'Fel: det går Inte att ladda språksyntax.'
+  'codeblocksuccess': 'Ditt kodblock har lagts in.'
+  'codeblocktitle': 'Infoga kodblocket'
+  'discard': Kassera
+  'filedeleteaction': Radera
+  'filedeletedefault': 'den här filen'
+  'filedeleteloading': 'Raderar fil...'
+  'filedeletesuccess': 'Filen har tagits bort.'
+  'fileerror': 'Det går inte att hämta uppdaterad lista.'
+  'filefolderempty': 'Denna mapp är tom.'
+  'fileinsert': 'Infoga länk till fil'
+  'fileloading': 'Hämtar filer...'
+  'filemoveaction': 'Flytta till...'
+  'filemoveerror': 'Fel vid flytt: {{err}}'
+  'filemoveloading': 'Flyttar fil...'
+  'filemovesuccess': 'Filen har flyttats framgångsrikt.'
+  'fileprocessing': Bearbetar...
+  'filerenameaction': 'Byt namn'
+  'filesuccess': 'Fillänk har lagts in.'
+  'filetitle': 'Infoga Fil'
+  'fileupload': 'Ladda upp Fil(er)'
+  'fileuploaderror': 'Uppladdningsfel: {{err}}'
+  'fileuploadsuccess': 'Fil(er) uppladdade.'
+  'folders': Mappar
+  'foldersloading': 'Hämtar mapplista...'
+  'imagealigncenter': Centrerad
+  'imagealignleft': 'Vänster (standard)'
+  'imagealignlogo': 'Sidans Logotyp'
+  'imagealignright': Höger
+  'imageinsert': 'Infoga Bild'
+  'imagesuccess': 'Bilden har lagts in.'
+  'imagetitle': 'Infoga Bild'
+  'imageupload': 'Ladda upp Bild(er)'
+  'newfolder': 'Ny Mapp'
+  'videoanymp4file': 'Alla standard MP4-filer'
+  'videoinsert': 'Infoga Video'
+  'videolinktitle': 'Ange länken till videon som ska bäddas in:'
+  'videonotsupported': 'Den här webbadressen är ogiltig eller stöds inte!'
+  'videosuccess': 'Videokoden har lagts in.'
+  'videosupportedtitle': 'Följande stöds:'
+  'videotitle': 'Infoga Video'
+  'page': Sida
+  'save.createSuccess': 'Sidan har skapats.'
+  'save.error': 'Ett fel uppstod när du skapade sidan'
+  'save.pleaseWait': 'Vänligen vänta...'
+  'save.processing': Bearbetar
+  'save.updateSuccess': 'Sidan har uppdaterats.'
+fileexists: 'Filen {{path}} finns redan.'
+forbidden: Förbjuden
+forbiddendetail: 'Tyvärr, du har inte tillräcklig behörighet för att få tillgång till denna sida.'
+generic: 'Hoppsan, något gick fel'
+header:
+  'createdoc': 'Skapa Nytt Dokument'
+  'overview': Översikt
+history:
+  'author': Författare
+  'commit': Commit
+  'comparewith': 'Jämför med...'
+  'pastversions': 'Tidigare Versioner'
+  'reverttoversion': 'Återgå till Version'
+  'sidebyside': 'Sida-vid-sida Vy'
+  'timestamp': Tidsstämpel
+  'view': Vy
+invalidaction: 'Ogiltig Åtgärd.'
+invaliddestfolder: 'Ogiltig Målmapp!'
+invalidfiletype: 'Ogiltig Filtyp.'
+invalidfolder: 'Ogiltig Mapp.'
+invalidoperation: 'Ogiltig Åtgärd!'
+invalidpath: 'Ogiltig sökväg.'
+invaliduserid: 'Ogiltigt Användar-ID'
+loading:
+  'editor': 'Laddar redigerare...'
+  'source': 'Laddar källa...'
+modal:
+  'abort': Avbryt
+  'anchorerror': 'Urklipp kopiering misslyckades. Kopiera URL-adressen manuellt.'
+  'anchorsuccess': 'Webbadressen har kopierats till ditt urklipp.'
+  'anchortitle': 'Kopiera länk till denna sektion'
+  'copyclipboard': 'Kopiera till Urklipp'
+  'create': Skapa
+  'createpageinvalid': 'Den här sökvägen är ogiltig!'
+  'createpagepath': 'Ange den nya sökvägen:'
+  'createpagetitle': 'Skapa Ny Sida'
+  'createuser': 'Skapa Användare'
+  'createuserauthorize': 'Auktorisera Användare'
+  'createuseremail': 'E-postadress:'
+  'createuseremailplaceholder': 't.ex. anna.andersson@foretag.se'
+  'createusername': 'Fullständigt Namn:'
+  'createusernameplaceholder': 't.ex. Anna Andersson'
+  'createuserpassword': 'Lösenord:'
+  'createuserprovider': 'Leverantör:'
+  'createusertitle': 'Skapa / Auktorisera Användare'
+  'delete': Radera
+  'deletefiletitle': 'Radera?'
+  'deletefilewarn': 'Är du säker att du vill radera'
+  'deletepagetitle': 'Ta bort den här sidan?'
+  'deletepagewarning': 'Är du säker på att du vill radera den här sidan? Denna åtgärd kan inte ångras!'
+  'deleteusertitle': 'Radera Användarkonto?'
+  'deleteuserwarning': 'Är du säker på att du vill radera detta användarkonto? Denna åtgärd kan inte ångras!'
+  'discard': Kassera
+  'discardpagecreate': 'Är du säker på att du vill lämna sidan och förlora allt du skrivit?'
+  'discardpageedit': 'Är du säker på att du vill lämna sidan och förlora ev. ändringar?'
+  'discardpagestay': 'Stanna på sidan'
+  'discardpagetitle': 'Kassera?'
+  'move': Flytta
+  'movepageinvalid': 'Den här sökvägen är ogiltig eller inte tillåten!'
+  'movepagepath': 'Ange den nya sökvägen:'
+  'movepageplaceholder': sid-namn
+  'movepagetitle': 'Flytta Sida'
+  'movepagewarning': 'Observera att flytta eller byta namn på sidor kan leda till trasiga länkar. Se till att redigera sidor som länkar till den här sidan efteråt!'
+  'newfolderinvalid': 'Det här mappnamnet är ogiltigt!'
+  'newfolderloading': 'Skapar ny mapp...'
+  'newfoldername': 'Ange det nya mappnamnet:'
+  'newfoldernameplaceholder': 'mappens namn'
+  'newfoldersuccess': 'Ny mapp {{name}} skapad.'
+  'newfoldertitle': 'Ny Mapp'
+  'renamefile': 'Byt namn'
+  'renamefileerror': 'Fel vid byte av namn: {{err}}'
+  'renamefileinvalid': 'Det här filnamnet är ogiltigt!'
+  'renamefileloading': 'Byter namn på fil...'
+  'renamefilename': 'Ange det nya namnet (utan filtillägg) för filen:'
+  'renamefilenameplaceholder': filnamn
+  'renamefiletitle': 'Döp om fil'
+nav:
+  'account': Konto
+  'allpages': 'Alla Sidor'
+  'create': Skapa
+  'discard': Kassera
+  'edit': Ändra
+  'history': Historik
+  'home': Hem
+  'login': 'Logga in'
+  'logout': 'Logga ut'
+  'move': Flytta
+  'myprofile': 'Min Profil'
+  'normalview': 'Normal Vy'
+  'root': Hem
+  'savechanges': 'Spara Ändringar'
+  'savedocument': 'Spara Dokument'
+  'settings': Inställningar
+  'source': Källa
+  'stats': Statistik
+  'sysinfo': Systeminformation
+  'syssettings': Systeminställningar
+  'theme': Färgtema
+  'users': Användare
+  'viewlatest': 'Visa Senaste'
+newpasswordtooshort: 'Nytt lösenord är för kort!'
+notexist: 'Posten {{path}} existerar inte!'
+notexistdetail: 'Vill du skapa denna post?'
+parentinvalid: 'Överordnad post är inte en giltig fil.'
+parentisroot: 'Överordnad post är roten.'
+profile:
+  'displayname': Visningsnamn
+  'displaynameexample': 'Anna Andersson'
+  'email': E-postadress
+  'lastprofileupdate': 'Senaste Profiluppdatering'
+  'membersince': 'Medlem sedan'
+  'password': Lösenord
+  'passwordverify': 'Verifiera Lösenord'
+  'provider': Leverantör
+  'savechanges': 'Spara Ändringar'
+  'subtitle': 'Profil och autentiseringsinformation'
+  'tfa': Tvåfaktorautentisering
+  'tfadisable': 'Inaktivera 2FA'
+  'tfadisabled': Inaktiverad
+  'tfaenable': 'Aktivera 2FA'
+  'tfaenabled': Aktiverad
+remotetoolarge: 'Fjärrfilen är för stor!'
+reservedname: 'Du kan inte skapa ett dokument med detta namn som har reserverats av systemet.'
+savefailed: 'Misslyckades med att spara dokument'
+search:
+  'didyoumean': 'Menade du...?'
+  'nomatch': 'Inga resultat matchade din sökning'
+  'placeholder': Sök...
+  'results': Sökresultat
+settings:
+  'subtitle': 'Hantera webbplatsens konfiguration'
+sidebar:
+  'nav': NAV
+  'navigation': Navigering
+  'pagecontents': Sidinnehåll
+  'pastversions': 'Tidigare Versioner'
+starterfailed: 'Det gick inte att ladda startmaterialet!'
+stats:
+  'entries': Poster
+  'subtitle': 'Allmän webbplatsövergripande statistik'
+  'uploads': Uppladdningar
+  'users': Användare
+system:
+  'administrativetools': Administrationsverktyg
+  'cores': CPU-kärnor
+  'currentversion': 'Nuvarande Version'
+  'cwd': Arbetsregister
+  'flushcache': 'Rensa cache och bygg om indexering'
+  'flushcachebtn': 'Rensa och Bygg Om'
+  'flushcachetext': 'Om innehåll eller sökresultat verkar föråldrade eller inte innehåller senaste datan kan resning av minnet åtgärda problemet.'
+  'flushsessions': 'Rensa alla aktiva användarsessioner'
+  'flushsessionsbtn': 'Rensa Sessioner'
+  'flushsessionstext': 'Alla användare kommer att loggas ut och tvingas logga in igen. Din nuvarande session kommer också att påverkas!'
+  'hostinfo': Värdinformation
+  'hostname': Värdnamn
+  'latestversion': 'Senaste Version'
+  'nodeversion': 'Node.js Version'
+  'os': Operativsystem
+  'reinstall': 'Återinstallera nuvarande version'
+  'resetaccounts': 'Återställ systemkonton till standardinställningar'
+  'resetaccountsbtn': 'Återställ Systemkonton'
+  'resetaccountstext': 'Systemkonton (till exempel gästkontot) återställs till standardinställningarna.'
+  'subtitle': 'Information och verktyg för din wiki'
+  'systemversion': Systemversion
+  'totalmem': 'Totalt Minne'
+  'upgrade': Uppgradera
+  'versioncheckfailed': 'Det går inte att hämta senaste versionen. Försök igen senare.'
+theme:
+  'altcolor': 'Alternativ Färg'
+  'altcolordesc': 'Används för sidofältet (i en mörkare ton)'
+  'codeblock':
+    'colorize': 'Färglägg kodsyntax'
+    'dark': 'Använd Mörkt Tema'
+    'title': Kodblock
+  'footercolordesc': 'Används för sidfoten (i en ljusare ton)'
+  'primarycolor': 'Primär Färg'
+  'primarycolordesc': 'Används för toppnavigationsfältet, rubriker, länkar etc.'
+  'reset': 'Återställ till standardvärden'
+  'savechanges': 'Spara Ändringar'
+  'subtitle': 'Ändra utseende och känsla för din wiki'
+  'footerColor': Sidfotsfärg
+unauthorized: Obehörig
+updated: 'Uppdaterad {{path}}'
+uploaded: 'Uppladdad {{path}}'
+users:
+  'createauthorize': 'Skapa / Auktorisera Användare'
+  'createdon': 'Skapad den'
+  'edituser': 'Redigera Användare'
+  'email': E-postadress
+  'name': Namn
+  'provider': Leverantör
+  'returntousers': 'Återvänd till Användare'
+  'subtitle': 'Hantera användare och åtkomsträttigheter'
+  'uniqueid': 'Unikt ID'
+  'updatedon': 'Uppdaterad den'
+wiki: Wiki

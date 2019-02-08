@@ -1,0 +1,143 @@
+actions:
+  'gohome': 'Ir ao início'
+  'loginas': 'Login como...'
+added: 'Adicionado {{path}}'
+alreadyexists: 'Esta entrada já existe!'
+auth:
+  actions.login: 'Log In'
+  errors.invalidLogin: 'Login Inválido'
+  errors.invalidLoginMsg: 'O email ou senha é inválido.'
+  errors.invalidUserEmail: 'Email de Usuário Inválido'
+  errors.loginError: 'Erro de login'
+  errors.notYetAuthorized: 'Você ainda não foi autorizado a fazer login neste site.'
+  errors.tooManyAttempts: 'Muitas tentativas!'
+  errors.tooManyAttemptsMsg: 'Você fez muitas tentativas que falharam em um curto período de tempo, tente novamente em {{time}}.'
+  errors.userNotFound: 'Usuário não encontrado'
+  fields.emailUser: 'Email / Usuário'
+  fields.password: Senha
+  loginRequired: 'Login requerido'
+  providers.azure: 'Azure Active Directory'
+  providers.facebook: Facebook
+  providers.github: GitHub
+  providers.google: 'Google ID'
+  providers.ldap: 'LDAP / Active Directory'
+  providers.local: Local
+  providers.slack: Slack
+  providers.windowslive: 'Microsoft Account'
+common:
+  footer.home: Início
+  footer.poweredBy: 'Powered by'
+  footer.top: 'Retornar ao topo'
+  welcome.createhome: 'Criar Página Inicial'
+  welcome.subtitle: 'Vamos começar criando sua página inicial.'
+  welcome.title: 'Bem-vindo à sua wiki!'
+debugmsg: 'Informação de depuração'
+deleted: 'Removido/Renomeado {{path}}'
+fileexists: 'Arquivo {{path}} já existe.'
+forbidden: Proibido
+forbiddendetail: 'Desculpe, você não tem permissões necessárias para acessar esta página.'
+generic: 'Oops, algo deu errado'
+header:
+  'createdoc': 'Criar Novo Documento'
+  'overview': 'Visão geral'
+invalidaction: 'Ação Inválida.'
+invaliddestfolder: 'Pasta de Destino Inválida!'
+invalidfiletype: 'Tipo de Arquivo Inválido.'
+invalidfolder: 'Pasta Inválida.'
+invalidoperation: 'Operação Inválida!'
+invalidpath: 'Caminha da página inválido.'
+invaliduserid: 'Id do usuário inválido'
+loading:
+  'editor': 'Carregando editor...'
+  'source': 'Carregando fonte...'
+nav:
+  'account': Conta
+  'allpages': 'Todas Páginas'
+  'create': Criar
+  'discard': Descartar
+  'edit': Editar
+  'history': Historico
+  'home': Início
+  'login': Login
+  'logout': Sair
+  'move': Mover
+  'myprofile': 'Meu Perfil'
+  'normalview': 'Visão Normal'
+  'savechanges': 'Salvar Alterações'
+  'savedocument': 'Salvar Documento'
+  'settings': Configurações
+  'source': Fonte
+  'stats': Statatísticas
+  'syssettings': 'Configurações do Sistema'
+  'theme': 'Tema de Cor'
+  'users': Usuários
+  'viewlatest': 'Ver últimas'
+newpasswordtooshort: 'A nova senha é muito curta!'
+notexist: 'A entrada {{path}} não existe!'
+notexistdetail: 'Você gostaria de criar essa entrada?'
+parentinvalid: 'A entrada pai não é um arquivo válido.'
+parentisroot: 'A entrada pai é a raiz.'
+profile:
+  'displayname': 'Nome de Exibição'
+  'displaynameexample': 'João Silva'
+  'email': Email
+  'lastprofileupdate': 'Última atualização do perfil'
+  'membersince': 'Membro desde'
+  'password': Senha
+  'passwordverify': 'Verificar Senha'
+  'provider': Provider
+  'savechanges': 'Salvar Alterações'
+  'subtitle': 'Perfil e informações de autenticação'
+remotetoolarge: 'Arquivo remoto é muito grante!'
+reservedname: 'Você não pode criar um documento com este nome pois é reservado ao sistema.'
+savefailed: 'Falha ao salvar o documento'
+search:
+  'didyoumean': 'Você quis dizer...?'
+  'nomatch': 'Nenhum resultado corresponde à sua consulta'
+  'placeholder': Buscar...
+  'results': 'Resultados da Busca'
+settings:
+  'subtitle': 'Gerenciar configurações do site'
+sidebar:
+  'nav': NAV
+  'navigation': Navegação
+  'pagecontents': 'Conteúdo da página'
+  'pastversions': 'Versões Anteriores'
+starterfailed: 'Não foi possível carregar o conteúdo inicial!'
+stats:
+  'entries': Entradas
+  'subtitle': 'Estatísticas gerais do site'
+  'uploads': Uploads
+  'users': Usuários
+system:
+  'administrativetools': 'Ferramentas Administrativas'
+  'currentversion': 'Versão Atual'
+  'flushcache': 'Limpar o cache e reconstruir índices'
+  'flushcachebtn': 'Limpar e Reconstruir'
+  'flushcachetext': 'Se o conteúdo ou os resultados de pesquisa parecerem desatualizados ou não incluir o conteúdo mais recente, limpar o cache pode ajudar a resolver esses problemas.'
+  'flushsessions': 'Limpar todas as sessões de usuário ativas'
+  'flushsessionsbtn': 'Limpar Sessões'
+  'flushsessionstext': 'Todos os usuários serão desconectados e forçados a efetuar login novamente. Sua sessão atual também será afetada!'
+  'latestversion': 'Última Versão'
+  'reinstall': 'Re-instalar versão atual'
+  'resetaccounts': 'Redefinir as contas do sistema para padrões'
+  'resetaccountsbtn': 'Redefinir contas do sistema'
+  'resetaccountstext': 'As contas do sistema (como a conta de convidado) serão redefinidas para suas configurações padrão.'
+  'systemversion': 'Versão do Sistema'
+  'upgrade': Atualizar
+  'versioncheckfailed': 'Não é possível consultar a versão mais recente. Tente mais tarde.'
+unauthorized: 'Não autorizado'
+updated: '{{path}} atualizado'
+uploaded: '{{path}} carregado'
+users:
+  'createauthorize': 'Criar / Autorizar Usuário'
+  'createdon': 'Criado em'
+  'edituser': 'Editar Usuário'
+  'email': 'Endereço de Email'
+  'name': Nome
+  'provider': Provider
+  'returntousers': 'Retornar aos Usuários'
+  'subtitle': 'Gerenciar usuários e direitos de acesso'
+  'uniqueid': 'ID Único'
+  'updatedon': 'Atualizado em'
+wiki: Wiki

@@ -1,0 +1,72 @@
+auth:
+  actions.login: Prijava
+  errors.invalidLogin: 'Neveljavna prijava'
+  errors.invalidLoginMsg: 'E-poštni naslov ali geslo je neveljavno'
+  errors.invalidUserEmail: 'Neveljaven e-poštni naslov'
+  errors.loginError: 'Napaka pri prijavi'
+  errors.userNotFound: 'Uporabnika ni bilo mogoče najti'
+  fields.emailUser: 'E-pošta / uporabniško ime'
+  fields.password: Geslo
+  loginRequired: 'Prijava je obvezna'
+  providers.facebook: Facebook
+  providers.github: GitHub
+  providers.slack: Slack
+  providers.windowslive: 'Microsoftov uporabniški račun'
+  tfa.placeholder: XXXXXX
+  tfa.verifyToken: Preveri
+common:
+  footer.home: Dom
+  footer.top: 'Nazaj na vrh'
+header:
+  'createdoc': 'Ustvari nov dokument'
+  'overview': Pregled
+modal:
+  'discardpagestay': 'Ostani na strani'
+  'newfoldernameplaceholder': 'ime mape'
+  'newfoldersuccess': 'Nova mapa {{name}} je ustvarjena.'
+  'newfoldertitle': 'Nova mapa'
+  'renamefile': Preimenovanje
+  'renamefileerror': 'Napaka pri preimenovanju: {{err}}'
+  'renamefileinvalid': 'To ime datoteke ni veljavno!'
+  'renamefileloading': 'Preimenovanje datoteke...'
+  'renamefilename': 'Vnesite novo ime datoteke (brez pripone) datoteke:'
+  'renamefilenameplaceholder': 'ime datoteke'
+  'renamefiletitle': 'Preimenuj datoteko'
+nav:
+  'allpages': 'Vse strani'
+  'create': Ustvarjanje
+  'discard': Zavrzi
+  'edit': Urejanje
+  'history': Zgodovina
+  'home': Dom
+  'login': Prijava
+  'logout': Odjava
+  'move': Premikanje
+  'myprofile': 'Moj profil'
+  'users': Uporabniki
+profile:
+  'displaynameexample': 'Janez Novak'
+  'email': 'E-poštni naslov'
+  'lastprofileupdate': 'Zadnja posodobitev profila'
+  'membersince': 'Član od'
+  'password': Geslo
+  'savechanges': 'Shrani spremembe'
+search:
+  'didyoumean': 'Ali ste mislili...?'
+  'nomatch': 'Ni rezultatov, ki ustrezajo vaši poizvedbi'
+  'placeholder': Iskanje...
+  'results': 'Rezultati iskanja'
+stats:
+  'entries': Postavke
+  'uploads': Prenosi
+  'users': Uporabniki
+theme:
+  'reset': 'Povrni privzete nastavitve'
+  'savechanges': 'Shrani spremembe'
+users:
+  'createdon': 'Ustvarjeno dne'
+  'edituser': 'Urejanje uporabnika'
+  'email': 'E-poštni naslov'
+  'name': Ime
+  'updatedon': 'Posodobljeno dne'
+wiki: Wiki

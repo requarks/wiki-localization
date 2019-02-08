@@ -1,0 +1,130 @@
+admin:
+  api.title: 'גישה לAPI'
+  auth.title: אימות
+  contribute.title: 'תרום ל Wiki.js'
+  dashboard.subtitle: 'Wiki.js v2 גירסת אלפא - לא לשימוש בסביבת אמת'
+  dashboard.title: 'לוח מחוונים'
+  dev.title: 'כלי מפתח'
+  editor.title: עורך
+  general.siteBranding: 'מיתוג האתר'
+  general.siteInfo: 'מידע על האתר'
+  general.subtitle: 'הגדרות עיקריות של הויקי שלך'
+  general.title: כללי
+  groups.title: קבוצות
+  locale.activeNamespaces.hint: ' רשימת האזורים (שפות) מאופשרת עבור אתר רב לשוני. אזור (שפת) הבסיס שהוגדר לעיל תמיד ייכלל ללא קשר בחירה זו.'
+  locale.activeNamespaces.label: 'מרחבים פעילים'
+  locale.autoUpdate.hint: 'הורד עדכונים באופן אוטומטי לאזור זה כאשר הם הופכים לזמינים.'
+  locale.autoUpdate.hintWithNS: 'הורד עדכונים באופן אוטומטי לכל המרחבים הזמינים להלן.'
+  locale.autoUpdate.label: 'עדכן אוטומטית'
+  locale.base.hint: 'כל רכיבי ממשק המשתמש יוצגו בשפה שנבחרה.'
+  locale.base.label: 'אזור (שפת) האתר'
+  locale.base.labelWithNS: 'אזור (שפת) בסיס'
+  locale.download: 'הורד הגדרות אזור (שפה)'
+  locale.namespaces.hint: 'מאפשר שפות מרובות של אותו דף.'
+  locale.namespaces.label: 'מרחבים רב לשוניים'
+  locale.namespacing: 'מרחבים רב לשוניים'
+  locale.namespacingPrefixWarning.subtitle: 'נתיבים ללא קוד אזור (שפה) יהיו מנותבים אוטומטית אל אזור (שפת) הבסיס שהוגדרו לעיל.'
+  locale.namespacingPrefixWarning.title: 'קוד האזור (שפה) יוצמד לכל הנתיבים. (למשל /{{langCode}}/page-name)'
+  locale.settings: 'הגדרות אזור (שפה)'
+  locale.subtitle: 'הגדר אפשרויות אזור (שפה) עבור הויקי שלך'
+  locale.title: 'אזור (שפת)'
+  logging.title: רישום
+  nav.modules: מודולים
+  nav.site: אתר
+  nav.system: מערכת
+  nav.users: משתמשים
+  rendering.title: עיבוד
+  search.title: 'מנוע חיפוש'
+  stats.title: סטטיסטיקות
+  storage.title: 'שטח אחסון'
+  system.configFile: 'קובץ הגדרות'
+  system.cpuCores: 'ליבות מעבד'
+  system.currentVersion: 'הגרסה הנוכחית'
+  system.hostInfo: 'מידע על המחשב המארח'
+  system.hostname: 'שם מחשב המארח'
+  system.latestVersion: 'הגרסה העדכנית ביותר'
+  system.os: 'מערכת הפעלה'
+  system.published: פורסם
+  system.ramUsage: 'שימוש בזיכרון: {{used}} / {{total}}'
+  system.subtitle: 'מידע על המערכת שלך'
+  system.title: 'מידע על המערכת'
+  system.totalRAM: 'סה"כ זיכרון'
+  system.workingDirectory: 'מחיצת עבודה'
+  theme.title: 'ערכת נושא'
+  users.title: משתמשים
+  utilities.title: 'כלי עזר'
+auth:
+  actions.login: כנס
+  errors.invalidLogin: 'כניסה לא חוקית'
+  errors.invalidLoginMsg: 'כתובת הדוא"ל או הסיסמה אינן תקינות.'
+  errors.invalidUserEmail: 'דוא"ל משתמש לא חוקי'
+  errors.loginError: 'שגיאת התחברות'
+  errors.notYetAuthorized: 'עדיין לא הורשית להיכנס לאתר זה.'
+  errors.tooManyAttempts: 'יותר מדי ניסיונות!'
+  errors.tooManyAttemptsMsg: 'ביצעת ניסיונות כושלים רבים מדי בפרק זמן קצר, נסה שוב {{time}} .'
+  errors.userNotFound: 'המשתמש לא נמצא'
+  fields.emailUser: 'דוא"ל / שם משתמש'
+  fields.password: סיסמה
+  loginRequired: 'נדרשת כניסה'
+  providers.azure: 'Azure Active Directory'
+  providers.facebook: Facebook
+  providers.github: GitHub
+  providers.google: 'מזהה Google'
+  providers.ldap: 'LDAP / Active Directory'
+  providers.local: מקומי
+  providers.slack: Slack
+  providers.windowslive: 'חשבון Microsoft'
+  tfa.placeholder: XXXXXX
+  tfa.subtitle: 'נדרש קוד אבטחה:'
+  tfa.title: 'אימות שני-גורמים'
+  tfa.verifyToken: ודא
+common:
+  actions.cancel: בטל
+  actions.clear: נקה
+  actions.create: צור
+  actions.delete: מחק
+  actions.discard: דחה
+  actions.download: הורד
+  actions.edit: ערוך
+  actions.proceed: המשך
+  actions.refresh: רענן
+  actions.save: שמור
+  actions.saveChanges: 'שמור שינויים'
+  actions.upload: העלה
+editor:
+  'codeblocklanguage': שפה
+  'discard': דחה
+  'filedeleteaction': מחק
+  'filedeletedefault': 'קובץ זה'
+  'filedeleteloading': 'מוחק קובץ ...'
+  'filedeletesuccess': 'קובץ נמחק בהצלחה.'
+  'filefolderempty': 'תיקיה זו ריקה.'
+  'filemoveaction': 'העבר ל...'
+  'filemoveloading': 'מעביר קובץ ...'
+  'filemovesuccess': 'קובץ הועבר בהצלחה.'
+  'fileprocessing': מעבד...
+  'filerenameaction': 'שנה שם'
+theme:
+  'altcolor': 'צבע חלופי'
+  'altcolordesc': 'משמש עבור סרגל צד (בגוון כהה יותר)'
+  'codeblock':
+    'colorize': 'צביעת תחביר הקוד.'
+    'dark': 'השתמש בערכת נושא כהה'
+    'title': 'בלוקי קוד'
+  'footercolordesc': 'משמש עבור כותרת תחתונה (בגוון בהיר יותר)'
+  'primarycolor': 'צבע ראשוני'
+  'primarycolordesc': 'משמש עבור סרגל ניווט עליון, כותרות, קישורים וכו ''.'
+  'reset': 'חזור לברירות מחדל'
+  'savechanges': 'שמור שינויים'
+  'footerColor': 'צבע כותרת תחתונה'
+users:
+  'createauthorize': 'יצירת / הרשאת משתמש'
+  'createdon': 'נוצר בתאריך'
+  'edituser': 'ערוך משתמש'
+  'email': 'כתובת דוא"ל'
+  'name': שם
+  'provider': ספק
+  'returntousers': 'חזור אל המשתמשים'
+  'subtitle': 'ניהול משתמשים וזכויות גישה'
+  'uniqueid': 'מזהה ייחודי'
+  'updatedon': 'עודכן בתאריך'

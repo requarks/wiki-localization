@@ -1,0 +1,280 @@
+actions:
+  'gohome': 'Αρχική σελίδα'
+  'loginas': 'Σύνδεση ως ...'
+added: 'Προστέθηκε {{path}}'
+alreadyexists: 'Αυτή η καταχώρηση υπάρχει ήδη!'
+auth:
+  actions.login: Σύνδεση
+  errors.invalidLogin: 'Αποτυχία εισόδου'
+  errors.invalidLoginMsg: 'Μη έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου ή κωδικός'
+  errors.invalidUserEmail: 'Μη έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου χρήστη'
+  errors.loginError: 'Σφάλμα σύνδεσης'
+  errors.notYetAuthorized: 'Δεν έχετε εξουσιοδοτηθεί να συνδεθείτε σε αυτόν τον ιστότοπο ακόμα.'
+  errors.tooManyAttempts: 'Πάρα πολλές απόπειρες!'
+  errors.tooManyAttemptsMsg: 'Έχετε κάνει πολλές αποτυχημένες προσπάθειες σε σύντομο χρονικό διάστημα, δοκιμάστε ξανά {{time}} .'
+  errors.userNotFound: 'Ο χρήστης δεν βρέθηκε'
+  fields.emailUser: 'Email / Όνομα χρήστη'
+  fields.password: Κωδικός
+  loginRequired: 'Απαιτείται σύνδεση'
+  providers.azure: 'Azure Active Directory'
+  providers.facebook: Facebook
+  providers.github: GitHub
+  providers.google: 'Google ID'
+  providers.ldap: 'LDAP / Active Directory'
+  providers.local: Τοπικός
+  providers.slack: Slack
+  providers.windowslive: 'Λογαριασμός Microsoft'
+  tfa.placeholder: XXXXXX
+  tfa.subtitle: 'Απαιτείται κωδικός ασφαλείας:'
+  tfa.title: 'Έλεγχος ταυτότητας δύο παραγόντων'
+  tfa.verifyToken: Επιβεβαίωση
+common:
+  footer.home: 'Αρχική σελίδα'
+  footer.poweredBy: 'Powered by'
+  footer.top: 'Επιστροφή στην κορυφή'
+  welcome.createhome: 'Δημιουργία Αρχικής Σελίδας'
+  welcome.subtitle: 'Ας ξεκινήσουμε δημιουργώντας την αρχική σελίδα.'
+  welcome.title: 'Καλώς ήλθατε στο wiki σας!'
+debugmsg: 'Λεπτομερής διαδρομή εντοπισμού σφαλμάτων'
+deleted: 'Διαγράφηκε / μετονομάστηκε {{path}}'
+editor:
+  'codeblockinsert': 'Εισαγωγή μπλοκ κώδικα'
+  'codeblocklanguage': Γλώσσα
+  'codeblockloading': 'Φόρτωση σύνταξης κώδικα για {{name}}'
+  'codeblockloadingerror': 'Σφάλμα: Δεν είναι δυνατή η φόρτωση σύνταξης γλώσσας.'
+  'codeblocksuccess': 'Έχει εισαχθεί το μπλοκ κώδικα.'
+  'codeblocktitle': 'Εισαγωγή μπλοκ κώδικα'
+  'discard': Απόρριψη
+  'filedeleteaction': Διαγραφή
+  'filedeletedefault': 'αυτό το αρχείο'
+  'filedeleteloading': 'Διαγραφή αρχείου ...'
+  'filedeletesuccess': 'Το αρχείο διαγράφηκε επιτυχώς.'
+  'fileerror': 'Δεν είναι δυνατή η λήψη ενημερωμένης καταχώρησης.'
+  'filefolderempty': 'Αυτός ο φάκελος είναι κενός.'
+  'fileinsert': 'Εισαγωγή συνδέσμου στο αρχείο'
+  'fileloading': 'Ανάκτηση αρχείων...'
+  'filemoveaction': 'Μετακίνηση σε...'
+  'filemoveerror': 'Σφάλμα μεταφοράς: {{err}}'
+  'filemoveloading': 'Μετακίνηση αρχείου …'
+  'filemovesuccess': 'Το αρχείο μετακινήθηκε με επιτυχία.'
+  'fileprocessing': Επεξεργασία...
+  'filerenameaction': Μετονομασία
+  'filesuccess': 'Ο σύνδεσμος αρχείου έχει εισαχθεί.'
+  'filetitle': 'Εισαγωγή αρχείου'
+  'fileupload': 'Μεταφόρτωση αρχείου(ων)'
+  'fileuploaderror': 'Σφάλμα μεταφόρτωσης: {{err}}'
+  'fileuploadsuccess': 'Το αρχείο(s) μεφορτώθηκε(αν) με επιτυχία.'
+  'folders': Φάκελοι
+  'foldersloading': 'Λήψη της λίστας φακέλων ...'
+  'imagealigncenter': Κεντραρισμένο
+  'imagealignleft': 'Αριστερά (προεπιλογή)'
+  'imagealignlogo': 'Λογότυπο σελίδας'
+  'imagealignright': Δεξιά
+  'imageinsert': 'Εισαγωγή εικόνας'
+  'imagesuccess': 'Η εικόνα έχει εισαχθεί.'
+  'imagetitle': 'Εισαγωγή εικόνας'
+  'imageupload': 'Μεταφόρτωση εικόνων'
+  'newfolder': 'Νέος φάκελος'
+  'videoanymp4file': 'Οποιοδήποτε αρχείο MP4'
+  'videoinsert': 'Εισαγωγή βίντεο'
+  'videolinktitle': 'Εισαγάγετε τον σύνδεσμο στο βίντεο που πρόκειται να ενσωματωθεί:'
+  'videonotsupported': 'Αυτή η διεύθυνση URL δεν είναι έγκυρη ή δεν υποστηρίζεται!'
+  'videosuccess': 'Ο κώδικας βίντεο έχει εισαχθεί.'
+  'videosupportedtitle': 'Το παρακάτω υποστηρίζονται:'
+  'videotitle': 'Εισαγωγή βίντεο'
+fileexists: 'Το αρχείο {{path}} υπάρχει ήδη.'
+forbidden: Απαγορεύεται
+forbiddendetail: 'Λυπούμαστε, δεν έχετε τα απαραίτητα δικαιώματα για να αποκτήσετε πρόσβαση σε αυτήν τη σελίδα.'
+generic: 'Ουπς, κάτι πήγε στραβά'
+header:
+  'createdoc': 'Δημιουργία νέου εγγράφου'
+  'overview': Επισκόπηση
+history:
+  'author': Συγγραφέας
+  'commit': Υποβολή
+  'comparewith': 'Σύγκριση με...'
+  'pastversions': 'Προηγούμενες εκδόσεις'
+  'reverttoversion': 'Επαναφορά στην έκδοση'
+  'sidebyside': 'Προβολή δίπλα-δίπλα'
+  'timestamp': 'Χρονική σήμανση'
+  'view': Προβολή
+invalidaction: 'Μη έγκυρη ενέργεια.'
+invaliddestfolder: 'Μη έγκυρος φάκελος προορισμού!'
+invalidfiletype: 'Μη έγκυρος τύπος αρχείου.'
+invalidfolder: 'Μη έγκυρος φάκελος.'
+invalidoperation: 'Μη έγκυρη λειτουργία!'
+invalidpath: 'Μη έγκυρη διαδρομή σελίδας.'
+invaliduserid: 'Μη Έγκυρο Αναγνωριστικό Χρήστη'
+loading:
+  'editor': 'Φόρτωση επεξεργαστή...'
+  'source': 'Φόρτωση πηγής...'
+modal:
+  'abort': Ματαίωση
+  'anchorerror': 'Η αντιγραφή στο Πρόχειρο απέτυχε. Αντιγράψτε τη διεύθυνση URL με μη αυτόματο τρόπο.'
+  'anchorsuccess': 'Η διεύθυνση URL έχει αντιγραφεί στο πρόχειρο σας.'
+  'anchortitle': 'Αντιγράψτε το σύνδεσμο σε αυτή την ενότητα'
+  'copyclipboard': 'Αντιγραφή στο Πρόχειρο'
+  'create': Δημιουργία
+  'createpageinvalid': 'Αυτή η διαδρομή σελίδας δεν είναι έγκυρη!'
+  'createpagepath': 'Εισαγάγετε τη διαδρομή της νέας σελίδας:'
+  'createpagetitle': 'Δημιουργία Νέας Σελίδας'
+  'createuser': 'Δημιουργία χρήστη'
+  'createuserauthorize': 'Εξουσιοδότηση χρήστη'
+  'createuseremail': 'Διεύθυνση ηλεκτρονικού ταχυδρομείου:'
+  'createuseremailplaceholder': 'π. χ. john.doe@company.com'
+  'createusername': 'Πλήρες Όνομα:'
+  'createusernameplaceholder': 'π. χ. Γιάννης Παπαδόπουλος'
+  'createuserpassword': 'Κωδικός:'
+  'createuserprovider': 'Πάροχος:'
+  'createusertitle': 'Δημιουργία / Εξουσιοδότηση χρήστη'
+  'delete': Διαγραφή
+  'deletefiletitle': Διαγραφή;
+  'deletefilewarn': 'Είστε βέβαιοι ότι θέλετε να διαγράψετε'
+  'deletepagetitle': 'Διαγραφή αυτής της σελίδας;'
+  'deletepagewarning': 'Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν τη σελίδα; Αυτή η πράξη δε μπορεί να αναιρεθεί!'
+  'deleteusertitle': 'Διαγραφή Λογαριασμού Χρήστη;'
+  'deleteuserwarning': 'Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτόν τον λογαριασμό χρήστη; Αυτή η πράξη δε μπορεί να αναιρεθεί!'
+  'discard': Απόρριψη
+  'discardpagecreate': 'Είστε βέβαιοι ότι θέλετε να αφήσετε αυτή τη σελίδα και να χάσετε οτιδήποτε γράψατε μέχρι τώρα;'
+  'discardpageedit': 'Είστε βέβαιοι ότι θέλετε να εγκαταλείψετε αυτήν τη σελίδα και να χάσετε οποιεσδήποτε τροποποιήσεις;'
+  'discardpagestay': 'Παραμείνετε στην σελίδα'
+  'discardpagetitle': Απόρριψη;
+  'move': Μετακίνηση
+  'movepageinvalid': 'Αυτή η διαδρομή σελίδας δεν είναι έγκυρη ή δεν επιτρέπεται!'
+  'movepagepath': 'Εισαγάγετε τη νέα διαδρομή της σελίδας:'
+  'movepageplaceholder': 'όνομα σελίδας'
+  'movepagetitle': 'Μετακίνηση σελίδας'
+  'movepagewarning': 'Σημειώστε ότι η μετακίνηση ή η μετονομασία σελίδων μπορεί να οδηγήσει σε σπασμένους συνδέσμους. Βεβαιωθείτε ότι έχετε επεξεργαστεί οποιαδήποτε σελίδα που συνδέεται με αυτή τη σελίδα έπειτα!'
+  'newfolderinvalid': 'Αυτό το όνομα φακέλου δεν είναι έγκυρο!'
+  'newfolderloading': 'Δημιουργία νέου φακέλου...'
+  'newfoldername': 'Εισαγάγετε το όνομα του νέου φακέλου:'
+  'newfoldernameplaceholder': 'όνομα φακέλου'
+  'newfoldersuccess': 'Ο νέος φάκελος {{name}} δημιουργήθηκε.'
+  'newfoldertitle': 'Νέος φάκελος'
+  'renamefile': Μετονομασία
+  'renamefileerror': 'Σφάλμα μετονομασίας: {{err}}'
+  'renamefileinvalid': 'Αυτό το όνομα αρχείου δεν είναι έγκυρο!'
+  'renamefileloading': 'Μετονομασία αρχείου...'
+  'renamefilename': 'Εισαγάγετε το νέο όνομα αρχείου (χωρίς την επέκταση):'
+  'renamefilenameplaceholder': 'όνομα αρχείου'
+  'renamefiletitle': 'Μετονομασία αρχείου'
+nav:
+  'account': Λογαριασμός
+  'allpages': 'Όλες οι σελίδες'
+  'create': Δημιουργία
+  'discard': Απόρριψη
+  'edit': Επεξεργασία
+  'history': Ιστορικό
+  'home': 'Αρχική σελίδα'
+  'login': Σύνδεση
+  'logout': Αποσυνδέση
+  'move': Μετακίνηση
+  'myprofile': 'Το Προφίλ Μου'
+  'normalview': 'Κανονική προβολή'
+  'root': 'Αρχική σελίδα'
+  'savechanges': 'Αποθήκευση αλλαγών'
+  'savedocument': 'Αποθήκευση εγγράφου'
+  'settings': Ρυθμίσεις
+  'source': Πηγή
+  'stats': Στατιστικά
+  'sysinfo': 'Πληροφορίες συστήματος'
+  'syssettings': 'Ρυθμίσεις συστήματος'
+  'theme': 'Χρώματα θέματος'
+  'users': Χρήστες
+  'viewlatest': 'Δείτε τα τελευταία'
+newpasswordtooshort: 'Ο νέος κωδικός πρόσβασης είναι πολύ μικρός!'
+notexist: 'Η καταχώρηση {{path}} δεν υπάρχει!'
+notexistdetail: 'Θέλετε να δημιουργήσετε αυτήν την καταχώρηση;'
+parentinvalid: 'Η καταχώρηση γονέα δεν είναι έγκυρο αρχείο.'
+parentisroot: 'Η καταχώρηση γονέα είναι ρίζα.'
+profile:
+  'displayname': 'Εμφανιζόμενο όνομα'
+  'displaynameexample': 'Τζον Σμιθ'
+  'email': E-mail
+  'lastprofileupdate': 'Τελευταία ενημέρωση προφίλ'
+  'membersince': 'Μέλος από'
+  'password': 'Κωδικός πρόσβασης'
+  'passwordverify': 'Επαλήθευση κωδικού πρόσβασης'
+  'provider': Πάροχος
+  'savechanges': 'Αποθήκευση αλλαγών'
+  'subtitle': 'Προφίλ και πληροφορίες ελέγχου ταυτότητας'
+  'tfa': 'Έλεγχος ταυτότητας δύο παραγόντων'
+  'tfadisable': 'Απενεργοποίηση 2FA'
+  'tfadisabled': Απενεργοποιημένη
+  'tfaenable': 'Ενεργοποίηση 2FA'
+  'tfaenabled': Ενεργοποιημένη
+remotetoolarge: 'Το απομακρυσμένο αρχείο είναι πολύ μεγάλο!'
+reservedname: 'Δεν μπορείτε να δημιουργήσετε ένα έγγραφο με το όνομα αυτό, καθώς είναι δεσμευμένο από το σύστημα.'
+savefailed: 'Αποτυχία αποθήκευσης εγγράφου'
+search:
+  'didyoumean': 'Μήπως εννοείτε...;'
+  'nomatch': 'Δεν υπάρχουν αποτελέσματα που ταιριάζουν με το ερώτημα σας'
+  'placeholder': Αναζήτηση...
+  'results': 'Αποτελέσματα αναζήτησης'
+settings:
+  'subtitle': 'Διαχείριση ρύθμισης παραμέτρων τοποθεσίας'
+sidebar:
+  'nav': NAV
+  'navigation': Πλοήγηση
+  'pagecontents': 'Περιεχόμενα σελίδας'
+  'pastversions': 'Προηγούμενες εκδόσεις'
+starterfailed: 'Δεν ήταν δυνατή η φόρτωση περιεχομένου εκκίνησης!'
+stats:
+  'entries': Καταχωρήσεις
+  'subtitle': 'Γενικά site-wide στατιστικά'
+  'uploads': Μεταφορτώσεις
+  'users': Χρήστες
+system:
+  'administrativetools': 'Εργαλεία Διαχείρισης'
+  'cores': 'Πυρήνες CPU'
+  'currentversion': 'Τρέχουσα έκδοση'
+  'cwd': 'Κατάλογος εργασίας'
+  'flushcache': 'Flush cache και ανοικοδόμηση ευρετηρίων'
+  'flushcachebtn': 'Flush και την ανοικοδόμηση'
+  'flushcachetext': 'Εάν το περιεχόμενο ή τα αποτελέσματα αναζήτησης δεν είναι πλέον ενημερωμένα ή δεν περιλαμβάνουν το πιο πρόσφατο περιεχόμενο, η εκκαθάριση της προσωρινής μνήμης μπορεί να βοηθήσει στην επίλυση αυτών των προβλημάτων.'
+  'flushsessions': 'Flush όλες τις ενεργές περιόδους λειτουργίας χρηστών'
+  'flushsessionsbtn': 'Flush Συνεδρίες'
+  'flushsessionstext': 'Όλοι οι χρήστες θα αποσυνδεθούν και θα αναγκαστούν να συνδεθούν ξανά. Η τρέχουσα συνεδρία σας θα επηρεαστεί επίσης!'
+  'hostinfo': 'Πληροφορίες του κεντρικού υπολογιστή'
+  'hostname': 'Όνομα κεντρικού υπολογιστή'
+  'latestversion': 'Τελευταία έκδοση'
+  'nodeversion': 'Έκδοση Node.js'
+  'os': 'Λειτουργικό σύστημα'
+  'reinstall': 'Εγκαταστήστε ξανά την τρέχουσα έκδοση'
+  'resetaccounts': 'Επαναφέρετε τους λογαριασμούς του συστήματος στις προεπιλογές'
+  'resetaccountsbtn': 'Επαναφορά λογαριασμών συστήματος'
+  'resetaccountstext': 'Οι λογαριασμοί του συστήματος (όπως ο λογαριασμός Guest) θα επαναφερθούν στις προεπιλεγμένες ρυθμίσεις τους.'
+  'subtitle': 'Πληροφορίες και βοηθητικά προγράμματα για το wiki σας'
+  'systemversion': 'Έκδοση συστήματος'
+  'totalmem': 'Συνολική μνήμη'
+  'upgrade': Αναβάθμιση
+  'versioncheckfailed': 'Δεν είναι δυνατή η αναζήτηση της τελευταίας έκδοσης. Δοκιμάστε ξανά αργότερα.'
+theme:
+  'altcolor': 'Εναλλακτικό χρώμα'
+  'altcolordesc': 'Χρησιμοποιείται για την πλευρική γραμμή (με πιο σκούρο τόνο)'
+  'codeblock':
+    'colorize': 'Χρωματισμός συντακτικού κώδικα'
+    'dark': 'Χρήση Σκούρου Θέματος'
+    'title': 'Μπλοκ κώδικα'
+  'footercolordesc': 'Χρησιμοποιείται για το υποσέλιδο (σε ανοιχτότερο τόνο)'
+  'primarycolor': 'Πρωτεύον Χρώμα'
+  'primarycolordesc': 'Χρησιμοποιείται για την επάνω γραμμή περιήγησης, κεφαλίδες, συνδέσμους, κλπ.'
+  'reset': 'Επαναφορά προεπιλογών'
+  'savechanges': 'Αποθήκευση αλλαγών'
+  'subtitle': 'Αλλάξτε την εμφάνιση και την αίσθηση του wiki σας'
+  'footerColor': 'Χρώμα Υποσέλιδου'
+unauthorized: 'Μη εξουσιοδοτημένη πρόσβαση'
+updated: 'Ενημερώθηκε {{path}}'
+uploaded: 'Μεταφορτώθηκε {{path}}'
+users:
+  'createauthorize': 'Δημιουργία / Εξουσιοδότηση χρήστη'
+  'createdon': 'Δημιουργήθηκε στις'
+  'edituser': 'Επεξεργασία χρήστη'
+  'email': 'Διεύθυνση ηλεκτρονικού ταχυδρομείου'
+  'name': Όνομα
+  'provider': Πάροχος
+  'returntousers': 'Επιστροφή στους χρήστες'
+  'subtitle': 'Διαχείριση χρηστών και δικαιωμάτων πρόσβασης'
+  'uniqueid': 'Unique ID'
+  'updatedon': 'Ενημερώθηκε στις'
+wiki: Wiki

@@ -1,0 +1,73 @@
+admin:
+  contribute.contribute: Prisidėti
+  contribute.followUsOnTwitter: 'Sekite mus per {{0}} .'
+  contribute.helpTranslate: 'Padėkite išversti Wiki.js į savo kalbą. Praneškite mums apie tai per {{0}} .'
+  contribute.makeADonation: Paaukoti
+  contribute.openSource: 'Wiki.js yra nemokama ir atviro kodo programinė įranga, kurią jums su {{0}} suteikė {{1}} ir {{2}} .'
+  contribute.openSourceContributors: pagalbininkai
+  contribute.shop: 'Wiki.js parduotuvė'
+  contribute.tshirts: 'Taip pat galite įsigyti "Wiki.js" marškinėlių, kad finansiškai paremtumėte projektą:'
+  mail.configuration: Konfigūracija
+  mail.dkim: 'DKIM (neprivaloma)'
+  mail.subtitle: 'Konfigūruokite pašto nustatymus'
+  mail.title: Paštas
+  navigation.delete: 'Ištrinti {{kind}}'
+  navigation.edit: 'Redaguoti {{kind}}'
+  navigation.link: Nuoroda
+  navigation.navType.page: Puslapis
+  navigation.navType.searchQuery: 'Paieškos užklausa'
+  pages.title: Puslapiai
+  system.configFile: 'Konfigūracijos failas'
+  system.currentVersion: 'Dabartinė versija'
+  system.os: 'Operacinė sistema'
+  system.ramUsage: 'RAM naudojimas: {{used}} / {{total}}'
+  system.subtitle: 'Informacija apie tavo sistemą'
+  system.totalRAM: 'Bendras RAM'
+auth:
+  forgotPasswordCancel: Atšaukti
+  forgotPasswordSubtitle: 'Įveskite savo el.pašto adresą, kad gautumėte instrukcijas, kaip iš naujo nustatyti slaptažodį:'
+  genericError: 'Autentifikavimas nepasiekiamas.'
+  invalidEmail: 'El.pašto adresas neteisingas.'
+  invalidEmailUsername: 'Įveskite teisingą el. pašto / vartotojo vardą.'
+  invalidPassword: 'Įveskite teisingą slaptažodį.'
+  loginSuccess: 'Prisijungimas sėkmingas! Peradresavimas ...'
+  missingEmail: 'Trūksta el.pašto adreso.'
+  missingName: 'Trūksta vardo.'
+  missingPassword: 'Trūksta slaptažodžio.'
+  nameTooLong: 'Vardas yra per ilgas.'
+  nameTooShort: 'Vardas yra per trumpas.'
+  passwordNotMatch: 'Abu slaptažodžiai nesutampa.'
+  passwordTooShort: 'Slaptažodis yra per trumpas.'
+  pleaseWait: 'Prašome palaukti.'
+  registerCheckEmail: 'Patikrink savo el.paštą, kad aktyvuotum savo paskyrą.'
+  registering: 'Kuriama paskyra...'
+  registerSubTitle: 'Jei norite sukurti paskyrą, užpildykite žemiau esančią formą.'
+  registerSuccess: 'Paskyra sukurta sėkmingai!'
+  sendResetPassword: 'Iš naujo nustatyti slaptažodį'
+  signingIn: Prisijungiama...
+common:
+  actions.cancel: Atšaukti
+  actions.clear: Išvalyti
+  actions.create: Sukurti
+  actions.delete: Ištrinti
+  actions.discard: Atmesti
+  actions.download: Atsisiųsti
+  actions.edit: Redaguoti
+  actions.ok: Gerai
+  actions.proceed: Tęsti
+  actions.refresh: Atnaujinti
+  actions.save: Išsaugoti
+  actions.saveChanges: 'Išsaugoti pakeitimus'
+  actions.upload: Įkelti
+  footer.copyright: '© {{year}} {{company}} . Visos teisės saugomos.'
+  newpage.create: 'Sukurti puslapį'
+  newpage.goback: 'Grįžti atgal'
+  newpage.subtitle: 'Ar norėtumėte jį sukurti dabar?'
+  newpage.title: 'Šis puslapis dar neegzistuoja.'
+editor:
+  page: Puslapis
+  save.createSuccess: 'Puslapis sukurtas sėkmingai.'
+  save.error: 'Kuriant puslapį įvyko klaida'
+  save.pleaseWait: 'Prašome palaukti...'
+  save.processing: Apdorojama
+  save.updateSuccess: 'Puslapis atnaujintas sėkmingai.'
