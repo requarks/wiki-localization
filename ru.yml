@@ -1,53 +1,68 @@
-actions:
-  'gohome': 'Перейти к Главной странице'
-  'loginas': 'Войти как ...'
-added: 'Добавлено {{path}}'
 admin:
   api.title: 'Доступ к API'
   auth.title: Аутентификация
-  contribute.followUsOnTwitter: 'Подпишитесь на нас в {{0}}.'
-  contribute.foundABug: 'Нашли ошибку? Сообщите о ней на {{0}}.'
+  contribute.becomeAPatron: ''
+  contribute.contribute: ''
+  contribute.followUsOnTwitter: 'Подпишитесь на нас в %1$s.'
+  contribute.foundABug: 'Нашли ошибку? Сообщите о ней на %1$s.'
   contribute.fundOurWork: 'Финансировать нашу работу'
-  contribute.helpTranslate: 'Помогите перевести Wiki.js на ваш язык. Дайте нам знать на {{0}}.'
-  contribute.openSource: 'Wiki.js - это бесплатное программное обеспечение с открытым исходным кодом, созданное с {{0}} при помощи {{1}} и {{2}} .'
+  contribute.helpTranslate: 'Помогите перевести Wiki.js на ваш язык. Дайте нам знать на %1$s.'
+  contribute.makeADonation: ''
+  contribute.needYourHelp: ''
+  contribute.openCollective: ''
+  contribute.openSource: 'Wiki.js - это бесплатное программное обеспечение с открытым исходным кодом, созданное с %1$s при помощи %2$s и %3$s .'
   contribute.openSourceContributors: контрибьюторы
+  contribute.patreon: ''
   contribute.shop: 'Магазин Wiki.js'
   contribute.spreadTheWord: Поделиться
-  contribute.submitAnIdea: 'Предложите идею или проголосуйте за существующую на {{0}}.'
+  contribute.submitAnIdea: 'Предложите идею или проголосуйте за существующую на %1$s.'
+  contribute.submitAnIdeaLink: ''
   contribute.subtitle: 'Помогите поддержать разработку и операции Wiki.js'
   contribute.talkToFriends: 'Расскажите друзьям и коллегам о том, как крута Wiki.js!'
   contribute.title: 'Внесите вклад в развитие Wiki.js'
   contribute.tshirts: 'Вы можете также приобрести футболки Wiki.js для финансовой поддержки проекта:'
+  dashboard.subtitle: ''
   dashboard.title: 'Панель управления'
   dev.title: 'Инструменты разработчика'
   editor.title: Редактор
   general.siteBranding: 'Брендинг сайта'
   general.siteInfo: 'Информация о сайте'
   general.subtitle: 'Основные настройки вашей вики'
+  general.title: ''
   groups.title: Группы
+  locale.activeNamespaces.hint: ''
+  locale.activeNamespaces.label: ''
   locale.autoUpdate.hint: 'Автоматически загружать обновления для этого языка по мере их поступления.'
+  locale.autoUpdate.hintWithNS: ''
   locale.autoUpdate.label: 'Автоматически обновлять'
   locale.base.hint: 'Все текстовые элементы пользовательского интерфейса будут отображаться на выбранном языке.'
   locale.base.label: 'Язык сайта'
   locale.base.labelWithNS: 'Базовая локаль'
   locale.download: 'Загрузить локаль'
   locale.namespaces.hint: 'Включает несколько языковых версий одной и той же страницы.'
+  locale.namespaces.label: ''
+  locale.namespacing: ''
   locale.namespacingPrefixWarning.subtitle: 'Пути без кода локали будут автоматически перенаправлены на базовую локаль, определенную выше.'
-  locale.namespacingPrefixWarning.title: 'Код локали будет добавлен ко всем путям (например, /{{langCode}}/название-страницы).'
+  locale.namespacingPrefixWarning.title: 'Код локали будет добавлен ко всем путям (например, /%1$s/название-страницы).'
   locale.settings: 'Настройки локали'
   locale.subtitle: 'Настройте параметры локализации для вашей вики'
   locale.title: Локаль
+  logging.title: ''
+  mail.configuration: ''
+  mail.dkim: ''
   mail.subtitle: 'Настроить параметры почты'
   mail.title: Почта
   nav.modules: Модули
   nav.site: Сайт
   nav.system: Система
   nav.users: Пользователи
-  navigation.delete: 'Удалить {{kind}}'
+  navigation.delete: 'Удалить %1$s'
   navigation.divider: Разделитель
-  navigation.edit: 'Редактировать {{kind}}'
+  navigation.edit: 'Редактировать %1$s'
+  navigation.emptyList: ''
   navigation.header: Заголовок
   navigation.icon: Значок
+  navigation.label: ''
   navigation.link: Ссылка
   navigation.navType.external: 'Внешняя ссылка'
   navigation.navType.home: Главная
@@ -60,17 +75,21 @@ admin:
   navigation.target: Цель
   navigation.targetType: 'Тип цели'
   navigation.title: Навигация
-  navigation.untitled: 'Без названия {{kind}}'
+  navigation.untitled: 'Без названия %1$s'
   pages.title: Страницы
+  rendering.title: ''
+  search.title: ''
   stats.title: Статистика
+  storage.title: ''
   system.configFile: 'Файл конфигурации'
+  system.cpuCores: ''
   system.currentVersion: 'Текущая версия'
   system.hostInfo: 'Информация о хосте'
   system.hostname: 'Имя хоста'
   system.latestVersion: 'Последняя версия'
   system.os: 'Операционная система'
   system.published: Опубликовано
-  system.ramUsage: 'Использование ОЗУ: {{used}} / {{total}}'
+  system.ramUsage: 'Использование ОЗУ: %1$s / %1$s'
   system.subtitle: 'Информация о вашей системе'
   system.title: 'Системная информация'
   system.totalRAM: 'Всего ОЗУ'
@@ -78,7 +97,6 @@ admin:
   theme.title: Тема
   users.title: Пользователи
   utilities.title: Утилиты
-alreadyexists: 'Эта запись уже существует!'
 auth:
   actions.login: Войти
   actions.register: Зарегистрироваться
@@ -88,7 +106,7 @@ auth:
   errors.loginError: 'Ошибка входа'
   errors.notYetAuthorized: 'Вы не были  еще Авторизованны'
   errors.tooManyAttempts: 'Слишком много попыток!'
-  errors.tooManyAttemptsMsg: 'Вы сделали слишком много неудачных попыток за короткий период времени.Пожалуйста попробуйте снова  {{time}}. '
+  errors.tooManyAttemptsMsg: 'Вы сделали слишком много неудачных попыток за короткий период времени.Пожалуйста попробуйте снова  %1$s. '
   errors.userNotFound: 'Пользователь не найден'
   fields.email: 'Адрес электронной почты '
   fields.emailUser: 'Е-маил / Имя пользователя'
@@ -104,6 +122,7 @@ auth:
   invalidPassword: 'Введите действительный пароль.'
   loginRequired: 'Требуется войти'
   loginSuccess: 'Вход успешен! Перенаправляем...'
+  loginUsingStrategy: ''
   missingEmail: 'Отсутствует адрес электронной почты.'
   missingName: 'Имя отсутствует.'
   missingPassword: 'Отсутствует пароль.'
@@ -128,9 +147,10 @@ auth:
   registerTitle: 'Создать учётную запись'
   sendResetPassword: 'Сбросить пароль'
   signingIn: 'Выполняется вход...'
-  switchToLogin.text: 'Уже есть учётная запись? {{link}}'
+  switchToLogin.link: ''
+  switchToLogin.text: 'Уже есть учётная запись? %1$s'
   switchToRegister.link: 'Создать учётную запись'
-  switchToRegister.text: 'Нет учётной записи? {{link}}'
+  switchToRegister.text: 'Нет учётной записи? %1$s'
   tfa.placeholder: XXXXXX
   tfa.subtitle: 'Требуется код безопасности:'
   tfa.title: 'Двухфакторная аутентификация'
@@ -145,15 +165,14 @@ common:
   actions.discard: Отменить
   actions.download: Скачать
   actions.edit: Редактировать
+  actions.ok: ''
   actions.proceed: Продолжить
   actions.refresh: Обновить
   actions.save: Сохранить
   actions.saveChanges: 'Сохранить изменения'
   actions.upload: Загрузить
-  footer.copyright: '{{year}} {{company}}. Все права защищены.'
-  footer.home: Главная
+  footer.copyright: '%1$s %1$s. Все права защищены.'
   footer.poweredBy: 'На Базе'
-  footer.top: 'Вернуться к началу'
   newpage.create: 'Создать страницу'
   newpage.goback: Назад
   newpage.subtitle: 'Хотите ли вы создать её сейчас?'
@@ -168,255 +187,11 @@ common:
   unauthorized.action.view: 'Вы не можете просматривать эту страницу.'
   unauthorized.goback: Назад
   unauthorized.login: 'Войти как...'
-  welcome.createhome: 'Создать домашнюю страницу'
-  welcome.subtitle: 'Давайте начнем и создадим домашнюю страницу.'
-  welcome.title: 'Добро пожаловать в вики!'
-debugmsg: 'Подробная отладка'
-deleted: 'Удален/Переименован{{path}}'
+  unauthorized.title: ''
 editor:
-  'codeblockinsert': 'Вставить блок кода'
-  'codeblocklanguage': Язык
-  'codeblockloading': 'Загрузка синтаксиса кода для {{name}}'
-  'codeblockloadingerror': 'Ошибка: невозможно загрузить синтаксис языка.'
-  'codeblocksuccess': 'Блок кода был вставлен.'
-  'codeblocktitle': 'Вставить блок кода'
-  'discard': Отменить
-  'filedeleteaction': Удалить
-  'filedeletedefault': 'Этот файл'
-  'filedeleteloading': 'Удаление файла...'
-  'filedeletesuccess': 'Файл успешно удален.'
-  'fileerror': 'Не удалось получить обновленный список.'
-  'filefolderempty': 'Папка пуста.'
-  'fileinsert': 'Вставить ссылку на файл'
-  'fileloading': 'Получение файлов ...'
-  'filemoveaction': 'Переместить в ...'
-  'filemoveerror': 'Ошибка перемещения: {{err}}'
-  'filemoveloading': 'Перемещение файла ...'
-  'filemovesuccess': 'Файл успешно перемещен.'
-  'fileprocessing': Обрабатываеться
-  'filerenameaction': Переименовать
-  'filesuccess': 'Ссылка на файл была вставлена.'
-  'filetitle': 'Вставить файл'
-  'fileupload': 'Загрузить файл(ы)'
-  'fileuploaderror': 'Ошибка загрузки: {{err}}'
-  'fileuploadsuccess': 'Файл(ы) успешно загружен(ы).'
-  'folders': Папки
-  'foldersloading': 'Получение списка папок ...'
-  'imagealigncenter': 'По центру'
-  'imagealignleft': 'Слева (по умолчанию)'
-  'imagealignlogo': 'Логотип Страницы'
-  'imagealignright': Право
-  'imageinsert': 'Вставить изображение'
-  'imagesuccess': 'Изображение было вставлено.'
-  'imagetitle': 'Вставить изображение'
-  'imageupload': 'Загрузить изображение(я)'
-  'newfolder': 'Новая папка'
-  'videoanymp4file': 'Любой стандартный файл MP4'
-  'videoinsert': 'Вставить видео'
-  'videolinktitle': 'Введите ссылку на видео для встраивания:'
-  'videonotsupported': 'Этот URL-адрес недействителен или не поддерживается!'
-  'videosuccess': 'Видео код был вставлен.'
-  'videosupportedtitle': 'Поддерживаются следующие:'
-  'videotitle': 'Вставить видео'
-  'page': Страница
-  'save.createSuccess': 'Страница создана успешно.'
-  'save.error': 'Произошла ошибка при создании страницы'
-  'save.pleaseWait': 'Пожалуйста, подождите...'
-  'save.processing': Обработка
-  'save.updateSuccess': 'Страница успешно обновлена.'
-fileexists: 'Файл{{path}} уже существует.'
-forbidden: Запрещено
-forbiddendetail: 'К сожалению, у вас нет необходимых разрешений на доступ к этой странице.'
-generic: 'Упс! Что-то пошло не так'
-header:
-  'createdoc': 'Создать новый документ'
-  'overview': Обзор
-history:
-  'author': Автор
-  'commit': совершить
-  'comparewith': 'Сравнить С...'
-  'pastversions': 'Предыдущие версии'
-  'reverttoversion': 'Откатить до версии'
-  'sidebyside': 'Вид сбоку'
-  'timestamp': 'Временная отметка'
-  'view': Вид
-invalidaction: 'Недопустимое действие.'
-invaliddestfolder: 'Недопустимая папка назначения!'
-invalidfiletype: 'Неверный тип файла.'
-invalidfolder: 'Недопустимая папка.'
-invalidoperation: 'Недопустимая операция!'
-invalidpath: 'Недопустимый путь к странице.'
-invaliduserid: 'Недействительный идентификатор пользователя'
-loading:
-  'editor': 'Загрузка редактора ...'
-  'source': 'Загрузка источника ...'
-modal:
-  'abort': Прервать
-  'anchorerror': 'Копирование в буфер обмена не удалось. Скопируйте Адрес вручную.'
-  'anchorsuccess': 'Aдрес был скопирован в буфер обмена.'
-  'anchortitle': 'Скопировать ссылку на этот раздел'
-  'copyclipboard': 'Скопировать в буфер обмена'
-  'create': Создать
-  'createpageinvalid': 'Этот путь к странице недействителен!'
-  'createpagepath': 'Введите новый путь к странице:'
-  'createpagetitle': 'Создать Новую Страницу'
-  'createuser': 'Создать пользователя'
-  'createuserauthorize': 'Авторизовать Пользователя'
-  'createuseremail': 'Адрес электронной почты'
-  'createuseremailplaceholder': 'например vasya.pupkin@company.com'
-  'createusername': 'Полное имя:'
-  'createusernameplaceholder': 'например, Вася Пупкин'
-  'createuserpassword': Пароль
-  'createuserprovider': 'Поставщик:'
-  'createusertitle': 'Создать / Авторизовать пользователя'
-  'delete': Удалить
-  'deletefiletitle': 'Удалить?'
-  'deletefilewarn': 'Вы уверены, что хотите удалить'
-  'deletepagetitle': 'Удалить эту страницу?'
-  'deletepagewarning': 'Вы действительно хотите удалить эту страницу? Это действие не может быть отменено!'
-  'deleteusertitle': 'Удалить учетную запись пользователя?'
-  'deleteuserwarning': 'Вы действительно хотите удалить эту учетную запись? Это действие не может быть отменено!'
-  'discard': Отменить
-  'discardpagecreate': 'Вы действительно хотите покинуть эту страницу и потерять все, что вы написали?'
-  'discardpageedit': 'Вы уверены, что вы хотите покинуть эту страницу и потерять все изменения?'
-  'discardpagestay': 'Остаться на странице'
-  'discardpagetitle': 'Отменить?'
-  'move': Переместить
-  'movepageinvalid': 'Этот путь к странице недействителен или не разрешен!'
-  'movepagepath': 'Введите новый путь к странице:'
-  'movepageplaceholder': Название-страницы
-  'movepagetitle': 'Переместить страницу'
-  'movepagewarning': 'Обратите внимание, что перемещение или переименование страниц может привести к поломке ссылок. Отредактируйте страницы кторые сылаются на эту страницу'
-  'newfolderinvalid': 'Это имя папки недопустимо!'
-  'newfolderloading': 'Создание новой папки ...'
-  'newfoldername': 'Введите новое имя папки:'
-  'newfoldernameplaceholder': 'имя папки'
-  'newfoldersuccess': 'Создана новая папка {{name}}.'
-  'newfoldertitle': 'Новая папка'
-  'renamefile': Переименовать
-  'renamefileerror': 'Ошибка переименования: {{err}}'
-  'renamefileinvalid': 'Это имя файла недопустимо!'
-  'renamefileloading': 'Переименоваем файл...'
-  'renamefilename': 'Введите новое имя файла (без расширения) файла:'
-  'renamefilenameplaceholder': 'имя файла'
-  'renamefiletitle': 'Переименовать Файл'
-nav:
-  'account': Аккаунт
-  'allpages': 'Все страницы'
-  'create': Создать
-  'discard': Отменить
-  'edit': Редактировать
-  'history': История
-  'home': Главная
-  'login': Вход
-  'logout': Выход
-  'move': Переместить
-  'myprofile': 'Мой профайл'
-  'normalview': 'Нормальный Вид'
-  'root': Главная
-  'savechanges': 'Сохранить изменения'
-  'savedocument': 'Сохранить документ'
-  'settings': Параметры
-  'source': Источник
-  'stats': Статистика
-  'sysinfo': 'Системная информация'
-  'syssettings': 'Настройки системы'
-  'theme': 'Цвет темы'
-  'users': Пользователи
-  'viewlatest': 'Просмотреть последние'
-newpasswordtooshort: 'Пароль слишком короткий!'
-notexist: 'Запись {{path}}не существует!'
-notexistdetail: 'Вы хотите создать эту запись?'
-parentinvalid: 'Родительская запись не является допустимым файлом.'
-parentisroot: 'Родительская запись - root.'
-profile:
-  'displayname': 'Отоброжаемое Имя'
-  'displaynameexample': 'Джон Смит'
-  'email': Е-маил
-  'lastprofileupdate': 'Последнее обновление профиля'
-  'membersince': 'Участник с '
-  'password': Пароль
-  'passwordverify': 'Потвердить Пороль'
-  'provider': Провайдер
-  'savechanges': 'Сохранить изменения '
-  'subtitle': 'Информация о профайле и антификации'
-  'tfa': 'Двухфакторная аутентификация'
-  'tfadisable': 'Отключить 2FA'
-  'tfadisabled': Отключено
-  'tfaenable': 'Включить 2FA'
-  'tfaenabled': Включено
-remotetoolarge: 'Файл слишком велик!'
-reservedname: 'Вы не можете создать документ с этим именем, так как он зарезервирован системой.'
-savefailed: 'Не удалось сохранить документ.'
-search:
-  'didyoumean': 'Вы имели ввиду...?'
-  'nomatch': 'Нет результатов, соответствующих вашему запросу'
-  'placeholder': 'Поиск ...'
-  'results': 'Результаты поиска'
-settings:
-  'subtitle': 'Управление конфигурацией сайта'
-sidebar:
-  'nav': 'Ни какого значения не дабавлено'
-  'navigation': Навигация
-  'pagecontents': 'Содержание страницы'
-  'pastversions': 'Предыдущие версии'
-starterfailed: 'Не удалось загрузить стартовый контент!'
-stats:
-  'entries': Записи
-  'subtitle': 'Общая статистика по сайту'
-  'uploads': Загрузки
-  'users': Пользователи
-system:
-  'administrativetools': 'Инструменты управления'
-  'cores': 'Процессорные ядра'
-  'currentversion': 'Текущая версия'
-  'cwd': 'Рабочая директория'
-  'flushcache': 'Очистите кэш и перестройте индексы'
-  'flushcachebtn': 'Сброс и восстановление'
-  'flushcachetext': 'Если содержание или результаты поиска кажутся устаревшими или не включают в себя последний контент, очистка кэша может помочь решить эти проблемы.'
-  'flushsessions': 'Сброс всех активных сеансов пользователя'
-  'flushsessionsbtn': 'Сброс сеансов'
-  'flushsessionstext': 'Все пользователи будут выброшены из системы. И вынуждены зайти снова. Это также  касаеться вас'
-  'hostinfo': 'Информация о хосте'
-  'hostname': 'Имя хоста'
-  'latestversion': 'Последняя версия'
-  'nodeversion': 'Версия Node.js'
-  'os': 'Операционная система'
-  'reinstall': 'Переустановите текущую версию'
-  'resetaccounts': 'Сброс системных учетных записей  на значений по умолчанию'
-  'resetaccountsbtn': 'Сброс системных учетных записей'
-  'resetaccountstext': 'Учетные записи системы (например, учетная запись гостя) будут сброшены к настройкам по умолчанию.'
-  'subtitle': 'Информация и утилиты для вашей вики'
-  'systemversion': 'Версия системы'
-  'totalmem': 'Всего памяти'
-  'upgrade': Обновить
-  'versioncheckfailed': 'Не удалось запросить последнюю версию. Попробуйте позже.'
-theme:
-  'altcolor': 'Альтернативный цвет'
-  'altcolordesc': 'Используется для боковой панели (в более темный тон)'
-  'codeblock':
-    'colorize': 'Раскрасить синтаксис кода'
-    'dark': 'Использовать темную тему'
-    'title': 'Блоки кода'
-  'footercolordesc': 'Используется для Футер (в более светлый тон)'
-  'primarycolor': 'Основной цвет'
-  'primarycolordesc': 'Используется для верхней панели навигации, заголовков, ссылок и т. Д.'
-  'reset': 'Вернуть к значениям по умолчанию'
-  'savechanges': 'Сохранить изменения'
-  'subtitle': 'Измените внешний вид вашей вики'
-  'footerColor': 'Цвет Футера'
-unauthorized: 'неавторизованный '
-updated: 'Обновлен{{path}}'
-uploaded: 'Загружено {{path}}'
-users:
-  'createauthorize': 'Создать / Авторизовать пользователя'
-  'createdon': 'Создано '
-  'edituser': 'Редактировать пользователя'
-  'email': 'Адрес электронной почты'
-  'name': Имя
-  'provider': Провайдер
-  'returntousers': 'Вернуться в Пользователи'
-  'subtitle': 'Управление пользователями и правами доступа'
-  'uniqueid': 'Уникальный идентификатор'
-  'updatedon': Обновлено
-wiki: Wiki
+  page: Страница
+  save.createSuccess: 'Страница создана успешно.'
+  save.error: 'Произошла ошибка при создании страницы'
+  save.pleaseWait: 'Пожалуйста, подождите...'
+  save.processing: Обработка
+  save.updateSuccess: 'Страница успешно обновлена.'
