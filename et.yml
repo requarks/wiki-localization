@@ -1,7 +1,3 @@
-actions:
-  'gohome': Kodu
-  'loginas': 'Logi sisse kui...'
-added: '{{path}} lisatud'
 admin:
   api.title: 'API juurdepääs'
   auth.title: Autentimine
@@ -101,7 +97,6 @@ admin:
   theme.title: Stiil
   users.title: Kasutajad
   utilities.title: Tööriistad
-alreadyexists: 'See sissekanne on juba olemas!'
 auth:
   actions.login: 'Logi sisse'
   actions.register: Registreeri
@@ -177,9 +172,7 @@ common:
   actions.saveChanges: 'Salvesta muudatused'
   actions.upload: 'Laadi üles'
   footer.copyright: '© {{year}} {{company}}. Kõik õigused kaitstud.'
-  footer.home: Kodu
   footer.poweredBy: Jooksutab
-  footer.top: 'Tagasi üles'
   newpage.create: 'Loo leht'
   newpage.goback: 'Mine tagasi'
   newpage.subtitle: 'Kas soovid selle kohe luua?'
@@ -195,255 +188,10 @@ common:
   unauthorized.goback: 'Mine tagasi'
   unauthorized.login: 'Logi sisse kui...'
   unauthorized.title: Autoriseerimata
-  welcome.createhome: 'Loo koduleht'
-  welcome.subtitle: 'Alustame ja loome kodulehekülje.'
-  welcome.title: 'Tere tulemast oma vikisse!'
-debugmsg: 'Detailne debugi rada'
-deleted: '{{path}} kustutatud/ümber nimetatud'
 editor:
-  'codeblockinsert': 'Sisesta koodijupp'
-  'codeblocklanguage': Keel
-  'codeblockloading': 'Laen süntaksi {{name}} jaoks'
-  'codeblockloadingerror': 'Viga keele süntaksi laadimisel'
-  'codeblocksuccess': 'Su koodijupp on sisestatud.'
-  'codeblocktitle': 'Sisesta koodijupp'
-  'discard': Loobu
-  'filedeleteaction': Kustuta
-  'filedeletedefault': 'see fail'
-  'filedeleteloading': 'Kustutan faili...'
-  'filedeletesuccess': 'Fail edukalt kustutatud.'
-  'fileerror': 'Ei saanud kätte uuendatud loendit.'
-  'filefolderempty': 'See kaust on tühi.'
-  'fileinsert': 'Sisesta link failile'
-  'fileloading': 'Hangin faile...'
-  'filemoveaction': Liiguta
-  'filemoveerror': 'Viga liigutades: {{err}}'
-  'filemoveloading': 'Liigutan faili...'
-  'filemovesuccess': 'Fail edukalt liigutatud.'
-  'fileprocessing': Töötlen...
-  'filerenameaction': 'Nimeta ümber'
-  'filesuccess': 'Link failile sisestatud'
-  'filetitle': 'Sisesta fail'
-  'fileupload': 'Laadi üles fail(id)'
-  'fileuploaderror': 'Viga üles laadimisel: {{err}}'
-  'fileuploadsuccess': 'Fail(id) edukalt üles laaditud.'
-  'folders': Kaustad
-  'foldersloading': 'Hangin kaustade nimekirja...'
-  'imagealigncenter': Keskel
-  'imagealignleft': 'Vasakul (vaikimisi)'
-  'imagealignlogo': 'Lehe logo'
-  'imagealignright': Paremal
-  'imageinsert': 'Sisesta pilt'
-  'imagesuccess': 'Pilt sisestatud.'
-  'imagetitle': 'Sisesta pilt'
-  'imageupload': 'Laadi üles pilt/pildid'
-  'newfolder': 'Uus kaust'
-  'videoanymp4file': 'Iga standardne MP4-fail'
-  'videoinsert': 'Sisesta video'
-  'videolinktitle': 'Link videole, mida sisestada:'
-  'videonotsupported': 'See URL on vigane või mitte toetatud!'
-  'videosuccess': 'Video kood on sisestatud.'
-  'videosupportedtitle': 'Järgnevad on toetatud:'
-  'videotitle': 'Sisesta video'
-  'page': Leht
-  'save.createSuccess': 'Leht edukalt loodud.'
-  'save.error': 'Lehe loomise ajal ilmnes viga'
-  'save.pleaseWait': 'Palun oota...'
-  'save.processing': Töötlen
-  'save.updateSuccess': 'Leht edukalt uuendatud.'
-fileexists: 'Fail {{path}} on juba olemas.'
-forbidden: Keelatud
-forbiddendetail: 'Vabandust, sul pole vajalikke õigusi, et seda lehte külastada'
-generic: 'Oih, midagi läks valesti'
-header:
-  'createdoc': 'Loo uus dokument'
-  'overview': Ülevaade
-history:
-  'author': Autor
-  'commit': Commit
-  'comparewith': Võrdle...
-  'pastversions': 'Varasemad versioonid'
-  'reverttoversion': 'Tagastu versioonile'
-  'sidebyside': 'Kõrvuti vaade'
-  'timestamp': Ajatempel
-  'view': Kuva
-invalidaction: 'Toiming ei sobi.'
-invaliddestfolder: 'Sobimatu kaust!'
-invalidfiletype: 'Vale faili tüüp.'
-invalidfolder: 'Sobimatu kaust.'
-invalidoperation: 'Toiming ei sobi!'
-invalidpath: 'Sobimatu aadress.'
-invaliduserid: 'Sobimatu kasutaja ID'
-loading:
-  'editor': 'Laen redigeerijat...'
-  'source': 'Laen allikat...'
-modal:
-  'abort': Katkesta
-  'anchorerror': 'Automaatne kopeerimine ebaõnnestus. Kopeeri URL manuaalselt.'
-  'anchorsuccess': 'URL kopeeriti.'
-  'anchortitle': 'Kopeeri selle lõigu link'
-  'copyclipboard': Kopeeri
-  'create': 'Loo uus'
-  'createpageinvalid': 'See aadress ei ole valiidne!'
-  'createpagepath': 'Sisesta uus aadress:'
-  'createpagetitle': 'Loo uus leht.'
-  'createuser': 'Loo kasutaja'
-  'createuserauthorize': 'Autoriseeri Kasutaja'
-  'createuseremail': 'E-posti aadress:'
-  'createuseremailplaceholder': 'nt. mari.maasikas@naide.ee'
-  'createusername': 'Täisnimi:'
-  'createusernameplaceholder': 'nt. Mari Maasikas'
-  'createuserpassword': 'Parool:'
-  'createuserprovider': 'Teenusepakkuja:'
-  'createusertitle': 'Loo / Autoriseeri Kasutaja'
-  'delete': Kustuta
-  'deletefiletitle': 'Kustuta?'
-  'deletefilewarn': 'Oled kindel, et soovid kustutada'
-  'deletepagetitle': 'Kustuta see leht?'
-  'deletepagewarning': 'Oled kindel, et soovid kustutada seda lehte? Seda tegevust ei saa tagasi võtta!'
-  'deleteusertitle': 'Kustuta kasutaja?'
-  'deleteuserwarning': 'Oled kindel, et soovid kustutada seda kasutajat? Seda tegevust ei saa tagasi võtta!'
-  'discard': Loobu
-  'discardpagecreate': 'Oled kindel, et soovid lahkuda lehelt ja kaotada kõik, mis on sisestatud?'
-  'discardpageedit': 'Oled kindel, et soovid lahkuda lehelt ja kaotada kõik muudatused?'
-  'discardpagestay': 'Jää lehele'
-  'discardpagetitle': 'Loobu?'
-  'move': Liiguta
-  'movepageinvalid': 'See aadress on vigane või pole lubatud!'
-  'movepagepath': 'Sisesta uus aadress:'
-  'movepageplaceholder': lehe-nimi
-  'movepagetitle': 'Liiguta leht'
-  'movepagewarning': 'Pane tähele, et lehtede liigutamine või ümber nimetamine võib viia katkiste linkideni. Pea meeles muuta igat lehte, mis siia viitab!'
-  'newfolderinvalid': 'See kausta nimi ei sobi!'
-  'newfolderloading': 'Loon uut kausta...'
-  'newfoldername': 'Sisesta kausta nimi:'
-  'newfoldernameplaceholder': 'kausta nimi'
-  'newfoldersuccess': 'Uus kaust {{name}} loodud.'
-  'newfoldertitle': 'Uus kaust'
-  'renamefile': 'Nimeta ümber'
-  'renamefileerror': 'Viga ümber nimetades: {{err}}'
-  'renamefileinvalid': 'Failinimi ei sobi!'
-  'renamefileloading': 'Nimetan faili ümber...'
-  'renamefilename': 'Sisesta uus failinimi (ilma pikenduseta):'
-  'renamefilenameplaceholder': failinimi
-  'renamefiletitle': 'Nimeta fail ümber'
-nav:
-  'account': Konto
-  'allpages': 'Kõik lehed'
-  'create': 'Loo uus'
-  'discard': Loobu
-  'edit': Muuda
-  'history': Ajalugu
-  'home': Kodu
-  'login': 'Logi sisse'
-  'logout': 'Logi välja'
-  'move': Liiguta
-  'myprofile': 'Minu profiil'
-  'normalview': 'Tavaline vaade'
-  'root': Kodu
-  'savechanges': 'Salvesta muudatused'
-  'savedocument': 'Salvesta dokument'
-  'settings': Seaded
-  'source': Allikas
-  'stats': Statistika
-  'sysinfo': 'Süsteemi info'
-  'syssettings': 'Süsteemi seaded'
-  'theme': Värviskeem
-  'users': Kasutajad
-  'viewlatest': 'Kuva uusimad'
-newpasswordtooshort: 'Uus parool on liiga lühike!'
-notexist: 'Kirjet {{path}} pole olemas!'
-notexistdetail: 'Kas soovite selle kirje luua?'
-parentinvalid: 'Vanemakirje ei ole kehtiv fail.'
-parentisroot: 'Vanemakirje on root.'
-profile:
-  'displayname': 'Kuvatud nimi'
-  'displaynameexample': 'Mari Maasikas'
-  'email': E-post
-  'lastprofileupdate': 'Viimane profiili uuendus'
-  'membersince': 'Liige alates'
-  'password': Parool
-  'passwordverify': 'Kinnita parool'
-  'provider': Pakkuja
-  'savechanges': 'Salvesta muudatused'
-  'subtitle': 'Profiili ja autentimise info'
-  'tfa': 'Kaheastmeline autentimine (2FA)'
-  'tfadisable': 'Keela 2FA'
-  'tfadisabled': Keelatud
-  'tfaenable': 'Luba 2FA'
-  'tfaenabled': Lubatud
-remotetoolarge: 'Kaugfail on liiga suur!'
-reservedname: 'Selle nimega dokumendi ei saa luua, sest süsteem on selle reserveerinud.'
-savefailed: 'Dokumendi salvestamine ebaõnnestus'
-search:
-  'didyoumean': 'Kas sa mõtlesid ...?'
-  'nomatch': 'Ei ühtki tulemust vastavalt teie päringule'
-  'placeholder': Otsing...
-  'results': Otsingutulemused
-settings:
-  'subtitle': 'Halda lehe seadeid'
-sidebar:
-  'nav': NAV
-  'navigation': Navigatsioon
-  'pagecontents': 'Lehe sisu'
-  'pastversions': 'Varasemad versioonid'
-starterfailed: 'Ei suutnud laadida alustussisu!'
-stats:
-  'entries': Sissekanded
-  'subtitle': 'Üldine üle-saidiline statistika'
-  'uploads': Üleslaadimised
-  'users': Kasutajad
-system:
-  'administrativetools': Haldustööriistad
-  'cores': 'CPU tuumad'
-  'currentversion': 'Praegune versioon'
-  'cwd': 'Aktiivne kataloog'
-  'flushcache': 'Puhasta vahemälu ja ehita indeksid uuesti'
-  'flushcachebtn': 'Puhasta ja ehita uuesti'
-  'flushcachetext': 'Kui sisu või otsingutulemused tunduvad olevat aegunud või ei sisalda viimast sisu, võib vahemälu tühjendamine aidata neid probleeme lahendada.'
-  'flushsessions': 'Puhasta kõik aktiivsed seansid'
-  'flushsessionsbtn': 'Puhasta seansid'
-  'flushsessionstext': 'Kõik kasutajad logitakse välja ja sunnitakse uuesti sisse logima. Samuti mõjutab teie praegust seanssi!'
-  'hostinfo': 'Serveri info'
-  'hostname': Hostinimi
-  'latestversion': 'Uusim versioon'
-  'nodeversion': 'Node.js versioon'
-  'os': Operatsioonisüsteem
-  'reinstall': 'Installi praegune versioon uuesti'
-  'resetaccounts': 'Lähtesta süsteemikontod vaikimisi andmetele'
-  'resetaccountsbtn': 'Lähtesta süsteemikontod'
-  'resetaccountstext': 'Süsteemikontod (nagu kasutaja Külaline) taastatakse nende vaikimisi sätetele.'
-  'subtitle': 'Info ja kasulikkus su vikile'
-  'systemversion': 'Süsteemi versioon'
-  'totalmem': 'Kogu mälu'
-  'upgrade': Uuenda
-  'versioncheckfailed': 'Uusima versiooni päring ebaõnnestus. Proovi hiljem uuesti.'
-theme:
-  'altcolor': 'Alternatiivne värv'
-  'altcolordesc': 'Kasutatakse külgribal (tumedamal toonil)'
-  'codeblock':
-    'colorize': 'Värvi koodisüntaks'
-    'dark': 'Kasuta tumedat värviskeemi'
-    'title': Koodilõigud
-  'footercolordesc': 'Kasutatakse jaluses (heledam toon)'
-  'primarycolor': 'Peamine värv'
-  'primarycolordesc': 'Kasutatakse ülemise navigeerimisriba, päiste, linkide jms jaoks.'
-  'reset': 'Taasta vaikeväärtustele'
-  'savechanges': 'Salvesta muudatused'
-  'subtitle': 'Muuda oma wiki välimust ja tunnet'
-  'footerColor': 'Jaluse värv'
-unauthorized: Autoriseerimata
-updated: 'Uuendasin {{path}}'
-uploaded: '{{path}} üles laaditud'
-users:
-  'createauthorize': 'Loo / Autoriseeri Kasutaja'
-  'createdon': Loodud
-  'edituser': 'Muuda kasutajat'
-  'email': 'E-posti aadress'
-  'name': Nimi
-  'provider': Pakkuja
-  'returntousers': 'Tagasi kasutajate juurde'
-  'subtitle': 'Kasutajate ja kasutusõiguste haldamine'
-  'uniqueid': 'Unikaalne ID'
-  'updatedon': Uuendatud
-wiki: Viki
+  page: Leht
+  save.createSuccess: 'Leht edukalt loodud.'
+  save.error: 'Lehe loomise ajal ilmnes viga'
+  save.pleaseWait: 'Palun oota...'
+  save.processing: Töötlen
+  save.updateSuccess: 'Leht edukalt uuendatud.'
