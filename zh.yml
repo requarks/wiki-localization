@@ -1,7 +1,3 @@
-actions:
-  'gohome': 首页
-  'loginas': 登录为...
-added: '已加入 {{path}}'
 admin:
   api.title: API访问
   auth.title: 身份验证
@@ -101,7 +97,6 @@ admin:
   theme.title: 主题
   users.title: 用户列表
   utilities.title: 其他
-alreadyexists: 该页面已存在！
 auth:
   actions.login: 登录
   actions.register: 注册
@@ -177,9 +172,7 @@ common:
   actions.saveChanges: 保存更改
   actions.upload: 上传
   footer.copyright: '© {{year}} {{company}} 。版权所有。'
-  footer.home: 首页
   footer.poweredBy: 'Powered by'
-  footer.top: 滚到顶部
   newpage.create: 创建新页面
   newpage.goback: 返回
   newpage.subtitle: 你想现在创建吗？
@@ -195,255 +188,10 @@ common:
   unauthorized.goback: 返回
   unauthorized.login: 登录为...
   unauthorized.title: 未经授权的
-  welcome.createhome: 创建首页
-  welcome.subtitle: 让我们开始并创建首页。
-  welcome.title: 欢迎访问您的维基！
-debugmsg: 详细的调试跟踪
-deleted: '删除/重命名 {{path}}'
 editor:
-  'codeblockinsert': 插入代码块
-  'codeblocklanguage': 语言
-  'codeblockloading': '加载{{name}}的代码语法'
-  'codeblockloadingerror': 出错：无法加载语言语法。
-  'codeblocksuccess': 您的代码块已插入。
-  'codeblocktitle': 插入代码块
-  'discard': 放弃
-  'filedeleteaction': 删除
-  'filedeletedefault': 这个文件
-  'filedeleteloading': 删除文件...
-  'filedeletesuccess': 文件已删除。
-  'fileerror': 无法获取更新的列表。
-  'filefolderempty': 这个文件夹是空的。
-  'fileinsert': 插入文件的链接
-  'fileloading': 获取文件...
-  'filemoveaction': 移动到
-  'filemoveerror': '移动出错：{{err}}'
-  'filemoveloading': 移动文件...
-  'filemovesuccess': 文件移动成功。
-  'fileprocessing': 处理...
-  'filerenameaction': 重命名
-  'filesuccess': 已插入文件链接。
-  'filetitle': 插入文件
-  'fileupload': 上传文件
-  'fileuploaderror': '上传出错：{{err}}'
-  'fileuploadsuccess': 文件上传成功。
-  'folders': 文件夹
-  'foldersloading': 获取文件夹列表
-  'imagealigncenter': 居中
-  'imagealignleft': 左对齐（默认）
-  'imagealignlogo': '页面 Logo'
-  'imagealignright': 右对齐
-  'imageinsert': 插入图片
-  'imagesuccess': 图像已插入。
-  'imagetitle': 插入图片
-  'imageupload': 上传图片
-  'newfolder': 新文件夹
-  'videoanymp4file': 任何标准的MP4文件
-  'videoinsert': 插入视频
-  'videolinktitle': 输入要嵌入的视频的链接：
-  'videonotsupported': 此网址无效或尚未支持！
-  'videosuccess': 视频代码已插入。
-  'videosupportedtitle': 支持以下内容：
-  'videotitle': 插入视频
-  'page': 页面
-  'save.createSuccess': 页面创建成功。
-  'save.error': 创建页面时发生错误
-  'save.pleaseWait': 请稍候
-  'save.processing': 处理中
-  'save.updateSuccess': 页面已成功更新。
-fileexists: '文件 {{path}} 已存在。'
-forbidden: 被禁止
-forbiddendetail: 对不起，你暂无权访问此页面。
-generic: 噢！出问题了
-header:
-  'createdoc': 创建
-  'overview': 总览
-history:
-  'author': 作者
-  'commit': 提交
-  'comparewith': 对比
-  'pastversions': 老版本
-  'reverttoversion': 恢复到版本
-  'sidebyside': 并排视图
-  'timestamp': 时间戳
-  'view': 视图
-invalidaction: 无效的行为。
-invaliddestfolder: 无效的目标文件夹！
-invalidfiletype: 无效的文件类型。
-invalidfolder: 无效的文件夹。
-invalidoperation: 无效的操作！
-invalidpath: 无效的页面路径。
-invaliduserid: '无效的用户 ID'
-loading:
-  'editor': 编辑器加载中...
-  'source': 资源加载中...
-modal:
-  'abort': 退出
-  'anchorerror': 剪贴板复制失败，请手动复制URL。
-  'anchorsuccess': 该URL已被复制到剪贴板。
-  'anchortitle': 复制本节的链接
-  'copyclipboard': 复制到剪贴板
-  'create': 创建
-  'createpageinvalid': 此页面路径无效！
-  'createpagepath': 输入新页面路径：
-  'createpagetitle': 创建新页面
-  'createuser': 创建用户
-  'createuserauthorize': 创建/授权用户
-  'createuseremail': 'Email 地址'
-  'createuseremailplaceholder': '例如 john.doe@company.com'
-  'createusername': 全名：
-  'createusernameplaceholder': '例如 李四'
-  'createuserpassword': 密码
-  'createuserprovider': 供应商
-  'createusertitle': 创建/授权用户
-  'delete': 删除
-  'deletefiletitle': 删除？
-  'deletefilewarn': 你确定你要删除
-  'deletepagetitle': 删除此页面
-  'deletepagewarning': 删除此页面？该操作不能反悔！
-  'deleteusertitle': 删除用户帐号？
-  'deleteuserwarning': 您确定要删除此用户帐户吗？此操作无法撤销！
-  'discard': 放弃
-  'discardpagecreate': 你确定要离开此页面，丢弃你已写的内容吗？
-  'discardpageedit': 您确定要离开此页面，丢弃您做的修改吗？
-  'discardpagestay': 留在页面上
-  'discardpagetitle': 放弃
-  'move': 移动
-  'movepageinvalid': 此页面路径无效或不被允许！
-  'movepagepath': 输入新页面路径：
-  'movepageplaceholder': 页面名称
-  'movepagetitle': 移动页面
-  'movepagewarning': 请注意，如有其他页面链接到此页面，移动或重命名本页面后需要更新该其他页面，否则该其他页面的指向本页面链接将不准确！
-  'newfolderinvalid': 文件夹名称无效！
-  'newfolderloading': 创建新文件夹
-  'newfoldername': 输入新文件夹名称
-  'newfoldernameplaceholder': 文件夹名称
-  'newfoldersuccess': '已创建新文件夹{{name}}。'
-  'newfoldertitle': 新建文件夹
-  'renamefile': 重命名
-  'renamefileerror': '重命名错误：{{err}}'
-  'renamefileinvalid': 此文件名无效！
-  'renamefileloading': 重命名文件...
-  'renamefilename': 输入文件的新文件名（不带扩展名）：
-  'renamefilenameplaceholder': 文件名
-  'renamefiletitle': 重命名文件
-nav:
-  'account': 帐户
-  'allpages': 所有页面
-  'create': 创建
-  'discard': 放弃
-  'edit': 编辑
-  'history': 历史
-  'home': 首页
-  'login': 登录
-  'logout': 登出
-  'move': 移动
-  'myprofile': 我的信息
-  'normalview': 正常视图
-  'root': 首页
-  'savechanges': 保存
-  'savedocument': 保存文档
-  'settings': 设置
-  'source': 源文件
-  'stats': 统计
-  'sysinfo': 系统信息
-  'syssettings': 系统设置
-  'theme': 颜色方案
-  'users': 用户列表
-  'viewlatest': 查看最新
-newpasswordtooshort: 新密码太短了！
-notexist: '页面 {{path}} 不存在！'
-notexistdetail: 创建该页面？
-parentinvalid: 上级页面是无效的文件。
-parentisroot: 上级页面是根目录。
-profile:
-  'displayname': 显示的名字
-  'displaynameexample': 'John Smith'
-  'email': Email
-  'lastprofileupdate': 配置文件的最近更新
-  'membersince': 会员始于
-  'password': 密码
-  'passwordverify': 验证密码
-  'provider': 供应商
-  'savechanges': 保存
-  'subtitle': 个人资料与验证信息
-  'tfa': 双重验证
-  'tfadisable': 禁用双重验证
-  'tfadisabled': 禁用
-  'tfaenable': 启用双重验证
-  'tfaenabled': 启用
-remotetoolarge: 远程文件太大！
-reservedname: 你不能用这名字创建文档，因为这名字被系统预留了。
-savefailed: 无法保存文件
-search:
-  'didyoumean': 你是指...？
-  'nomatch': 没有符合你查询的结果
-  'placeholder': 搜索...
-  'results': 搜索结果
-settings:
-  'subtitle': 管理
-sidebar:
-  'nav': 导航
-  'navigation': 导航
-  'pagecontents': 页面内容
-  'pastversions': 历史版本
-starterfailed: 无法加载启动内容！
-stats:
-  'entries': 页面
-  'subtitle': 通用全站统计
-  'uploads': 上传
-  'users': 用户列表
-system:
-  'administrativetools': 管理工具
-  'cores': CPU内核
-  'currentversion': 当前版本
-  'cwd': 工作目录
-  'flushcache': 清空缓存和重建索引
-  'flushcachebtn': 清空与重建
-  'flushcachetext': 如果内容或搜索结果过期或者没有包括最新的内容，可清空缓存来解决。
-  'flushsessions': 刷新所有活动用户的会话
-  'flushsessionsbtn': 清空会话
-  'flushsessionstext': 所有用户将被注销并被要求重新登录。您当前的会话也会受到影响！
-  'hostinfo': 主机信息
-  'hostname': 主机名
-  'latestversion': 最新版本
-  'nodeversion': Node.js版本
-  'os': 操作系统
-  'reinstall': 重装当前版本
-  'resetaccounts': 重置系统帐户为默认值
-  'resetaccountsbtn': 重置系统帐户
-  'resetaccountstext': '该系统帐户（如 Guest 帐户）将被重置为默认设置。'
-  'subtitle': '本 wiki 的信息与工具'
-  'systemversion': 系统版本
-  'totalmem': 总内存
-  'upgrade': 升级
-  'versioncheckfailed': 无法查询最新版本。稍后再试。
-theme:
-  'altcolor': 替代颜色
-  'altcolordesc': 用于边栏（暗色）
-  'codeblock':
-    'colorize': 对代码涂色
-    'dark': 使用黑色主题
-    'title': 代码块
-  'footercolordesc': 用于页脚（浅色）
-  'primarycolor': 原色
-  'primarycolordesc': 用于顶级导航栏，标题，链接等
-  'reset': 恢复为默认值
-  'savechanges': 保存
-  'subtitle': '改变 wiki 的外观和感觉'
-  'footerColor': 页脚颜色
-unauthorized: 未经授权
-updated: '已更新 {{path}}'
-uploaded: '已上传 {{path}}'
-users:
-  'createauthorize': 创建/授权用户
-  'createdon': 创建于
-  'edituser': 编辑用户
-  'email': 'Email 地址'
-  'name': 名字
-  'provider': 供应商
-  'returntousers': 返回用户
-  'subtitle': 用户及权限管理
-  'uniqueid': '唯一 ID'
-  'updatedon': 更新于
-wiki: 维基
+  page: 页面
+  save.createSuccess: 页面创建成功。
+  save.error: 创建页面时发生错误
+  save.pleaseWait: 请稍候
+  save.processing: 处理中
+  save.updateSuccess: 页面已成功更新。
