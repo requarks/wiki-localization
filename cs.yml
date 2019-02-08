@@ -1,7 +1,3 @@
-actions:
-  'gohome': 'Jít domů'
-  'loginas': 'Přihlásit se jako ...'
-added: 'Přidáno {{path}}'
 admin:
   api.title: 'API Přístup'
   auth.title: Ověření
@@ -16,6 +12,7 @@ admin:
   contribute.openCollective: 'Wiki.js je součástí iniciativy Open Collective. Finančně můžete přispívat měsíčně nebo jednorázovým darováním:'
   contribute.openSource: 'Wiki.js je bezplatný a otevřený software, který vám přináší {{0}} od {{1}} a {{2}} .'
   contribute.openSourceContributors: přispěvatelé
+  contribute.patreon: ''
   contribute.shop: 'Wiki.js obchod'
   contribute.spreadTheWord: 'Propagujte nás'
   contribute.submitAnIdea: 'Poslat nápad nebo hlasovat pro již existující na {{0}}.'
@@ -100,7 +97,6 @@ admin:
   theme.title: Téma
   users.title: Uživatelé
   utilities.title: Nástroje
-alreadyexists: 'Tato položka již existuje!'
 auth:
   actions.login: 'Přihlásit se'
   actions.register: 'Zaregistrovat se'
@@ -176,9 +172,7 @@ common:
   actions.saveChanges: 'Uložit změny'
   actions.upload: Nahrát
   footer.copyright: '© {{year}} {{company}} . Všechna práva vyhrazena.'
-  footer.home: Domů
   footer.poweredBy: 'Běží na'
-  footer.top: 'Vrátit se nahoru'
   newpage.create: 'Vytvořit stránku'
   newpage.goback: 'Jít zpět'
   newpage.subtitle: 'Chcete ji nyní vytvořit?'
@@ -194,255 +188,10 @@ common:
   unauthorized.goback: 'Jít zpět'
   unauthorized.login: 'Přihlásit se jako...'
   unauthorized.title: Neoprávněno
-  welcome.createhome: 'Vytvořit domovskou stránku'
-  welcome.subtitle: 'Začněme a vytvoříme domovskou stránku.'
-  welcome.title: 'Vítejte na Vaší wiki!'
-debugmsg: 'Podrobný výpis ladění.'
-deleted: 'Vymazáno / Přejmenováno {{path}}'
 editor:
-  'codeblockinsert': 'Vložit blok kódu'
-  'codeblocklanguage': Jazyk
-  'codeblockloading': 'Načítání syntaxe kódu pro {{name}}'
-  'codeblockloadingerror': 'Chyba: Nelze načíst syntaxi jazyka.'
-  'codeblocksuccess': 'Váš kódový blok byl vložen.'
-  'codeblocktitle': 'Vložit blok kódu'
-  'discard': Zrušit
-  'filedeleteaction': Odstranit
-  'filedeletedefault': 'tento soubor'
-  'filedeleteloading': 'Mazání souboru...'
-  'filedeletesuccess': 'Soubor byl úspěšně smazán.'
-  'fileerror': 'Nelze načíst aktualizovaný seznam.'
-  'filefolderempty': 'Tato složka je prázdná.'
-  'fileinsert': 'Vložit odkaz na soubor'
-  'fileloading': 'Načítání souborů...'
-  'filemoveaction': 'Přesunout do...'
-  'filemoveerror': 'Chyba při přesunu: {{err}}'
-  'filemoveloading': 'Přesouvání souboru...'
-  'filemovesuccess': 'Soubor byl úspěšně přesunut.'
-  'fileprocessing': 'Probíhá zpracování...'
-  'filerenameaction': Přejmenovat
-  'filesuccess': 'Odkaz na soubor byl vložen.'
-  'filetitle': 'Vložit soubor'
-  'fileupload': 'Nahrát soubor(y)'
-  'fileuploaderror': 'Chyba při nahrávání: {{err}}'
-  'fileuploadsuccess': 'Soubor(y) nahrán(y) úspěšně.'
-  'folders': Složky
-  'foldersloading': 'Nahrávání seznamu složek...'
-  'imagealigncenter': Střed
-  'imagealignleft': 'Vlevo (výchozí)'
-  'imagealignlogo': 'Logo stránky'
-  'imagealignright': Vpravo
-  'imageinsert': 'Vložit obrázek'
-  'imagesuccess': 'Obrázek byl vložen.'
-  'imagetitle': 'Vložit obrázek'
-  'imageupload': 'Nahrát obrázek/obrázky'
-  'newfolder': 'Nová složka'
-  'videoanymp4file': 'Jakýkoliv standardní MP4 soubor'
-  'videoinsert': 'Vložit video'
-  'videolinktitle': 'Zadat odkaz na vnořené video:'
-  'videonotsupported': 'Tato adresa URL je neplatná nebo není podporovaná!'
-  'videosuccess': 'Video kód byl vložen.'
-  'videosupportedtitle': 'Podporovány jsou:'
-  'videotitle': 'Vložit video'
-  'page': Stránka
-  'save.createSuccess': 'Stránka byla úspěšně vytvořena.'
-  'save.error': 'Při vytváření stránky došlo k chybě'
-  'save.pleaseWait': 'Prosím, čekejte...'
-  'save.processing': 'Probíhá zpracování...'
-  'save.updateSuccess': 'Stránka úspěšně aktualizována.'
-fileexists: 'Soubor {{path}} již existuje.'
-forbidden: Zakázáno
-forbiddendetail: 'Promiňte, nemáte potřebná oprávnění k přístupu na tuto stránku.'
-generic: 'Jejda, něco se pokazilo'
-header:
-  'createdoc': 'Vytvořit nový dokument'
-  'overview': Přehled
-history:
-  'author': Autor
-  'commit': Potvrdit
-  'comparewith': 'Srovnat s...'
-  'pastversions': 'Minulé verze'
-  'reverttoversion': 'Vrátit se k verzi'
-  'sidebyside': 'Pohled vedle sebe.'
-  'timestamp': 'Časové razítko'
-  'view': Zobrazit
-invalidaction: 'Neplatná akce.'
-invaliddestfolder: 'Neplatná cílová složka!'
-invalidfiletype: 'Neplatný typ souboru.'
-invalidfolder: 'Neplatná složka.'
-invalidoperation: 'Neplatná operace!'
-invalidpath: 'Neplatná cesta ke stránce.'
-invaliduserid: 'Neplatné ID uživatele'
-loading:
-  'editor': 'Načítání editoru...'
-  'source': 'Načítání zdroje ...'
-modal:
-  'abort': Přerušit
-  'anchorerror': 'Kopírování do schránky se nezdařilo. Zkopírujte adresu URL ručně.'
-  'anchorsuccess': 'URL adresa byla zkopírována do schránky.'
-  'anchortitle': 'Kopírovat odkaz do této sekce'
-  'copyclipboard': 'Kopírovat do schránky'
-  'create': Vytvořit
-  'createpageinvalid': 'Tato stránka cesta je neplatná!'
-  'createpagepath': 'Zadejte novou cestu stránky:'
-  'createpagetitle': 'Vytvořit novou stránku'
-  'createuser': 'Vytvořit uživatele'
-  'createuserauthorize': 'Autorizovat uživatele'
-  'createuseremail': 'E-mailová adresa:'
-  'createuseremailplaceholder': 'např. anicka.dajdou@spolecnost.cz'
-  'createusername': 'Celé jméno:'
-  'createusernameplaceholder': 'např. Anička Dajdou'
-  'createuserpassword': 'Heslo:'
-  'createuserprovider': 'Poskytovatel:'
-  'createusertitle': 'Vytvořit / Autorizovat uživatele'
-  'delete': Odstranit
-  'deletefiletitle': 'Smazat?'
-  'deletefilewarn': 'Jste si jist, že chcete odstranit'
-  'deletepagetitle': 'Smazat tuto stránku?'
-  'deletepagewarning': 'Opravdu chcete tuto stránku smazat? Tuto akci nelze vrátit zpět!'
-  'deleteusertitle': 'Smazat uživatelský účet?'
-  'deleteuserwarning': 'Opravdu chcete smazat tento uživatelský účet? Tuto akci nelze vrátit zpět!'
-  'discard': Zrušit
-  'discardpagecreate': 'Jste si jisti, že chcete tuto stránku opustit a ztratit vše, co jste doteraz napsali?'
-  'discardpageedit': 'Jsou si jisti, že chcete tuto stránku opustit a ztratit změny?'
-  'discardpagestay': 'Zůstat na stránce'
-  'discardpagetitle': 'Zrušit?'
-  'move': Přesun
-  'movepageinvalid': 'Tato cesta stránky je neplatná nebo není povolena!'
-  'movepagepath': 'Zadejte novou cestu stránky:'
-  'movepageplaceholder': název-stránky
-  'movepagetitle': 'Přesunout stránku'
-  'movepagewarning': 'Vemte na vědomí si, že přesouvání nebo přejmenování stránek může vést k nefunkčním odkazům. Zajištěte následně úpravu každé stránky, která odkazuje na tuto stránku!'
-  'newfolderinvalid': 'Tento název složky je neplatný!'
-  'newfolderloading': 'Vytváření nové složky...'
-  'newfoldername': 'Zadejte nový název složky:'
-  'newfoldernameplaceholder': 'název složky'
-  'newfoldersuccess': 'Nová složka {{název}} vytvořená.'
-  'newfoldertitle': 'Nová složka'
-  'renamefile': Přejmenovat
-  'renamefileerror': 'Chyba při přejmenování: {{err}}'
-  'renamefileinvalid': 'Tento název souboru je neplatný!'
-  'renamefileloading': 'Přejmenování souboru...'
-  'renamefilename': 'Zadejte nový název souboru (bez přípony) souboru:'
-  'renamefilenameplaceholder': 'název souboru'
-  'renamefiletitle': 'Přejmenovat soubor'
-nav:
-  'account': Účet
-  'allpages': 'Všechny stránky'
-  'create': Vytvořit
-  'discard': Zrušit
-  'edit': Upravit
-  'history': Historie
-  'home': Domů
-  'login': Přihlášení
-  'logout': Odhlášení
-  'move': Přesun
-  'myprofile': 'Můj Profil'
-  'normalview': 'Normální Zobrazení'
-  'root': Domů
-  'savechanges': 'Uložit změny'
-  'savedocument': 'Uložit dokument'
-  'settings': Nastavení
-  'source': Zdroj
-  'stats': Statistiky
-  'sysinfo': 'Systémové informace'
-  'syssettings': 'Nastavení systému'
-  'theme': 'Barevné téma'
-  'users': Uživatelé
-  'viewlatest': 'Zobrazit nejnovější'
-newpasswordtooshort: 'Nové heslo je příliš krátké!'
-notexist: 'Položka {{cesta}} neexistuje!'
-notexistdetail: 'Chcete vytvořit tuto položku?'
-parentinvalid: 'Nadřazená položka není platný soubor.'
-parentisroot: 'Nadřazená položka je kořenová.'
-profile:
-  'displayname': 'Zobrazované jméno'
-  'displaynameexample': 'Anička Dajdou'
-  'email': E-mail
-  'lastprofileupdate': 'Poslední aktualizace profilu'
-  'membersince': 'Členem od'
-  'password': Heslo
-  'passwordverify': 'Ověřit heslo'
-  'provider': Poskytovatel
-  'savechanges': 'Uložit změny'
-  'subtitle': 'Informace o profilu a ověření'
-  'tfa': 'Dvoufázové ověření'
-  'tfadisable': 'Zakázat 2FA'
-  'tfadisabled': Zakázáno
-  'tfaenable': 'Aktivovat 2FA'
-  'tfaenabled': Povoleno
-remotetoolarge: 'Vzdálený soubor je příliš velký!'
-reservedname: 'Nemůžete vytvořit dokument s tímto názvem, protože je systémem rezervován.'
-savefailed: 'Nepodařilo se uložit dokument'
-search:
-  'didyoumean': 'Měli jste na mysli...?'
-  'nomatch': 'Žádné výsledky odpovídající vašemu dotazu'
-  'placeholder': Vyhledávání...
-  'results': 'Výsledky vyhledávání'
-settings:
-  'subtitle': 'Spravovat konfiguraci webu'
-sidebar:
-  'nav': NAV
-  'navigation': Navigace
-  'pagecontents': 'Obsah stránky'
-  'pastversions': 'Minulé verze'
-starterfailed: 'Nelze načíst startovací obsah!'
-stats:
-  'entries': Položky
-  'subtitle': 'Obecná statistika celého webu'
-  'uploads': Nahrané
-  'users': Uživatelé
-system:
-  'administrativetools': 'Nástroje pro správu'
-  'cores': 'Jádra CPU'
-  'currentversion': 'Aktuální verze'
-  'cwd': 'Pracovní adresář'
-  'flushcache': 'Vyprázdnit mezipaměť a znovu vytvořit indexy'
-  'flushcachebtn': 'Vyprázdnění a znovu sestavení'
-  'flushcachetext': 'Je-li se obsah nebo výsledky hledání zdají být zastaralé nebo neobsahují nejnovější obsah, vyprázdnění mezipaměti může pomoci tyto problémy vyřešit.'
-  'flushsessions': 'Vyprázdnění všech aktivních uživatelských relací'
-  'flushsessionsbtn': 'Vyprázdnění relací'
-  'flushsessionstext': 'Všichni uživatelé budou odhlášeni a nuceni znovu přihlásit. Vaše aktuální relace bude také ovlivněná!'
-  'hostinfo': 'Informace o hostiteli'
-  'hostname': 'Název hostitele'
-  'latestversion': 'Nejnovější verze'
-  'nodeversion': 'Verze Node.js'
-  'os': 'Operační systém'
-  'reinstall': 'Přeinstalovat aktuální verzi'
-  'resetaccounts': 'Obnovit systémové účty na výchozí hodnoty'
-  'resetaccountsbtn': 'Resetovat systémové účty'
-  'resetaccountstext': 'Systémové účty (například účet Guest) budou obnoveny na výchozí nastavení.'
-  'subtitle': 'Informace a pomůcky pro vaši wiki'
-  'systemversion': 'Verze systému'
-  'totalmem': 'Celková paměť'
-  'upgrade': Upgrade
-  'versioncheckfailed': 'Nelze vykonat dotaz na nejnovější verzi. Opakujte akci později.'
-theme:
-  'altcolor': 'Alternativní barva'
-  'altcolordesc': 'Používá se pro postranní panel (tmavší tón)'
-  'codeblock':
-    'colorize': 'Zbarvení syntaxe kódu'
-    'dark': 'Použít tmavé téma'
-    'title': 'Bloky kódu'
-  'footercolordesc': 'Použtité pro zápatí (se světlejším tónem)'
-  'primarycolor': 'Základní barva'
-  'primarycolordesc': 'Používané pro horní navigační panel, záhlaví, odkazy, atd.'
-  'reset': 'Vrátit na výchozí hodnoty'
-  'savechanges': 'Uložit změny'
-  'subtitle': 'Změnit vzhled Vaší wiki'
-  'footerColor': 'Barva zápatí'
-unauthorized: Neoprávněný
-updated: 'Aktualizováno {{path}}'
-uploaded: 'Nahráno {{path}}'
-users:
-  'createauthorize': 'Vytvořit / Autorizovat uživatele'
-  'createdon': Vytvořeno
-  'edituser': 'Upravit uživatele'
-  'email': 'E-mailová adresa'
-  'name': Jméno
-  'provider': Poskytovatel
-  'returntousers': 'Vrátit se na uživatele'
-  'subtitle': 'Správa uživatelů a přístupových práv'
-  'uniqueid': 'Unikátní ID'
-  'updatedon': Aktualizováno
-wiki: Wiki
+  page: Stránka
+  save.createSuccess: 'Stránka byla úspěšně vytvořena.'
+  save.error: 'Při vytváření stránky došlo k chybě'
+  save.pleaseWait: 'Prosím, čekejte...'
+  save.processing: 'Probíhá zpracování...'
+  save.updateSuccess: 'Stránka úspěšně aktualizována.'

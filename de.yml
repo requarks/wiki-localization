@@ -1,7 +1,3 @@
-actions:
-  'gohome': 'Gehe zur Startseite'
-  'loginas': 'Anmelden als...'
-added: '{{path}} hinzugefügt'
 admin:
   api.title: API-Zugriff
   auth.title: Authentifizierung
@@ -101,7 +97,6 @@ admin:
   theme.title: Theme
   users.title: Benutzer
   utilities.title: Dienstprogramme
-alreadyexists: 'Dieser Eintrag existiert bereits'
 auth:
   actions.login: Anmeldung
   actions.register: Registrieren
@@ -177,9 +172,7 @@ common:
   actions.saveChanges: 'Änderungen speichern'
   actions.upload: Hochladen
   footer.copyright: '© {{year}} {{company}}. Alle Rechte vorbehalten.'
-  footer.home: Startseite
   footer.poweredBy: 'Powered by'
-  footer.top: 'Nach oben'
   newpage.create: 'Seite erstellen'
   newpage.goback: Zurück
   newpage.subtitle: 'Möchtest du sie jetzt erstellen?'
@@ -195,255 +188,10 @@ common:
   unauthorized.goback: Zurück
   unauthorized.login: 'Anmelden als...'
   unauthorized.title: 'Nicht autorisiert'
-  welcome.createhome: 'Startseite erstellen'
-  welcome.subtitle: 'Auf geht''s! Erstelle deine Startseite'
-  welcome.title: 'Willkommen in deinem Wiki!'
-debugmsg: 'Detailierte Debugmeldungen'
-deleted: '{{path}} gelöscht/umbenannt'
 editor:
-  'codeblockinsert': 'Codeblock einfügen'
-  'codeblocklanguage': Sprache
-  'codeblockloading': 'Lade Syntax für {{name}}'
-  'codeblockloadingerror': 'Fehler: Syntax für die Sprache konnte nicht geladen werden'
-  'codeblocksuccess': 'Dein Codeblock wurde eingefügt'
-  'codeblocktitle': 'Codeblock einfügen'
-  'discard': Verwerfen
-  'filedeleteaction': Löschen
-  'filedeletedefault': 'Diese Datei'
-  'filedeleteloading': 'Lösche Datei...'
-  'filedeletesuccess': 'Datei erfolgreich gelöscht'
-  'fileerror': 'Fehler beim Laden der Auflistung'
-  'filefolderempty': 'Dieser Order ist leer'
-  'fileinsert': 'Link zur Datei einfügen'
-  'fileloading': 'Hole Dateien...'
-  'filemoveaction': 'Verschiebe zu...'
-  'filemoveerror': 'Fehler beim Verschieben: {{err}}'
-  'filemoveloading': 'Verschiebe Datei...'
-  'filemovesuccess': 'Datei erfolgreich verschoben.'
-  'fileprocessing': Verarbeitung...
-  'filerenameaction': Umbenennen
-  'filesuccess': 'Dateiverlinkung wurde eingefügt.'
-  'filetitle': 'Datei einfügen'
-  'fileupload': 'Datei(en) hochladen'
-  'fileuploaderror': 'Fehler beim Hochladen: {{err}}'
-  'fileuploadsuccess': 'Datei(en) erfolgreich hochgeladen.'
-  'folders': Ordner
-  'foldersloading': 'Lade Ordnerliste...'
-  'imagealigncenter': Zentriert
-  'imagealignleft': 'Links (Standard)'
-  'imagealignlogo': Seitenlogo
-  'imagealignright': Rechts
-  'imageinsert': 'Bild einfügen'
-  'imagesuccess': 'Bild wurde eingefügt'
-  'imagetitle': 'Bild einfügen'
-  'imageupload': 'Bild(er) hochladen'
-  'newfolder': 'Neuer Ordner'
-  'videoanymp4file': 'Beliebige Standard MP4 Datei'
-  'videoinsert': 'Video einfügen'
-  'videolinktitle': 'Link zum Video einfügen der eingebettet werden soll:'
-  'videonotsupported': 'Diese URL ist ungültig oder wird nicht unterstützt!'
-  'videosuccess': 'Das Video wurde eingefügt.'
-  'videosupportedtitle': 'Die folgenden sind unterstützt:'
-  'videotitle': 'Video einfügen'
-  'page': Seite
-  'save.createSuccess': 'Seite erfolgreich erstellt.'
-  'save.error': 'Beim Erstellen der Seite ist ein Fehler aufgetreten'
-  'save.pleaseWait': 'Bitte warten...'
-  'save.processing': Verarbeitung
-  'save.updateSuccess': 'Seite erfolgreich aktualisiert.'
-fileexists: 'Die Datei {{path}} existiert bereits.'
-forbidden: Verboten
-forbiddendetail: 'Entschuldigung, du verfügst nicht über ausreichend Berechtigung diese Seite zu öffnen'
-generic: 'Oops, da ist etwas schief gelaufen'
-header:
-  'createdoc': 'Erstelle neues Dokument'
-  'overview': Übersicht
-history:
-  'author': Autor
-  'commit': Commit
-  'comparewith': 'Vergleichen mit...'
-  'pastversions': 'Letzte Versionen'
-  'reverttoversion': 'Zurück zur Version'
-  'sidebyside': Side-by-Side-Ansicht
-  'timestamp': Zeitstempel
-  'view': Ansicht
-invalidaction: 'Ungültige Aktion.'
-invaliddestfolder: 'Ungültiger Zielordner!'
-invalidfiletype: 'Ungültiger Dateityp.'
-invalidfolder: 'Ungültiger Ordner.'
-invalidoperation: 'Ungültige Operation!'
-invalidpath: 'Ungültiger Dateipfad.'
-invaliduserid: 'Ungültige User ID'
-loading:
-  'editor': 'Lade Editor...'
-  'source': 'Lade Quellen...'
-modal:
-  'abort': Abbrechen
-  'anchorerror': 'Einfügen in Zwischenablage fehlgeschlagen. Kopiere die URL manuell.'
-  'anchorsuccess': 'Die URL wurde in die Zwischenablage kopiert.'
-  'anchortitle': 'Kopiere Link zu dieser Sektion'
-  'copyclipboard': 'Kopiere in Zwischenablage'
-  'create': Erstellen
-  'createpageinvalid': 'Dieser Seitenpfad ist ungültig!'
-  'createpagepath': 'Neuen Seitenpfad eingeben:'
-  'createpagetitle': 'Erstellen neue Seite'
-  'createuser': 'Erstelle Benutzer'
-  'createuserauthorize': 'Autorisiere Benutzer'
-  'createuseremail': 'E-Mail Adresse'
-  'createuseremailplaceholder': 'z.B. john.doe@company.com'
-  'createusername': 'Vollständiger Name:'
-  'createusernameplaceholder': 'z.B. John Doe'
-  'createuserpassword': 'Passwort:'
-  'createuserprovider': 'Anbieter:'
-  'createusertitle': 'Erstellen / Autorisiere Benutzer'
-  'delete': Löschen
-  'deletefiletitle': 'Löschen?'
-  'deletefilewarn': 'Bist du sicher, dass du löschen möchtest?'
-  'deletepagetitle': 'Diese Seite löschen?'
-  'deletepagewarning': 'Bist du dir sicher, dass du diese Seite löschen möchtest? Diese Aktion ist nicht mehr umkehrbar!'
-  'deleteusertitle': 'Benutzeraccount löschen?'
-  'deleteuserwarning': 'Willst du wirklich diesen Benutzeraccount löschen? Diese Aktion kann nicht rückgängig gemacht werden!'
-  'discard': Verwerfen
-  'discardpagecreate': 'Bist du sicher, dass du diese Seite verlassen möchtest? Alles geschriebene geht dabei verloren.'
-  'discardpageedit': 'Bist du sicher, dass du diese Seite verlassen möchtest? Dabei gehen alle Modifikationen verloren.'
-  'discardpagestay': 'Bleib auf der Seite'
-  'discardpagetitle': 'Verwerfen?'
-  'move': Verschieben
-  'movepageinvalid': 'Dieser Seitenpfad ist ungültig oder verboten'
-  'movepagepath': 'Eingabe des neuen Dateipfades:'
-  'movepageplaceholder': Seitenname
-  'movepagetitle': 'Seite verschieben'
-  'movepagewarning': 'Beachte, dass das Verschieben oder Umbenennen von Seiten zu ungültigen Links führen kann. Stelle sicher, dass du jede Seite die auf diese verlinkt im Nachhinein bearbeitest!'
-  'newfolderinvalid': 'Dieser Ordnername ist ungültig!'
-  'newfolderloading': 'Erstelle neuen Ordner...'
-  'newfoldername': 'Eingabe des neuen Ordernamens:'
-  'newfoldernameplaceholder': Ordnername
-  'newfoldersuccess': 'Der neue Order {{name}} wurde erstellt.'
-  'newfoldertitle': 'Neuer Ordner'
-  'renamefile': Umbenennen
-  'renamefileerror': 'Fehler beim Umbenennen: {{err}}'
-  'renamefileinvalid': 'Dieser Dateiname ist ungültig!'
-  'renamefileloading': 'Benenne Datei um...'
-  'renamefilename': 'Gib den neuen Dateinamen (ohne Dateiendung) ein:'
-  'renamefilenameplaceholder': Dateiname
-  'renamefiletitle': 'Datei umbenennen'
-nav:
-  'account': Account
-  'allpages': 'Alle Seiten'
-  'create': Erstellen
-  'discard': Verwerfen
-  'edit': Bearbeiten
-  'history': Verlauf
-  'home': Startseite
-  'login': Anmelden
-  'logout': Abmelden
-  'move': Verschieben
-  'myprofile': 'Mein Profil'
-  'normalview': 'Normale Ansicht'
-  'root': Startseite
-  'savechanges': 'Änderungen speichern'
-  'savedocument': 'Dokument speichern'
-  'settings': Einstellungen
-  'source': Quellcode
-  'stats': Statistiken
-  'sysinfo': Systeminformation
-  'syssettings': Systemeinstellungen
-  'theme': Farbschema
-  'users': Benutzer
-  'viewlatest': 'Letzte Ansicht'
-newpasswordtooshort: 'Das neue Passwort ist zu kurz!'
-notexist: 'Der Eintrag {{path}} existiert nicht!'
-notexistdetail: 'Willst du diesen Eintrag erstellen?'
-parentinvalid: 'Der übergeordnete Eintrag ist keine gültige Datei.'
-parentisroot: 'Der übergeordnete Eintrag ist die Wurzel.'
-profile:
-  'displayname': Anzeigename
-  'displaynameexample': 'John Smith'
-  'email': E-Mail
-  'lastprofileupdate': 'Letzte Profiländerung'
-  'membersince': 'Mitglied seit'
-  'password': Passwort
-  'passwordverify': 'Passwort bestätigen'
-  'provider': Anbieter
-  'savechanges': 'Änderungen speichern'
-  'subtitle': 'Profil und Authentifizierungsinformationen'
-  'tfa': 'Two-Factor Authentifizierung'
-  'tfadisable': 'Deaktiviere 2FA'
-  'tfadisabled': Deaktiviere
-  'tfaenable': 'Aktiviere 2FA'
-  'tfaenabled': Aktiviere
-remotetoolarge: 'Remotedatei ist zu groß!'
-reservedname: 'Du kannst kein Dokument mit diesem Namen erstellt, da dieser vom System reserviert ist.'
-savefailed: 'Datei speichern fehlgeschlagen'
-search:
-  'didyoumean': 'Meintest du...?'
-  'nomatch': 'Keine Ergebnisse für Anfrage'
-  'placeholder': Suche...
-  'results': Suchergebnisse
-settings:
-  'subtitle': 'Verwalte Seitenkonfiguration'
-sidebar:
-  'nav': NAV
-  'navigation': Navigation
-  'pagecontents': Seiteninhalte
-  'pastversions': 'Letzte Versionen'
-starterfailed: 'Konnte den Anfangsinhalt nicht laden'
-stats:
-  'entries': Einträge
-  'subtitle': 'Allgemeine seitenweite Statistik'
-  'uploads': Uploads
-  'users': Benutzer
-system:
-  'administrativetools': Administrationswerkzeuge
-  'cores': 'CPU Kerne'
-  'currentversion': 'Aktuelle Version'
-  'cwd': Arbeitsverzeichnis
-  'flushcache': 'Leere Cache und rekonstruiere Indexes'
-  'flushcachebtn': 'Leeren und erneut bauen'
-  'flushcachetext': 'Falls Inhalts- oder Suchergebnisse veraltet wirken oder nicht den letzten Inhalt enthalten hilft es den Cache zu leeren.'
-  'flushsessions': 'Leere alle aktiven Benutzersitzungen'
-  'flushsessionsbtn': 'Leere Sitzungen'
-  'flushsessionstext': 'Alle Benutzer werden ausgeloggt und müssen sich erneut anmelden. Deine jetzige Sitzung ist davon ebenfalls betroffen!'
-  'hostinfo': Host-Informationen
-  'hostname': Hostname
-  'latestversion': 'Letzte Version'
-  'nodeversion': 'Node.js Version'
-  'os': Betriebssystem
-  'reinstall': 'Aktuelle Version neuinstallieren'
-  'resetaccounts': 'Setze Systemaccounts auf Standard zurück'
-  'resetaccountsbtn': 'Setze Sytemaccounts zurück'
-  'resetaccountstext': 'Die Systemaccounts (wie den Gästeaccount) werden zu den Standardeinstellungen zurückgesetzt.'
-  'subtitle': 'Informationen und Werkzeuge für dein Wiki'
-  'systemversion': Systemversion
-  'totalmem': Gesamtspeicher
-  'upgrade': Upgrade
-  'versioncheckfailed': 'Fehler beim Ermitteln der letzten Version. Versuche es später erneut.'
-theme:
-  'altcolor': 'Alternative Farbe'
-  'altcolordesc': 'Wird für die Seitenleiste benutzt (in einem dunkleren Ton)'
-  'codeblock':
-    'colorize': 'Eingefärbte Code-Syntax'
-    'dark': 'Benutze ein Dunkles Theme'
-    'title': Code-Blöcke
-  'footercolordesc': 'Wird für die Fußzeile benutzt (in einem helleren Ton)'
-  'primarycolor': 'Primäre Farbe'
-  'primarycolordesc': 'Wird für die obere Navigationsleiste, Header, Links usw. verwendet'
-  'reset': 'Auf Standard zurücksetzen'
-  'savechanges': 'Änderungen speichern'
-  'subtitle': 'Ändere das Erscheinungsbild deines Wiki'
-  'footerColor': 'Farbe der Fußzeile'
-unauthorized: Unerlaubt
-updated: '{{path}} geändert'
-uploaded: '{{path}} hochgeladen.'
-users:
-  'createauthorize': 'Erstelle / Autorisiere Benutzer'
-  'createdon': 'Erstellt am'
-  'edituser': 'Benutzer bearbeiten'
-  'email': 'E-Mail Addresse'
-  'name': Name
-  'provider': Anbieter
-  'returntousers': 'Zurück zum Benutzer'
-  'subtitle': 'Benutzer und Zugriffsrechte verwalten'
-  'uniqueid': 'Einmalige ID'
-  'updatedon': 'Geändert am'
-wiki: Wiki
+  page: Seite
+  save.createSuccess: 'Seite erfolgreich erstellt.'
+  save.error: 'Beim Erstellen der Seite ist ein Fehler aufgetreten'
+  save.pleaseWait: 'Bitte warten...'
+  save.processing: Verarbeitung
+  save.updateSuccess: 'Seite erfolgreich aktualisiert.'

@@ -1,10 +1,7 @@
-actions:
-  'gohome': Domov
-  'loginas': 'Prihlásiť sa ako ...'
-added: 'Pridané {{path}}'
 admin:
   api.title: 'API Prístup'
   auth.title: Autentizácia
+  contribute.becomeAPatron: ''
   contribute.contribute: Prispieť
   contribute.followUsOnTwitter: 'Sledujte nás na {{0}}.'
   contribute.foundABug: 'Našli ste chybu? Odošlite ju na {{0}}.'
@@ -15,6 +12,7 @@ admin:
   contribute.openCollective: 'Wiki.js je súčasťou iniciatívy Open Collective. Môžete finančne prispievať mesačne alebo jednorazovým darom:'
   contribute.openSource: 'Wiki.js je bezplatný softvér s otvoreným zdrojovým kódom, ktorý vám priniesol {{0}} s {{1}} a {{2}} .'
   contribute.openSourceContributors: prispievatelia
+  contribute.patreon: ''
   contribute.shop: 'Obchod Wiki.js'
   contribute.spreadTheWord: Propagovať
   contribute.submitAnIdea: 'Odošlite nápad alebo hlasujte pre jeden na {{0}}.'
@@ -50,6 +48,10 @@ admin:
   locale.subtitle: 'Nastaviť možnosti lokalizácie pre vašu wiki'
   locale.title: 'Lokalizácie Stránky'
   logging.title: Protokolovanie
+  mail.configuration: ''
+  mail.dkim: ''
+  mail.subtitle: ''
+  mail.title: ''
   nav.modules: Moduly
   nav.site: Stránka
   nav.system: Systém
@@ -95,9 +97,9 @@ admin:
   theme.title: Téma
   users.title: Používatelia
   utilities.title: Pomôcky
-alreadyexists: 'Tento záznam už existuje!'
 auth:
   actions.login: 'Prihlásiť sa'
+  actions.register: ''
   errors.invalidLogin: 'Neplatné Prihlásenie'
   errors.invalidLoginMsg: 'E-mail alebo heslo je neplatné.'
   errors.invalidUserEmail: 'Neplatný Užívateľský E-Mail'
@@ -106,9 +108,30 @@ auth:
   errors.tooManyAttempts: 'Príliš mnoho pokusov!'
   errors.tooManyAttemptsMsg: 'Urobili ste príliš mnoho neúspešných pokusov v krátkom časovom období, prosím skúste to znova {{time}}.'
   errors.userNotFound: 'Používateľ nebol nájdený'
+  fields.email: ''
   fields.emailUser: 'E-mail / Užívateľské meno'
+  fields.name: ''
   fields.password: Heslo
+  fields.verifyPassword: ''
+  forgotPasswordCancel: ''
+  forgotPasswordLink: ''
+  forgotPasswordSubtitle: ''
+  genericError: ''
+  invalidEmail: ''
+  invalidEmailUsername: ''
+  invalidPassword: ''
   loginRequired: 'Vyžaduje sa prihlásenie'
+  loginSuccess: ''
+  loginUsingStrategy: ''
+  missingEmail: ''
+  missingName: ''
+  missingPassword: ''
+  nameTooLong: ''
+  nameTooShort: ''
+  orLoginUsingStrategy: ''
+  passwordNotMatch: ''
+  passwordTooShort: ''
+  pleaseWait: ''
   providers.azure: 'Azure Active Directory'
   providers.facebook: Facebook
   providers.github: GitHub
@@ -117,6 +140,17 @@ auth:
   providers.local: Miestne
   providers.slack: Slack
   providers.windowslive: 'Konto Microsoft'
+  registerCheckEmail: ''
+  registering: ''
+  registerSubTitle: ''
+  registerSuccess: ''
+  registerTitle: ''
+  sendResetPassword: ''
+  signingIn: ''
+  switchToLogin.link: ''
+  switchToLogin.text: ''
+  switchToRegister.link: ''
+  switchToRegister.text: ''
   tfa.placeholder: XXXXXX
   tfa.subtitle: 'Požadovaný bezpečnostný kód:'
   tfa.title: 'Dvojfaktorová Autentizácia'
@@ -138,261 +172,26 @@ common:
   actions.saveChanges: 'Uložiť Zmeny'
   actions.upload: Nahrať
   footer.copyright: '© {{year}} {{company}} . Všetky práva vyhradené.'
-  footer.home: Domov
   footer.poweredBy: 'Beží na'
-  footer.top: 'Späť na začiatok'
   newpage.create: 'Vytvoriť Stránku'
   newpage.goback: 'Vrátiť sa'
   newpage.subtitle: 'Chcete to vytvoriť teraz?'
   newpage.title: 'Táto stránka ešte neexistuje.'
-  welcome.createhome: 'Vytvoriť Domovskú Stránku'
-  welcome.subtitle: 'Začnime a vytvorme domovskú stránku.'
-  welcome.title: 'Vitajte vo vašej wiki!'
-debugmsg: 'Podrobné ladiace informácie'
-deleted: 'Vymazané / Premenované {{path}}'
+  notfound.gohome: ''
+  notfound.subtitle: ''
+  notfound.title: ''
+  unauthorized.action.create: ''
+  unauthorized.action.edit: ''
+  unauthorized.action.history: ''
+  unauthorized.action.source: ''
+  unauthorized.action.view: ''
+  unauthorized.goback: ''
+  unauthorized.login: ''
+  unauthorized.title: ''
 editor:
-  'codeblockinsert': 'Vložiť Blok Kódu'
-  'codeblocklanguage': Jazyk
-  'codeblockloading': 'Načítanie syntaxu kódu pre {{name}}'
-  'codeblockloadingerror': 'Chyba: Nedá sa načítať syntax jazyka.'
-  'codeblocksuccess': 'Bol vložený váš kódový blok.'
-  'codeblocktitle': 'Vložiť Blok Kódu'
-  'discard': Zrušiť
-  'filedeleteaction': Vymazať
-  'filedeletedefault': 'tento súbor'
-  'filedeleteloading': 'Vymazanie súboru...'
-  'filedeletesuccess': 'Súbor bol úspešne odstránený.'
-  'fileerror': 'Nepodarilo sa načítať aktualizovaný zoznam.'
-  'filefolderempty': 'Tento priečinok je prázdny.'
-  'fileinsert': 'Vložiť Odkaz na Súbor'
-  'fileloading': 'Načítanie súborov...'
-  'filemoveaction': 'Presunúť do...'
-  'filemoveerror': 'Chyba pri presúvaní: {{err}}'
-  'filemoveloading': 'Presúvanie súboru...'
-  'filemovesuccess': 'Súbor bol úspešne presunutý.'
-  'fileprocessing': Spracovávam...
-  'filerenameaction': Premenovať
-  'filesuccess': 'Odkaz na súbor bol vložený.'
-  'filetitle': 'Vložiť Súbor'
-  'fileupload': 'Nahrať Súbor(y)'
-  'fileuploaderror': 'Chyba pri nahrávaní: {{err}}'
-  'fileuploadsuccess': 'Súbor(y) úspešne nahrané.'
-  'folders': Priečinky
-  'foldersloading': 'Načítava sa zoznam priečinkov...'
-  'imagealigncenter': Stred
-  'imagealignleft': 'Vľavo (predvolené)'
-  'imagealignlogo': 'Logo Stránky'
-  'imagealignright': Doprava
-  'imageinsert': 'Vložiť Obrázok'
-  'imagesuccess': 'Obrázok bol vložený.'
-  'imagetitle': 'Vložiť Obrázok'
-  'imageupload': 'Nahrať Obrázok(y)'
-  'newfolder': 'Nový Priečinok'
-  'videoanymp4file': 'Akýkoľvek štandardný MP4 súbor'
-  'videoinsert': 'Vložiť Video'
-  'videolinktitle': 'Zadajte odkaz na video ktoré bude vnorené:'
-  'videonotsupported': 'Táto adresa URL je neplatná alebo nie je podporovaná!'
-  'videosuccess': 'Bol vložený kód videa.'
-  'videosupportedtitle': 'Sú podporované nasledovné:'
-  'videotitle': 'Vloženie Videa'
-  'page': Stránka
-  'save.createSuccess': 'Stránka bola úspešne vytvorená.'
-  'save.error': 'Vyskytla sa chyba pri vytváraní stránky'
-  'save.pleaseWait': 'Prosím čakajte...'
-  'save.processing': Spracovávam...
-fileexists: 'Súbor {{path}} už existuje.'
-forbidden: Zakázané
-forbiddendetail: 'Ľutujeme, nemáte potrebné oprávnenie na prístup k tejto stránke.'
-generic: 'No nazdar, niečo sa pokazilo'
-header:
-  'createdoc': 'Vytvoriť Nový Dokument'
-  'overview': Prehľad
-history:
-  'author': Autor
-  'commit': Potrdiť
-  'comparewith': 'Porovnať s...'
-  'pastversions': 'Predošlé Verzie'
-  'reverttoversion': 'Vrátiť sa na Verziu'
-  'sidebyside': 'Zobrazenie vedľa seba'
-  'timestamp': 'Časová značka'
-  'view': Zobraziť
-invalidaction: 'Neplatná Operácia!'
-invaliddestfolder: 'Neplatný Cieľový Priečinok!'
-invalidfiletype: 'Neplatný Typ Súboru.'
-invalidfolder: 'Neplatný Priečinok.'
-invalidoperation: 'Neplatná Operácia!'
-invalidpath: 'Neplatná cesta k stránke.'
-invaliduserid: 'Neplatné Užívateľské Id'
-loading:
-  'editor': 'Načítanie editoru...'
-  'source': 'Načítanie zdroja...'
-modal:
-  'abort': Zrušiť
-  'anchorerror': 'Kopírovanie schránky zlyhalo. Webovú adresu skopírujte ručne.'
-  'anchorsuccess': 'Adresa URL bola skopírovaná do schránky.'
-  'anchortitle': 'Skopírujte odkaz do tejto sekcie'
-  'copyclipboard': 'Kopírovať do Schránky'
-  'create': Vytvoriť
-  'createpageinvalid': 'Táto cesta stránky je neplatná!'
-  'createpagepath': 'Zadajte novú cestu stránky:'
-  'createpagetitle': 'Vytvoriť Novú Stránku'
-  'createuser': 'Vytvorenie Používateľa'
-  'createuserauthorize': 'Autorizácia Používateľa'
-  'createuseremail': 'E-mailová adresa:'
-  'createuseremailplaceholder': 'napr. jan.kajnsmentke@spolocnost.sk'
-  'createusername': 'Celé meno:'
-  'createusernameplaceholder': 'napríklad Ján Kajnšmentke'
-  'createuserpassword': 'Heslo:'
-  'createuserprovider': 'Poskytovateľ:'
-  'createusertitle': 'Vytvoriť / Autorizovať Používateľa'
-  'delete': Vymazať
-  'deletefiletitle': 'Odstrániť?'
-  'deletefilewarn': 'Naozaj chcete odstrániť'
-  'deletepagetitle': 'Vymazať túto stránku?'
-  'deletepagewarning': 'Naozaj chcete odstrániť túto stránku? Táto akcia sa nedá vrátiť späť!'
-  'deleteusertitle': 'Vymazať Používateľské Konto?'
-  'deleteuserwarning': 'Naozaj chcete odstrániť tento používateľský účet? Táto akcia sa nedá vrátiť späť!'
-  'discard': Zrušiť
-  'discardpagecreate': 'Naozaj chcete opustiť túto stránku a stratiť všetko, čo ste doteraz napísali?'
-  'discardpageedit': 'Naozaj chcete opustiť túto stránku a stratiť všetky zmeny?'
-  'discardpagestay': 'Zostať na stránke'
-  'discardpagetitle': 'Zrušiť?'
-  'move': Presunúť
-  'movepageinvalid': 'Táto cesta stránky je neplatná alebo nie je povolená!'
-  'movepagepath': 'Zadajte novú cestu stránky:'
-  'movepageplaceholder': názov-stránky
-  'movepagetitle': 'Presunúť Stránku'
-  'movepagewarning': 'Upozorňujeme, že presúvanie alebo premenovanie stránok môže viesť k poškodeniu odkazov. Nezabudnite upraviť všetky stránky, ktoré odkazujú na túto stránku!'
-  'newfolderinvalid': 'Tento názov priečinka je neplatný!'
-  'newfolderloading': 'Vytvorenie nového priečinka...'
-  'newfoldername': 'Zadajte názov nového priečinka:'
-  'newfoldernameplaceholder': 'názov priečinka'
-  'newfoldersuccess': 'Nový priečinok {{name}} vytvorený.'
-  'newfoldertitle': 'Nový Priečinok'
-  'renamefile': Premenovať
-  'renamefileerror': 'Chyba pri premenovaní: {{err}}'
-  'renamefileinvalid': 'Tento názov súboru je neplatný!'
-  'renamefileloading': 'Premenovanie súboru...'
-  'renamefilename': 'Zadajte nový názov súboru (bez prípony):'
-  'renamefilenameplaceholder': 'názov súboru'
-  'renamefiletitle': 'Premenovať Súbor'
-nav:
-  'account': Účet
-  'allpages': 'Všetky Stránky'
-  'create': Vytvoriť
-  'discard': Zrušiť
-  'edit': Upraviť
-  'history': História
-  'home': Domov
-  'login': Prihlásenie
-  'logout': Odhlásenie
-  'move': Presunúť
-  'myprofile': 'Môj Profil'
-  'normalview': 'Normálne Zobrazenie'
-  'root': Domov
-  'savechanges': 'Uložiť Zmeny'
-  'savedocument': 'Uloženie Dokumentu'
-  'settings': Nastavenia
-  'source': Zdroj
-  'stats': Štatistiky
-  'sysinfo': 'Systémové Informácie'
-  'syssettings': 'Systémové Nastavenia'
-  'theme': 'Farebný Motív'
-  'users': Používatelia
-  'viewlatest': 'Zobraziť Najnovšie'
-newpasswordtooshort: 'Nové heslo je príliš krátke!'
-notexist: 'Položka {{path}} neexistuje!'
-notexistdetail: 'Chcete vytvoriť tento záznam?'
-parentinvalid: 'Nadradený záznam nie je platný súbor.'
-parentisroot: 'Nadradená položka je koreňová.'
-profile:
-  'displayname': 'Zobrazované Meno'
-  'displaynameexample': 'Ján Kajnšmentke'
-  'email': E-mail
-  'lastprofileupdate': 'Posledná Aktualizácia Profilu'
-  'membersince': 'Členom od'
-  'password': Heslo
-  'passwordverify': 'Overenie Hesla'
-  'provider': Poskytovateľ
-  'savechanges': 'Uložiť Zmeny'
-  'subtitle': 'Profil a overovacie informácie'
-  'tfa': 'Dvojfaktorová Autentizácia'
-  'tfadisable': 'Zakázať 2FA'
-  'tfadisabled': Zakázané
-  'tfaenable': 'Povoliť 2FA'
-  'tfaenabled': Povolené
-remotetoolarge: 'Vzdialený súbor je príliš veľký!'
-reservedname: 'Nie je možné vytvoriť dokument s týmto názvom, pretože je vyhradený systémom.'
-savefailed: 'Nepodarilo sa uložiť dokument'
-search:
-  'didyoumean': 'Mali ste na mysli...?'
-  'nomatch': 'Žiadne výsledky zodpovedajúce vášmu výrazu'
-  'placeholder': Hľadať...
-  'results': 'Výsledky Vyhľadávania'
-settings:
-  'subtitle': 'Správa konfigurácie stránky'
-sidebar:
-  'nav': NAV
-  'navigation': Navigácia
-  'pagecontents': 'Obsah Stránky'
-  'pastversions': 'Predchádzajúce Verzie'
-starterfailed: 'Nepodarilo sa načítať štartovací obsah!'
-stats:
-  'entries': Položky
-  'subtitle': 'Všeobecné štatistiky celej stránky'
-  'uploads': Nahranie
-  'users': Používatelia
-system:
-  'administrativetools': 'Administratívne Nástroje'
-  'cores': 'CPU Jadrá'
-  'currentversion': 'Aktuálna Verzia'
-  'cwd': 'Pracovný Adresár'
-  'flushcache': 'Prečistit medzipamäť a prebudovať indexy'
-  'flushcachebtn': 'Prečistenie a opätovné Vytvorenie'
-  'flushcachetext': 'Ak sa obsah alebo výsledky vyhľadávania zdajú byť neaktualizované alebo nezahrňujú najnovší obsah, prečistenie pamäti môže pomôcť vyriešiť tieto problémy.'
-  'flushsessions': 'Zrušiť všetky aktívne užívateľské spojenia'
-  'flushsessionsbtn': 'Prečistenie Spojení'
-  'flushsessionstext': 'Všetci užívatelia budú odhlásení a donútení sa prihlásiť znova. Vaša aktuálna relácia bude tiež ovplyvnená!'
-  'hostinfo': 'Hostiteľské Informácie'
-  'hostname': 'Meno hostiteľa'
-  'latestversion': 'Najnovšia Verzia'
-  'nodeversion': 'Verzia Node.js'
-  'os': 'Operačný Systém'
-  'reinstall': 'Re-inštalácia aktuálnej verzie'
-  'resetaccounts': 'Zresetuje systémové účty na predvolené hodnoty'
-  'resetaccountsbtn': 'Reset Systémových Účtov'
-  'resetaccountstext': 'Systémové účty (napríklad účet Hosťa) sa obnovia na predvolené nastavenia.'
-  'subtitle': 'Informácie a nástroje pre vašu wiki'
-  'systemversion': 'Verzia Systému'
-  'totalmem': 'Celková Pamäť'
-  'upgrade': Upgrade
-  'versioncheckfailed': 'Nedá sa skontrolovať najnovšiu verziu. Skúste to znova neskôr.'
-theme:
-  'altcolor': 'Alternatívna Farba'
-  'altcolordesc': 'Používa sa pre bočný panel (v tmavšom tóne)'
-  'codeblock':
-    'colorize': 'Farbiť syntax kódu'
-    'dark': 'Používanie Tmavého Motívu'
-    'title': 'Kódové Bloky'
-  'footercolordesc': 'Používa sa pre zápätie (v svetlom tóne)'
-  'primarycolor': 'Primárna Farba'
-  'primarycolordesc': 'Používa sa pre horný navigačný panel, hlavičky, odkazy, atď.'
-  'reset': 'Obnoviť Predvolené'
-  'savechanges': 'Uložiť Zmeny'
-  'subtitle': 'Zmeniť vzhľad a dojem vašej wiki'
-  'footerColor': 'Farba Zápätia'
-unauthorized: Neoprávnené
-updated: 'Aktualizované {{path}}'
-uploaded: 'Nahrané {{cesta}}'
-users:
-  'createauthorize': 'Vytvoriť / Autorizovať Používateľa'
-  'createdon': Vytvorené
-  'edituser': 'Upraviť Užívateľa'
-  'email': 'E-Mailová Adresa'
-  'name': Meno
-  'provider': Poskytovateľ
-  'returntousers': 'Návrat na Používateľov'
-  'subtitle': 'Správa používateľov a prístupových práv'
-  'uniqueid': 'Unikátne ID'
-  'updatedon': Aktualizované
-wiki: Wiki
+  page: Stránka
+  save.createSuccess: 'Stránka bola úspešne vytvorená.'
+  save.error: 'Vyskytla sa chyba pri vytváraní stránky'
+  save.pleaseWait: 'Prosím čakajte...'
+  save.processing: Spracovávam...
+  save.updateSuccess: ''

@@ -1,10 +1,7 @@
-actions:
-  'gohome': 'Ana Sayfaya Dön'
-  'loginas': 'Olarak giriş yapın ...'
-added: '{{path}} eklendi'
 admin:
   api.title: 'API Erişimi'
   auth.title: 'Kimlik doğrulama'
+  contribute.becomeAPatron: ''
   contribute.contribute: 'Katkıda bulunun'
   contribute.followUsOnTwitter: 'Bizi {{0}} üzerinde takip edin.'
   contribute.foundABug: 'Bir hata mı buldunuz? {{0}} üzerinde talep açın.'
@@ -15,6 +12,7 @@ admin:
   contribute.openCollective: 'Wiki.js, Open Collective girişiminin bir parçasıdır. Aylık veya tek seferlik bir bağış yaparak mali katkıda bulunabilirsiniz:'
   contribute.openSource: 'Wiki.js, {{0}} ile {{1}} ve {{2}} tarafından sunulan ücretsiz ve açık kaynaklı bir yazılımdır.'
   contribute.openSourceContributors: 'katkıda bulunanlar'
+  contribute.patreon: ''
   contribute.shop: 'Wiki.js Alışveriş'
   contribute.spreadTheWord: Duyurun
   contribute.submitAnIdea: 'Fikir gönderin veya {{0}} üzerinde önerilenleri oylayın.'
@@ -50,10 +48,35 @@ admin:
   locale.subtitle: 'Viki''niz için yerelleştirme seçeneklerini ayarlayın'
   locale.title: Yerel
   logging.title: 'Günlüğe kaydetme'
+  mail.configuration: ''
+  mail.dkim: ''
+  mail.subtitle: ''
+  mail.title: ''
   nav.modules: Modüller
   nav.site: Site
   nav.system: Sistem
   nav.users: Kullanıcılar
+  navigation.delete: ''
+  navigation.divider: ''
+  navigation.edit: ''
+  navigation.emptyList: ''
+  navigation.header: ''
+  navigation.icon: ''
+  navigation.label: ''
+  navigation.link: ''
+  navigation.navType.external: ''
+  navigation.navType.home: ''
+  navigation.navType.page: ''
+  navigation.navType.searchQuery: ''
+  navigation.noItemsText: ''
+  navigation.noSelectionText: ''
+  navigation.saveSuccess: ''
+  navigation.subtitle: ''
+  navigation.target: ''
+  navigation.targetType: ''
+  navigation.title: ''
+  navigation.untitled: ''
+  pages.title: ''
   rendering.title: İşleme
   search.title: 'Arama motoru'
   stats.title: İstatistikler
@@ -74,9 +97,9 @@ admin:
   theme.title: Tema
   users.title: Kullanıcılar
   utilities.title: 'Yardımcı Programlar'
-alreadyexists: 'Bu girdi zaten var.'
 auth:
   actions.login: 'Oturum aç'
+  actions.register: ''
   errors.invalidLogin: 'Geçersiz Oturum Açma'
   errors.invalidLoginMsg: 'E-posta veya parola geçersiz.'
   errors.invalidUserEmail: 'Geçersiz Kullanıcı E-postası'
@@ -85,9 +108,30 @@ auth:
   errors.tooManyAttempts: 'Çok fazla girişim!'
   errors.tooManyAttemptsMsg: 'Kısa bir süre içinde çok fazla başarısız girişimde bulundunuz, lütfen {{time}} sonra tekrar deneyin.'
   errors.userNotFound: 'Kullanıcı bulunamadı'
+  fields.email: ''
   fields.emailUser: 'E-posta / Kullanıcı Adı'
+  fields.name: ''
   fields.password: Parola
+  fields.verifyPassword: ''
+  forgotPasswordCancel: ''
+  forgotPasswordLink: ''
+  forgotPasswordSubtitle: ''
+  genericError: ''
+  invalidEmail: ''
+  invalidEmailUsername: ''
+  invalidPassword: ''
   loginRequired: 'Giriş gerekli'
+  loginSuccess: ''
+  loginUsingStrategy: ''
+  missingEmail: ''
+  missingName: ''
+  missingPassword: ''
+  nameTooLong: ''
+  nameTooShort: ''
+  orLoginUsingStrategy: ''
+  passwordNotMatch: ''
+  passwordTooShort: ''
+  pleaseWait: ''
   providers.azure: 'Azure Aktif Dizin'
   providers.facebook: Facebook
   providers.github: GitHub
@@ -96,11 +140,24 @@ auth:
   providers.local: Lokal
   providers.slack: Slack
   providers.windowslive: 'Microsoft Hesabı'
+  registerCheckEmail: ''
+  registering: ''
+  registerSubTitle: ''
+  registerSuccess: ''
+  registerTitle: ''
+  sendResetPassword: ''
+  signingIn: ''
+  switchToLogin.link: ''
+  switchToLogin.text: ''
+  switchToRegister.link: ''
+  switchToRegister.text: ''
   tfa.placeholder: XXXXXX
   tfa.subtitle: 'Güvenlik kodu gerekli:'
   tfa.title: 'İki Faktörlü Kimlik Doğrulama'
   tfa.verifyToken: Doğrula
 common:
+  actions.add: ''
+  actions.apply: ''
   actions.cancel: İptal
   actions.clear: Temizle
   actions.create: Oluştur
@@ -115,257 +172,26 @@ common:
   actions.saveChanges: 'Değişiklikleri Kaydet'
   actions.upload: 'Karşıya yükle'
   footer.copyright: '© {{year}} {{company}} . Her hakkı saklıdır.'
-  footer.home: 'Ana sayfa'
   footer.poweredBy: 'Altyapı,'
-  footer.top: 'Başa dön'
-  welcome.createhome: 'Ana Sayfa Oluştur'
-  welcome.subtitle: 'Hadi ilk iş olarak ana sayfayı oluşturalım.'
-  welcome.title: 'Wiki projenize hoş geldiniz!'
-debugmsg: 'Ayrıntılı hata ayıklama izi'
-deleted: '{{path}} silindi / yeniden adlandırıldı'
+  newpage.create: ''
+  newpage.goback: ''
+  newpage.subtitle: ''
+  newpage.title: ''
+  notfound.gohome: ''
+  notfound.subtitle: ''
+  notfound.title: ''
+  unauthorized.action.create: ''
+  unauthorized.action.edit: ''
+  unauthorized.action.history: ''
+  unauthorized.action.source: ''
+  unauthorized.action.view: ''
+  unauthorized.goback: ''
+  unauthorized.login: ''
+  unauthorized.title: ''
 editor:
-  'codeblockinsert': 'Kod Bloğu Ekle'
-  'codeblocklanguage': 'Programlama Dili'
-  'codeblockloading': '{{name}} için kod sözdizimi yükleniyor'
-  'codeblockloadingerror': 'Hata: Dil sözdizimi yüklenemiyor.'
-  'codeblocksuccess': 'Kod bloğunuz eklendi.'
-  'codeblocktitle': 'Kod Bloğu Ekle'
-  'discard': At
-  'filedeleteaction': Sil
-  'filedeletedefault': 'bu dosya'
-  'filedeleteloading': 'Dosya siliniyor...'
-  'filedeletesuccess': 'Dosya başarıyla silindi.'
-  'fileerror': 'Güncellenen liste alınamadı.'
-  'filefolderempty': 'Bu klasör boş.'
-  'fileinsert': 'Dosyaya Bağlantı Ekle'
-  'fileloading': 'Dosyalar çekiliyor...'
-  'filemoveaction': 'Şuraya taşı...'
-  'filemoveerror': 'Taşıma hatası: {{err}}'
-  'filemoveloading': 'Dosya taşınıyor ...'
-  'filemovesuccess': 'Dosya başarıyla taşındı.'
-  'fileprocessing': İşleniyor...
-  'filerenameaction': 'Yeniden Adlandır'
-  'filesuccess': 'Dosya bağlantısı eklendi.'
-  'filetitle': 'Dosya Ekle'
-  'fileupload': 'Dosya(lar) Yükle'
-  'fileuploaderror': 'Yükleme Hatası: {{err}}'
-  'fileuploadsuccess': 'Dosya(lar) başarıyla yüklendi.'
-  'folders': Klasörler
-  'foldersloading': 'Klasör listesi alınıyor ...'
-  'imagealigncenter': Ortalanmış
-  'imagealignleft': 'Sol (varsayılan)'
-  'imagealignlogo': 'Sayfa Logosu'
-  'imagealignright': Sağ
-  'imageinsert': 'Resim Ekle'
-  'imagesuccess': 'Resim eklendi.'
-  'imagetitle': 'Resim Ekle'
-  'imageupload': 'Görüntü(ler) Yükle'
-  'newfolder': 'Yeni Klasör'
-  'videoanymp4file': 'Herhangi bir standart MP4 dosyası'
-  'videoinsert': 'Video Ekle'
-  'videolinktitle': 'Yerleştirilecek videonun bağlantısını girin:'
-  'videonotsupported': 'Bu URL geçersiz veya desteklenmiyor!'
-  'videosuccess': 'Video kodu eklendi.'
-  'videosupportedtitle': 'Aşağıdakiler desteklenmektedir:'
-  'videotitle': 'Video Ekle'
-  'page': Sayfa
-  'save.createSuccess': 'Sayfa başarıyla oluşturuldu.'
-  'save.error': 'Sayfa oluşturulurken bir hata oluştu'
-  'save.pleaseWait': 'Lütfen bekleyiniz...'
-  'save.processing': İşleniyor
-fileexists: 'Dosya {{path}} zaten var.'
-forbidden: 'Erişim Engellendi'
-forbiddendetail: 'Üzgünüz, bu sayfaya erişmek için gerekli izinlere sahip değilsiniz.'
-generic: 'Hoop! Birşeyler yanlış gitti'
-header:
-  'createdoc': 'Yeni Belge Oluştur'
-  'overview': 'Genel bakış'
-history:
-  'author': Yazar
-  'commit': Bağla
-  'comparewith': Karşılaştırın...
-  'pastversions': 'Geçmiş Sürümler'
-  'reverttoversion': 'Sürüme Geri Dön'
-  'sidebyside': 'Yan Yana Görünüm'
-  'timestamp': 'Zaman Damgası'
-  'view': Görüntüle
-invalidaction: 'Geçersiz Eylem.'
-invaliddestfolder: 'Geçersiz Hedef Klasörü!'
-invalidfiletype: 'Geçersiz Dosya Türü.'
-invalidfolder: 'Geçersiz Klasör.'
-invalidoperation: 'Geçersiz İşlem!'
-invalidpath: 'Geçersiz sayfa yolu.'
-invaliduserid: 'Geçersiz Kullanıcı Kimliği'
-loading:
-  'editor': 'Editör yükleniyor...'
-  'source': 'Kaynak yükleniyor ...'
-modal:
-  'abort': İptal
-  'anchorerror': 'Pano kopyası başarısız oldu. URL''yi manuel olarak kopyalayın.'
-  'anchorsuccess': 'URL panoya kopyalandı.'
-  'anchortitle': 'Bağlantıyı bu bölüme kopyala'
-  'copyclipboard': 'Panoya kopyala'
-  'create': Oluştur
-  'createpageinvalid': 'Bu sayfa yolu geçersiz!'
-  'createpagepath': 'Yeni sayfa yolunu girin:'
-  'createpagetitle': 'Yeni Sayfa Yarat'
-  'createuser': 'Kullanıcı Yarat'
-  'createuserauthorize': 'Kullanıcıyı Yetkilendir'
-  'createuseremail': 'E-posta adresi:'
-  'createuseremailplaceholder': 'örneğin, mustafa.caliskan@sirketim.com'
-  'createusername': 'Ad Soyad:'
-  'createusernameplaceholder': 'örneğin, Mustafa Çalışkan'
-  'createuserpassword': 'Şifre:'
-  'createuserprovider': 'Sağlayıcı:'
-  'createusertitle': 'Kullanıcı Yarat / Yetkilendir'
-  'delete': Sil
-  'deletefiletitle': 'Silinsin mi?'
-  'deletefilewarn': 'Silmek istediğinizden emin misiniz?'
-  'deletepagetitle': 'Bu sayfa silinsin mi?'
-  'deletepagewarning': 'Bu sayfayı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz!'
-  'deleteusertitle': 'Kullanıcı Hesabı silinsin mi?'
-  'deleteuserwarning': 'Bu kullanıcı hesabını silmek istediğinizden emin misiniz? Bu işlem geri alınamaz!'
-  'discard': At
-  'discardpagecreate': 'Bu sayfadan ayrılmak ve şimdiye kadar yazdıklarınızı kaybetmek istediğinizden emin misiniz?'
-  'discardpageedit': 'Bu sayfadan ayrılmak ve herhangi bir değişiklik yapmak istemediğinizden emin misiniz?'
-  'discardpagestay': 'Sayfada kal'
-  'discardpagetitle': 'Atılsın mı?'
-  'move': Taşı
-  'movepageinvalid': 'Bu sayfa yolu geçersiz veya izin verilmiyor!'
-  'movepagepath': 'Yeni sayfa yolunu girin:'
-  'movepageplaceholder': 'sayfa adı'
-  'movepagetitle': 'Sayfayı Taşı'
-  'movepagewarning': 'Sayfaları taşıma veya yeniden adlandırmanın, bozuk bağlantılara yol açabileceğini unutmayın. Bu sayfaya bağlantı veren herhangi bir sayfayı daha sonra düzenlemeyi unutmayın!'
-  'newfolderinvalid': 'Bu klasör adı geçersiz!'
-  'newfolderloading': 'Yeni klasör oluşturuluyor ...'
-  'newfoldername': 'Yeni klasör adını girin:'
-  'newfoldernameplaceholder': 'klasör adı'
-  'newfoldersuccess': 'Yeni dosya {{name}} oluşturuldu.'
-  'newfoldertitle': 'Yeni Klasör'
-  'renamefile': 'Yeniden Adlandır'
-  'renamefileerror': 'Yeniden adlandırma hatası: {{err}}'
-  'renamefileinvalid': 'Bu dosya adı geçersiz!'
-  'renamefileloading': 'Dosya yeniden adlandırılıyor ...'
-  'renamefilename': 'Dosyanın yeni adını (uzantısı olmadan) girin:'
-  'renamefilenameplaceholder': 'dosya adı'
-  'renamefiletitle': 'Dosyayı yeniden adlandır'
-nav:
-  'account': Hesap
-  'allpages': 'Tüm Sayfalar'
-  'create': Oluştur
-  'discard': At
-  'edit': Düzenle
-  'history': Geçmiş
-  'home': 'Ana sayfa'
-  'login': 'Oturum aç'
-  'logout': 'Çıkış Yap'
-  'move': Taşı
-  'myprofile': Profilim
-  'normalview': 'Normal Görünüm'
-  'root': 'Ana sayfa'
-  'savechanges': 'Değişiklikleri Kaydet'
-  'savedocument': 'Belgeyi Kaydet'
-  'settings': Ayarlar
-  'source': Kaynak
-  'stats': İstatistikler
-  'sysinfo': 'Sistem Bilgisi'
-  'syssettings': 'Sistem Ayarları'
-  'theme': 'Renk Teması'
-  'users': Kullanıcılar
-  'viewlatest': 'En Günceli Görüntüle'
-newpasswordtooshort: 'Yeni şifre çok kısa!'
-notexist: '{{path}} girdisi mevcut değil!'
-notexistdetail: 'Bu girdiyi oluşturmak ister misiniz?'
-parentinvalid: 'Üst girdi geçerli bir dosya değil.'
-parentisroot: 'Üst girdi köktür.'
-profile:
-  'displayname': 'Görünen ad'
-  'displaynameexample': 'Mustafa Çalışkan'
-  'email': E-posta
-  'lastprofileupdate': 'Son Profil Güncelleme'
-  'membersince': 'Den beri üye'
-  'password': Şifre
-  'passwordverify': 'Şifreyi Doğrula'
-  'provider': Sağlayıcı
-  'savechanges': 'Değişiklikleri Kaydet'
-  'subtitle': 'Profil ve kimlik bilgileri'
-  'tfa': 'İki Faktörlü Kimlik Doğrulama'
-  'tfadisable': '2FA devre dışı bırak'
-  'tfadisabled': 'Devre dışı'
-  'tfaenable': '2FA etkinleştir'
-  'tfaenabled': Etkin
-remotetoolarge: 'Uzak dosya çok büyük!'
-reservedname: 'Sistem tarafından ayrıldığı için bu ada sahip bir belge oluşturamazsınız.'
-savefailed: 'Doküman kaydedilemedi'
-search:
-  'didyoumean': 'Bunu mu demek istediniz...?'
-  'nomatch': 'Sorgunuzla eşleşen sonuç yok'
-  'placeholder': Ara...
-  'results': 'Arama Sonuçları'
-settings:
-  'subtitle': 'Site yapılandırmasını yönet'
-sidebar:
-  'nav': NAV
-  'navigation': Navigasyon
-  'pagecontents': 'Sayfa İçeriği'
-  'pastversions': 'Geçmiş Sürümler'
-starterfailed: 'Başlangıç ​​içeriği yüklenemedi!'
-stats:
-  'entries': Girdiler
-  'subtitle': 'Genel site istatistikleri'
-  'uploads': Yüklemeler
-  'users': Kullanıcılar
-system:
-  'administrativetools': 'Yönetimsel Araçlar'
-  'cores': 'CPU Çekirdekleri'
-  'currentversion': 'Mevcut Sürüm'
-  'cwd': 'Çalışma Dizini'
-  'flushcache': 'Önbelleği temizle ve dizinleri yeniden oluştur'
-  'flushcachebtn': 'Temizle ve Yeniden Oluştur'
-  'flushcachetext': 'İçerik veya arama sonuçları güncel değilse veya en son içeriği göstermiyorsa, önbelleği temizlemeniz bu sorunların çözümüne yardımcı olabilir.'
-  'flushsessions': 'Tüm aktif kullanıcı oturumlarını temizle'
-  'flushsessionsbtn': 'Oturumları Temizle'
-  'flushsessionstext': 'Tüm kullanıcılar çıkış yapacak ve tekrar giriş yapmaya zorlanacak. Mevcut oturumunuz da bundan etkilenecek!'
-  'hostinfo': 'Ana Bilgisayar Bilgileri'
-  'hostname': 'Ana bilgisayar adı'
-  'latestversion': 'En Son Sürüm'
-  'nodeversion': 'Node.js Sürümü'
-  'os': 'İşletim Sistemi'
-  'reinstall': 'Mevcut sürümü yeniden yükleyin'
-  'resetaccounts': 'Sistem hesaplarını varsayılanlara sıfırla'
-  'resetaccountsbtn': 'Sistem Hesaplarını Sıfırla'
-  'resetaccountstext': 'Sistem hesapları (Konuk hesabı gibi) varsayılan ayarlarına sıfırlanacaktır.'
-  'subtitle': 'Wiki için bilgi ve araçlar'
-  'systemversion': 'Sistem Sürümü'
-  'totalmem': 'Toplam Bellek'
-  'upgrade': Yükselt
-  'versioncheckfailed': 'En son sürüm sorgulanamıyor. Daha sonra tekrar deneyin.'
-theme:
-  'altcolor': 'Alternatif renk'
-  'altcolordesc': 'Kenar çubuğu için kullanılır (daha koyu tonda)'
-  'codeblock':
-    'colorize': 'Kod sözdizimi renklendirme'
-    'dark': 'Karanlık Temayı Kullan'
-    'title': 'Kod Blokları'
-  'footercolordesc': 'Altbilgi için kullanılır (daha açık tonda)'
-  'primarycolor': 'Ana renk'
-  'primarycolordesc': 'Üst gezinti çubuğu, başlıklar, bağlantılar, vb için kullanılır.'
-  'reset': 'Varsayılanlara Geri Döndür'
-  'savechanges': 'Değişiklikleri Kaydet'
-  'subtitle': 'Wiki projenizin görünümünü ve hissini değiştirin'
-  'footerColor': 'Altbilgi Rengi'
-unauthorized: 'Yasak Giriş'
-updated: '{{path}} güncellendi'
-uploaded: '{{path}} karşıya yüklendi'
-users:
-  'createauthorize': 'Kullanıcı Yarat / Yetkilendir'
-  'createdon': 'Oluşturulma Tarihi'
-  'edituser': 'Kullanıcı Düzenle'
-  'email': 'E-Posta Adresi'
-  'name': Adı
-  'provider': Sağlayıcı
-  'returntousers': 'Kullanıcılara Geri Dön'
-  'subtitle': 'Kullanıcıları ve erişim haklarını yönet'
-  'uniqueid': 'Benzersiz Kimlik Numarası'
-  'updatedon': 'Güncellenen Tarih'
-wiki: Wiki
+  page: Sayfa
+  save.createSuccess: 'Sayfa başarıyla oluşturuldu.'
+  save.error: 'Sayfa oluşturulurken bir hata oluştu'
+  save.pleaseWait: 'Lütfen bekleyiniz...'
+  save.processing: İşleniyor
+  save.updateSuccess: ''

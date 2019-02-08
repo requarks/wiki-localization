@@ -1,7 +1,26 @@
 admin:
   api.title: 'גישה לAPI'
   auth.title: אימות
+  contribute.becomeAPatron: ''
+  contribute.contribute: ''
+  contribute.followUsOnTwitter: ''
+  contribute.foundABug: ''
+  contribute.fundOurWork: ''
+  contribute.helpTranslate: ''
+  contribute.makeADonation: ''
+  contribute.needYourHelp: ''
+  contribute.openCollective: ''
+  contribute.openSource: ''
+  contribute.openSourceContributors: ''
+  contribute.patreon: ''
+  contribute.shop: ''
+  contribute.spreadTheWord: ''
+  contribute.submitAnIdea: ''
+  contribute.submitAnIdeaLink: ''
+  contribute.subtitle: ''
+  contribute.talkToFriends: ''
   contribute.title: 'תרום ל Wiki.js'
+  contribute.tshirts: ''
   dashboard.subtitle: 'Wiki.js v2 גירסת אלפא - לא לשימוש בסביבת אמת'
   dashboard.title: 'לוח מחוונים'
   dev.title: 'כלי מפתח'
@@ -29,10 +48,35 @@ admin:
   locale.subtitle: 'הגדר אפשרויות אזור (שפה) עבור הויקי שלך'
   locale.title: 'אזור (שפת)'
   logging.title: רישום
+  mail.configuration: ''
+  mail.dkim: ''
+  mail.subtitle: ''
+  mail.title: ''
   nav.modules: מודולים
   nav.site: אתר
   nav.system: מערכת
   nav.users: משתמשים
+  navigation.delete: ''
+  navigation.divider: ''
+  navigation.edit: ''
+  navigation.emptyList: ''
+  navigation.header: ''
+  navigation.icon: ''
+  navigation.label: ''
+  navigation.link: ''
+  navigation.navType.external: ''
+  navigation.navType.home: ''
+  navigation.navType.page: ''
+  navigation.navType.searchQuery: ''
+  navigation.noItemsText: ''
+  navigation.noSelectionText: ''
+  navigation.saveSuccess: ''
+  navigation.subtitle: ''
+  navigation.target: ''
+  navigation.targetType: ''
+  navigation.title: ''
+  navigation.untitled: ''
+  pages.title: ''
   rendering.title: עיבוד
   search.title: 'מנוע חיפוש'
   stats.title: סטטיסטיקות
@@ -55,6 +99,7 @@ admin:
   utilities.title: 'כלי עזר'
 auth:
   actions.login: כנס
+  actions.register: ''
   errors.invalidLogin: 'כניסה לא חוקית'
   errors.invalidLoginMsg: 'כתובת הדוא"ל או הסיסמה אינן תקינות.'
   errors.invalidUserEmail: 'דוא"ל משתמש לא חוקי'
@@ -63,9 +108,30 @@ auth:
   errors.tooManyAttempts: 'יותר מדי ניסיונות!'
   errors.tooManyAttemptsMsg: 'ביצעת ניסיונות כושלים רבים מדי בפרק זמן קצר, נסה שוב {{time}} .'
   errors.userNotFound: 'המשתמש לא נמצא'
+  fields.email: ''
   fields.emailUser: 'דוא"ל / שם משתמש'
+  fields.name: ''
   fields.password: סיסמה
+  fields.verifyPassword: ''
+  forgotPasswordCancel: ''
+  forgotPasswordLink: ''
+  forgotPasswordSubtitle: ''
+  genericError: ''
+  invalidEmail: ''
+  invalidEmailUsername: ''
+  invalidPassword: ''
   loginRequired: 'נדרשת כניסה'
+  loginSuccess: ''
+  loginUsingStrategy: ''
+  missingEmail: ''
+  missingName: ''
+  missingPassword: ''
+  nameTooLong: ''
+  nameTooShort: ''
+  orLoginUsingStrategy: ''
+  passwordNotMatch: ''
+  passwordTooShort: ''
+  pleaseWait: ''
   providers.azure: 'Azure Active Directory'
   providers.facebook: Facebook
   providers.github: GitHub
@@ -74,11 +140,24 @@ auth:
   providers.local: מקומי
   providers.slack: Slack
   providers.windowslive: 'חשבון Microsoft'
+  registerCheckEmail: ''
+  registering: ''
+  registerSubTitle: ''
+  registerSuccess: ''
+  registerTitle: ''
+  sendResetPassword: ''
+  signingIn: ''
+  switchToLogin.link: ''
+  switchToLogin.text: ''
+  switchToRegister.link: ''
+  switchToRegister.text: ''
   tfa.placeholder: XXXXXX
   tfa.subtitle: 'נדרש קוד אבטחה:'
   tfa.title: 'אימות שני-גורמים'
   tfa.verifyToken: ודא
 common:
+  actions.add: ''
+  actions.apply: ''
   actions.cancel: בטל
   actions.clear: נקה
   actions.create: צור
@@ -86,45 +165,33 @@ common:
   actions.discard: דחה
   actions.download: הורד
   actions.edit: ערוך
+  actions.ok: ''
   actions.proceed: המשך
   actions.refresh: רענן
   actions.save: שמור
   actions.saveChanges: 'שמור שינויים'
   actions.upload: העלה
+  footer.copyright: ''
+  footer.poweredBy: ''
+  newpage.create: ''
+  newpage.goback: ''
+  newpage.subtitle: ''
+  newpage.title: ''
+  notfound.gohome: ''
+  notfound.subtitle: ''
+  notfound.title: ''
+  unauthorized.action.create: ''
+  unauthorized.action.edit: ''
+  unauthorized.action.history: ''
+  unauthorized.action.source: ''
+  unauthorized.action.view: ''
+  unauthorized.goback: ''
+  unauthorized.login: ''
+  unauthorized.title: ''
 editor:
-  'codeblocklanguage': שפה
-  'discard': דחה
-  'filedeleteaction': מחק
-  'filedeletedefault': 'קובץ זה'
-  'filedeleteloading': 'מוחק קובץ ...'
-  'filedeletesuccess': 'קובץ נמחק בהצלחה.'
-  'filefolderempty': 'תיקיה זו ריקה.'
-  'filemoveaction': 'העבר ל...'
-  'filemoveloading': 'מעביר קובץ ...'
-  'filemovesuccess': 'קובץ הועבר בהצלחה.'
-  'fileprocessing': מעבד...
-  'filerenameaction': 'שנה שם'
-theme:
-  'altcolor': 'צבע חלופי'
-  'altcolordesc': 'משמש עבור סרגל צד (בגוון כהה יותר)'
-  'codeblock':
-    'colorize': 'צביעת תחביר הקוד.'
-    'dark': 'השתמש בערכת נושא כהה'
-    'title': 'בלוקי קוד'
-  'footercolordesc': 'משמש עבור כותרת תחתונה (בגוון בהיר יותר)'
-  'primarycolor': 'צבע ראשוני'
-  'primarycolordesc': 'משמש עבור סרגל ניווט עליון, כותרות, קישורים וכו ''.'
-  'reset': 'חזור לברירות מחדל'
-  'savechanges': 'שמור שינויים'
-  'footerColor': 'צבע כותרת תחתונה'
-users:
-  'createauthorize': 'יצירת / הרשאת משתמש'
-  'createdon': 'נוצר בתאריך'
-  'edituser': 'ערוך משתמש'
-  'email': 'כתובת דוא"ל'
-  'name': שם
-  'provider': ספק
-  'returntousers': 'חזור אל המשתמשים'
-  'subtitle': 'ניהול משתמשים וזכויות גישה'
-  'uniqueid': 'מזהה ייחודי'
-  'updatedon': 'עודכן בתאריך'
+  page: ''
+  save.createSuccess: ''
+  save.error: ''
+  save.pleaseWait: ''
+  save.processing: ''
+  save.updateSuccess: ''

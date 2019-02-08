@@ -1,7 +1,3 @@
-actions:
-  'gohome': 'Go Home'
-  'loginas': 'Login as...'
-added: 'Added {{path}}'
 admin:
   api.title: 'API Access'
   auth.title: Authentication
@@ -101,7 +97,6 @@ admin:
   theme.title: Theme
   users.title: Users
   utilities.title: Utilities
-alreadyexists: 'This entry already exists!'
 auth:
   actions.login: 'Log In'
   actions.register: Register
@@ -177,9 +172,7 @@ common:
   actions.saveChanges: 'Save Changes'
   actions.upload: Upload
   footer.copyright: '© {{year}} {{company}}. All rights reserved.'
-  footer.home: Home
   footer.poweredBy: 'Powered by'
-  footer.top: 'Return to top'
   newpage.create: 'Create Page'
   newpage.goback: 'Go back'
   newpage.subtitle: 'Would you like to create it now?'
@@ -195,255 +188,10 @@ common:
   unauthorized.goback: 'Go Back'
   unauthorized.login: 'Login As...'
   unauthorized.title: Unauthorized
-  welcome.createhome: 'Create Home Page'
-  welcome.subtitle: 'Let''s get started and create the home page.'
-  welcome.title: 'Welcome to your wiki!'
-debugmsg: 'Detailed debug trail'
-deleted: 'Deleted/Renamed {{path}}'
 editor:
-  'codeblockinsert': 'Insert Code Block'
-  'codeblocklanguage': Language
-  'codeblockloading': 'Loading code syntax for {{name}}'
-  'codeblockloadingerror': 'Error: Unable to load language syntax.'
-  'codeblocksuccess': 'Your code block has been inserted.'
-  'codeblocktitle': 'Insert Code Block'
-  'discard': Discard
-  'filedeleteaction': Delete
-  'filedeletedefault': 'this file'
-  'filedeleteloading': 'Deleting file...'
-  'filedeletesuccess': 'File deleted successfully.'
-  'fileerror': 'Unable to fetch updated listing.'
-  'filefolderempty': 'This folder is empty.'
-  'fileinsert': 'Insert Link to File'
-  'fileloading': 'Fetching files...'
-  'filemoveaction': 'Move to...'
-  'filemoveerror': 'Move error: {{err}}'
-  'filemoveloading': 'Moving file...'
-  'filemovesuccess': 'File moved successfully.'
-  'fileprocessing': Processing...
-  'filerenameaction': Rename
-  'filesuccess': 'File link has been inserted.'
-  'filetitle': 'Insert File'
-  'fileupload': 'Upload File(s)'
-  'fileuploaderror': 'Upload Error: {{err}}'
-  'fileuploadsuccess': 'File(s) uploaded successfully.'
-  'folders': Folders
-  'foldersloading': 'Fetching folders list...'
-  'imagealigncenter': Centered
-  'imagealignleft': 'Left (default)'
-  'imagealignlogo': 'Page Logo'
-  'imagealignright': Right
-  'imageinsert': 'Insert Image'
-  'imagesuccess': 'Image has been inserted.'
-  'imagetitle': 'Insert Image'
-  'imageupload': 'Upload Image(s)'
-  'newfolder': 'New Folder'
-  'videoanymp4file': 'Any standard MP4 file'
-  'videoinsert': 'Insert Video'
-  'videolinktitle': 'Enter the link to the video to be embedded:'
-  'videonotsupported': 'This URL is invalid or not supported!'
-  'videosuccess': 'The video code has been inserted.'
-  'videosupportedtitle': 'The following are supported:'
-  'videotitle': 'Insert Video'
-  'page': Page
-  'save.createSuccess': 'Page created successfully.'
-  'save.error': 'An error occurred while creating the page'
-  'save.pleaseWait': 'Please wait...'
-  'save.processing': Processing
-  'save.updateSuccess': 'Page updated successfully.'
-fileexists: 'File {{path}} already exists.'
-forbidden: Forbidden
-forbiddendetail: 'Sorry, you don''t have the necessary permissions to access this page.'
-generic: 'Oops, something went wrong'
-header:
-  'createdoc': 'Create New Document'
-  'overview': Overview
-history:
-  'author': Author
-  'commit': Commit
-  'comparewith': 'Compare With...'
-  'pastversions': 'Past Versions'
-  'reverttoversion': 'Revert to Version'
-  'sidebyside': 'Side-by-side View'
-  'timestamp': Timestamp
-  'view': View
-invalidaction: 'Invalid Action.'
-invaliddestfolder: 'Invalid Destination Folder!'
-invalidfiletype: 'Invalid File Type.'
-invalidfolder: 'Invalid Folder.'
-invalidoperation: 'Invalid Operation!'
-invalidpath: 'Invalid page path.'
-invaliduserid: 'Invalid User Id'
-loading:
-  'editor': 'Loading editor...'
-  'source': 'Loading source...'
-modal:
-  'abort': Abort
-  'anchorerror': 'Clipboard copy failed. Copy the URL manually.'
-  'anchorsuccess': 'The URL has been copied to your clipboard.'
-  'anchortitle': 'Copy link to this section'
-  'copyclipboard': 'Copy to Clipboard'
-  'create': Create
-  'createpageinvalid': 'This page path is invalid!'
-  'createpagepath': 'Enter the new page path:'
-  'createpagetitle': 'Create New Page'
-  'createuser': 'Create User'
-  'createuserauthorize': 'Authorize User'
-  'createuseremail': 'Email address:'
-  'createuseremailplaceholder': 'e.g. john.doe@company.com'
-  'createusername': 'Full Name:'
-  'createusernameplaceholder': 'e.g. John Doe'
-  'createuserpassword': 'Password:'
-  'createuserprovider': 'Provider:'
-  'createusertitle': 'Create / Authorize User'
-  'delete': Delete
-  'deletefiletitle': 'Delete?'
-  'deletefilewarn': 'Are you sure you want to delete'
-  'deletepagetitle': 'Delete this page?'
-  'deletepagewarning': 'Are you sure you want to delete this page? This action cannot be undone!'
-  'deleteusertitle': 'Delete User Account?'
-  'deleteuserwarning': 'Are you sure you want to delete this user account? This action cannot be undone!'
-  'discard': Discard
-  'discardpagecreate': 'Are you sure you want to leave this page and lose anything you wrote so far?'
-  'discardpageedit': 'Are you sure you want to leave this page and lose any modifications?'
-  'discardpagestay': 'Stay on page'
-  'discardpagetitle': 'Discard?'
-  'move': Move
-  'movepageinvalid': 'This page path is invalid or not allowed!'
-  'movepagepath': 'Enter the new page path:'
-  'movepageplaceholder': page-name
-  'movepagetitle': 'Move Page'
-  'movepagewarning': 'Note that moving or renaming pages can lead to broken links. Make sure to edit any page that links to this page afterwards!'
-  'newfolderinvalid': 'This folder name is invalid!'
-  'newfolderloading': 'Creating new folder...'
-  'newfoldername': 'Enter the new folder name:'
-  'newfoldernameplaceholder': 'folder name'
-  'newfoldersuccess': 'New folder {{name}} created.'
-  'newfoldertitle': 'New Folder'
-  'renamefile': Rename
-  'renamefileerror': 'Rename error: {{err}}'
-  'renamefileinvalid': 'This filename is invalid!'
-  'renamefileloading': 'Renaming file...'
-  'renamefilename': 'Enter the new filename (without the extension) of the file:'
-  'renamefilenameplaceholder': filename
-  'renamefiletitle': 'Rename File'
-nav:
-  'account': Account
-  'allpages': 'All Pages'
-  'create': Create
-  'discard': Discard
-  'edit': Edit
-  'history': History
-  'home': Home
-  'login': Login
-  'logout': Logout
-  'move': Move
-  'myprofile': 'My Profile'
-  'normalview': 'Normal View'
-  'root': Home
-  'savechanges': 'Save Changes'
-  'savedocument': 'Save Document'
-  'settings': Settings
-  'source': Source
-  'stats': Stats
-  'sysinfo': 'System Info'
-  'syssettings': 'System Settings'
-  'theme': 'Color Theme'
-  'users': Users
-  'viewlatest': 'View Latest'
-newpasswordtooshort: 'New password is too short!'
-notexist: 'Entry {{path}} does not exist!'
-notexistdetail: 'Would you like to create this entry?'
-parentinvalid: 'Parent entry is not a valid file.'
-parentisroot: 'Parent entry is root.'
-profile:
-  'displayname': 'Display Name'
-  'displaynameexample': 'John Smith'
-  'email': Email
-  'lastprofileupdate': 'Last Profile Update'
-  'membersince': 'Member since'
-  'password': Password
-  'passwordverify': 'Verify Password'
-  'provider': Provider
-  'savechanges': 'Save Changes'
-  'subtitle': 'Profile and authentication info'
-  'tfa': 'Two-Factor Authentication'
-  'tfadisable': 'Disable 2FA'
-  'tfadisabled': Disabled
-  'tfaenable': 'Enable 2FA'
-  'tfaenabled': Enabled
-remotetoolarge: 'Remote file is too large!'
-reservedname: 'You cannot create a document with this name as it is reserved by the system.'
-savefailed: 'Failed to save document'
-search:
-  'didyoumean': 'Did you mean...?'
-  'nomatch': 'No results matching your query'
-  'placeholder': Search...
-  'results': 'Search Results'
-settings:
-  'subtitle': 'Manage site configuration'
-sidebar:
-  'nav': NAV
-  'navigation': Navigation
-  'pagecontents': 'Page Contents'
-  'pastversions': 'Past Versions'
-starterfailed: 'Could not load starter content!'
-stats:
-  'entries': Entries
-  'subtitle': 'General site-wide statistics'
-  'uploads': Uploads
-  'users': Users
-system:
-  'administrativetools': 'Administrative Tools'
-  'cores': 'CPU Cores'
-  'currentversion': 'Current Version'
-  'cwd': 'Working Directory'
-  'flushcache': 'Flush cache and rebuild indexes'
-  'flushcachebtn': 'Flush and Rebuild'
-  'flushcachetext': 'If content or search results seems out-of-date or do not include latest content, flushing the cache can help resolve these issues.'
-  'flushsessions': 'Flush all active user sessions'
-  'flushsessionsbtn': 'Flush Sessions'
-  'flushsessionstext': 'All users will be logged out and forced to login again. Your current session will also be affected!'
-  'hostinfo': 'Host Information'
-  'hostname': Hostname
-  'latestversion': 'Latest Version'
-  'nodeversion': 'Node.js Version'
-  'os': 'Operating System'
-  'reinstall': 'Re-install current version'
-  'resetaccounts': 'Reset the system accounts to defaults'
-  'resetaccountsbtn': 'Reset System Accounts'
-  'resetaccountstext': 'The system accounts (such as the Guest account) will be reset to their default settings.'
-  'subtitle': 'Information and utilities for your wiki'
-  'systemversion': 'System Version'
-  'totalmem': 'Total Memory'
-  'upgrade': Upgrade
-  'versioncheckfailed': 'Unable to query latest version. Try again later.'
-theme:
-  'altcolor': 'Alternate Color'
-  'altcolordesc': 'Used for the sidebar (in a darker tone)'
-  'codeblock':
-    'colorize': 'Colorize code syntax'
-    'dark': 'Use Dark Theme'
-    'title': 'Code Blocks'
-  'footercolordesc': 'Used for the footer (in a lighter tone)'
-  'primarycolor': 'Primary Color'
-  'primarycolordesc': 'Used for top navigation bar, headers, links, etc.'
-  'reset': 'Revert to Defaults'
-  'savechanges': 'Save Changes'
-  'subtitle': 'Change the look and feel of your wiki'
-  'footerColor': 'Footer Color'
-unauthorized: Unauthorized
-updated: 'Updated {{path}}'
-uploaded: 'Uploaded {{path}}'
-users:
-  'createauthorize': 'Create / Authorize User'
-  'createdon': 'Created On'
-  'edituser': 'Edit User'
-  'email': 'Email Address'
-  'name': Name
-  'provider': Provider
-  'returntousers': 'Return to Users'
-  'subtitle': 'Manage users and access rights'
-  'uniqueid': 'Unique ID'
-  'updatedon': 'Updated On'
-wiki: Wiki
+  page: Page
+  save.createSuccess: 'Page created successfully.'
+  save.error: 'An error occurred while creating the page'
+  save.pleaseWait: 'Please wait...'
+  save.processing: Processing
+  save.updateSuccess: 'Page updated successfully.'

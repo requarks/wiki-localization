@@ -1,7 +1,3 @@
-actions:
-  'gohome': Accueil
-  'loginas': 'Se connecter en tant que...'
-added: 'Ajouté {{path}}'
 admin:
   api.title: 'Accès à l’API'
   auth.title: Authentification
@@ -101,7 +97,6 @@ admin:
   theme.title: Thème
   users.title: Utilisateurs
   utilities.title: Utilitaires
-alreadyexists: 'Cette entrée existe déjà!'
 auth:
   actions.login: 'S''identifier'
   actions.register: 'S''inscrire'
@@ -177,9 +172,7 @@ common:
   actions.saveChanges: Sauvegarder
   actions.upload: Téléverser
   footer.copyright: '© {{year}} {{company}}. Tous droits réservés.'
-  footer.home: Accueil
   footer.poweredBy: 'Propulsé par'
-  footer.top: 'Retour en haut'
   newpage.create: 'Créer la page'
   newpage.goback: 'Revenir en arrière'
   newpage.subtitle: 'Souhaitez-vous la créer maintenant?'
@@ -195,255 +188,10 @@ common:
   unauthorized.goback: 'Revenir en arrière'
   unauthorized.login: 'Se connecter en tant que...'
   unauthorized.title: 'Non autorisé'
-  welcome.createhome: 'Créer la page d''accueil'
-  welcome.subtitle: 'Commençons par créer la page d''accueil.'
-  welcome.title: 'Bienvenue sur votre wiki!'
-debugmsg: 'Trace détaillé de débogage'
-deleted: 'Supprimé / Renommé {{path}}'
 editor:
-  'codeblockinsert': 'Insérer le bloc de code'
-  'codeblocklanguage': Syntaxe
-  'codeblockloading': 'Chargement de la syntaxe pour {{name}}'
-  'codeblockloadingerror': 'Erreur: Impossible de charger la syntaxe.'
-  'codeblocksuccess': 'Votre bloc de code a été inséré.'
-  'codeblocktitle': 'Insérer un bloc de code'
-  'discard': Annuler
-  'filedeleteaction': Supprimer
-  'filedeletedefault': 'ce fichier'
-  'filedeleteloading': 'Suppression du fichier...'
-  'filedeletesuccess': 'Fichier supprimé avec succès.'
-  'fileerror': 'Échec de mise à jour de la liste.'
-  'filefolderempty': 'Ce dossier est vide.'
-  'fileinsert': 'Insérer un lien vers le fichier'
-  'fileloading': 'Récupération des fichiers'
-  'filemoveaction': 'Déplacer vers...'
-  'filemoveerror': 'Erreur de déplacement: {{err}}'
-  'filemoveloading': 'Déplacement du fichier ...'
-  'filemovesuccess': 'Le fichier a été déplacé avec succès.'
-  'fileprocessing': 'En traitement...'
-  'filerenameaction': Renommer
-  'filesuccess': 'Le lien vers le fichier a été inséré.'
-  'filetitle': 'Insérer un fichier'
-  'fileupload': 'Téléverser un fichier'
-  'fileuploaderror': 'Erreur de téléversement: {{err}}'
-  'fileuploadsuccess': 'Fichier(s) téléversé(s) avec succès.'
-  'folders': Dossiers
-  'foldersloading': 'Récupérer la liste des dossiers ...'
-  'imagealigncenter': Centré
-  'imagealignleft': 'Gauche (par défaut)'
-  'imagealignlogo': 'Logo de la page'
-  'imagealignright': Droite
-  'imageinsert': 'Insérer l''image'
-  'imagesuccess': 'L''image a été insérée.'
-  'imagetitle': 'Insérer une image'
-  'imageupload': 'Téléverser des images'
-  'newfolder': 'Nouveau dossier'
-  'videoanymp4file': 'Tout fichier MP4 standard'
-  'videoinsert': 'Insérer la vidéo'
-  'videolinktitle': 'Entrez le lien vers la vidéo à intégrer:'
-  'videonotsupported': 'Cette URL n''est pas valide ou n''est pas prise en charge!'
-  'videosuccess': 'Le code vidéo a été inséré.'
-  'videosupportedtitle': 'Les formats suivants sont pris en charge:'
-  'videotitle': 'Insérer une vidéo'
-  'page': Page
-  'save.createSuccess': 'Page créée avec succès.'
-  'save.error': 'Une erreur est survenue lors de la création de la page.'
-  'save.pleaseWait': 'Veuillez patienter...'
-  'save.processing': 'En traitement...'
-  'save.updateSuccess': 'Page mise à jour avec succès.'
-fileexists: 'Fichier {{path}} existe déjà.'
-forbidden: 'Accès interdit'
-forbiddendetail: 'Désolé, vous ne disposez pas des autorisations nécessaires pour accéder à cette page.'
-generic: 'Oups, une erreur s''est produite'
-header:
-  'createdoc': 'Créer un nouveau document'
-  'overview': 'Vue d''ensemble'
-history:
-  'author': Auteur
-  'commit': Commit
-  'comparewith': 'Comparer avec...'
-  'pastversions': 'Versions antérieures'
-  'reverttoversion': 'Revenir à la version'
-  'sidebyside': 'Vue côte à côte'
-  'timestamp': Horodatage
-  'view': Visualiser
-invalidaction: 'Action invalide.'
-invaliddestfolder: 'Dossier de destination invalide!'
-invalidfiletype: 'Type de fichier invalide.'
-invalidfolder: 'Dossier invalide.'
-invalidoperation: 'Opération invalide!'
-invalidpath: 'Chemin de page invalide'
-invaliduserid: 'Identifiant invalide'
-loading:
-  'editor': 'Chargement de l''éditeur'
-  'source': 'Chargement de la source...'
-modal:
-  'abort': Annuler
-  'anchorerror': 'Échec de la copie vers le presse-papiers. Copiez manuellement.'
-  'anchorsuccess': 'Le lien a été copié au presse-papiers.'
-  'anchortitle': 'Copier le lien vers cette section'
-  'copyclipboard': 'Copie vers le presse-papiers'
-  'create': Créer
-  'createpageinvalid': 'Ce chemin de page est invalide!'
-  'createpagepath': 'Entrez le nouveau chemin de la page:'
-  'createpagetitle': 'Créer une nouvelle page'
-  'createuser': 'Créer l''utilisateur'
-  'createuserauthorize': 'Autoriser l''utilisateur'
-  'createuseremail': 'Courriel:'
-  'createuseremailplaceholder': 'ex: jean.dupont@compagnie.com'
-  'createusername': 'Nom Complet:'
-  'createusernameplaceholder': 'ex: Jean Dupont'
-  'createuserpassword': 'Mot de passe:'
-  'createuserprovider': 'Fournisseur:'
-  'createusertitle': 'Créer / Autoriser un utilisateur'
-  'delete': Supprimer
-  'deletefiletitle': Supprimer
-  'deletefilewarn': 'Etes-vous sûr de vouloir supprimer'
-  'deletepagetitle': 'Supprimer cette page?'
-  'deletepagewarning': 'Êtes-vous sûr de vouloir supprimer cette page? Impossible de revenir en arrière une fois l''action complétée!'
-  'deleteusertitle': 'Supprimer le compte utilisateur?'
-  'deleteuserwarning': 'Êtes-vous sûr de vouloir supprimer ce compte utilisateur? Impossible de revenir en arrière une fois l''action complétée!'
-  'discard': Annuler
-  'discardpagecreate': 'Êtes-vous sûr de vouloir quitter cette page et perdre tout ce que vous avez écrit jusqu''ici?'
-  'discardpageedit': 'Êtes-vous sûr de vouloir quitter cette page et perdre toute modification?'
-  'discardpagestay': 'Rester sur la page'
-  'discardpagetitle': 'Quitter?'
-  'move': Déplacer
-  'movepageinvalid': 'Ce chemin de page n''est pas valide ou non autorisé.'
-  'movepagepath': 'Entrez le nouveau chemin de page:'
-  'movepageplaceholder': nom-de-page
-  'movepagetitle': 'Déplacer la page'
-  'movepagewarning': 'Notez que le déplacement ou le renommage des pages peut entraîner des liens cassés. Assurez-vous d''éditer toute page qui relie vers cette page!'
-  'newfolderinvalid': 'Ce nom de dossier est invalide!'
-  'newfolderloading': 'Création du nouveau dossier ...'
-  'newfoldername': 'Entrez le nom du nouveau dossier:'
-  'newfoldernameplaceholder': 'nom de dossier'
-  'newfoldersuccess': 'Nouveau dossier {{name}} créé.'
-  'newfoldertitle': 'Nouveau dossier'
-  'renamefile': Renommer
-  'renamefileerror': 'Erreur lors du renommage: {{err}}'
-  'renamefileinvalid': 'Ce nom de fichier est invalide!'
-  'renamefileloading': 'Renommage du fichier...'
-  'renamefilename': 'Entrez le nouveau nom de fichier (sans extension):'
-  'renamefilenameplaceholder': nom-du-fichier
-  'renamefiletitle': 'Renommer le fichier'
-nav:
-  'account': Compte
-  'allpages': 'Toutes les pages'
-  'create': Créer
-  'discard': Annuler
-  'edit': Éditer
-  'history': Historique
-  'home': Accueil
-  'login': 'S''identifier'
-  'logout': 'Se Déconnecter'
-  'move': Déplacer
-  'myprofile': 'Mon Profil'
-  'normalview': 'Vue normale'
-  'root': Accueil
-  'savechanges': Sauvegarder
-  'savedocument': Sauvegarder
-  'settings': Paramètres
-  'source': Source
-  'stats': Statistiques
-  'sysinfo': 'Informations système'
-  'syssettings': 'Paramètres système'
-  'theme': 'Thème de couleur'
-  'users': Utilisateurs
-  'viewlatest': 'Voir le plus récent'
-newpasswordtooshort: 'Le nouveau mot de passe est trop court!'
-notexist: 'Entrée {{path}} n''existe pas!'
-notexistdetail: 'Voulez-vous créer cette entrée?'
-parentinvalid: 'L''entrée parent n''est pas un fichier valide.'
-parentisroot: 'L''entrée parent est la racine du site.'
-profile:
-  'displayname': 'Nom complet'
-  'displaynameexample': 'Jean Dupont'
-  'email': Courriel
-  'lastprofileupdate': 'Dernière MAJ du profile'
-  'membersince': 'Membre depuis'
-  'password': 'Mot de passe'
-  'passwordverify': 'Vérification du mot de passe'
-  'provider': Fournisseur
-  'savechanges': Sauvegarder
-  'subtitle': 'Informations du profil et authentification'
-  'tfa': 'Authentification à deux facteurs'
-  'tfadisable': 'Désactiver 2FA'
-  'tfadisabled': Désactivé
-  'tfaenable': 'Activer 2FA'
-  'tfaenabled': Activé
-remotetoolarge: 'Fichier distant trop large!'
-reservedname: 'Vous ne pouvez pas créer un document avec ce nom puisqu''il est réservé par le système.'
-savefailed: 'Impossible d''enregistrer le document'
-search:
-  'didyoumean': 'Vouliez-vous dire...?'
-  'nomatch': 'Aucun résultat correspondant à votre recherche'
-  'placeholder': Recherche...
-  'results': 'Résultats de la recherche'
-settings:
-  'subtitle': 'Gérer la configuration du site'
-sidebar:
-  'nav': NAV
-  'navigation': Navigation
-  'pagecontents': Sommaire
-  'pastversions': 'Versions antérieures'
-starterfailed: 'Impossible de charger le contenu de démarrage!'
-stats:
-  'entries': Entrées
-  'subtitle': 'Statistiques générales du site'
-  'uploads': 'Fichiers téléversés'
-  'users': Utilisateurs
-system:
-  'administrativetools': 'Outils administratifs'
-  'cores': 'Cœurs CPU'
-  'currentversion': 'Version actuelle'
-  'cwd': 'Répertoire de travail'
-  'flushcache': 'Vider la cache et reconstruire les index'
-  'flushcachebtn': 'Vider et reconstruire'
-  'flushcachetext': 'Si le contenu ou les résultats de recherche semblent périmés ou n''incluent pas le contenu le plus récent, le nettoyage de la cache peut aider à résoudre ces problèmes.'
-  'flushsessions': 'Supprimer toutes les sessions utilisateur actives'
-  'flushsessionsbtn': 'Supprimer les sessions'
-  'flushsessionstext': 'Tous les utilisateurs seront déconnectés et contraints de se connecter à nouveau. Votre session sera également affectée!'
-  'hostinfo': 'Informations sur l''hôte'
-  'hostname': 'Nom d''hôte'
-  'latestversion': 'Dernière version'
-  'nodeversion': 'Version Node.js'
-  'os': 'Système d''exploitation'
-  'reinstall': 'Réinstaller la version actuelle'
-  'resetaccounts': 'Réinitialiser les comptes du système aux valeurs par défaut'
-  'resetaccountsbtn': 'Réinitialiser les comptes système'
-  'resetaccountstext': 'Les comptes du système (tels que le compte Invité) seront remis à leurs paramètres par défaut.'
-  'subtitle': 'Informations et utilitaires pour votre wiki'
-  'systemversion': 'Version du système'
-  'totalmem': 'Mémoire totale'
-  'upgrade': 'Mettre à jour'
-  'versioncheckfailed': 'Impossible d''obtenir la dernière version. Ré-essayez plus tard.'
-theme:
-  'altcolor': 'Couleur alternative'
-  'altcolordesc': 'Utilisé pour la barre latérale (dans une tonalité plus foncée)'
-  'codeblock':
-    'colorize': 'Coloriser la syntaxe du code'
-    'dark': 'Utiliser un thème sombre'
-    'title': 'Blocs de code'
-  'footercolordesc': 'Utilisé pour la le pied de page (dans une tonalité plus claire)'
-  'primarycolor': 'Couleur primaire'
-  'primarycolordesc': 'Utilisé pour la barre de navigation supérieure, les en-têtes, les liens, etc.'
-  'reset': 'Revenir aux paramètres par défaut'
-  'savechanges': Sauvegarder
-  'subtitle': 'Changez l''apparence de votre wiki'
-  'footerColor': 'Couleur du pied de page'
-unauthorized: 'Non autorisé'
-updated: 'Mis à jour {{path}}'
-uploaded: 'Téléversé {{path}}'
-users:
-  'createauthorize': 'Créer / Autoriser un utilisateur'
-  'createdon': 'Créé le'
-  'edituser': 'Modifier l''utilisateur'
-  'email': Courriel
-  'name': Nom
-  'provider': Fournisseur
-  'returntousers': 'Retourner aux utilisateurs'
-  'subtitle': 'Gérer les utilisateurs et les droits d''accès'
-  'uniqueid': 'Identifiant unique'
-  'updatedon': 'Mis à jour le'
-wiki: Wiki
+  page: Page
+  save.createSuccess: 'Page créée avec succès.'
+  save.error: 'Une erreur est survenue lors de la création de la page.'
+  save.pleaseWait: 'Veuillez patienter...'
+  save.processing: 'En traitement...'
+  save.updateSuccess: 'Page mise à jour avec succès.'
