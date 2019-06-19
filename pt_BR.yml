@@ -8,47 +8,47 @@ common:
   actions.clear: Limpar
   actions.create: Criar
   actions.edit: Editar
-  actions.delete: Excluir
+  actions.delete: Deletar
   actions.refresh: Atualizar
   actions.saveChanges: 'Salvar alterações'
   actions.proceed: Prosseguir
   actions.ok: OK
   footer.copyright: '{{year}}{{company}}. Todos os direitos reservados.'
   newpage.title: 'Está página ainda não existe.'
-  newpage.subtitle: 'Gostaria de criá-la agora?'
+  newpage.subtitle: 'Você gostaria de criá-la agora?'
   newpage.create: 'Criar página'
   newpage.goback: Voltar
   actions.add: Adicionar
   actions.apply: Aplicar
   unauthorized.title: 'Não autorizado'
-  unauthorized.action.view: 'Não pode visualizar essa página.'
-  unauthorized.action.source: 'Não pode ver o código fonte.'
-  unauthorized.action.history: 'Não pode ver o histórico da página.'
-  unauthorized.action.edit: 'Não pode editar a página.'
-  unauthorized.action.create: 'Não pode criar a página.'
+  unauthorized.action.view: 'Você não pode visualizar essa página.'
+  unauthorized.action.source: 'Você não pode ver o código da página.'
+  unauthorized.action.history: 'Você não pode ver o histórico da página.'
+  unauthorized.action.edit: 'Você não pode editar a página.'
+  unauthorized.action.create: 'Você não pode criar a página.'
   unauthorized.goback: Voltar
   notfound.gohome: Home
   notfound.title: 'Não Encontrado'
   notfound.subtitle: 'Esta página não existe.'
-  unauthorized.login: 'Logar como ...'
+  unauthorized.login: 'Logar como…'
   welcome.title: 'Bem-vindo à sua wiki!'
   welcome.subtitle: 'Vamos começar a criar a sua página inicial.'
   welcome.createhome: 'Criar Página Inicial'
 auth:
   loginRequired: 'Login obrigatório'
-  fields.emailUser: 'Email / Usuário'
+  fields.emailUser: 'E-mail / Usuário'
   fields.password: Senha
   actions.login: 'Log In'
   errors.invalidLogin: 'Login Inválido'
-  errors.invalidLoginMsg: 'O email ou senha é inválido.'
-  errors.invalidUserEmail: 'Email de Utilizador Inválido'
+  errors.invalidLoginMsg: 'O e-mail ou senha é inválido.'
+  errors.invalidUserEmail: 'E-mail de Usuário Inválido'
   errors.loginError: 'Erro de login'
-  errors.notYetAuthorized: 'Não foi autorizado a fazer login neste site.'
+  errors.notYetAuthorized: 'Você ainda não foi autorizado a fazer login neste site.'
   errors.tooManyAttempts: 'Muitas tentativas!'
-  errors.tooManyAttemptsMsg: 'Fez muitas tentativas que falharam num curto período, tente novamente em {{time}}.'
-  errors.userNotFound: 'Utilizador não encontrado'
+  errors.tooManyAttemptsMsg: 'Você fez muitas tentativas que falharam em um curto período, tente novamente em {{time}}.'
+  errors.userNotFound: 'Usuário não encontrado'
   providers.local: Local
-  providers.windowslive: 'Microsoft Account'
+  providers.windowslive: 'Conta Microsoft'
   providers.azure: 'Azure Active Directory'
   providers.google: 'Google ID'
   providers.facebook: Facebook
@@ -59,7 +59,7 @@ auth:
   tfa.subtitle: 'Código de segurança obrigatório:'
   tfa.placeholder: XXXXXX
   tfa.verifyToken: Verificar
-  fields.email: 'Endereço de Email'
+  fields.email: 'Endereço de E-mail'
   fields.verifyPassword: 'Verificar Senha'
   fields.name: Nome
   actions.register: Cadastrar
@@ -68,30 +68,30 @@ auth:
   switchToLogin.link: 'Login em vez disso'
   loginUsingStrategy: 'Login usando {{strategy}}'
   forgotPasswordLink: 'Esqueceu sua senha?'
-  orLoginUsingStrategy: 'ou login usando...'
+  orLoginUsingStrategy: 'ou login usando…'
   switchToRegister.text: 'Ainda não tem uma conta? {{link}}'
   switchToRegister.link: 'Criar uma conta'
-  invalidEmailUsername: 'Digite um email / nome de utilizador válido.'
+  invalidEmailUsername: 'Digite um e-mail / nome de usuário válido.'
   invalidPassword: 'Digite uma senha válida.'
-  loginSuccess: 'Login feito com sucesso! Redirecionando...'
-  signingIn: Logando...
+  loginSuccess: 'Login feito com sucesso! Redirecionando…'
+  signingIn: Entrando…
   genericError: 'A autenticação não está disponível.'
   registerSubTitle: 'Preencha o formulário abaixo para criar sua conta.'
   pleaseWait: 'Por favor, espere'
   registerSuccess: 'Conta criada com sucesso!'
-  registering: 'Criando conta...'
-  missingEmail: 'Está a faltar o endereço de e-mail.'
+  registering: 'Criando conta…'
+  missingEmail: 'Está faltando o endereço de e-mail.'
   invalidEmail: 'O endereço de e-mail é inválido.'
-  missingPassword: 'Está a faltar a senha.'
+  missingPassword: 'Está faltando a senha.'
   passwordTooShort: 'A senha é muito curta.'
   passwordNotMatch: 'Ambas as senhas não correspondem.'
-  missingName: 'Está a faltar o nome.'
+  missingName: 'Está faltando o nome.'
   nameTooShort: 'O nome é muito curto.'
   nameTooLong: 'O nome é muito longo.'
   forgotPasswordCancel: Cancelar
   sendResetPassword: 'Redefinir Senha'
   forgotPasswordSubtitle: 'Digite o seu endereço de e-mail para receber as instruções para redefinir a sua senha.'
-  registerCheckEmail: 'Verifique o seu email para ativar a sua conta.'
+  registerCheckEmail: 'Verifique o seu e-mail para ativar a sua conta.'
 admin:
   dashboard.title: Dashboard
   general.title: Geral
@@ -99,40 +99,41 @@ admin:
   stats.title: Estatísticas
   theme.title: Tema
   groups.title: Grupos
-  users.title: Utilizadores
+  users.title: Usuários
   auth.title: Autenticação
   editor.title: Editor
+  logging.title: Log
   rendering.title: Renderização
   search.title: 'Mecanismo de busca'
   storage.title: Armazenamento
   api.title: 'Acesso à API'
   system.title: 'Informação do sistema'
   utilities.title: Utilitários
-  dev.title: 'Ferramentas de programador'
+  dev.title: 'Ferramentas de desenvolvedor'
   contribute.title: 'Contribua para o Wiki.js'
   general.subtitle: 'Principais configurações do seu wiki'
-  general.siteInfo: 'Informação do sítio web'
-  general.siteBranding: 'Marca do sítio web'
-  nav.site: 'Sítio web'
-  nav.users: Utilizadores
+  general.siteInfo: 'Informação do site'
+  general.siteBranding: 'Marca do site'
+  nav.site: Site
+  nav.users: Usuários
   nav.modules: Módulos
   nav.system: Sistema
-  dashboard.subtitle: 'BETA Build - NÃO ESTÁ PRONTO PARA O USO EM PRODUÇÃO'
+  dashboard.subtitle: 'BETA Build — NÃO ESTÁ PRONTO PARA O USO EM PRODUÇÃO'
   locale.subtitle: 'Definir opções de tradução para o seu wiki'
   locale.settings: 'Configurações de tradução'
-  locale.namespacing: 'Namespace multilingue'
+  locale.namespacing: 'Namespace multilíngue'
   locale.download: 'Baixar tradução'
   locale.base.labelWithNS: 'Idioma base'
   locale.base.hint: 'Todos os elementos de texto da UI serão exibidos no idioma selecionado.'
   locale.autoUpdate.label: 'Atualizar automaticamente'
   locale.autoUpdate.hintWithNS: 'Baixar atualizações automaticamente para todos os códigos de idioma com namespace ativados abaixo.'
-  locale.namespaces.label: 'Namespaces multilingues'
+  locale.namespaces.label: 'Namespaces multilíngues'
   locale.namespaces.hint: 'Habilita várias versões de idioma da mesma página.'
   locale.activeNamespaces.label: 'Namespaces ativos'
-  locale.activeNamespaces.hint: 'Lista de idiomas ativados para o namespace multilingue. O idioma (base) definido acima sempre será incluído, independentemente dessa seleção.'
+  locale.activeNamespaces.hint: 'Lista de idiomas ativados para o namespace multilíngue. O idioma (base) definido acima sempre será incluído, independentemente dessa seleção.'
   locale.namespacingPrefixWarning.title: 'O código de idioma será colocado em todos os caminhos. (e.g./{{langCode}}/nome-da-pagina)'
-  locale.namespacingPrefixWarning.subtitle: 'Caminhos sem um código de idioma serão automaticamente redirecionados para o código de idioma base definido acima.'
-  locale.base.label: 'Local do sítio web'
+  locale.namespacingPrefixWarning.subtitle: 'Caminhos sem um código de idioma serão automaticamente redirecionados para o código de idioma (base) definido acima.'
+  locale.base.label: 'Local do site'
   locale.autoUpdate.hint: 'Baixar atualizações automaticamente para esse local à medida que elas se tornam disponíveis.'
   system.subtitle: 'Informações sobre o seu sistema'
   system.hostInfo: 'Informações do host'
@@ -149,19 +150,19 @@ admin:
   contribute.subtitle: 'Apoie o desenvolvimento e as operações do wiki.js'
   contribute.fundOurWork: 'Financie o nosso trabalho'
   contribute.spreadTheWord: 'Espalhe a palavra'
-  contribute.talkToFriends: 'Fale com os seus colegas e amigos sobre como o Wiki.js é incrível!'
+  contribute.talkToFriends: 'Fale com seus colegas e amigos sobre como o Wiki.js é incrível!'
   contribute.followUsOnTwitter: 'Siga a gente em {{0}}.'
-  contribute.submitAnIdea: 'Envie uma ideia ou vote numa proposta no {{0}}.'
+  contribute.submitAnIdea: 'Envie uma ideia ou vote em uma proposta no {{0}}.'
   contribute.submitAnIdeaLink: 'board de pedidos de recurso'
-  contribute.foundABug: 'Encontrou um bug? Envie um issue em {{0}}'
+  contribute.foundABug: 'Encontrou uma falha? Envie um issue em {{0}}'
   contribute.helpTranslate: 'Ajude a traduzir o Wiki.js no seu idioma. Avise-nos em {{0}}.'
   contribute.makeADonation: 'Faça uma doação'
   contribute.contribute: Contribuir
-  contribute.openCollective: 'O Wiki.js também faz parte da iniciativa Open Collective, um fundo transparente que vai para os recursos da comunidade. Pode contribuir financeiramente fazendo uma doação mensal ou única:'
-  contribute.needYourHelp: 'Precisamos da sua ajuda para continuar a melhorar o ‘software’ e executar os vários serviços associados (por exemplo, hospedagem e rede).'
+  contribute.openCollective: 'O Wiki.js também faz parte da iniciativa Open Collective, um fundo transparente que vai para os recursos da comunidade. Você pode contribuir financeiramente fazendo uma doação mensal ou única:'
+  contribute.needYourHelp: 'Precisamos da sua ajuda para continuar melhorando o software e executar os vários serviços associados (por exemplo, hospedagem e rede).'
   contribute.openSource: 'Wiki.js é um software gratuito e de código aberto trazido para você com {{0}} por {{1}} e {{2}}'
   contribute.openSourceContributors: Contribuintes
-  contribute.tshirts: 'Também pode comprar t-shirts do Wiki.js para apoiar financeiramente o projeto:'
+  contribute.tshirts: 'Você também pode comprar camisetas do Wiki.js para apoiar financeiramente o projeto:'
   contribute.shop: 'Wiki.js Loja'
   pages.title: Páginas
   navigation.title: Navegação
@@ -170,7 +171,7 @@ admin:
   navigation.divider: Divisor
   navigation.header: Cabeçalho
   navigation.label: Rótulo
-  navigation.icon: Icone
+  navigation.icon: Ícone
   navigation.targetType: 'Tipo de target'
   navigation.target: Target
   navigation.noSelectionText: 'Selecione um item de navegação à esquerda.'
@@ -180,12 +181,12 @@ admin:
   navigation.navType.page: Página
   navigation.navType.searchQuery: 'Consulta de pesquisa'
   navigation.edit: 'Editar {{kind}}'
-  navigation.delete: 'Excluir {{kind}}'
+  navigation.delete: 'Deletar {{kind}}'
   navigation.saveSuccess: 'Navegação salva com sucesso.'
-  navigation.noItemsText: 'Clique no botão Adicionar para incluir o seu primeiro ‘item’ de navegação.'
+  navigation.noItemsText: 'Clique no botão Adicionar para incluir seu primeiro item de navegação.'
   navigation.emptyList: 'A navegação está vazia'
   mail.title: Mail
-  mail.subtitle: 'Configurar definições de email'
+  mail.subtitle: 'Configurar definições de e-mail'
   mail.configuration: Configuração
   mail.dkim: 'DKIM (opcional)'
   contribute.becomeAPatron: 'Seja um Patreon'
@@ -198,7 +199,7 @@ admin:
 editor:
   page: Página
   save.processing: 'Em processamento'
-  save.pleaseWait: 'Por favor, espere...'
+  save.pleaseWait: 'Por favor, espere…'
   save.createSuccess: 'Página criada com sucesso.'
   save.error: 'Ocorreu um erro ao criar a página'
   save.updateSuccess: 'Página atualizada com sucesso.'

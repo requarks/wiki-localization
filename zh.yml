@@ -1,105 +1,92 @@
-admin:
-  api.title: API访问
-  auth.title: 身份验证
-  contribute.becomeAPatron: 进行捐赠
-  contribute.contribute: 贡献
-  contribute.followUsOnTwitter: '在{{0}}关注我们。'
-  contribute.foundABug: '发现了一个bug？在{{0}}上提交问题。'
-  contribute.fundOurWork: 资助我们的工作
-  contribute.helpTranslate: '帮助翻译您所用语言的Wiki.js。请在{{0}}告诉我们。'
-  contribute.makeADonation: 进行捐赠
-  contribute.needYourHelp: 我们需要您的帮助来不断改进软件并运行各种相关服务（例如托管和网络）。
-  contribute.openCollective: 'Wiki.js是Open Collective计划的一部分。您可以通过每月或一次性捐款来提供财务捐助：'
-  contribute.openSource: 'Wiki.js是{{0}} {{1}}和{{2}}为您提供的免费开源软件。'
-  contribute.openSourceContributors: 贡献者
-  contribute.patreon: '通过Patreon成为赞助者或赞助者(支持首席开发人员Nicolas Giard更好的致力于Wiki.js的发展!)'
-  contribute.shop: Wiki.js商店
-  contribute.spreadTheWord: 传播这个词
-  contribute.submitAnIdea: '在{{0}}上提交想法或对提议的想法进行投票。'
-  contribute.submitAnIdeaLink: 功能请求板
-  contribute.subtitle: 帮助支持Wiki.js开发和运营
-  contribute.talkToFriends: '与您的朋友和同事谈论 wiki.js 是多么棒!'
-  contribute.title: '为 wiki.js 出一份力'
-  contribute.tshirts: '您还可以购买Wiki.js T恤以在财务上支持该项目：'
-  dashboard.subtitle: 'BETA版本 - 请不要用于生产环境'
-  dashboard.title: 配置板
-  dev.title: 开发者工具
-  editor.title: 编辑器
-  general.siteBranding: 网站品牌
-  general.siteInfo: 网站信息
-  general.subtitle: 您的wiki的主要设置
-  general.title: 常规
-  groups.title: 组
-  locale.activeNamespaces.hint: 已列出为多语言命名空间启用的语言环境。无论列表中的选择如何，始终都会包含上面定义的基本语言环境。
-  locale.activeNamespaces.label: 已启用的命名空间
-  locale.autoUpdate.hint: 在此语言环境可用时自动下载更新。
-  locale.autoUpdate.hintWithNS: 自动将更新下载到下面启用的所有命名空间语言环境。
-  locale.autoUpdate.label: 自动更新
-  locale.base.hint: 所有UI文本元素都将以选定的语言显示。
-  locale.base.label: 网站语言环境
-  locale.base.labelWithNS: 基本语言环境
-  locale.download: 下载语言环境
-  locale.namespaces.hint: 为同一页面启用多个语言版本。
-  locale.namespaces.label: 多语言命名空间
-  locale.namespacing: 多语言命名空间
-  locale.namespacingPrefixWarning.subtitle: 如果路径中不包含语言环境代号，将自动重定向到上面定义的基本语言环境。
-  locale.namespacingPrefixWarning.title: '语言环境代码将作为所有路径的前缀。 （例如/ {{langCode}} / page-name）'
-  locale.settings: 语言环境设置
-  locale.subtitle: 为您的wiki设置本地化选项
-  locale.title: 语言环境
-  logging.title: 日志记录
-  mail.configuration: 配置
-  mail.dkim: DKIM（可选）
-  mail.subtitle: 配置邮件设置
-  mail.title: 邮件
-  nav.modules: 模块
-  nav.site: 网站
-  nav.system: 系统
-  nav.users: 用户
-  navigation.delete: '删除{{kind}}'
-  navigation.divider: 分隔器
-  navigation.edit: '编辑{{kind}}'
-  navigation.emptyList: 导航是空的
-  navigation.header: 头部区域
-  navigation.icon: 图标
-  navigation.label: 标签
-  navigation.link: 链接
-  navigation.navType.external: 外部链接
-  navigation.navType.home: 首页
-  navigation.navType.page: 页面
-  navigation.navType.searchQuery: 搜索查询
-  navigation.noItemsText: 单击添加按钮添加第一个导航项。
-  navigation.noSelectionText: 在左侧选择一个导航项。
-  navigation.saveSuccess: 导航已成功保存。
-  navigation.subtitle: 管理网站导航
-  navigation.target: 目标
-  navigation.targetType: 目标类型
-  navigation.title: 导航
-  navigation.untitled: '无标题 {{kind}}'
-  pages.title: 页面
-  rendering.title: 渲染
-  search.title: 搜索引擎
-  stats.title: 统计
-  storage.title: 存储
-  system.configFile: 配置文件
-  system.cpuCores: CPU核心数
-  system.currentVersion: 当前版本
-  system.hostInfo: 主机信息
-  system.hostname: 主机名
-  system.latestVersion: 最新版本
-  system.os: 操作系统
-  system.published: 发布于
-  system.ramUsage: 'RAM使用情况： {{used}} / {{total}}'
-  system.subtitle: 有关您系统的信息
-  system.title: 系统信息
-  system.totalRAM: 总内存
-  system.workingDirectory: 工作目录
-  theme.title: 主题
-  users.title: 用户列表
-  utilities.title: 其他
+common:
+  footer.poweredBy: 'Powered by'
+  actions.save: 保存
+  actions.cancel: 取消
+  actions.download: 下载
+  actions.upload: 上传
+  actions.discard: 放弃
+  actions.clear: 清除
+  actions.create: 创建
+  actions.edit: 编辑
+  actions.delete: 删除
+  actions.refresh: 刷新
+  actions.saveChanges: 保存更改
+  actions.proceed: 继续
+  actions.ok: OK
+  footer.copyright: '© {{year}} {{company}} 。版权所有。'
+  newpage.title: 此页面尚不存在。
+  newpage.subtitle: 你想现在创建吗？
+  newpage.create: 创建新页面
+  newpage.goback: 返回
+  actions.add: 添加
+  actions.apply: 应用
+  unauthorized.title: 未经授权的
+  unauthorized.action.view: 您无法查看该页面。
+  unauthorized.action.source: 您无法查看该页面来源。
+  unauthorized.action.history: 您无法查看该页面历史记录。
+  unauthorized.action.edit: 您无法编辑该页面。
+  unauthorized.action.create: 您无法创建页面。
+  unauthorized.goback: 返回
+  notfound.gohome: 首页
+  notfound.title: 未找到
+  notfound.subtitle: 此页不存在。
+  unauthorized.login: 登录为...
+  welcome.title: 欢迎访问您的维基！
+  welcome.subtitle: 让我们开始并创建首页。
+  welcome.createhome: 创建首页
+  actions.browse: 浏览...
+  header.home: 首页
+  header.newPage: 创建新页面
+  header.currentPage: 当前页面
+  header.view: 查看
+  header.edit: 编辑
+  header.history: 历史
+  header.viewSource: 源文件
+  header.move: 移动/重命名
+  header.delete: 删除
+  header.assets: 资料
+  header.imagesFiles: 图像和文件
+  header.search: 搜索...
+  header.admin: 管理
+  header.account: 帐户
+  header.myWiki: 我Wiki
+  header.profile: 我的信息
+  header.logout: 登出
+  header.login: 登录
+  page.lastEditedBy: 最后编辑
+  page.unpublished: 未发表
+  page.editPage: 编辑页面
+  page.toc: 目录
+  page.bookmark: 书签
+  page.share: 分享
+  page.printFormat: 打印格式
+  actions.close: 关闭
+  actions.page: 页面
+  error.unexpected: 出现意外错误。
+  header.searchHint: 关键词不能少于2个字符
+  header.searchLoading: 搜索...
+  header.searchNoResult: 没有符合您查询的页面。
+  header.searchResultsCount: '找到 {{total}} 条结果'
+  header.searchDidYouMean: 你是指...？
+  header.searchClose: 关闭
+  header.searchCopyLink: 复制搜索链接
+  password.veryWeak: 非常弱
+  password.weak: 弱
+  password.average: 普通
+  password.strong: 合格
+  password.veryStrong: 非常可靠
+  page.delete: 删除页面
+  page.deleteTitle: '确定要删除页面{{title}}吗？'
+  page.deleteSubtitle: 该页面可以从管理区域恢复。
+  actions.fetch: 获取
+  page.viewingSource: '查看页面源{{path}}'
+  page.returnNormalView: 返回普通视图
+  page.id: 'ID {{id}}'
 auth:
+  loginRequired: 需要登录
+  fields.emailUser: 'Email /用户名'
+  fields.password: 密码
   actions.login: 登录
-  actions.register: 注册
   errors.invalidLogin: 登录失败
   errors.invalidLoginMsg: 'Email 与密码不匹配'
   errors.invalidUserEmail: '用户的 Email 无效'
@@ -108,90 +95,328 @@ auth:
   errors.tooManyAttempts: 过多的尝试！
   errors.tooManyAttemptsMsg: '短时间内失败次数过多，请 {{time}} 后再尝试。'
   errors.userNotFound: 未找到用户
-  fields.email: 电子邮件地址
-  fields.emailUser: 'Email /用户名'
-  fields.name: 名字
-  fields.password: 密码
-  fields.verifyPassword: 验证密码
-  forgotPasswordCancel: 取消
-  forgotPasswordLink: 忘记密码？
-  forgotPasswordSubtitle: 输入您的电子邮件地址以接收重置密码的说明：
-  genericError: 身份验证不可用。
-  invalidEmail: 电子邮件地址无效。
-  invalidEmailUsername: 输入有效的电子邮件/用户名。
-  invalidPassword: 输入一个有效的密码。
-  loginRequired: 需要登录
-  loginSuccess: 登陆成功！重定向...
-  loginUsingStrategy: '使用{{strategy}}登录'
-  missingEmail: 缺少电子邮件地址。
-  missingName: 缺少名字。
-  missingPassword: 缺少密码。
-  nameTooLong: 名字太长。
-  nameTooShort: 名字太短。
-  orLoginUsingStrategy: 或使用...登录
-  passwordNotMatch: 这两个密码不匹配。
-  passwordTooShort: 密码太短。
-  pleaseWait: 请稍候
+  providers.local: 本地的
+  providers.windowslive: 'Microsoft 账户'
   providers.azure: 'Azure 活动目录'
+  providers.google: 'Google ID'
   providers.facebook: Facebook
   providers.github: Github
-  providers.google: 'Google ID'
-  providers.ldap: LDAP/活动目录
-  providers.local: 本地的
   providers.slack: Slack
-  providers.windowslive: 'Microsoft 账户'
-  registerCheckEmail: 查看您的电子邮件以激活您的帐户。
-  registering: 正在创建帐户...
-  registerSubTitle: 填写下面的表单以创建您的帐户。
-  registerSuccess: 帐户创建成功！
-  registerTitle: 创建一个帐户
-  sendResetPassword: 重置密码
-  signingIn: 登录中...
-  switchToLogin.link: 改为登录
-  switchToLogin.text: '已经有账号？ {{link}}'
-  switchToRegister.link: 创建一个帐户
-  switchToRegister.text: '还没有账号？ {{link}}'
-  tfa.placeholder: XXXXXX
-  tfa.subtitle: '所需的安全代码:'
+  providers.ldap: LDAP/活动目录
   tfa.title: 双重验证
+  tfa.subtitle: '所需的安全代码:'
+  tfa.placeholder: XXXXXX
   tfa.verifyToken: 验证
-common:
-  actions.add: 添加
-  actions.apply: 应用
-  actions.cancel: 取消
-  actions.clear: 清除
-  actions.create: 创建
-  actions.delete: 删除
-  actions.discard: 放弃
-  actions.download: 下载
-  actions.edit: 编辑
-  actions.ok: OK
-  actions.proceed: 继续
-  actions.refresh: 刷新
-  actions.save: 保存
-  actions.saveChanges: 保存更改
-  actions.upload: 上传
-  footer.copyright: '© {{year}} {{company}} 。版权所有。'
-  footer.poweredBy: 'Powered by'
-  newpage.create: 创建新页面
-  newpage.goback: 返回
-  newpage.subtitle: 你想现在创建吗？
-  newpage.title: 此页面尚不存在。
-  notfound.gohome: 首页
-  notfound.subtitle: 此页不存在。
-  notfound.title: 未找到
-  unauthorized.action.create: 您无法创建页面。
-  unauthorized.action.edit: 您无法编辑该页面。
-  unauthorized.action.history: 您无法查看该页面历史记录。
-  unauthorized.action.source: 您无法查看该页面来源。
-  unauthorized.action.view: 您无法查看该页面。
-  unauthorized.goback: 返回
-  unauthorized.login: 登录为...
-  unauthorized.title: 未经授权的
+  fields.email: 电子邮件地址
+  fields.verifyPassword: 验证密码
+  fields.name: 名字
+  actions.register: 注册
+  registerTitle: 创建一个帐户
+  switchToLogin.text: '已经有账号？ {{link}}'
+  switchToLogin.link: 改为登录
+  loginUsingStrategy: '使用{{strategy}}登录'
+  forgotPasswordLink: 忘记密码？
+  orLoginUsingStrategy: 或使用...登录
+  switchToRegister.text: '还没有账号？ {{link}}'
+  switchToRegister.link: 创建一个帐户
+  invalidEmailUsername: 输入有效的电子邮件/用户名。
+  invalidPassword: 输入一个有效的密码。
+  loginSuccess: 登陆成功！重定向...
+  signingIn: 登录中...
+  genericError: 身份验证不可用。
+  registerSubTitle: 填写下面的表单以创建您的帐户。
+  pleaseWait: 请稍候
+  registerSuccess: 帐户创建成功！
+  registering: 正在创建帐户...
+  missingEmail: 缺少电子邮件地址。
+  invalidEmail: 电子邮件地址无效。
+  missingPassword: 缺少密码。
+  passwordTooShort: 密码太短。
+  passwordNotMatch: 这两个密码不匹配。
+  missingName: 缺少名字。
+  nameTooShort: 名字太短。
+  nameTooLong: 名字太长。
+  forgotPasswordCancel: 取消
+  sendResetPassword: 重置密码
+  forgotPasswordSubtitle: 输入您的电子邮件地址以接收重置密码的说明：
+  registerCheckEmail: 查看您的电子邮件以激活您的帐户。
+admin:
+  dashboard.title: 配置板
+  general.title: 常规
+  locale.title: 语言环境
+  stats.title: 统计
+  theme.title: 主题
+  groups.title: 组
+  users.title: 用户列表
+  auth.title: 身份验证
+  editor.title: 编辑器
+  logging.title: 日志记录
+  rendering.title: 渲染
+  search.title: 搜索引擎
+  storage.title: 存储
+  api.title: API访问
+  system.title: 系统信息
+  utilities.title: 其他
+  dev.title: 开发者工具
+  contribute.title: '为 wiki.js 出一份力'
+  general.subtitle: 您的wiki的主要设置
+  general.siteInfo: 网站信息
+  general.siteBranding: 网站品牌
+  nav.site: 网站
+  nav.users: 用户
+  nav.modules: 模块
+  nav.system: 系统
+  dashboard.subtitle: 'BETA版本 - 请不要用于生产环境'
+  locale.subtitle: 为您的wiki设置本地化选项
+  locale.settings: 语言环境设置
+  locale.namespacing: 多语言命名空间
+  locale.download: 下载语言环境
+  locale.base.labelWithNS: 基本语言环境
+  locale.base.hint: 所有UI文本元素都将以选定的语言显示。
+  locale.autoUpdate.label: 自动更新
+  locale.autoUpdate.hintWithNS: 自动将更新下载到下面启用的所有命名空间语言环境。
+  locale.namespaces.label: 多语言命名空间
+  locale.namespaces.hint: 为同一页面启用多个语言版本。
+  locale.activeNamespaces.label: 已启用的命名空间
+  locale.activeNamespaces.hint: 已列出为多语言命名空间启用的语言环境。无论列表中的选择如何，始终都会包含上面定义的基本语言环境。
+  locale.namespacingPrefixWarning.title: '语言环境代码将作为所有路径的前缀。 （例如/ {{langCode}} / page-name）'
+  locale.namespacingPrefixWarning.subtitle: 如果路径中不包含语言环境代号，将自动重定向到上面定义的基本语言环境。
+  locale.base.label: 网站语言环境
+  locale.autoUpdate.hint: 在此语言环境可用时自动下载更新。
+  system.subtitle: 有关您系统的信息
+  system.hostInfo: 主机信息
+  system.currentVersion: 当前版本
+  system.latestVersion: 最新版本
+  system.published: 发布于
+  system.os: 操作系统
+  system.hostname: 主机名
+  system.cpuCores: CPU核心数
+  system.totalRAM: 总内存
+  system.workingDirectory: 工作目录
+  system.configFile: 配置文件
+  system.ramUsage: 'RAM使用情况： {{used}} / {{total}}'
+  contribute.subtitle: 帮助支持Wiki.js开发和运营
+  contribute.fundOurWork: 资助我们的工作
+  contribute.spreadTheWord: 传播这个词
+  contribute.talkToFriends: '与您的朋友和同事谈论 wiki.js 是多么棒!'
+  contribute.followUsOnTwitter: '在{{0}}关注我们。'
+  contribute.submitAnIdea: '在{{0}}上提交想法或对提议的想法进行投票。'
+  contribute.submitAnIdeaLink: 功能请求板
+  contribute.foundABug: '发现了一个bug？在{{0}}上提交问题。'
+  contribute.helpTranslate: '帮助翻译您所用语言的Wiki.js。请在{{0}}告诉我们。'
+  contribute.makeADonation: 进行捐赠
+  contribute.contribute: 贡献
+  contribute.openCollective: 'Wiki.js也是Open Collective计划——一个面向开源社区的公开基金的一部分。您可以通过每月或一次性捐款来提供财务捐助：'
+  contribute.needYourHelp: 我们需要您的帮助来不断改进软件并运行各种相关服务（例如托管和网络）。
+  contribute.openSource: 'Wiki.js是{{0}} {{1}}和{{2}}为您提供的免费开源软件。'
+  contribute.openSourceContributors: 贡献者
+  contribute.tshirts: '您还可以购买Wiki.js T恤以在财务上支持该项目：'
+  contribute.shop: Wiki.js商店
+  pages.title: 页面
+  navigation.title: 导航
+  navigation.subtitle: 管理网站导航
+  navigation.link: 链接
+  navigation.divider: 分隔器
+  navigation.header: 头部区域
+  navigation.label: 标签
+  navigation.icon: 图标
+  navigation.targetType: 目标类型
+  navigation.target: 目标
+  navigation.noSelectionText: 在左侧选择一个导航项。
+  navigation.untitled: '无标题 {{kind}}'
+  navigation.navType.external: 外部链接
+  navigation.navType.home: 首页
+  navigation.navType.page: 页面
+  navigation.navType.searchQuery: 搜索查询
+  navigation.edit: '编辑{{kind}}'
+  navigation.delete: '删除{{kind}}'
+  navigation.saveSuccess: 导航已成功保存。
+  navigation.noItemsText: 单击添加按钮添加第一个导航项。
+  navigation.emptyList: 导航是空的
+  mail.title: 邮件
+  mail.subtitle: 配置邮件设置
+  mail.configuration: 配置
+  mail.dkim: DKIM（可选）
+  contribute.becomeAPatron: 进行捐赠
+  contribute.patreon: '通过Patreon成为赞助者或赞助者(支持首席开发人员Nicolas Giard更好的致力于Wiki.js的发展!)'
+  dev.flags.title: 标志
+  dev.graphiql.title: GraphiQL
+  dev.voyager.title: 航海家
+  contribute.paypal: 通过Paypal进行一次性或定期捐赠：
+  contribute.ethereum: 我们接受使用以太坊的捐款：
+  locale.sideload: 加载区域包
+  locale.sideloadHelp: 如果您没有连接到互联网或无法使用上述方法下载区域设置文件，您可以在下方上传软件包实现加载。
+  webhooks.title: Web钩子
+  webhooks.subtitle: '管理到外部服务的 web 钩子'
+  mail.test: 发送测试邮件
+  mail.testRecipient: 收件人的Email
+  mail.testSend: 发件人的Email
+  mail.sender: 发件人
+  mail.senderName: 发件人姓名
+  mail.senderEmail: 发件人的Email
+  mail.smtp: SMTP设置
+  mail.smtpHost: 主机
+  mail.smtpPort: 端口
+  mail.smtpPortHint: 通常为465（推荐），587或25。
+  mail.smtpTLS: 安全（TLS）
+  mail.smtpTLSHint: 使用端口465时应启用，否则关闭（例如使用端口587或25）。
+  mail.smtpUser: 用户名
+  mail.smtpPwd: 密码
+  mail.dkimHint: 'DKIM（DomainKeys Identified Mail）通过为收件人提供验证域名和确保邮件真实性的方法，为从Wiki.js发送的所有电子邮件提供一层安全性。'
+  mail.dkimUse: 使用DKIM
+  mail.dkimDomainName: 域名
+  mail.dkimKeySelector: 密钥选择器
+  mail.dkimPrivateKey: 私钥
+  mail.dkimPrivateKeyHint: 'PEM 格式的选择器的私钥'
+  mail.testHint: 发送测试邮件，以确保你的SMTP配置正常工作。
+  mail.saveSuccess: 已保存设置。
+  system.dbPartialSupport: 不完全支持你的数据库版本。部分功能受限，或者未能正常工作。
+  system.refreshSuccess: 已刷新系统信息。
+  auth.subtitle: 配置你wiki的验证
+  auth.strategies: 策略
+  auth.globalAdvSettings: 全局高级设置
+  auth.jwtAudience: 'JWT 受众'
+  auth.jwtAudienceHint: '登陆时发出的JWT中的受众URN，通常是你的域名（例如 urn:your.domain.com）'
+  auth.tokenExpiration: 令牌过期。
+  auth.tokenExpirationHint: 令牌的最长有效期（默认：30天）。
+  auth.tokenRenewalPeriod: 令牌续签周期
+  auth.tokenRenewalPeriodHint: 令牌续签的最长期限（默认：14天）。
+  auth.strategyState: '此策略为{{state}} {{locked}}'
+  auth.strategyStateActive: 激活。
+  auth.strategyStateInactive: 未激活。
+  auth.strategyStateLocked: 并且不能禁用。
+  mail.sendTestSuccess: 已成功发送测试邮件。
+  theme.subtitle: 修改你的维基的外观和感觉
+  theme.siteTheme: 网站主题
+  theme.siteThemeHint: '主题会影响内容页的显示方式。其他网站部分 (如编辑器或管理区域) 不受影响。'
+  theme.darkMode: 暗模式
+  theme.darkModeHint: 不建议用于辅助功能。可能不是所有主题都支持。
+  theme.codeInjection: 代码注入
+  theme.cssOverride: 'CSS 覆盖'
+  theme.cssOverrideHint: '要在系统默认 CSS 之后注入的 CSS 代码。如果您有大量的 css 代码, 请考虑使用自定义主题。注入过多的 CSS 代码会导致页面加载性能不佳!CSS 将自动缩小。'
+  theme.headHtmlInjection: 'Head 部插入 HTML'
+  theme.headHtmlInjectionHint: '要在结束头标记之前注入的 HTML 代码。通常用于脚本标记。'
+  theme.bodyHtmlInjection: 正文HTML注入
+  theme.bodyHtmlInjectionHint: '要在结束正文标记之前注入的 HTML 代码。'
+  theme.downloadThemes: 下载主题
+  adminArea: 管理区
+  auth.strategyConfiguration: 策略配置
+  auth.strategyNoConfiguration: 此策略没有可修改的配置选项。
+  auth.registration: 注册
+  auth.selfRegistration: 开放注册
+  auth.selfRegistrationHint: '允许任何成功获得策略授权的用户访问 wiki。'
+  auth.domainsWhitelist: 限制到特定的电子邮件域
+  auth.domainsWhitelistHint: 授权注册的域的列表。用户电子邮件地址域必须与其中之一匹配才能获得访问权限。
+  auth.autoEnrollGroups: 分配给组
+  auth.autoEnrollGroupsHint: 自动将新用户分配给这些组。
+  auth.security: 安全性
+  auth.force2fa: '强制所有用户使用双因素身份验证 (2FA)'
+  auth.force2faHint: '用户将被要求在第一次登录时设置 2FA（两次验证）, 并且不能被用户禁用。'
+  auth.configReference: 配置参考
+  auth.configReferenceSubtitle: '某些策略可能需要在提供程序上设置一些配置值。这些建议仅供参考, 目前的战略可能不需要。'
+  auth.siteUrlNotSetup: '必须首先设置有效的 {{siteUrl}}}!单击左侧边栏中的 {{general}}。'
+  auth.allowedWebOrigins: '允许的 Web 来源'
+  auth.callbackUrl: 回调的网址/重定向的路径
+  auth.loginUrl: 登陆的网址
+  auth.logoutUrl: 登出的网址
+  auth.tokenEndpointAuthMethod: 令牌端点认证方法
+  storage.subtitle: 为内容设置备份和同步目标
+  storage.targets: 目标
+  storage.status: 状态
+  storage.lastSync: '上次同步{{time}}'
+  storage.lastSyncAttempt: '上次尝试是{{time}}'
+  storage.errorMsg: 错误消息
+  storage.noTarget: 您没有任何活动存储目标。
+  storage.targetConfig: 目标配置
+  storage.noConfigOption: 此存储目标没有可修改的配置选项。
+  storage.syncDirection: 同步方向
+  storage.syncDirectionSubtitle: 选择如何处理此存储目标的内容同步。
+  storage.syncDirBi: 双向
+  storage.syncDirPush: 推送到目标
+  storage.syncDirPull: 从目标中拉取
+  storage.unsupported: 不支持
+  storage.syncDirBiHint: '在双向模式下, 首先从存储目标中提取内容。任何较新的内容都会覆盖本地内容。自上次同步以来的新内容将被推送到存储目标, 如果存在, 则覆盖目标上的任何内容。'
+  storage.syncDirPushHint: '内容始终被推送到存储目标, 覆盖任何现有内容。对于备份方案, 这是最安全的选择。'
+  storage.syncDirPullHint: '内容总是从存储目标中提取, 覆盖已存在的任何本地内容。此选项通常保留用于一次性内容导入。警告使用此选项, 因为任何本地内容都将始终被覆盖!'
+  storage.syncSchedule: 同步计划
+  storage.syncScheduleHint: '出于性能原因, 此存储目标按基于间隔的计划同步更改, 而不是在每次更改上同步更改。定义同步发生时的间隔。'
+  storage.syncScheduleCurrent: '目前设置为每{{schedule}} 。'
+  storage.syncScheduleDefault: '默认值为每{{schedule}} 。'
+  storage.actions: 操作
+  storage.actionRun: 运行
+  search.subtitle: 配置Wiki的搜索功能
+  search.rebuildIndex: 重建索引
+  search.searchEngine: 搜索引擎
+  search.engineConfig: 引擎配置
+  search.engineNoConfig: 此引擎没有可修改的配置选项。
+  search.listRefreshSuccess: 搜索引擎列表已刷新。
+  search.configSaveSuccess: 搜索引擎配置已成功保存。
+  search.indexRebuildSuccess: 索引重建成功。
+  dashboard.pages: 页面
+  dashboard.users: 用户
+  dashboard.groups: 组
+  dashboard.versionLatest: 您正在运行最新版本。
+  dashboard.versionNew: '有新版本：{{version}}'
+  dashboard.contributeSubtitle: Wiki.js是一个免费的开源项目。您可以通过多种方式为项目做出贡献。
+  dashboard.contributeHelp: 需要你的帮助！
+  dashboard.contributeLearnMore: 了解更多
+  auth.refreshSuccess: 策略列表已更新。
+  auth.saveSuccess: 验证配置已成功保存。
+  general.general: 常规
+  general.siteUrl: 网站网址
+  general.siteUrlHint: 'wiki的完整URL，不用写尾部斜杠。 （例如https://wiki.example.com）'
+  general.siteTitle: 网站名称
+  general.siteTitleHint: '显示在顶部栏中, 并附加到所有页面元标题。'
+  general.logo: Logo
+  general.uploadLogo: '上传 Logo'
+  general.uploadClear: 清除
+  general.uploadSizeHint: '建议使用 {{size}} 像素的图片以获得最佳效果'
+  general.uploadTypesHint: '仅限于 {{typeList}} 和 {{lastType}} 文件类型'
+  general.footerCopyright: 页脚版权
+  general.companyName: 公司/组织名称
+  general.companyNameHint: 页脚的著作权声明人；留空则不显示。
+  general.siteDescription: 网站说明
+  general.siteDescriptionHint: 默认的页面描述
+  general.metaRobots: 元机器人
+  general.metaRobotsHint: 默认：索引，关注。也可以对每个页面单独设置。
 editor:
   page: 页面
+  save.processing: 处理中
+  save.pleaseWait: 请稍候
   save.createSuccess: 页面创建成功。
   save.error: 创建页面时发生错误
-  save.pleaseWait: 请稍候
-  save.processing: 处理中
   save.updateSuccess: 页面已成功更新。
+  assets.refreshSuccess: 已刷新的文件列表。
+  assets.uploadFailed: 文件上传失败。
+  assets.folderCreateSuccess: 已成功创建文件夹。
+  assets.renameSuccess: 已成功重命名。
+  assets.deleteSuccess: 已成功删除。
+  assets.noUploadError: 您必须先选择一个文件上传!
+  backToEditor: 返回编辑
+  markup.bold: 加粗
+  markup.italic: 斜体
+  markup.strikethrough: 删除线
+  markup.heading: '标题{{level}}'
+  markup.subscript: 下标
+  markup.superscript: 上标
+  markup.blockquote: 引用
+  markup.blockquoteInfo: 信息块引用
+  markup.blockquoteSuccess: 成功块引用
+  markup.blockquoteWarning: 警告块引号
+  markup.blockquoteError: 错误块引号
+  markup.unorderedList: 无序列表
+  markup.orderedList: 有序列表
+  markup.inlineCode: 插入代码块
+  markup.keyboardKey: 键盘键
+  markup.horizontalBar: 水平条
+  markup.togglePreviewPane: 隐藏或展示预览
+  markup.insertLink: 插入链接
+  markup.insertAssets: 插入文件
+  markup.insertBlock: 插入块
+  markup.insertCodeBlock: 插入代码块
+  markup.insertVideoAudio: 插入视频/音频
+  markup.insertDiagram: 插入图片
+  markup.insertMathExpression: 插入数学表达式
+  markup.tableHelper: 表格助手
+  markup.distractionFreeMode: 无干扰模式
+  markup.markdownFormattingHelp: 'Markdown 用法帮助'

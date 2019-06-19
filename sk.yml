@@ -1,105 +1,33 @@
-admin:
-  api.title: 'API Prístup'
-  auth.title: Autentizácia
-  contribute.becomeAPatron: ''
-  contribute.contribute: Prispieť
-  contribute.followUsOnTwitter: 'Sledujte nás na {{0}}.'
-  contribute.foundABug: 'Našli ste chybu? Odošlite ju na {{0}}.'
-  contribute.fundOurWork: 'Financovať našu prácu'
-  contribute.helpTranslate: 'Pomôžte preložiť Wiki.js do vášho jazyka. Dajte nám vedieť na {{0}}.'
-  contribute.makeADonation: Prispieť
-  contribute.needYourHelp: 'Potrebujeme vašu pomoc, aby sme neustále zlepšovali softvér a prevádzkovali rôzne súvisiace služby (napr. Hosting a sieť).'
-  contribute.openCollective: 'Wiki.js je súčasťou iniciatívy Open Collective. Môžete finančne prispievať mesačne alebo jednorazovým darom:'
-  contribute.openSource: 'Wiki.js je bezplatný softvér s otvoreným zdrojovým kódom, ktorý vám priniesol {{0}} s {{1}} a {{2}} .'
-  contribute.openSourceContributors: prispievatelia
-  contribute.patreon: ''
-  contribute.shop: 'Obchod Wiki.js'
-  contribute.spreadTheWord: Propagovať
-  contribute.submitAnIdea: 'Odošlite nápad alebo hlasujte pre jeden na {{0}}.'
-  contribute.submitAnIdeaLink: 'tabuľka žiadostí o funkcie'
-  contribute.subtitle: 'Pomôžte podporiť vývoj a prevádzku Wiki.js'
-  contribute.talkToFriends: 'Povedzte priateľom aká úžasná je Wiki.js!'
-  contribute.title: 'Prispieť k projektu Wiki.js'
-  contribute.tshirts: 'Môžete si tiež kúpiť Wiki.js trička na podporu projektu finančne:'
-  dashboard.subtitle: 'Wiki.js v2 ALPHA Build - nie pre použitie v produkčných systémoch'
-  dashboard.title: Tabuľa
-  dev.title: 'Vývojárske nástroje'
-  editor.title: Editor
-  general.siteBranding: 'Značenie stránky'
-  general.siteInfo: 'Informácie o stránke'
-  general.subtitle: 'Hlavné nastavenia vašej wiki'
-  general.title: Všeobecné
-  groups.title: Skupiny
-  locale.activeNamespaces.hint: 'Zoznam lokalizácií povolených pre viacjazyčné menné priestory. Základné lokalizačné nastavenie definované vyššie bude vždy súčasťou bez ohľadu na tento výber.'
-  locale.activeNamespaces.label: 'Aktívne menné priestory'
-  locale.autoUpdate.hint: 'Automaticky sťahovať aktualizácie tohto miestneho nastavenia, hneď ako budú dostupné.'
-  locale.autoUpdate.hintWithNS: 'Automaticky sťahovať aktualizácie pre všetky lokalizácie, ktoré sú povolené nižšie.'
-  locale.autoUpdate.label: 'Automaticky aktualizovať'
-  locale.base.hint: 'Všetky prvky textu používateľského rozhrania sa zobrazia vo vybratom jazyku.'
-  locale.base.label: 'Lokalizácia Stránky'
-  locale.base.labelWithNS: 'Lokalizácia Stránky'
-  locale.download: 'Stiahnuť Lokalizáciu'
-  locale.namespaces.hint: 'Umožňuje viac jazykových verzií tej istej stránky.'
-  locale.namespaces.label: 'Viacjazyčné menné priestory'
-  locale.namespacing: 'Viacjazyčné menné priestory'
-  locale.namespacingPrefixWarning.subtitle: 'Cesty bez kódu lokality budú automaticky presmerované na základné nastavení definovaných vyššie.'
-  locale.namespacingPrefixWarning.title: 'Lokalizovaný kód bude s predponou pre všetky cesty. (napríklad / {{langCode}} / názov stránky)'
-  locale.settings: 'Nastavenie Lokalizácie'
-  locale.subtitle: 'Nastaviť možnosti lokalizácie pre vašu wiki'
-  locale.title: 'Lokalizácie Stránky'
-  logging.title: Protokolovanie
-  mail.configuration: ''
-  mail.dkim: ''
-  mail.subtitle: ''
-  mail.title: ''
-  nav.modules: Moduly
-  nav.site: Stránka
-  nav.system: Systém
-  nav.users: Používatelia
-  navigation.delete: 'Odstrániť {{kind}}'
-  navigation.divider: Oddeľovač
-  navigation.edit: 'Upraviť {{kind}}'
-  navigation.emptyList: 'Navigácia je prázdna'
-  navigation.header: Hlavička
-  navigation.icon: Ikona
-  navigation.label: Štítok
-  navigation.link: Odkaz
-  navigation.navType.external: 'Externý odkaz'
-  navigation.navType.home: Domov
-  navigation.navType.page: Stránka
-  navigation.navType.searchQuery: 'Vyhľadať Výraz'
-  navigation.noItemsText: 'Kliknutím na tlačidlo Pridať pridajte svoju prvú navigačnú položku.'
-  navigation.noSelectionText: 'Vyberte položku navigácie na ľavej strane.'
-  navigation.saveSuccess: 'Navigácia bola úspešne uložená.'
-  navigation.subtitle: 'Spravovať navigáciu stránky'
-  navigation.target: Cieľ
-  navigation.targetType: 'Typ cieľa'
-  navigation.title: Navigácia
-  navigation.untitled: 'Bez názvu {{kind}}'
-  pages.title: Stránky
-  rendering.title: Vykresľovanie
-  search.title: Vyhľadávač
-  stats.title: Štatistiky
-  storage.title: Úložisko
-  system.configFile: 'Konfiguračný súbor'
-  system.cpuCores: 'CPU Jadrá'
-  system.currentVersion: 'Aktuálna Verzia'
-  system.hostInfo: 'Hostiteľské Informácie'
-  system.hostname: 'Meno hostiteľa'
-  system.latestVersion: 'Najnovšia verzia'
-  system.os: 'Operačný Systém'
-  system.published: Publikované
-  system.ramUsage: 'Využitie pamäte RAM: {{used}} / {{total}}'
-  system.subtitle: 'Informácie o vašom systéme'
-  system.title: 'Systémové Informácie'
-  system.totalRAM: 'Celková pamäť RAM'
-  system.workingDirectory: 'Pracovný Adresár'
-  theme.title: Téma
-  users.title: Používatelia
-  utilities.title: Pomôcky
+common:
+  footer.poweredBy: 'Beží na'
+  actions.save: Uložiť
+  actions.cancel: Zrušiť
+  actions.download: Stiahnuť
+  actions.upload: Nahrať
+  actions.discard: Zrušiť
+  actions.clear: Zmazať
+  actions.create: Vytvoriť
+  actions.edit: Upraviť
+  actions.delete: Vymazať
+  actions.refresh: Obnoviť
+  actions.saveChanges: 'Uložiť Zmeny'
+  actions.proceed: Pokračovať
+  actions.ok: OK
+  footer.copyright: '© {{year}} {{company}} . Všetky práva vyhradené.'
+  newpage.title: 'Táto stránka ešte neexistuje.'
+  newpage.subtitle: 'Chcete to vytvoriť teraz?'
+  newpage.create: 'Vytvoriť Stránku'
+  newpage.goback: 'Vrátiť sa'
+  actions.add: Pridať
+  actions.apply: Použiť
+  welcome.title: 'Vitajte vo vašej wiki!'
+  welcome.subtitle: 'Začnime a vytvorme domovskú stránku.'
+  welcome.createhome: 'Vytvoriť Domovskú Stránku'
 auth:
+  loginRequired: 'Vyžaduje sa prihlásenie'
+  fields.emailUser: 'E-mail / Užívateľské meno'
+  fields.password: Heslo
   actions.login: 'Prihlásiť sa'
-  actions.register: ''
   errors.invalidLogin: 'Neplatné Prihlásenie'
   errors.invalidLoginMsg: 'E-mail alebo heslo je neplatné.'
   errors.invalidUserEmail: 'Neplatný Užívateľský E-Mail'
@@ -108,90 +36,114 @@ auth:
   errors.tooManyAttempts: 'Príliš mnoho pokusov!'
   errors.tooManyAttemptsMsg: 'Urobili ste príliš mnoho neúspešných pokusov v krátkom časovom období, prosím skúste to znova {{time}}.'
   errors.userNotFound: 'Používateľ nebol nájdený'
-  fields.email: ''
-  fields.emailUser: 'E-mail / Užívateľské meno'
-  fields.name: ''
-  fields.password: Heslo
-  fields.verifyPassword: ''
-  forgotPasswordCancel: ''
-  forgotPasswordLink: ''
-  forgotPasswordSubtitle: ''
-  genericError: ''
-  invalidEmail: ''
-  invalidEmailUsername: ''
-  invalidPassword: ''
-  loginRequired: 'Vyžaduje sa prihlásenie'
-  loginSuccess: ''
-  loginUsingStrategy: ''
-  missingEmail: ''
-  missingName: ''
-  missingPassword: ''
-  nameTooLong: ''
-  nameTooShort: ''
-  orLoginUsingStrategy: ''
-  passwordNotMatch: ''
-  passwordTooShort: ''
-  pleaseWait: ''
+  providers.local: Miestne
+  providers.windowslive: 'Konto Microsoft'
   providers.azure: 'Azure Active Directory'
+  providers.google: 'Google ID'
   providers.facebook: Facebook
   providers.github: GitHub
-  providers.google: 'Google ID'
-  providers.ldap: 'LDAP / Active Directory'
-  providers.local: Miestne
   providers.slack: Slack
-  providers.windowslive: 'Konto Microsoft'
-  registerCheckEmail: ''
-  registering: ''
-  registerSubTitle: ''
-  registerSuccess: ''
-  registerTitle: ''
-  sendResetPassword: ''
-  signingIn: ''
-  switchToLogin.link: ''
-  switchToLogin.text: ''
-  switchToRegister.link: ''
-  switchToRegister.text: ''
-  tfa.placeholder: XXXXXX
-  tfa.subtitle: 'Požadovaný bezpečnostný kód:'
+  providers.ldap: 'LDAP / Active Directory'
   tfa.title: 'Dvojfaktorová Autentizácia'
+  tfa.subtitle: 'Požadovaný bezpečnostný kód:'
+  tfa.placeholder: XXXXXX
   tfa.verifyToken: Overiť
-common:
-  actions.add: Pridať
-  actions.apply: Použiť
-  actions.cancel: Zrušiť
-  actions.clear: Zmazať
-  actions.create: Vytvoriť
-  actions.delete: Vymazať
-  actions.discard: Zrušiť
-  actions.download: Stiahnuť
-  actions.edit: Upraviť
-  actions.ok: OK
-  actions.proceed: Pokračovať
-  actions.refresh: Obnoviť
-  actions.save: Uložiť
-  actions.saveChanges: 'Uložiť Zmeny'
-  actions.upload: Nahrať
-  footer.copyright: '© {{year}} {{company}} . Všetky práva vyhradené.'
-  footer.poweredBy: 'Beží na'
-  newpage.create: 'Vytvoriť Stránku'
-  newpage.goback: 'Vrátiť sa'
-  newpage.subtitle: 'Chcete to vytvoriť teraz?'
-  newpage.title: 'Táto stránka ešte neexistuje.'
-  notfound.gohome: ''
-  notfound.subtitle: ''
-  notfound.title: ''
-  unauthorized.action.create: ''
-  unauthorized.action.edit: ''
-  unauthorized.action.history: ''
-  unauthorized.action.source: ''
-  unauthorized.action.view: ''
-  unauthorized.goback: ''
-  unauthorized.login: ''
-  unauthorized.title: ''
+admin:
+  dashboard.title: Tabuľa
+  general.title: Všeobecné
+  locale.title: 'Lokalizácie Stránky'
+  stats.title: Štatistiky
+  theme.title: Téma
+  groups.title: Skupiny
+  users.title: Používatelia
+  auth.title: Autentizácia
+  editor.title: Editor
+  logging.title: Protokolovanie
+  rendering.title: Vykresľovanie
+  search.title: Vyhľadávač
+  storage.title: Úložisko
+  api.title: 'API Prístup'
+  system.title: 'Systémové Informácie'
+  utilities.title: Pomôcky
+  dev.title: 'Vývojárske nástroje'
+  contribute.title: 'Prispieť k projektu Wiki.js'
+  general.subtitle: 'Hlavné nastavenia vašej wiki'
+  general.siteInfo: 'Informácie o stránke'
+  general.siteBranding: 'Značenie stránky'
+  nav.site: Stránka
+  nav.users: Používatelia
+  nav.modules: Moduly
+  nav.system: Systém
+  dashboard.subtitle: 'Wiki.js v2 ALPHA Build - nie pre použitie v produkčných systémoch'
+  locale.subtitle: 'Nastaviť možnosti lokalizácie pre vašu wiki'
+  locale.settings: 'Nastavenie Lokalizácie'
+  locale.namespacing: 'Viacjazyčné menné priestory'
+  locale.download: 'Stiahnuť Lokalizáciu'
+  locale.base.labelWithNS: 'Lokalizácia Stránky'
+  locale.base.hint: 'Všetky prvky textu používateľského rozhrania sa zobrazia vo vybratom jazyku.'
+  locale.autoUpdate.label: 'Automaticky aktualizovať'
+  locale.autoUpdate.hintWithNS: 'Automaticky sťahovať aktualizácie pre všetky lokalizácie, ktoré sú povolené nižšie.'
+  locale.namespaces.label: 'Viacjazyčné menné priestory'
+  locale.namespaces.hint: 'Umožňuje viac jazykových verzií tej istej stránky.'
+  locale.activeNamespaces.label: 'Aktívne menné priestory'
+  locale.activeNamespaces.hint: 'Zoznam lokalizácií povolených pre viacjazyčné menné priestory. Základné lokalizačné nastavenie definované vyššie bude vždy súčasťou bez ohľadu na tento výber.'
+  locale.namespacingPrefixWarning.title: 'Lokalizovaný kód bude s predponou pre všetky cesty. (napríklad / {{langCode}} / názov stránky)'
+  locale.namespacingPrefixWarning.subtitle: 'Cesty bez kódu lokality budú automaticky presmerované na základné nastavení definovaných vyššie.'
+  locale.base.label: 'Lokalizácia Stránky'
+  locale.autoUpdate.hint: 'Automaticky sťahovať aktualizácie tohto miestneho nastavenia, hneď ako budú dostupné.'
+  system.subtitle: 'Informácie o vašom systéme'
+  system.hostInfo: 'Hostiteľské Informácie'
+  system.currentVersion: 'Aktuálna Verzia'
+  system.latestVersion: 'Najnovšia verzia'
+  system.published: Publikované
+  system.os: 'Operačný Systém'
+  system.hostname: 'Meno hostiteľa'
+  system.cpuCores: 'CPU Jadrá'
+  system.totalRAM: 'Celková pamäť RAM'
+  system.workingDirectory: 'Pracovný Adresár'
+  system.configFile: 'Konfiguračný súbor'
+  system.ramUsage: 'Využitie pamäte RAM: {{used}} / {{total}}'
+  contribute.subtitle: 'Pomôžte podporiť vývoj a prevádzku Wiki.js'
+  contribute.fundOurWork: 'Financovať našu prácu'
+  contribute.spreadTheWord: Propagovať
+  contribute.talkToFriends: 'Povedzte priateľom aká úžasná je Wiki.js!'
+  contribute.followUsOnTwitter: 'Sledujte nás na {{0}}.'
+  contribute.submitAnIdea: 'Odošlite nápad alebo hlasujte pre jeden na {{0}}.'
+  contribute.submitAnIdeaLink: 'tabuľka žiadostí o funkcie'
+  contribute.foundABug: 'Našli ste chybu? Odošlite ju na {{0}}.'
+  contribute.helpTranslate: 'Pomôžte preložiť Wiki.js do vášho jazyka. Dajte nám vedieť na {{0}}.'
+  contribute.makeADonation: Prispieť
+  contribute.contribute: Prispieť
+  contribute.openCollective: 'Wiki.js je súčasťou iniciatívy Open Collective. Môžete finančne prispievať mesačne alebo jednorazovým darom:'
+  contribute.needYourHelp: 'Potrebujeme vašu pomoc, aby sme neustále zlepšovali softvér a prevádzkovali rôzne súvisiace služby (napr. Hosting a sieť).'
+  contribute.openSource: 'Wiki.js je bezplatný softvér s otvoreným zdrojovým kódom, ktorý vám priniesol {{0}} s {{1}} a {{2}} .'
+  contribute.openSourceContributors: prispievatelia
+  contribute.tshirts: 'Môžete si tiež kúpiť Wiki.js trička na podporu projektu finančne:'
+  contribute.shop: 'Obchod Wiki.js'
+  pages.title: Stránky
+  navigation.title: Navigácia
+  navigation.subtitle: 'Spravovať navigáciu stránky'
+  navigation.link: Odkaz
+  navigation.divider: Oddeľovač
+  navigation.header: Hlavička
+  navigation.label: Štítok
+  navigation.icon: Ikona
+  navigation.targetType: 'Typ cieľa'
+  navigation.target: Cieľ
+  navigation.noSelectionText: 'Vyberte položku navigácie na ľavej strane.'
+  navigation.untitled: 'Bez názvu {{kind}}'
+  navigation.navType.external: 'Externý odkaz'
+  navigation.navType.home: Domov
+  navigation.navType.page: Stránka
+  navigation.navType.searchQuery: 'Vyhľadať Výraz'
+  navigation.edit: 'Upraviť {{kind}}'
+  navigation.delete: 'Odstrániť {{kind}}'
+  navigation.saveSuccess: 'Navigácia bola úspešne uložená.'
+  navigation.noItemsText: 'Kliknutím na tlačidlo Pridať pridajte svoju prvú navigačnú položku.'
+  navigation.emptyList: 'Navigácia je prázdna'
 editor:
   page: Stránka
+  save.processing: Spracovávam...
+  save.pleaseWait: 'Prosím čakajte...'
   save.createSuccess: 'Stránka bola úspešne vytvorená.'
   save.error: 'Vyskytla sa chyba pri vytváraní stránky'
-  save.pleaseWait: 'Prosím čakajte...'
-  save.processing: Spracovávam...
-  save.updateSuccess: ''

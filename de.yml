@@ -1,197 +1,344 @@
-admin:
-  api.title: API-Zugriff
-  auth.title: Authentifizierung
-  contribute.becomeAPatron: 'Werde ein Förderer'
-  contribute.contribute: Mitwirken
-  contribute.followUsOnTwitter: 'Folge uns auf {{0}}.'
-  contribute.foundABug: 'Einen Fehler gefunden? Erstelle einen Vorgang auf {{0}} .'
-  contribute.fundOurWork: 'Finanziere unsere Arbeit'
-  contribute.helpTranslate: 'Hilf bei der Übersetzung von Wiki.js in deine Sprache. Kontaktiere uns auf {{0}}.'
-  contribute.makeADonation: Spenden
-  contribute.needYourHelp: 'Wir benötigen deine Hilfe, um die Software ständig zu verbessern und die verschiedenen notwendigen  Dienste (z.B. Hosting und Networking) betreiben zu können.'
-  contribute.openCollective: 'Wiki.js ist auch Teil der Open Collective Initiative, einem transparenten Fonds, der für Gemeinschaftsmittel verwendet wird. Du kannst dich finanziell beteiligen, indem du eine monatliche oder einmalige Spende machst:'
-  contribute.openSource: 'Wiki.js ist eine kostenlose Open-Source-Software, bereitgestellt mit {{0}} von {{1}} und {{2}}.'
-  contribute.openSourceContributors: Mitwirkende
-  contribute.patreon: 'Werde ein Unterstützer oder Sponsor über Patreon (wird direkt zum Erreichen des Ziels des leitenden Entwicklers Nicolas Giard verwendet, Vollzeit an Wiki.js zu arbeiten).'
-  contribute.shop: 'Wiki.js Shop'
-  contribute.spreadTheWord: 'Spread the word'
-  contribute.submitAnIdea: 'Bringe eine Idee ein oder stimme über vorgeschlagene Ideen ab auf der {{0}}.'
-  contribute.submitAnIdeaLink: 'Plattform für Anfragen zu neuen Funktionen'
-  contribute.subtitle: 'Unterstütze die Entwicklung und den Betrieb von Wiki.js.'
-  contribute.talkToFriends: 'Sprich mit deinen Freunden und Kollegen darüber, wie großartig Wiki.js ist!'
-  contribute.title: 'An Wiki.js mitwirken'
-  contribute.tshirts: 'Du kannst auch Wiki.js-T-Shirts kaufen, um das Projekt finanziell zu unterstützen:'
-  dashboard.subtitle: 'Beta Version - NICHT FÜR DEN PRODUKTIVEN EINSATZ'
-  dashboard.title: Dashboard
-  dev.title: Entwickler-Tools
-  editor.title: Bearbeitung
-  general.siteBranding: 'Seiten-Kennzeichnung (Branding)'
-  general.siteInfo: Seiteninfo
-  general.subtitle: 'Haupteinstellungen des Wikis'
-  general.title: Allgemeines
-  groups.title: Gruppen
-  locale.activeNamespaces.hint: 'Liste der Lokalisierungen, die für mehrsprachige Namensräume aktiviert sind. Die oben definierte Basis-Lokalisierung wird unabhängig von dieser Auswahl immer eingeschlossen.'
-  locale.activeNamespaces.label: 'Aktive Namensräume'
-  locale.autoUpdate.hint: 'Laden Sie Updates für diese Lokalisierung automatisch herunter, sobald sie verfügbar sind.'
-  locale.autoUpdate.hintWithNS: 'Laden Sie automatisch Updates für alle unten aktivierten Lokalisierungen mit Namensraum herunter.'
-  locale.autoUpdate.label: 'Automatisch aktualisieren'
-  locale.base.hint: 'Alle UI-Textelemente werden in der gewählten Sprache angezeigt.'
-  locale.base.label: 'Seiten Lokalisierung'
-  locale.base.labelWithNS: Basis-Lokalisierung
-  locale.download: 'Lokalisierung herunterladen'
-  locale.namespaces.hint: 'Aktiviert mehrere Sprachversionen derselben Seite.'
-  locale.namespaces.label: 'Mehrsprachige Namensräume'
-  locale.namespacing: 'Mehrsprachiger Namensraum'
-  locale.namespacingPrefixWarning.subtitle: 'Pfade ohne Lokalisierungs-Code werden automatisch zur oben definierten Basis-Lokalisierung umgeleitet.'
-  locale.namespacingPrefixWarning.title: 'Der Lokalisierungs-Code wird allen Pfaden vorangestellt. (z.B. /{{langCode}}/seitenname)'
-  locale.settings: Spracheinstellungen
-  locale.subtitle: 'Lege Lokalisierungsoptionen für das Wiki fest'
-  locale.title: Lokalisierung
-  logging.title: Protokollierung
-  mail.configuration: Konfiguration
-  mail.dkim: 'DKIM (optional)'
-  mail.subtitle: 'E-Mail-Einstellungen konfigurieren'
-  mail.title: E-Mail
-  nav.modules: Module
-  nav.site: Seite
-  nav.system: System
-  nav.users: Benutzer
-  navigation.delete: 'Lösche {{kind}}'
-  navigation.divider: Trennlinie
-  navigation.edit: 'Bearbeite {{kind}}'
-  navigation.emptyList: 'Die Navigation ist leer'
-  navigation.header: Kopfzeile
-  navigation.icon: Symbol
-  navigation.label: Label
-  navigation.link: Link
-  navigation.navType.external: 'Externer Link'
-  navigation.navType.home: Startseite
-  navigation.navType.page: Seite
-  navigation.navType.searchQuery: Suchanfrage
-  navigation.noItemsText: 'Klicke den Button Hinzufügen, um dein erstes Navigationselement hinzuzufügen.'
-  navigation.noSelectionText: 'Wähle links ein Navigationselement aus.'
-  navigation.saveSuccess: 'Navigation erfolgreich gespeichert.'
-  navigation.subtitle: 'Verwalten der Seitennavigation'
-  navigation.target: Ziel
-  navigation.targetType: Zieltyp
-  navigation.title: Navigation
-  navigation.untitled: '{{kind}} ohne Titel'
-  pages.title: Seiten
-  rendering.title: Rendering
-  search.title: Suchmaschine
-  stats.title: Statistiken
-  storage.title: Speicher
-  system.configFile: Konfigurationsdatei
-  system.cpuCores: 'CPU Kerne'
-  system.currentVersion: 'Aktuelle Version'
-  system.hostInfo: Host-Informationen
-  system.hostname: Hostname
-  system.latestVersion: 'Neueste Version'
-  system.os: Betriebssystem
-  system.published: Veröffentlicht
-  system.ramUsage: 'RAM-Nutzung: {{used}} / {{total}}'
-  system.subtitle: 'Informationen über dein System'
-  system.title: Systeminformationen
-  system.totalRAM: 'RAM insgesamt'
-  system.workingDirectory: Arbeitsverzeichnis
-  theme.title: Theme
-  users.title: Benutzer
-  utilities.title: Dienstprogramme
+common:
+  footer.poweredBy: 'Powered by'
+  actions.save: Speichern
+  actions.cancel: Abbrechen
+  actions.download: Herunterladen
+  actions.upload: Hochladen
+  actions.discard: Verwerfen
+  actions.clear: Leeren
+  actions.create: Erstellen
+  actions.edit: Bearbeiten
+  actions.delete: Löschen
+  actions.refresh: Aktualisieren
+  actions.saveChanges: 'Änderungen speichern'
+  actions.proceed: Fortfahren
+  actions.ok: OK
+  footer.copyright: '© {{year}} {{company}}. Alle Rechte vorbehalten.'
+  newpage.title: 'Diese Seite existiert noch nicht.'
+  newpage.subtitle: 'Möchtest du sie jetzt erstellen?'
+  newpage.create: 'Seite erstellen'
+  newpage.goback: Zurück
+  actions.add: Hinzufügen
+  actions.apply: Anwenden
+  unauthorized.title: 'Nicht autorisiert'
+  unauthorized.action.view: 'Du darfst diese Seite nicht ansehen.'
+  unauthorized.action.source: 'Du darfst dir den Seitenquellcode nicht ansehen.'
+  unauthorized.action.history: 'Du darfst dir die Seitenhistorie nicht ansehen.'
+  unauthorized.action.edit: 'Du darfst diese Seite nicht bearbeiten.'
+  unauthorized.action.create: 'Du darfst diese Seite nicht erstellen.'
+  unauthorized.goback: Zurück
+  notfound.gohome: Startseite
+  notfound.title: 'Nicht gefunden'
+  notfound.subtitle: 'Diese Seite existiert nicht.'
+  unauthorized.login: 'Anmelden als...'
+  welcome.title: 'Willkommen in deinem Wiki!'
+  welcome.subtitle: 'Auf geht''s! Erstelle deine Startseite'
+  welcome.createhome: 'Startseite erstellen'
+  actions.browse: "Durchsuchen\_…"
+  header.home: Startseite
+  header.newPage: 'Neue Seite'
+  header.currentPage: 'Aktuelle Seite'
+  header.view: Ansicht
+  header.edit: Bearbeiten
+  header.history: Verlauf
+  header.viewSource: 'Quellcode anzeigen'
+  header.move: 'Verschieben / Umbenennen'
+  header.delete: Löschen
+  header.assets: Assets
+  header.imagesFiles: 'Bilder & Dateien'
+  header.search: Suche...
+  header.admin: Admin
+  header.account: Konto
+  header.myWiki: 'Mein Wiki'
+  header.profile: Profil
+  header.logout: Abmelden
+  header.login: Anmelden
+  page.lastEditedBy: 'Zuletzt bearbeitet von'
+  page.unpublished: Unveröffentlicht
+  page.editPage: 'Seite bearbeiten'
+  page.toc: Inhaltsverzeichnis
+  page.bookmark: Lesezeichen
+  page.share: Teilen
+  page.printFormat: Druckformat
+  actions.close: Schließen
+  actions.page: Seite
+  error.unexpected: 'Es ist ein unerwarteter Fehler aufgetreten.'
 auth:
+  loginRequired: 'Anmeldung erforderlich'
+  fields.emailUser: 'E-Mail / Benutzername'
+  fields.password: Passwort
   actions.login: Anmeldung
-  actions.register: Registrieren
   errors.invalidLogin: 'Falscher Login'
   errors.invalidLoginMsg: 'Die E-Mail oder das Passwort ist ungültig.'
   errors.invalidUserEmail: 'Falsche Benutzer E-Mail-Adresse'
   errors.loginError: Anmeldefehler
   errors.notYetAuthorized: 'Du bist noch nicht berechtigt, dich auf dieser Seite anzumelden.'
   errors.tooManyAttempts: 'Zu viele Versuche!'
-  errors.tooManyAttemptsMsg: 'Du hattest zu viele Fehlversuche in zu kurzer Zeit, bitte versuche es erneut in: {{time}}'
+  errors.tooManyAttemptsMsg: 'Du hattest zu viele Fehlversuche in zu kurzer Zeit, bitte versuche es erneut {{time}}'
   errors.userNotFound: 'Benutzer nicht gefunden'
-  fields.email: 'E-Mail Addresse'
-  fields.emailUser: 'E-Mail / Benutzername'
-  fields.name: Name
-  fields.password: Passwort
-  fields.verifyPassword: 'Passwort bestätigen'
-  forgotPasswordCancel: Abbrechen
-  forgotPasswordLink: 'Hast du dein Passwort vergessen?'
-  forgotPasswordSubtitle: 'E-Mail-Adresse eingeben, um Anweisungen zum Zurücksetzen des Passworts zu erhalten:'
-  genericError: 'Authentifizierung ist nicht verfügbar.'
-  invalidEmail: 'E-Mail-Adresse ist ungültig.'
-  invalidEmailUsername: 'Gültige E-Mail / Benutzernamen eingeben.'
-  invalidPassword: 'Gültiges Passwort eingeben.'
-  loginRequired: 'Anmeldung erforderlich'
-  loginSuccess: 'Anmeldung erfolgreich! Weiterleitung...'
-  loginUsingStrategy: 'Anmeldung mit {{strategy}}'
-  missingEmail: 'Fehlende E-Mail-Adresse.'
-  missingName: 'Der Name fehlt.'
-  missingPassword: 'Fehlendes Passwort.'
-  nameTooLong: 'Der Name ist zu lang.'
-  nameTooShort: 'Der Name ist zu kurz.'
-  orLoginUsingStrategy: 'oder melde dich an mit...'
-  passwordNotMatch: 'Die Passwörter stimmen nicht überein.'
-  passwordTooShort: 'Das Passwort ist zu kurz.'
-  pleaseWait: 'Bitte warten'
+  providers.local: Lokal
+  providers.windowslive: Microsoft-Konto
   providers.azure: 'Azure Active Directory'
+  providers.google: 'Google ID'
   providers.facebook: Facebook
   providers.github: GitHub
-  providers.google: 'Google ID'
-  providers.ldap: 'LDAP / Active Directory'
-  providers.local: Lokal
   providers.slack: Slack
-  providers.windowslive: 'Microsoft Account'
-  registerCheckEmail: 'Überprüfe deine E-Mails, um dein Konto zu aktivieren.'
-  registering: 'Konto wird erstellt...'
-  registerSubTitle: 'Fülle das untenstehende Formular aus, um dein Konto zu erstellen.'
-  registerSuccess: 'Der Account wurde erfolgreich erstellt!'
-  registerTitle: 'Erstelle eine Account'
-  sendResetPassword: 'Passwort zurücksetzen'
-  signingIn: Anmelden...
-  switchToLogin.link: 'Melden Sie sich stattdessen an'
-  switchToLogin.text: 'Du hast schon einen Account? {{link}}'
-  switchToRegister.link: 'Erstelle eine Account'
-  switchToRegister.text: 'Du hast noch keinen Account? {{link}}'
-  tfa.placeholder: XXXXXX
-  tfa.subtitle: 'Sicherheitscode erforderlich:'
+  providers.ldap: 'LDAP / Active Directory'
   tfa.title: Zwei-Faktor-Authentifizierung
+  tfa.subtitle: 'Sicherheitscode erforderlich:'
+  tfa.placeholder: XXXXXX
   tfa.verifyToken: Überprüfen
-common:
-  actions.add: Hinzufügen
-  actions.apply: Anwenden
-  actions.cancel: Abbrechen
-  actions.clear: Leeren
-  actions.create: Erstellen
-  actions.delete: Löschen
-  actions.discard: Verwerfen
-  actions.download: Herunterladen
-  actions.edit: Bearbeiten
-  actions.ok: OK
-  actions.proceed: Fortfahren
-  actions.refresh: Aktualisieren
-  actions.save: Speichern
-  actions.saveChanges: 'Änderungen speichern'
-  actions.upload: Hochladen
-  footer.copyright: '© {{year}} {{company}}. Alle Rechte vorbehalten.'
-  footer.poweredBy: 'Powered by'
-  newpage.create: 'Seite erstellen'
-  newpage.goback: Zurück
-  newpage.subtitle: 'Möchtest du sie jetzt erstellen?'
-  newpage.title: 'Diese Seite existiert noch nicht.'
-  notfound.gohome: Startseite
-  notfound.subtitle: 'Diese Seite existiert nicht.'
-  notfound.title: 'Nicht gefunden'
-  unauthorized.action.create: 'Du darfst diese Seite nicht erstellen.'
-  unauthorized.action.edit: 'Du darfst diese Seite nicht bearbeiten.'
-  unauthorized.action.history: 'Du darfst dir die Seitenhistorie nicht ansehen.'
-  unauthorized.action.source: 'Du darfst dir den Seitenquellcode nicht ansehen.'
-  unauthorized.action.view: 'Du darfst diese Seite nicht ansehen.'
-  unauthorized.goback: Zurück
-  unauthorized.login: 'Anmelden als...'
-  unauthorized.title: 'Nicht autorisiert'
+  fields.email: 'E-Mail Addresse'
+  fields.verifyPassword: 'Passwort bestätigen'
+  fields.name: Name
+  actions.register: Registrieren
+  registerTitle: 'Erstelle eine Account'
+  switchToLogin.text: 'Du hast schon einen Account? {{link}}'
+  switchToLogin.link: 'Melden Sie sich stattdessen an'
+  loginUsingStrategy: 'Anmeldung mit {{strategy}}'
+  forgotPasswordLink: 'Hast du dein Passwort vergessen?'
+  orLoginUsingStrategy: 'oder melde dich an mit...'
+  switchToRegister.text: 'Du hast noch keinen Account? {{link}}'
+  switchToRegister.link: 'Erstelle eine Account'
+  invalidEmailUsername: 'Gültige E-Mail / Benutzernamen eingeben.'
+  invalidPassword: 'Gültiges Passwort eingeben.'
+  loginSuccess: 'Anmeldung erfolgreich! Weiterleitung...'
+  signingIn: Anmelden...
+  genericError: 'Authentifizierung ist nicht verfügbar.'
+  registerSubTitle: 'Fülle das untenstehende Formular aus, um dein Konto zu erstellen.'
+  pleaseWait: 'Bitte warten'
+  registerSuccess: 'Der Account wurde erfolgreich erstellt!'
+  registering: 'Konto wird erstellt...'
+  missingEmail: 'Fehlende E-Mail-Adresse.'
+  invalidEmail: 'E-Mail-Adresse ist ungültig.'
+  missingPassword: 'Fehlendes Passwort.'
+  passwordTooShort: 'Das Passwort ist zu kurz.'
+  passwordNotMatch: 'Die Passwörter stimmen nicht überein.'
+  missingName: 'Der Name fehlt.'
+  nameTooShort: 'Der Name ist zu kurz.'
+  nameTooLong: 'Der Name ist zu lang.'
+  forgotPasswordCancel: Abbrechen
+  sendResetPassword: 'Passwort zurücksetzen'
+  forgotPasswordSubtitle: 'E-Mail-Adresse eingeben, um Anweisungen zum Zurücksetzen des Passworts zu erhalten:'
+  registerCheckEmail: 'Überprüfe deine E-Mails, um dein Konto zu aktivieren.'
+admin:
+  dashboard.title: Dashboard
+  general.title: Allgemeines
+  locale.title: Lokalisierung
+  stats.title: Statistiken
+  theme.title: Theme
+  groups.title: Gruppen
+  users.title: Benutzer
+  auth.title: Authentifizierung
+  editor.title: Bearbeitung
+  logging.title: Protokollierung
+  rendering.title: Rendering
+  search.title: Suchmaschine
+  storage.title: Speicher
+  api.title: API-Zugriff
+  system.title: Systeminformationen
+  utilities.title: Dienstprogramme
+  dev.title: Entwickler-Tools
+  contribute.title: 'An Wiki.js mitwirken'
+  general.subtitle: 'Haupteinstellungen des Wikis'
+  general.siteInfo: Seiteninfo
+  general.siteBranding: 'Seiten-Kennzeichnung (Branding)'
+  nav.site: Seite
+  nav.users: Benutzer
+  nav.modules: Module
+  nav.system: System
+  dashboard.subtitle: 'Beta Version - NICHT FÜR DEN PRODUKTIVEN EINSATZ'
+  locale.subtitle: 'Lege Lokalisierungsoptionen für das Wiki fest'
+  locale.settings: Spracheinstellungen
+  locale.namespacing: 'Mehrsprachiger Namensraum'
+  locale.download: 'Lokalisierung herunterladen'
+  locale.base.labelWithNS: Basis-Lokalisierung
+  locale.base.hint: 'Alle UI-Textelemente werden in der gewählten Sprache angezeigt.'
+  locale.autoUpdate.label: 'Automatisch aktualisieren'
+  locale.autoUpdate.hintWithNS: 'Laden Sie automatisch Updates für alle unten aktivierten Lokalisierungen mit Namensraum herunter.'
+  locale.namespaces.label: 'Mehrsprachige Namensräume'
+  locale.namespaces.hint: 'Aktiviert mehrere Sprachversionen derselben Seite.'
+  locale.activeNamespaces.label: 'Aktive Namensräume'
+  locale.activeNamespaces.hint: 'Liste der Lokalisierungen, die für mehrsprachige Namensräume aktiviert sind. Die oben definierte Basis-Lokalisierung wird unabhängig von dieser Auswahl immer eingeschlossen.'
+  locale.namespacingPrefixWarning.title: 'Der Lokalisierungs-Code wird allen Pfaden vorangestellt. (z.B. /{{langCode}}/seitenname)'
+  locale.namespacingPrefixWarning.subtitle: 'Pfade ohne Lokalisierungs-Code werden automatisch zur oben definierten Basis-Lokalisierung umgeleitet.'
+  locale.base.label: 'Seiten Lokalisierung'
+  locale.autoUpdate.hint: 'Laden Sie Updates für diese Lokalisierung automatisch herunter, sobald sie verfügbar sind.'
+  system.subtitle: 'Informationen über dein System'
+  system.hostInfo: Host-Informationen
+  system.currentVersion: 'Aktuelle Version'
+  system.latestVersion: 'Neueste Version'
+  system.published: Veröffentlicht
+  system.os: Betriebssystem
+  system.hostname: Hostname
+  system.cpuCores: 'CPU Kerne'
+  system.totalRAM: 'RAM insgesamt'
+  system.workingDirectory: Arbeitsverzeichnis
+  system.configFile: Konfigurationsdatei
+  system.ramUsage: 'RAM-Nutzung: {{used}} / {{total}}'
+  contribute.subtitle: 'Unterstütze die Entwicklung und den Betrieb von Wiki.js.'
+  contribute.fundOurWork: 'Finanziere unsere Arbeit'
+  contribute.spreadTheWord: 'Spread the word'
+  contribute.talkToFriends: 'Sprich mit deinen Freunden und Kollegen darüber, wie großartig Wiki.js ist!'
+  contribute.followUsOnTwitter: 'Folge uns auf {0}.'
+  contribute.submitAnIdea: 'Bringe eine Idee ein oder stimme über vorgeschlagene Ideen ab auf der {0}.'
+  contribute.submitAnIdeaLink: 'Plattform für Anfragen zu neuen Funktionen'
+  contribute.foundABug: 'Einen Fehler gefunden? Erstelle einen Vorgang auf {{0}}.'
+  contribute.helpTranslate: 'Hilf bei der Übersetzung von Wiki.js in deine Sprache. Kontaktiere uns auf {0}.'
+  contribute.makeADonation: Spenden
+  contribute.contribute: Mitwirken
+  contribute.openCollective: 'Wiki.js ist auch Teil der Open Collective Initiative, einem transparenten Fonds, der für Gemeinschaftsmittel verwendet wird. Du kannst dich finanziell beteiligen, indem du eine monatliche oder einmalige Spende machst:'
+  contribute.needYourHelp: "Wir benötigen deine Hilfe, um die Software ständig zu verbessern und die verschiedenen notwendigen Dienste (z.\_B. Hosting und Networking) betreiben zu können."
+  contribute.openSource: 'Wiki.js ist eine kostenlose Open-Source-Software, bereitgestellt mit {0} von {1} und {2}.'
+  contribute.openSourceContributors: Mitwirkende
+  contribute.tshirts: 'Du kannst auch Wiki.js-T-Shirts kaufen, um das Projekt finanziell zu unterstützen:'
+  contribute.shop: 'Wiki.js Shop'
+  pages.title: Seiten
+  navigation.title: Navigation
+  navigation.subtitle: 'Verwalten der Seitennavigation'
+  navigation.link: Link
+  navigation.divider: Trennlinie
+  navigation.header: Kopfzeile
+  navigation.label: Label
+  navigation.icon: Symbol
+  navigation.targetType: Zieltyp
+  navigation.target: Ziel
+  navigation.noSelectionText: 'Wähle links ein Navigationselement aus.'
+  navigation.untitled: '{{kind}} ohne Titel'
+  navigation.navType.external: 'Externer Link'
+  navigation.navType.home: Startseite
+  navigation.navType.page: Seite
+  navigation.navType.searchQuery: Suchanfrage
+  navigation.edit: 'Bearbeite {{kind}}'
+  navigation.delete: 'Lösche {{kind}}'
+  navigation.saveSuccess: 'Navigation erfolgreich gespeichert.'
+  navigation.noItemsText: 'Klicke den Hinzufügen-Button, um dein erstes Navigationselement hinzuzufügen.'
+  navigation.emptyList: 'Die Navigation ist leer'
+  mail.title: E-Mail
+  mail.subtitle: 'E-Mail-Einstellungen konfigurieren'
+  mail.configuration: Konfiguration
+  mail.dkim: 'DKIM (optional)'
+  contribute.becomeAPatron: 'Werde ein Förderer'
+  contribute.patreon: 'Werde ein Unterstützer oder Sponsor über Patreon (wird direkt zum Erreichen des Ziels des leitenden Entwicklers Nicolas Giard verwendet, Vollzeit an Wiki.js zu arbeiten).'
+  dev.flags.title: Flags
+  dev.graphiql.title: GraphiQL
+  dev.voyager.title: Voyager
+  contribute.paypal: 'Mache eine einmalige oder wiederkehrende Spende über Paypal:'
+  contribute.ethereum: 'Wir akzeptieren Spenden mittels Ethereum:'
+  locale.sideload: 'Manuelles Laden von Sprachpaketen'
+  locale.sideloadHelp: 'Wenn du nicht mit dem Internet verbunden bist oder keine Sprachpakete mit der oben angegebenen Option herunterladen kannst, hast du die Möglichkeit Pakete stattdessen manuell hochladen.'
+  webhooks.title: Webhooks
+  webhooks.subtitle: 'Webhooks zu externen Diensten verwalten'
+  mail.test: 'Eine Test-E-Mail senden'
+  mail.testRecipient: 'E-Mail-Adresse des Empfängers'
+  mail.testSend: 'E-Mail senden'
+  mail.sender: Absender
+  mail.smtpUser: Benutzername
+  mail.smtpPwd: Passwort
+  mail.dkimPrivateKey: 'Privater Schlüssel'
+  mail.testHint: 'Senden Sie eine Test-E-Mail, um sicherzustellen, dass Ihre SMTP-Konfiguration funktioniert.'
+  mail.saveSuccess: 'Konfiguration erfolgreich gespeichert.'
+  system.refreshSuccess: 'Systeminformationen wurden aktualisiert.'
+  auth.globalAdvSettings: 'Globale erweiterte Einstellungen'
+  auth.jwtAudience: 'JWT Audience'
+  auth.tokenExpiration: 'Token Ablaufdatum'
+  auth.tokenExpirationHint: 'Die Gültigkeitsdauer eines Tokens, bis dieser erneuert werden muss. (Standard: 30m)'
+  auth.tokenRenewalPeriod: Token-Erneuerungszeitraum
+  auth.strategyState: 'Diese Strategie ist {{state}} {{locked}}'
+  auth.strategyStateActive: aktiv
+  auth.strategyStateInactive: 'nicht aktiv'
+  auth.strategyStateLocked: 'und kann nicht deaktiviert werden.'
+  mail.sendTestSuccess: 'Eine Test-E-Mail wurde erfolgreich gesendet.'
+  theme.subtitle: 'Ändern Sie das Aussehen und Verhalten Ihres Wikis'
+  theme.siteTheme: 'Site Theme'
+  theme.siteThemeHint: 'Themen beeinflussen die Darstellung von Inhaltsseiten. Andere Bereiche der Website (z.B. der Editor oder der Admin-Bereich) sind davon nicht betroffen.'
+  theme.darkMode: 'Dunkler Modus'
+  theme.darkModeHint: 'Nicht für Barrierefreiheit empfohlen. Wird möglicherweise nicht von allen Themen unterstützt.'
+  theme.codeInjection: 'Code Injection'
+  theme.cssOverride: 'CSS überschreiben'
+  theme.cssOverrideHint: 'CSS-Code, der nach dem Standard-CSS des Systems eingefügt werden soll. Erwägen Sie, benutzerdefinierte Designs zu verwenden, wenn Sie sehr viel eigenen CSS-Code haben. Wenn Sie zu viel CSS-Code einfügen, wird die Leistung beim Laden von Seiten beeinträchtigt! CSS wird automatisch minimiert.'
+  theme.headHtmlInjection: 'Head HTML Injection'
+  theme.headHtmlInjectionHint: 'HTML-Code, der direkt vor dem schließenden Head-Tag eingefügt werden soll. Normalerweise für Skript-Tags.'
+  theme.bodyHtmlInjection: 'Body HTML Injection'
+  theme.bodyHtmlInjectionHint: 'HTML-Code, der direkt vor dem schließenden Body-Tag eingefügt werden soll.'
+  theme.downloadThemes: 'Themen herunterladen'
+  adminArea: Administrationsbereich
+  auth.strategyConfiguration: Strategie-Konfiguration
+  auth.strategyNoConfiguration: 'Diese Strategie hat keine Konfigurationsoptionen, die geändert werden können.'
+  auth.registration: Registrierung
+  auth.selfRegistration: 'Selbstregistrierung zulassen'
+  auth.selfRegistrationHint: 'Erlauben Sie jedem Benutzer, der durch die Strategie erfolgreich autorisiert wurde, auf das Wiki zuzugreifen.'
+  auth.domainsWhitelist: 'Beschränkung auf bestimmte E-Mail-Domains'
+  auth.domainsWhitelistHint: 'Eine Liste der Domains, die zur Registrierung berechtigt sind. Die E-Mail-Adresse des Benutzers muss mit einer dieser Adressen übereinstimmen, um Zugriff zu erhalten.'
+  auth.autoEnrollGroups: 'Der Gruppe zuweisen'
+  auth.autoEnrollGroupsHint: 'Automatisches zuweisen von neuen Benutzer*innen zu diesen Gruppen.'
+  auth.security: Sicherheit
+  auth.force2fa: 'Erzwingen, dass alle Benutzer*innen die Zwei-Faktor-Authentifizierung (2FA) aktivieren.'
+  auth.force2faHint: 'Benutzer*innen müssen die 2FA bei der ersten Anmeldung einrichten und können diese nicht deaktivieren.'
+  auth.configReference: Konfigurationsreferenz
+  auth.configReferenceSubtitle: 'Einige Methoden können erfordern, dass bestimmte Konfigurationswerte bei Ihrem Provider gesetzt werden. Diese sind nur als Referenz vorgesehen und werden von der aktuellen Methode möglicherweise nicht benötigt.'
+  auth.siteUrlNotSetup: 'Du musst zuerst eine gültige {{siteUrl}} setzen! Klicke auf {{general}} in der linken Seitenleiste.'
+  auth.allowedWebOrigins: 'Zulässige Web Origins'
+  auth.callbackUrl: 'Callback-URL / Redirect-URI'
+  auth.loginUrl: Login-URL
+  auth.logoutUrl: Logout-URL
+  auth.tokenEndpointAuthMethod: Token-Endpunkt-Authentifizierungsmethode
+  storage.targets: Ziele
+  storage.status: Status
+  storage.lastSync: 'Letzte Synchronisation {{time}}'
+  storage.lastSyncAttempt: 'Der letzte Versuch war {{time}}.'
+  storage.errorMsg: Fehlermeldung
+  storage.noTarget: 'Es existiert kein aktives Speicherziel.'
+  storage.targetConfig: Zielkonfiguration
+  storage.noConfigOption: 'Dieses Speicherziel hat keine Konfigurationsoptionen, die Sie ändern können.'
+  storage.syncDirection: Synchronisationsrichtung
+  storage.syncDirBi: Bidirektional
+  storage.unsupported: 'Nicht unterstützt'
+  storage.syncDirPushHint: 'Inhalte werden immer auf das Speicherziel kopiert, alle vorhandenen Inhalte werden überschreiben. Dies ist die sicherste Wahl für Backup-Szenarien.'
+  storage.syncScheduleHint: 'Aus Performance-Gründen synchronisiert dieses Speicherziel Änderungen nicht bei jeder Änderung, sondern nach einem intervallbasierten Zeitplan. Legen Sie fest, in welchem Intervall die Synchronisation stattfinden soll.'
+  storage.syncScheduleCurrent: 'Derzeit gesetzt auf alle {{schedule}}.'
+  storage.syncScheduleDefault: 'Der Standard ist alle {{schedule}}.'
+  storage.actions: Aktionen
+  storage.actionRun: Ausführen
+  search.subtitle: 'Konfigurieren Sie die Suchfunktionen Ihres Wikis.'
+  search.rebuildIndex: 'Index neu aufbauen'
+  search.searchEngine: Suchmaschine
+  search.engineConfig: Engine-Konfiguration
+  search.engineNoConfig: 'Diese Engine hat keine Konfigurationsoptionen, die Sie ändern können.'
+  search.listRefreshSuccess: 'Die Liste der Suchmaschinen wurde aktualisiert.'
+  search.configSaveSuccess: 'Suchmaschinenkonfiguration erfolgreich gespeichert.'
+  search.indexRebuildSuccess: 'Index erfolgreich neu aufgebaut.'
+  dashboard.pages: Seiten
+  dashboard.users: Benutzer
+  dashboard.groups: Gruppen
+  dashboard.versionLatest: 'Sie verwenden die neueste Version.'
+  dashboard.versionNew: 'Eine neue Version ist verfügbar: {{version}}'
+  dashboard.contributeSubtitle: 'Wiki.js ist ein kostenloses Open-Source-Projekt. Es gibt mehrere Möglichkeiten, zum Projekt beizutragen.'
+  dashboard.contributeHelp: 'Wir brauchen deine Hilfe!'
+  dashboard.contributeLearnMore: 'Erfahre mehr'
+  auth.refreshSuccess: 'Die Liste der Strategien wurde aktualisiert.'
+  auth.saveSuccess: 'Authentifizierungskonfiguration erfolgreich gespeichert.'
+  general.general: Allgemeines
+  general.siteUrl: Seiten-URL
+  general.siteUrlHint: 'Vollständige URL zum Wiki, ohne den abschließenden Schrägstrich. (z.B. https://wiki.example.com)'
+  general.siteTitle: 'Titel der Website'
+  general.siteTitleHint: 'Wird in der oberen Leiste angezeigt und an den Meta-Titel aller Seiten angehängt.'
+  general.logo: Logo
+  general.uploadLogo: 'Logo hochladen'
+  general.uploadClear: Leeren
+  general.uploadSizeHint: 'Für beste Ergebnisse wird ein Bild mit {{size}} Pixeln empfohlen.'
+  general.uploadTypesHint: 'Nur {{typeList}} oder {{lastType}} Dateien'
+  general.footerCopyright: 'Fußzeile Copyright'
+  general.companyName: 'Name des Unternehmens / der Organisation'
+  general.companyNameHint: 'Name, der bei der Anzeige des Copyright-Vermerks in der Fußzeile verwendet werden soll. Lassen Sie das Feld leer, um es auszublenden.'
+  general.siteDescription: Seitenbeschreibung
+  general.siteDescriptionHint: 'Standardbeschreibung, wenn für eine Seite keine angegeben ist.'
+  general.metaRobots: 'Meta Robots'
+  general.metaRobotsHint: 'Standard: Index, Follow. Kann auch auf Seitenbasis eingestellt werden.'
 editor:
   page: Seite
+  save.processing: Verarbeitung
+  save.pleaseWait: 'Bitte warten...'
   save.createSuccess: 'Seite erfolgreich erstellt.'
   save.error: 'Beim Erstellen der Seite ist ein Fehler aufgetreten'
-  save.pleaseWait: 'Bitte warten...'
-  save.processing: Verarbeitung
   save.updateSuccess: 'Seite erfolgreich aktualisiert.'

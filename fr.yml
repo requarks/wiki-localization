@@ -1,105 +1,107 @@
-admin:
-  api.title: 'Accès à l’API'
-  auth.title: Authentification
-  contribute.becomeAPatron: 'Devenez un mécène'
-  contribute.contribute: Contribuer
-  contribute.followUsOnTwitter: 'Suivez-nous sur {{0}}.'
-  contribute.foundABug: 'Trouvé un bug? Soumettez un problème sur {{0}}.'
-  contribute.fundOurWork: 'Financer notre travail'
-  contribute.helpTranslate: 'Aider à traduire Wiki.js dans votre langue. Faites-le nous savoir sur {{0}}.'
-  contribute.makeADonation: 'Faire un don'
-  contribute.needYourHelp: 'Nous avons besoin de votre aide pour continuer à améliorer le logiciel et maintenir les différents services associés (par exemple l''hébergement et le réseau).'
-  contribute.openCollective: 'Wiki.js fait également partie de l’initiative Open Collective, un fonds transparent destiné aux ressources de la communauté. Vous pouvez contribuer financièrement en faisant un don mensuel ou unique:'
-  contribute.openSource: 'Wiki.js est un logiciel gratuit et open source qui vous est proposé avec {{0}} par {{1}} et ses {{2}}.'
-  contribute.openSourceContributors: contributeurs
-  contribute.patreon: 'Devenez un contributeur financier ou commanditaire via Patreon (va directement dans l''objectif du développeur principal, Nicolas Giard, de travailler à temps plein sur Wiki.js)'
-  contribute.shop: 'Boutique Wiki.js'
-  contribute.spreadTheWord: 'Passez le mot'
-  contribute.submitAnIdea: 'Soumettre une idée ou voter sur une idée proposée sur le {{0}}.'
-  contribute.submitAnIdeaLink: 'tableau des demandes'
-  contribute.subtitle: 'Aider à soutenir le développement et les opérations de Wiki.js'
-  contribute.talkToFriends: 'Parlez à vos amis et collègues de l''incroyable Wiki.js!'
-  contribute.title: 'Contribuer à Wiki.js'
-  contribute.tshirts: 'Vous pouvez également acheter des t-shirts Wiki.js pour soutenir financièrement le projet:'
-  dashboard.subtitle: 'BETA Build - PAS POUR USAGE EN PRODUCTION'
-  dashboard.title: 'Tableau de bord'
-  dev.title: 'Outils de développement'
-  editor.title: Éditeur
-  general.siteBranding: 'Marque du site'
-  general.siteInfo: 'Informations sur le site'
-  general.subtitle: 'Principaux paramètres de votre wiki'
-  general.title: Général
-  groups.title: Groupes
-  locale.activeNamespaces.hint: 'Liste des langues actives pour les espaces de nommage multilingues. La langue principale définie ci-dessus sera toujours incluse sans égard à cette sélection.'
-  locale.activeNamespaces.label: 'Espaces de noms actifs'
-  locale.autoUpdate.hint: 'Télécharger automatiquement les mises à jour pour la langue sélectionnée ci-dessus.'
-  locale.autoUpdate.hintWithNS: 'Télécharger automatiquement les mises à jour de toutes les langues sélectionnées ci-dessous.'
-  locale.autoUpdate.label: 'Mettre à jour automatiquement'
-  locale.base.hint: 'Tous les textes de l''interface utilisateur seront affichés dans la langue sélectionnée.'
-  locale.base.label: 'Langue du site'
-  locale.base.labelWithNS: 'Langue principale'
-  locale.download: 'Télécharger une langue'
-  locale.namespaces.hint: 'Active le versionage multilingue pour la même page.'
-  locale.namespaces.label: 'Espaces de noms multilingues'
-  locale.namespacing: 'Espace de nommage multilingue'
-  locale.namespacingPrefixWarning.subtitle: 'Les requêtes sans code régional seront automatiquement redirigées vers le code régional de base défini ci-dessus.'
-  locale.namespacingPrefixWarning.title: 'Le code régional sera préfixé à tous les requêtes. (ex: /{{langCode}}/nom-de-page)'
-  locale.settings: 'Paramètres régionaux'
-  locale.subtitle: 'Définir les options de localisation pour votre wiki'
-  locale.title: 'Paramètres régionaux'
-  logging.title: Journalisation
-  mail.configuration: Configuration
-  mail.dkim: 'DKIM (facultatif)'
-  mail.subtitle: 'Configurer les paramètres de messagerie'
-  mail.title: Courrier
-  nav.modules: Modules
-  nav.site: Site
-  nav.system: Système
-  nav.users: Utilisateurs
-  navigation.delete: 'Supprimer {{kind}}'
-  navigation.divider: Séparateur
-  navigation.edit: 'Modifier {{kind}}'
-  navigation.emptyList: 'La navigation est vide'
-  navigation.header: En-tête
-  navigation.icon: Icône
-  navigation.label: Étiquette
-  navigation.link: Lien
-  navigation.navType.external: 'Lien externe'
-  navigation.navType.home: Accueil
-  navigation.navType.page: Page
-  navigation.navType.searchQuery: 'Requête de recherche'
-  navigation.noItemsText: 'Cliquez sur le bouton Ajouter pour ajouter votre premier élément de navigation.'
-  navigation.noSelectionText: 'Sélectionnez un élément de navigation à gauche.'
-  navigation.saveSuccess: 'Navigation enregistrée avec succès.'
-  navigation.subtitle: 'Gérer la navigation du site'
-  navigation.target: Cible
-  navigation.targetType: 'Type de cible'
-  navigation.title: Navigation
-  navigation.untitled: '{{kind}} sans titre'
-  pages.title: Pages
-  rendering.title: 'Rendu du contenu'
-  search.title: 'Moteur de recherche'
-  stats.title: Statistiques
-  storage.title: Stockage
-  system.configFile: 'Fichier de configuration'
-  system.cpuCores: 'Cœurs CPU'
-  system.currentVersion: 'Version actuelle'
-  system.hostInfo: 'Informations sur l''hôte'
-  system.hostname: 'Nom d''hôte'
-  system.latestVersion: 'Dernière version'
-  system.os: 'Système d''exploitation'
-  system.published: Publié
-  system.ramUsage: 'Utilisation de la RAM: {{used}} / {{total}}'
-  system.subtitle: 'Informations sur votre système'
-  system.title: 'Informations système'
-  system.totalRAM: 'Mémoire totale'
-  system.workingDirectory: 'Répertoire de travail'
-  theme.title: Thème
-  users.title: Utilisateurs
-  utilities.title: Utilitaires
+common:
+  footer.poweredBy: 'Propulsé par'
+  actions.save: Sauvegarder
+  actions.cancel: Annuler
+  actions.download: Télécharger
+  actions.upload: Téléverser
+  actions.discard: Annuler
+  actions.clear: Effacer
+  actions.create: Créer
+  actions.edit: Éditer
+  actions.delete: Supprimer
+  actions.refresh: Actualiser
+  actions.saveChanges: Sauvegarder
+  actions.proceed: Procéder
+  actions.ok: OK
+  footer.copyright: '© {{year}} {{company}}. Tous droits réservés.'
+  newpage.title: 'Cette page n''existe pas encore.'
+  newpage.subtitle: 'Souhaitez-vous la créer maintenant?'
+  newpage.create: 'Créer la page'
+  newpage.goback: 'Revenir en arrière'
+  actions.add: Ajouter
+  actions.apply: Appliquer
+  unauthorized.title: 'Non autorisé'
+  unauthorized.action.view: 'Vous ne pouvez pas voir cette page.'
+  unauthorized.action.source: 'Vous ne pouvez pas afficher le code source de la page.'
+  unauthorized.action.history: 'Vous ne pouvez pas afficher l''historique de la page.'
+  unauthorized.action.edit: 'Vous ne pouvez pas éditer la page.'
+  unauthorized.action.create: 'Vous ne pouvez pas créer la page.'
+  unauthorized.goback: 'Revenir en arrière'
+  notfound.gohome: Accueil
+  notfound.title: 'Page non trouvée'
+  notfound.subtitle: 'Cette page n''existe pas.'
+  unauthorized.login: 'Se connecter en tant que...'
+  welcome.title: 'Bienvenue sur votre wiki!'
+  welcome.subtitle: 'Commençons par créer la page d''accueil.'
+  welcome.createhome: 'Créer la page d''accueil'
+  actions.browse: Parcourir....
+  header.home: Accueil
+  header.newPage: 'Nouvelle page'
+  header.currentPage: 'Page actuelle'
+  header.view: Visualiser
+  header.edit: Éditer
+  header.history: Historique
+  header.viewSource: 'Voir la source'
+  header.move: 'Déplacer / Renommer'
+  header.delete: Supprimer
+  header.assets: Médias
+  header.imagesFiles: 'Images et fichiers'
+  header.search: Recherche...
+  header.admin: Admin
+  header.account: Compte
+  header.myWiki: 'Mon wiki'
+  header.profile: Profil
+  header.logout: 'Se Déconnecter'
+  header.login: 'S''identifier'
+  page.lastEditedBy: 'Dernière édition par'
+  page.unpublished: 'Non publié'
+  page.editPage: 'Modifier la page'
+  page.toc: 'Table des matières'
+  page.bookmark: 'Ajouter aux favoris'
+  page.share: Partager
+  page.printFormat: 'Format d''impression'
+  actions.close: Fermer
+  actions.page: Page
+  error.unexpected: 'Une erreur inattendue s''est produite.'
+  header.searchHint: 'Tapez au moins 2 caractères pour lancer la recherche ...'
+  header.searchLoading: 'Recherche en cours...'
+  header.searchNoResult: 'Aucun résultat correspondant à votre recherche'
+  header.searchResultsCount: 'Trouvé {{total}} résultats'
+  header.searchDidYouMean: 'Vouliez-vous dire...?'
+  header.searchClose: Fermer
+  header.searchCopyLink: 'Copier le lien de recherche'
+  password.veryWeak: 'Très faible'
+  password.weak: Faible
+  password.average: Moyen
+  password.strong: Complexe
+  password.veryStrong: 'Très complexe'
+  page.delete: 'Supprimer la page'
+  page.deleteTitle: 'Êtes-vous sûr de vouloir supprimer la page {{title}}?'
+  page.deleteSubtitle: 'La page peut être restaurée à partir de la zone d''administration.'
+  user.search: 'Recherche d''utilisateur'
+  user.searchPlaceholder: 'Rechercher un utilisateur...'
+  duration.every: 'Tous les'
+  duration.minutes: Minute(s)
+  duration.hours: Heure(s)
+  duration.days: Jour(s)
+  duration.months: Mois
+  duration.years: Année(s)
+  actions.discardChanges: 'Annuler les modifications'
+  actions.move: Déplacer
+  actions.rename: Renommer
+  actions.optimize: Optimiser
+  actions.preview: Aperçu
+  actions.properties: Propriétés
+  actions.insert: Insérer
+  actions.fetch: Récupérer
+  page.viewingSource: 'Affichage de la source de la page {{path}}'
+  page.returnNormalView: 'Retour à la vue normale'
+  page.id: 'ID {{id}}'
 auth:
+  loginRequired: 'Identification requise'
+  fields.emailUser: 'Courriel / Nom d''utilisateur'
+  fields.password: 'Mot de passe'
   actions.login: 'S''identifier'
-  actions.register: 'S''inscrire'
   errors.invalidLogin: 'Identifiant invalide'
   errors.invalidLoginMsg: 'Le courriel ou mot de passe est invalide.'
   errors.invalidUserEmail: 'Courriel de l''utilisateur invalide'
@@ -108,90 +110,372 @@ auth:
   errors.tooManyAttempts: 'Trop d''essais!'
   errors.tooManyAttemptsMsg: 'Vous avez fait trop de tentatives dans une courte période de temps, s''il vous plaît réessayer {{time}}.'
   errors.userNotFound: 'Utilisateur non trouvé'
-  fields.email: Courriel
-  fields.emailUser: 'Courriel / Nom d''utilisateur'
-  fields.name: Nom
-  fields.password: 'Mot de passe'
-  fields.verifyPassword: 'Vérification du mot de passe'
-  forgotPasswordCancel: Annuler
-  forgotPasswordLink: 'Mot de passe oublié?'
-  forgotPasswordSubtitle: 'Entrez votre adresse courriel afin de recevoir les instructions pour réinitialiser votre mot de passe:'
-  genericError: 'L''authentification n''est pas disponible.'
-  invalidEmail: 'Adresse courriel invalide.'
-  invalidEmailUsername: 'Entrez un email / nom d''utilisateur valide.'
-  invalidPassword: 'Entrez un mot de passe valide.'
-  loginRequired: 'Identification requise'
-  loginSuccess: 'Connexion réussie! Redirection ...'
-  loginUsingStrategy: 'Connectez-vous en utilisant {{strategy}}'
-  missingEmail: 'Adresse courriel manquante.'
-  missingName: 'Le nom est manquant.'
-  missingPassword: 'Mot de passe manquant.'
-  nameTooLong: 'Le nom est trop long.'
-  nameTooShort: 'Le nom est trop court.'
-  orLoginUsingStrategy: 'Ou connectez-vous en utilisant...'
-  passwordNotMatch: 'Les deux mots de passe ne correspondent pas.'
-  passwordTooShort: 'Le mot de passe est trop court.'
-  pleaseWait: 'Veuillez patienter'
+  providers.local: Local
+  providers.windowslive: 'Compte Microsoft'
   providers.azure: 'Azure Active Directory'
+  providers.google: 'Google ID'
   providers.facebook: Facebook
   providers.github: GitHub
-  providers.google: 'Google ID'
-  providers.ldap: 'LDAP / Active Directory'
-  providers.local: Local
   providers.slack: Slack
-  providers.windowslive: 'Compte Microsoft'
-  registerCheckEmail: 'Consultez vos emails pour activer votre compte.'
-  registering: 'Création du compte...'
-  registerSubTitle: 'Remplissez le formulaire ci-dessous pour créer votre compte.'
-  registerSuccess: 'Compte créé avec succès!'
-  registerTitle: 'Créer un compte'
-  sendResetPassword: 'Réinitialiser le mot de passe'
-  signingIn: 'Ouverture de session....'
-  switchToLogin.link: Connexion
-  switchToLogin.text: 'Vous avez déjà un compte? {{link}}'
-  switchToRegister.link: 'Créer un compte'
-  switchToRegister.text: 'Vous n''avez pas encore de compte? {{link}}'
-  tfa.placeholder: XXXXXX
-  tfa.subtitle: 'Code de sécurité requis:'
+  providers.ldap: 'LDAP / Active Directory'
   tfa.title: 'Authentification à deux facteurs'
+  tfa.subtitle: 'Code de sécurité requis:'
+  tfa.placeholder: XXXXXX
   tfa.verifyToken: Vérifier
-common:
-  actions.add: Ajouter
-  actions.apply: Appliquer
-  actions.cancel: Annuler
-  actions.clear: Effacer
-  actions.create: Créer
-  actions.delete: Supprimer
-  actions.discard: Annuler
-  actions.download: Télécharger
-  actions.edit: Éditer
-  actions.ok: OK
-  actions.proceed: Procéder
-  actions.refresh: Actualiser
-  actions.save: Sauvegarder
-  actions.saveChanges: Sauvegarder
-  actions.upload: Téléverser
-  footer.copyright: '© {{year}} {{company}}. Tous droits réservés.'
-  footer.poweredBy: 'Propulsé par'
-  newpage.create: 'Créer la page'
-  newpage.goback: 'Revenir en arrière'
-  newpage.subtitle: 'Souhaitez-vous la créer maintenant?'
-  newpage.title: 'Cette page n''existe pas encore.'
-  notfound.gohome: Accueil
-  notfound.subtitle: 'Cette page n''existe pas.'
-  notfound.title: 'Page non trouvée'
-  unauthorized.action.create: 'Vous ne pouvez pas créer la page.'
-  unauthorized.action.edit: 'Vous ne pouvez pas éditer la page.'
-  unauthorized.action.history: 'Vous ne pouvez pas afficher l''historique de la page.'
-  unauthorized.action.source: 'Vous ne pouvez pas afficher le code source de la page.'
-  unauthorized.action.view: 'Vous ne pouvez pas voir cette page.'
-  unauthorized.goback: 'Revenir en arrière'
-  unauthorized.login: 'Se connecter en tant que...'
-  unauthorized.title: 'Non autorisé'
+  fields.email: Courriel
+  fields.verifyPassword: 'Vérification du mot de passe'
+  fields.name: Nom
+  actions.register: 'S''inscrire'
+  registerTitle: 'Créer un compte'
+  switchToLogin.text: 'Vous avez déjà un compte? {{link}}'
+  switchToLogin.link: Connexion
+  loginUsingStrategy: 'Connectez-vous en utilisant {{strategy}}'
+  forgotPasswordLink: 'Mot de passe oublié?'
+  orLoginUsingStrategy: 'Ou connectez-vous en utilisant...'
+  switchToRegister.text: 'Vous n''avez pas encore de compte? {{link}}'
+  switchToRegister.link: 'Créer un compte'
+  invalidEmailUsername: 'Entrez un email / nom d''utilisateur valide.'
+  invalidPassword: 'Entrez un mot de passe valide.'
+  loginSuccess: 'Connexion réussie! Redirection ...'
+  signingIn: 'Ouverture de session....'
+  genericError: 'L''authentification n''est pas disponible.'
+  registerSubTitle: 'Remplissez le formulaire ci-dessous pour créer votre compte.'
+  pleaseWait: 'Veuillez patienter'
+  registerSuccess: 'Compte créé avec succès!'
+  registering: 'Création du compte...'
+  missingEmail: 'Adresse courriel manquante.'
+  invalidEmail: 'Adresse courriel invalide.'
+  missingPassword: 'Mot de passe manquant.'
+  passwordTooShort: 'Le mot de passe est trop court.'
+  passwordNotMatch: 'Les deux mots de passe ne correspondent pas.'
+  missingName: 'Le nom est manquant.'
+  nameTooShort: 'Le nom est trop court.'
+  nameTooLong: 'Le nom est trop long.'
+  forgotPasswordCancel: Annuler
+  sendResetPassword: 'Réinitialiser le mot de passe'
+  forgotPasswordSubtitle: 'Entrez votre adresse courriel afin de recevoir les instructions pour réinitialiser votre mot de passe:'
+  registerCheckEmail: 'Consultez vos emails pour activer votre compte.'
+admin:
+  dashboard.title: 'Tableau de bord'
+  general.title: Général
+  locale.title: 'Paramètres régionaux'
+  stats.title: Statistiques
+  theme.title: Thème
+  groups.title: Groupes
+  users.title: Utilisateurs
+  auth.title: Authentification
+  editor.title: Éditeur
+  logging.title: Journalisation
+  rendering.title: 'Rendu du contenu'
+  search.title: 'Moteur de recherche'
+  storage.title: Stockage
+  api.title: 'Accès à l’API'
+  system.title: 'Informations système'
+  utilities.title: Utilitaires
+  dev.title: 'Outils de développement'
+  contribute.title: 'Contribuer à Wiki.js'
+  general.subtitle: 'Principaux paramètres de votre wiki'
+  general.siteInfo: 'Informations sur le site'
+  general.siteBranding: 'Marque du site'
+  nav.site: Site
+  nav.users: Utilisateurs
+  nav.modules: Modules
+  nav.system: Système
+  dashboard.subtitle: 'BETA Build - PAS POUR USAGE EN PRODUCTION'
+  locale.subtitle: 'Définir les options de localisation pour votre wiki'
+  locale.settings: 'Paramètres régionaux'
+  locale.namespacing: 'Espace de nommage multilingue'
+  locale.download: 'Télécharger une langue'
+  locale.base.labelWithNS: 'Langue principale'
+  locale.base.hint: 'Tous les textes de l''interface utilisateur seront affichés dans la langue sélectionnée.'
+  locale.autoUpdate.label: 'Mettre à jour automatiquement'
+  locale.autoUpdate.hintWithNS: 'Télécharger automatiquement les mises à jour de toutes les langues sélectionnées ci-dessous.'
+  locale.namespaces.label: 'Espaces de noms multilingues'
+  locale.namespaces.hint: 'Active le versionage multilingue pour la même page.'
+  locale.activeNamespaces.label: 'Espaces de noms actifs'
+  locale.activeNamespaces.hint: 'Liste des langues actives pour les espaces de nommage multilingues. La langue principale définie ci-dessus sera toujours incluse sans égard à cette sélection.'
+  locale.namespacingPrefixWarning.title: 'Le code régional sera préfixé à tous les requêtes. (ex: /{{langCode}}/nom-de-page)'
+  locale.namespacingPrefixWarning.subtitle: 'Les requêtes sans code régional seront automatiquement redirigées vers le code régional de base défini ci-dessus.'
+  locale.base.label: 'Langue du site'
+  locale.autoUpdate.hint: 'Télécharger automatiquement les mises à jour pour la langue sélectionnée ci-dessus.'
+  system.subtitle: 'Informations sur votre système'
+  system.hostInfo: 'Informations sur l''hôte'
+  system.currentVersion: 'Version actuelle'
+  system.latestVersion: 'Dernière version'
+  system.published: Publié
+  system.os: 'Système d''exploitation'
+  system.hostname: 'Nom d''hôte'
+  system.cpuCores: 'Cœurs CPU'
+  system.totalRAM: 'Mémoire totale'
+  system.workingDirectory: 'Répertoire de travail'
+  system.configFile: 'Fichier de configuration'
+  system.ramUsage: 'Utilisation de la RAM: {{used}} / {{total}}'
+  contribute.subtitle: 'Aider à soutenir le développement et les opérations de Wiki.js'
+  contribute.fundOurWork: 'Financer notre travail'
+  contribute.spreadTheWord: 'Passez le mot'
+  contribute.talkToFriends: 'Parlez à vos amis et collègues de l''incroyable Wiki.js!'
+  contribute.followUsOnTwitter: 'Suivez-nous sur {{0}}.'
+  contribute.submitAnIdea: 'Soumettre une idée ou voter sur une idée proposée sur le {{0}}.'
+  contribute.submitAnIdeaLink: 'tableau des demandes'
+  contribute.foundABug: 'Trouvé un bug? Soumettez un problème sur {{0}}.'
+  contribute.helpTranslate: 'Aider à traduire Wiki.js dans votre langue. Faites-le nous savoir sur {{0}}.'
+  contribute.makeADonation: 'Faire un don'
+  contribute.contribute: Contribuer
+  contribute.openCollective: 'Wiki.js fait également partie de l’initiative Open Collective, un fonds transparent destiné aux ressources de la communauté. Vous pouvez contribuer financièrement en faisant un don mensuel ou unique:'
+  contribute.needYourHelp: 'Nous avons besoin de votre aide pour continuer à améliorer le logiciel et maintenir les différents services associés (par exemple l''hébergement et le réseau).'
+  contribute.openSource: 'Wiki.js est un logiciel gratuit et open source qui vous est proposé avec {{0}} par {{1}} et ses {{2}}.'
+  contribute.openSourceContributors: contributeurs
+  contribute.tshirts: 'Vous pouvez également acheter des t-shirts Wiki.js pour soutenir financièrement le projet:'
+  contribute.shop: 'Boutique Wiki.js'
+  pages.title: Pages
+  navigation.title: Navigation
+  navigation.subtitle: 'Gérer la navigation du site'
+  navigation.link: Lien
+  navigation.divider: Séparateur
+  navigation.header: En-tête
+  navigation.label: Étiquette
+  navigation.icon: Icône
+  navigation.targetType: 'Type de cible'
+  navigation.target: Cible
+  navigation.noSelectionText: 'Sélectionnez un élément de navigation à gauche.'
+  navigation.untitled: '{{kind}} sans titre'
+  navigation.navType.external: 'Lien externe'
+  navigation.navType.home: Accueil
+  navigation.navType.page: Page
+  navigation.navType.searchQuery: 'Requête de recherche'
+  navigation.edit: 'Modifier {{kind}}'
+  navigation.delete: 'Supprimer {{kind}}'
+  navigation.saveSuccess: 'Navigation enregistrée avec succès.'
+  navigation.noItemsText: 'Cliquez sur le bouton Ajouter pour ajouter votre premier élément de navigation.'
+  navigation.emptyList: 'La navigation est vide'
+  mail.title: Courrier
+  mail.subtitle: 'Configurer les paramètres de messagerie'
+  mail.configuration: Configuration
+  mail.dkim: 'DKIM (facultatif)'
+  contribute.becomeAPatron: 'Devenez un mécène'
+  contribute.patreon: 'Devenez un contributeur financier ou commanditaire via Patreon (va directement dans l''objectif du développeur principal, Nicolas Giard, de travailler à temps plein sur Wiki.js)'
+  dev.flags.title: Options
+  dev.graphiql.title: GraphiQL
+  dev.voyager.title: Voyager
+  contribute.paypal: 'Faites un don unique ou récurrent via Paypal:'
+  contribute.ethereum: 'Nous acceptons les dons fait par Ethereum:'
+  locale.sideload: 'Téléversement local de langues'
+  locale.sideloadHelp: 'Si vous n’êtes pas connecté à Internet ou que vous ne parvenez pas à télécharger de nouvelles langues à l’aide de la méthode ci-dessus, vous pouvez à la place effectuer téléversement local ci-dessous.'
+  webhooks.title: Webhooks
+  webhooks.subtitle: 'Gérer les webhooks vers des services externes'
+  mail.test: 'Envoyer un courriel de test'
+  mail.testRecipient: 'Adresse courriel du destinataire'
+  mail.testSend: 'Envoyer un courriel'
+  mail.sender: Expéditeur
+  mail.senderName: 'Nom de l''expéditeur'
+  mail.senderEmail: 'Courriel de l''expéditeur'
+  mail.smtp: 'Paramètres SMTP'
+  mail.smtpHost: Hôte
+  mail.smtpPort: Port
+  mail.smtpPortHint: 'Habituellement 465 (recommandé), 587 ou 25.'
+  mail.smtpTLS: 'Sécurisé (TLS)'
+  mail.smtpTLSHint: 'Doit être activé lorsque vous utilisez le port 465, sinon désactivé (587 ou 25).'
+  mail.smtpUser: 'Nom d''utilisateur'
+  mail.smtpPwd: 'Mot de passe'
+  mail.dkimHint: 'DKIM (DomainKeys Identified Mail) fournit une couche de sécurité sur tous les courriels envoyés depuis Wiki.js en fournissant aux destinataires les moyens de valider le nom de domaine et d''assurer l''authenticité du message.'
+  mail.dkimUse: 'Utiliser DKIM'
+  mail.dkimDomainName: 'Nom de domaine'
+  mail.dkimKeySelector: 'Sélecteur de clé'
+  mail.dkimPrivateKey: 'Clé privée'
+  mail.dkimPrivateKeyHint: 'Clé privée pour le sélecteur, en format PEM'
+  mail.testHint: 'Envoyez un courriel de test pour vous assurer que votre configuration SMTP fonctionne.'
+  mail.saveSuccess: 'Configuration enregistrée avec succès.'
+  system.dbPartialSupport: 'La version de votre base de données n''est pas entièrement prise en charge. Certaines fonctionnalités peuvent être limitées ou ne pas fonctionner comme prévu.'
+  system.refreshSuccess: 'Les informations système ont été actualisées.'
+  auth.subtitle: 'Configurez les paramètres d''authentification de votre wiki'
+  auth.strategies: Stratégies
+  auth.globalAdvSettings: 'Paramètres globaux avancés'
+  auth.jwtAudience: 'Audience JWT'
+  auth.jwtAudienceHint: 'Audience URN utilisée lors de l''émission du JWT pendant la connexion. Habituellement, votre nom de domaine. (par exemple, urn:votre.domaine.com)'
+  auth.tokenExpiration: 'Expiration du jeton'
+  auth.tokenExpirationHint: 'La période d’expiration d’un jeton, au moment duquel il doit être renouvelé. (par défaut: 30m)'
+  auth.tokenRenewalPeriod: 'Période de renouvellement des jetons'
+  auth.tokenRenewalPeriodHint: 'La période maximale pendant laquelle un jeton peut être renouvelé une fois expiré. (défaut: 14d)'
+  auth.strategyState: 'Cette stratégie est {{state}} {{locked}}'
+  auth.strategyStateActive: activée
+  auth.strategyStateInactive: inactive
+  auth.strategyStateLocked: 'et ne peut être désactivé.'
+  mail.sendTestSuccess: 'Un courriel de test a été envoyé avec succès.'
+  theme.subtitle: 'Modifier l''apparence de votre wiki'
+  theme.siteTheme: 'Thème du site'
+  theme.siteThemeHint: 'Les thèmes affectent la manière dont les pages de contenu sont affichées. Les autres sections du site (telles que l''éditeur ou la zone d''administration) ne sont pas affectées.'
+  theme.darkMode: 'Mode Nuit'
+  theme.darkModeHint: 'Non recommandé pour l''accessibilité. Peut ne pas être pris en charge par tous les thèmes.'
+  theme.codeInjection: 'Injection de code'
+  theme.cssOverride: 'Remplacement de CSS'
+  theme.cssOverrideHint: 'Code CSS à injecter après le CSS par défaut du système. Envisagez d''utiliser des thèmes personnalisés si vous avez une grande quantité de code CSS. L''injection d''une trop grande quantité de code CSS entraînera une mauvaise performance de chargement des pages ! Le CSS sera automatiquement minifié.'
+  theme.headHtmlInjection: 'Injection HTML dans le head'
+  theme.headHtmlInjectionHint: 'Code HTML à injecter juste avant la fermeture de la balise head. Généralement pour les balises de script.'
+  theme.bodyHtmlInjection: 'Injection HTML dans le body'
+  theme.bodyHtmlInjectionHint: 'Code HTML à injecter juste avant la fermeture de la balise body.'
+  theme.downloadThemes: 'Télécharger des thèmes'
+  adminArea: 'Zone d''administration'
+  auth.strategyConfiguration: 'Configuration de la stratégie'
+  auth.strategyNoConfiguration: 'Cette stratégie n''a pas d''options de configuration que vous pouvez modifier.'
+  auth.registration: Inscription
+  auth.selfRegistration: 'Autoriser l''auto-inscription'
+  auth.selfRegistrationHint: 'Permettre à tout utilisateur autorisé par la stratégie d''accéder au wiki.'
+  auth.domainsWhitelist: 'Limiter à certains domaines de messagerie'
+  auth.domainsWhitelistHint: 'Une liste des domaines autorisés à s''enregistrer. Le domaine de l''adresse courriel de l''utilisateur doit correspondre à l''un de ces domaines afin d''avoir accès.'
+  auth.autoEnrollGroups: 'Associer à un groupe'
+  auth.autoEnrollGroupsHint: 'Attribuer automatiquement les nouveaux utilisateurs à ces groupes.'
+  auth.security: Sécurité
+  auth.force2fa: 'Forcer tous les utilisateurs à utiliser l''authentification à deux facteurs (2FA)'
+  auth.force2faHint: 'Les utilisateurs devront configurer l''authentification à 2 facteurs lors de leur première connexion et ne pourront pas la désactiver.'
+  auth.configReference: 'Référence de configuration'
+  auth.configReferenceSubtitle: 'Certaines stratégies peuvent nécessiter que certaines valeurs de configuration soient définies sur votre fournisseur. Celles-ci sont fournies à titre indicatif uniquement et peuvent ne pas être nécessaires à la stratégie actuelle.'
+  auth.siteUrlNotSetup: 'Vous devez d''abord définir un {{siteUrl}} valide! Cliquez sur {{general}} dans la barre latérale gauche.'
+  auth.allowedWebOrigins: 'Origines Web autorisées'
+  auth.callbackUrl: 'URL de rappel (Callback) / URI de redirection'
+  auth.loginUrl: 'URL de connexion'
+  auth.logoutUrl: 'URL de déconnexion'
+  auth.tokenEndpointAuthMethod: 'Méthode d''authentification pour le point d''accès des jetons'
+  storage.subtitle: 'Définir des cibles de sauvegarde et de synchronisation pour votre contenu'
+  storage.targets: Cibles
+  storage.status: Statut
+  storage.lastSync: 'Dernière synchronisation {{time}}'
+  storage.lastSyncAttempt: 'La dernière tentative était {{time}}'
+  storage.errorMsg: 'Message d''erreur'
+  storage.noTarget: 'Vous n''avez aucune cible de stockage active.'
+  storage.targetConfig: 'Configuration de la cible'
+  storage.noConfigOption: 'Ce cible de stockage n''a pas d''options de configuration vous pouvez modifier.'
+  storage.syncDirection: 'Direction de synchronisation'
+  storage.syncDirectionSubtitle: 'Choisissez le mode de gestion de la synchronisation du contenu pour cette cible de stockage.'
+  storage.syncDirBi: Bidirectionnel
+  storage.syncDirPush: 'Téléverser vers la cible'
+  storage.syncDirPull: 'Télécharger de la cible'
+  storage.unsupported: 'Non pris en charge'
+  storage.syncDirBiHint: 'En mode bidirectionnel, le contenu est d''abord extrait de la cible de stockage. Tout nouveau contenu remplace le contenu local. Le nouveau contenu depuis la dernière synchronisation est ensuite poussé vers la cible de stockage, écrasant tout contenu sur la cible, si présent.'
+  storage.syncDirPushHint: 'Le contenu est toujours poussé vers la cible de stockage, écrasant tout contenu existant. C''est le choix le plus sûr pour les scénarios de sauvegarde.'
+  storage.syncDirPullHint: 'Le contenu est toujours extrait de la cible de stockage, écrasant tout contenu local déjà existant. Ce choix est généralement réservé à l''importation de contenu à usage unique. Attention car tout contenu local sera toujours écrasé!'
+  storage.syncSchedule: 'Programme de synchronisation'
+  storage.syncScheduleHint: 'Pour des raisons de performances, cette cible de stockage synchronise les modifications selon un intervalle défini, et non à chaque modification. Définissez à quel intervalle la synchronisation doit avoir lieu.'
+  storage.syncScheduleCurrent: 'Actuellement défini à chaque {{schedule}}.'
+  storage.syncScheduleDefault: 'La valeur par défaut est tous les {{schedule}}.'
+  storage.actions: Actions
+  storage.actionRun: Exécuter
+  search.subtitle: 'Configurez les capacités de recherche de votre wiki'
+  search.rebuildIndex: 'Reconstruire l''index'
+  search.searchEngine: 'Moteur de recherche'
+  search.engineConfig: 'Configuration du moteur de recherche'
+  search.engineNoConfig: 'Ce moteur n''a pas d''options de configuration que vous pouvez modifier.'
+  search.listRefreshSuccess: 'La liste des moteurs de recherche a été actualisée.'
+  search.configSaveSuccess: 'La configuration du moteur de recherche a été sauvegardée avec succès.'
+  search.indexRebuildSuccess: 'Index reconstruit avec succès.'
+  dashboard.pages: Pages
+  dashboard.users: Utilisateurs
+  dashboard.groups: Groupes
+  dashboard.versionLatest: 'Vous utilisez la dernière version.'
+  dashboard.versionNew: 'Une nouvelle version est disponible: {{version}}'
+  dashboard.contributeSubtitle: 'Wiki.js est un projet gratuit et de source libre. Il ya plusieurs façons de contribuer au projet.'
+  dashboard.contributeHelp: 'Nous avons besoin de votre aide!'
+  dashboard.contributeLearnMore: 'En savoir plus'
+  auth.refreshSuccess: 'La liste des stratégies a été actualisée.'
+  auth.saveSuccess: 'Configuration de l''authentification enregistrée avec succès.'
+  general.general: Général
+  general.siteUrl: 'URL du site'
+  general.siteUrlHint: 'URL complète de votre wiki, sans la barre oblique de fin. (par exemple, https://wiki.example.com)'
+  general.siteTitle: 'Titre du site'
+  general.siteTitleHint: 'Affiché dans la barre de navigation et ajouté à la fin des titres de page dans les données meta.'
+  general.logo: Logo
+  general.uploadLogo: 'Téléverser un logo'
+  general.uploadClear: Effacer
+  general.uploadSizeHint: 'Une image de {{size}} pixels est recommandée pour de meilleurs résultats.'
+  general.uploadTypesHint: 'Fichiers de types {{typeList}} ou {{lastType}} uniquement'
+  general.footerCopyright: 'Copyright en pied de page'
+  general.companyName: 'Nom de l''entreprise / organisation'
+  general.companyNameHint: 'Nom à utiliser lors de l''affichage de l''avis de copyright dans le pied de page. Laisser vide pour ne rien afficher.'
+  general.siteDescription: 'Description du site'
+  general.siteDescriptionHint: 'Description par défaut lorsque rien n''est fourni pour une page.'
+  general.metaRobots: 'Meta Robots'
+  general.metaRobotsHint: 'Par défaut: Index, Follow. Peut également être défini page par page.'
 editor:
   page: Page
+  save.processing: 'En traitement...'
+  save.pleaseWait: 'Veuillez patienter...'
   save.createSuccess: 'Page créée avec succès.'
   save.error: 'Une erreur est survenue lors de la création de la page.'
-  save.pleaseWait: 'Veuillez patienter...'
-  save.processing: 'En traitement...'
   save.updateSuccess: 'Page mise à jour avec succès.'
+  props.pageProperties: 'Propriétés de la page'
+  props.pageInfo: 'Informations sur la page'
+  props.title: Titre
+  props.shortDescription: 'Brève description'
+  props.shortDescriptionHint: 'Affichée sous le titre'
+  props.pathCategorization: 'Chemin et catégorisation'
+  props.locale: Langue
+  props.path: Chemin
+  props.pathHint: 'N''incluez aucune barre oblique en tête ou à la fin.'
+  props.tags: 'Mots clés'
+  props.tagsHint: 'Utilisez des mots clés pour classer vos pages et faciliter la recherche.'
+  props.publishState: 'État de publication'
+  props.publishToggle: Publié
+  props.publishToggleHint: 'Les pages non publiées peuvent toujours être consultées par les utilisateurs ayant des autorisations d''écriture sur cette page.'
+  props.publishStart: 'Publier à partir du...'
+  props.publishStartHint: 'Laisser vide pour aucune date de début'
+  props.publishEnd: 'Arrêter la publication le...'
+  props.publishEndHint: 'Laisser vide pour aucune date de fin'
+  unsaved.title: 'Ignorer les modifications non sauvegardées?'
+  unsaved.body: 'Vous avez des modifications non sauvegardées. Êtes-vous sûr de vouloir quitter l''éditeur et supprimer les modifications que vous avez faites depuis la dernière sauvegarde ?'
+  select.title: 'Quel éditeur souhaitez-vous utiliser pour cette page?'
+  select.cannotChange: 'Cela ne peut pas être modifié une fois la page créée.'
+  assets.title: Médias
+  assets.newFolder: 'Nouveau dossier'
+  assets.folderName: 'Nom du dossier'
+  assets.folderNameNamingRules: 'Doit respecter les {{namingRules}} pour les dossiers de ressources.'
+  assets.folderNameNamingRulesLink: 'règles de nommage'
+  assets.folderEmpty: 'Ce dossier est vide.'
+  assets.fileCount: '{{count}} fichiers'
+  assets.headerId: ID
+  assets.headerFilename: 'Nom de fichier'
+  assets.headerType: Type
+  assets.headerFileSize: 'Taille du fichier'
+  assets.headerAdded: Ajouté
+  assets.headerActions: Actions
+  assets.uploadAssets: 'Téléverser les fichiers'
+  assets.uploadAssetsDropZone: 'Parcourir ou déposer des fichiers ici ...'
+  assets.fetchImage: 'Récupérer une image distante'
+  assets.imageAlign: 'Alignement de l''image'
+  assets.renameAsset: 'Renommer le fichier'
+  assets.renameAssetSubtitle: 'Entrez le nouveau nom pour ce fichier:'
+  assets.deleteAsset: 'Supprimer le fichier'
+  assets.deleteAssetConfirm: 'Êtes-vous sûr de vouloir supprimer'
+  assets.deleteAssetWarn: 'Cette action est irréversible!'
+  assets.refreshSuccess: 'Liste des fichiers rafraîchie avec succès.'
+  assets.uploadFailed: 'Le téléversement du fichier a échoué.'
+  assets.folderCreateSuccess: 'Dossier créé avec succès.'
+  assets.renameSuccess: 'Fichier renommé avec succès.'
+  assets.deleteSuccess: 'Fichier supprimé avec succès.'
+  assets.noUploadError: 'Vous devez d''abord choisir un fichier à téléverser!'
+  backToEditor: 'Retour à l''éditeur'
+  markup.bold: Gras
+  markup.italic: Italique
+  markup.strikethrough: Barré
+  markup.heading: 'En-tête {{level}}'
+  markup.subscript: Indice
+  markup.superscript: 'En exposant'
+  markup.blockquote: 'Bloc citation'
+  markup.blockquoteInfo: 'Bloc citation d''info'
+  markup.blockquoteSuccess: 'Bloc citation de succès'
+  markup.blockquoteWarning: 'Bloc citation d''avertissement'
+  markup.blockquoteError: 'Bloc citation d''erreur'
+  markup.unorderedList: 'Liste non ordonnée'
+  markup.orderedList: 'Liste ordonnée'
+  markup.inlineCode: 'Code intégré'
+  markup.keyboardKey: 'Touche de clavier'
+  markup.horizontalBar: 'Barre horizontale'
+  markup.togglePreviewPane: 'Masquer / Afficher le volet de prévisualisation'
+  markup.insertLink: 'Insérer un lien'
+  markup.insertAssets: 'Insérer une image / fichier'
+  markup.insertBlock: 'Insérer un bloc'
+  markup.insertCodeBlock: 'Insérer un bloc de code'
+  markup.insertVideoAudio: 'Insérer une vidéo / audio'
+  markup.insertDiagram: 'Insérer un diagramme'
+  markup.insertMathExpression: 'Insérer une expression mathématique'
+  markup.tableHelper: 'Générateur de tableau'
+  markup.distractionFreeMode: 'Mode sans distraction'
+  markup.markdownFormattingHelp: 'Aide sur le formatage Markdown'

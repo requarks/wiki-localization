@@ -1,197 +1,81 @@
-admin:
-  api.title: ''
-  auth.title: Аутентифікація
-  contribute.becomeAPatron: ''
-  contribute.contribute: ''
-  contribute.followUsOnTwitter: 'Підписуйтесь на нас у {{0}}'
-  contribute.foundABug: ''
-  contribute.fundOurWork: ''
-  contribute.helpTranslate: 'Допоможіть перекласти Wiki.js вашою мовою. Дайте нам знати у {{0}}.'
-  contribute.makeADonation: ''
-  contribute.needYourHelp: ''
-  contribute.openCollective: ''
-  contribute.openSource: ''
-  contribute.openSourceContributors: ''
-  contribute.patreon: ''
-  contribute.shop: 'Магазин Wiki.js'
-  contribute.spreadTheWord: ''
-  contribute.submitAnIdea: ''
-  contribute.submitAnIdeaLink: ''
-  contribute.subtitle: ''
-  contribute.talkToFriends: ''
-  contribute.title: ''
-  contribute.tshirts: ''
-  dashboard.subtitle: ''
-  dashboard.title: ''
-  dev.title: 'Інструменти розробника'
-  editor.title: Редактор
-  general.siteBranding: ''
-  general.siteInfo: 'Інформація про веб-сайт'
-  general.subtitle: ''
-  general.title: ''
-  groups.title: Групи
-  locale.activeNamespaces.hint: ''
-  locale.activeNamespaces.label: ''
-  locale.autoUpdate.hint: ''
-  locale.autoUpdate.hintWithNS: ''
-  locale.autoUpdate.label: 'Оновлювати автоматично'
-  locale.base.hint: ''
-  locale.base.label: ''
-  locale.base.labelWithNS: ''
-  locale.download: ''
-  locale.namespaces.hint: ''
-  locale.namespaces.label: ''
-  locale.namespacing: ''
-  locale.namespacingPrefixWarning.subtitle: ''
-  locale.namespacingPrefixWarning.title: ''
-  locale.settings: ''
-  locale.subtitle: ''
-  locale.title: ''
-  logging.title: ''
-  mail.configuration: ''
-  mail.dkim: ''
-  mail.subtitle: ''
-  mail.title: ''
-  nav.modules: Модулі
-  nav.site: Веб-сайт
-  nav.system: Система
-  nav.users: Користувачі
-  navigation.delete: 'Видалити {{kind}}'
-  navigation.divider: ''
-  navigation.edit: 'Редагувати {{kind}}'
-  navigation.emptyList: ''
-  navigation.header: Заголовок
-  navigation.icon: ''
-  navigation.label: ''
-  navigation.link: Посилання
-  navigation.navType.external: ''
-  navigation.navType.home: Головна
-  navigation.navType.page: Сторінка
-  navigation.navType.searchQuery: ''
-  navigation.noItemsText: ''
-  navigation.noSelectionText: ''
-  navigation.saveSuccess: ''
-  navigation.subtitle: ''
-  navigation.target: Ціль
-  navigation.targetType: 'Тип цілі'
-  navigation.title: Навігація
-  navigation.untitled: ''
-  pages.title: Сторінки
-  rendering.title: ''
-  search.title: ''
-  stats.title: Статистика
-  storage.title: ''
-  system.configFile: ''
-  system.cpuCores: ''
-  system.currentVersion: 'Поточна версія'
-  system.hostInfo: ''
-  system.hostname: ''
-  system.latestVersion: 'Остання версія'
-  system.os: 'Операційна система'
-  system.published: Опубліковано
-  system.ramUsage: ''
-  system.subtitle: 'Інформація про вашу систему'
-  system.title: ''
-  system.totalRAM: ''
-  system.workingDirectory: ''
-  theme.title: Тема
-  users.title: Користувачі
-  utilities.title: ''
 auth:
-  actions.login: ''
-  actions.register: ''
-  errors.invalidLogin: ''
-  errors.invalidLoginMsg: ''
-  errors.invalidUserEmail: ''
-  errors.loginError: ''
-  errors.notYetAuthorized: ''
-  errors.tooManyAttempts: ''
-  errors.tooManyAttemptsMsg: ''
-  errors.userNotFound: ''
+  tfa.placeholder: XXXXXX
   fields.email: 'Адреса електронної пошти'
-  fields.emailUser: ''
-  fields.name: ''
-  fields.password: ''
-  fields.verifyPassword: ''
-  forgotPasswordCancel: ''
+  registerTitle: 'Створити обліковий запис'
   forgotPasswordLink: 'Забули свій пароль?'
-  forgotPasswordSubtitle: ''
-  genericError: 'Аутентифікація недоступна.'
-  invalidEmail: 'Адреса електронної пошти недійсна.'
+  switchToRegister.text: 'Ще не зареєстровані? {{link}}'
+  switchToRegister.link: 'Створити обліковий запис'
   invalidEmailUsername: 'Введіть дійсну адресу електронної пошти / ім''я користувача.'
   invalidPassword: 'Введіть дійсний пароль.'
-  loginRequired: ''
   loginSuccess: 'Вхід успішний! Перенаправлення...'
-  loginUsingStrategy: ''
-  missingEmail: 'Відсутня адреса електронної пошти.'
-  missingName: 'Відсутня назва.'
-  missingPassword: 'Відсутній пароль.'
-  nameTooLong: 'Назва занадто довга.'
-  nameTooShort: 'Назва занадто коротка.'
-  orLoginUsingStrategy: ''
-  passwordNotMatch: 'Паролі не збігаються.'
-  passwordTooShort: 'Пароль занадто короткий.'
-  pleaseWait: 'Зачекайте, будь ласка'
-  providers.azure: ''
-  providers.facebook: ''
-  providers.github: ''
-  providers.google: ''
-  providers.ldap: ''
-  providers.local: ''
-  providers.slack: ''
-  providers.windowslive: ''
-  registerCheckEmail: ''
-  registering: 'Створюємо обліковий запис...'
+  genericError: 'Аутентифікація недоступна.'
   registerSubTitle: 'Заповніть форму нижче для створення свого облікового запису.'
+  pleaseWait: 'Зачекайте, будь ласка'
   registerSuccess: 'Обліковий запис успішно створено!'
-  registerTitle: 'Створити обліковий запис'
+  registering: 'Створюємо обліковий запис...'
+  missingEmail: 'Відсутня адреса електронної пошти.'
+  invalidEmail: 'Адреса електронної пошти недійсна.'
+  missingPassword: 'Відсутній пароль.'
+  passwordTooShort: 'Пароль занадто короткий.'
+  passwordNotMatch: 'Паролі не збігаються.'
+  missingName: 'Відсутня назва.'
+  nameTooShort: 'Назва занадто коротка.'
+  nameTooLong: 'Назва занадто довга.'
   sendResetPassword: 'Скинути пароль'
-  signingIn: ''
-  switchToLogin.link: ''
-  switchToLogin.text: ''
-  switchToRegister.link: 'Створити обліковий запис'
-  switchToRegister.text: 'Ще не зареєстровані? {{link}}'
-  tfa.placeholder: XXXXXX
-  tfa.subtitle: ''
-  tfa.title: ''
-  tfa.verifyToken: ''
+admin:
+  stats.title: Статистика
+  theme.title: Тема
+  groups.title: Групи
+  users.title: Користувачі
+  auth.title: Аутентифікація
+  editor.title: Редактор
+  dev.title: 'Інструменти розробника'
+  general.siteInfo: 'Інформація про веб-сайт'
+  nav.site: Веб-сайт
+  nav.users: Користувачі
+  nav.modules: Модулі
+  nav.system: Система
+  locale.autoUpdate.label: 'Оновлювати автоматично'
+  system.subtitle: 'Інформація про вашу систему'
+  system.currentVersion: 'Поточна версія'
+  system.latestVersion: 'Остання версія'
+  system.published: Опубліковано
+  system.os: 'Операційна система'
+  contribute.followUsOnTwitter: 'Підписуйтесь на нас у {{0}}'
+  contribute.helpTranslate: 'Допоможіть перекласти Wiki.js вашою мовою. Дайте нам знати у {{0}}.'
+  contribute.shop: 'Магазин Wiki.js'
+  pages.title: Сторінки
+  navigation.title: Навігація
+  navigation.link: Посилання
+  navigation.header: Заголовок
+  navigation.targetType: 'Тип цілі'
+  navigation.target: Ціль
+  navigation.navType.home: Головна
+  navigation.navType.page: Сторінка
+  navigation.edit: 'Редагувати {{kind}}'
+  navigation.delete: 'Видалити {{kind}}'
 common:
-  actions.add: Додати
-  actions.apply: ''
-  actions.cancel: ''
+  actions.save: Зберегти
+  actions.download: Скачати
+  actions.upload: Завантажити
   actions.clear: Очистити
   actions.create: Створити
-  actions.delete: Видалити
-  actions.discard: ''
-  actions.download: Скачати
   actions.edit: Редагувати
-  actions.ok: ''
-  actions.proceed: ''
+  actions.delete: Видалити
   actions.refresh: Оновити
-  actions.save: Зберегти
   actions.saveChanges: 'Зберегти зміни'
-  actions.upload: Завантажити
   footer.copyright: '© {{year}} {{company}}. Всі права захищені.'
-  footer.poweredBy: ''
-  newpage.create: 'Створити сторінку'
-  newpage.goback: ''
-  newpage.subtitle: ''
   newpage.title: 'Ця сторінка ще не існує.'
-  notfound.gohome: Головна
-  notfound.subtitle: 'Ця сторінка не існує.'
-  notfound.title: 'Не знайдено'
-  unauthorized.action.create: 'Ви не можете створити сторінку.'
-  unauthorized.action.edit: 'Ви не можете редагувати сторінку.'
-  unauthorized.action.history: ''
-  unauthorized.action.source: ''
+  newpage.create: 'Створити сторінку'
+  actions.add: Додати
   unauthorized.action.view: 'Ви не можете переглядати цю сторінку.'
-  unauthorized.goback: ''
+  unauthorized.action.edit: 'Ви не можете редагувати сторінку.'
+  unauthorized.action.create: 'Ви не можете створити сторінку.'
+  notfound.gohome: Головна
+  notfound.title: 'Не знайдено'
+  notfound.subtitle: 'Ця сторінка не існує.'
   unauthorized.login: 'Увійти як...'
-  unauthorized.title: ''
 editor:
   page: Сторінка
-  save.createSuccess: ''
-  save.error: ''
   save.pleaseWait: 'Зачекайте, будь ласка...'
-  save.processing: ''
   save.updateSuccess: 'Сторінка успішно оновлена!'

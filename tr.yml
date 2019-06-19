@@ -1,105 +1,27 @@
-admin:
-  api.title: 'API Erişimi'
-  auth.title: 'Kimlik doğrulama'
-  contribute.becomeAPatron: ''
-  contribute.contribute: 'Katkıda bulunun'
-  contribute.followUsOnTwitter: 'Bizi {{0}} üzerinde takip edin.'
-  contribute.foundABug: 'Bir hata mı buldunuz? {{0}} üzerinde talep açın.'
-  contribute.fundOurWork: 'Çalışmalarımızı kaynak sağlayın'
-  contribute.helpTranslate: 'Wiki.js’yi kendi dilinize çevirmeye yardım edin. {{0}} üzerinde bize bildirin.'
-  contribute.makeADonation: 'Bir bağışta bulunun'
-  contribute.needYourHelp: 'Yazılımı geliştirmeye devam etmek ve çeşitli ilgili hizmetleri (örn. Barındırma ve ağ oluşturma) çalıştırmak için yardımınıza ihtiyacımız var.'
-  contribute.openCollective: 'Wiki.js, Open Collective girişiminin bir parçasıdır. Aylık veya tek seferlik bir bağış yaparak mali katkıda bulunabilirsiniz:'
-  contribute.openSource: 'Wiki.js, {{0}} ile {{1}} ve {{2}} tarafından sunulan ücretsiz ve açık kaynaklı bir yazılımdır.'
-  contribute.openSourceContributors: 'katkıda bulunanlar'
-  contribute.patreon: ''
-  contribute.shop: 'Wiki.js Alışveriş'
-  contribute.spreadTheWord: Duyurun
-  contribute.submitAnIdea: 'Fikir gönderin veya {{0}} üzerinde önerilenleri oylayın.'
-  contribute.submitAnIdeaLink: 'özellik istekleri kurulu'
-  contribute.subtitle: 'Wiki.js geliştirme ve işlemlerini desteklemeye yardımcı olun'
-  contribute.talkToFriends: 'Wiki.js''nin ne kadar harika olduğu hakkında arkadaşlarınız ve meslektaşlarınızla konuşun!'
-  contribute.title: 'Wiki.js''e katkıda bulunun'
-  contribute.tshirts: 'Projeyi finansal olarak desteklemek için Wiki.js tişörtlerini de satın alabilirsiniz:'
-  dashboard.subtitle: 'Wiki.js v2 ALPHA Build - ÜRETİM KULLANIMI İÇİN DEĞİLDİR'
-  dashboard.title: Pano
-  dev.title: 'Geliştirici Araçları'
-  editor.title: Editör
-  general.siteBranding: 'Site Markası'
-  general.siteInfo: 'Site Bilgisi'
-  general.subtitle: 'Viki''nizin Ana ayarları'
-  general.title: Genel
-  groups.title: Gruplar
-  locale.activeNamespaces.hint: 'Çok dilli ad alanlaştırma için etkinleştirilmiş yerellerin listesi . Yukarıda tanımlanan temel yerel, bu seçimden bağımsız olarak her zaman dahil edilecektir.'
-  locale.activeNamespaces.label: 'Etkin Ad Alanları'
-  locale.autoUpdate.hint: 'Kullanılabilir olduklarında bu yerelin güncelleştirmelerini otomatik olarak indir.'
-  locale.autoUpdate.hintWithNS: 'Aşağıdaki etkin tüm ad alanlı yerellere gelen güncelleştirmeleri otomatik olarak indir.'
-  locale.autoUpdate.label: 'Otomatik Olarak Güncelle'
-  locale.base.hint: 'Tüm Kullanıcı arayüzü metin öğeleri seçilen dilde görüntülenir.'
-  locale.base.label: 'Site Yereli'
-  locale.base.labelWithNS: 'Temel Yerel'
-  locale.download: 'Yerel İndir'
-  locale.namespaces.hint: 'Aynı sayfanın birden fazla dil sürümünü etkinleştirir.'
-  locale.namespaces.label: 'Çok Dilli Ad Alanları'
-  locale.namespacing: 'Çok Dilli Ad Alanlaştırma'
-  locale.namespacingPrefixWarning.subtitle: 'Yerel kod içermeyen yollar, otomatik olarak yukarıda tanımlanan temel yerele yönlendirilir.'
-  locale.namespacingPrefixWarning.title: 'Yerel kod, tüm yollara önceden eklenecektir. (ör. /{{langCode}}/sayfa-adı)'
-  locale.settings: 'Yerel Ayarları'
-  locale.subtitle: 'Viki''niz için yerelleştirme seçeneklerini ayarlayın'
-  locale.title: Yerel
-  logging.title: 'Günlüğe kaydetme'
-  mail.configuration: ''
-  mail.dkim: ''
-  mail.subtitle: ''
-  mail.title: ''
-  nav.modules: Modüller
-  nav.site: Site
-  nav.system: Sistem
-  nav.users: Kullanıcılar
-  navigation.delete: ''
-  navigation.divider: ''
-  navigation.edit: ''
-  navigation.emptyList: ''
-  navigation.header: ''
-  navigation.icon: ''
-  navigation.label: ''
-  navigation.link: ''
-  navigation.navType.external: ''
-  navigation.navType.home: ''
-  navigation.navType.page: ''
-  navigation.navType.searchQuery: ''
-  navigation.noItemsText: ''
-  navigation.noSelectionText: ''
-  navigation.saveSuccess: ''
-  navigation.subtitle: ''
-  navigation.target: ''
-  navigation.targetType: ''
-  navigation.title: ''
-  navigation.untitled: ''
-  pages.title: ''
-  rendering.title: İşleme
-  search.title: 'Arama motoru'
-  stats.title: İstatistikler
-  storage.title: Depolama
-  system.configFile: 'Yapılandırma Dosyası'
-  system.cpuCores: 'CPU Çekirdekleri'
-  system.currentVersion: 'Mevcut Sürüm'
-  system.hostInfo: 'Ana Bilgisayar Bilgileri'
-  system.hostname: 'Ana Bilgisayar Adı'
-  system.latestVersion: 'En Son Sürüm'
-  system.os: 'İşletim Sistemi'
-  system.published: Yayınlanan
-  system.ramUsage: 'RAM Kullanımı: {{used}} / {{total}}'
-  system.subtitle: 'Sisteminiz hakkında bilgiler'
-  system.title: 'Sistem Bilgisi'
-  system.totalRAM: 'Toplam Bellek'
-  system.workingDirectory: 'Çalışma Dizini'
-  theme.title: Tema
-  users.title: Kullanıcılar
-  utilities.title: 'Yardımcı Programlar'
+common:
+  footer.poweredBy: 'Altyapı,'
+  actions.save: Kaydet
+  actions.cancel: İptal
+  actions.download: İndir
+  actions.upload: 'Karşıya yükle'
+  actions.discard: Çıkar
+  actions.clear: Temizle
+  actions.create: Oluştur
+  actions.edit: Düzenle
+  actions.delete: Sil
+  actions.refresh: Yenile
+  actions.saveChanges: 'Değişiklikleri Kaydet'
+  actions.proceed: İlerle
+  actions.ok: Tamam
+  footer.copyright: '© {{year}} {{company}} . Her hakkı saklıdır.'
+  welcome.title: 'Wiki projenize hoş geldiniz!'
+  welcome.subtitle: 'Hadi ilk iş olarak ana sayfayı oluşturalım.'
+  welcome.createhome: 'Ana Sayfa Oluştur'
 auth:
+  loginRequired: 'Giriş gerekli'
+  fields.emailUser: 'E-posta / Kullanıcı Adı'
+  fields.password: Parola
   actions.login: 'Oturum aç'
-  actions.register: ''
   errors.invalidLogin: 'Geçersiz Oturum Açma'
   errors.invalidLoginMsg: 'E-posta veya parola geçersiz.'
   errors.invalidUserEmail: 'Geçersiz Kullanıcı E-postası'
@@ -108,90 +30,93 @@ auth:
   errors.tooManyAttempts: 'Çok fazla girişim!'
   errors.tooManyAttemptsMsg: 'Kısa bir süre içinde çok fazla başarısız girişimde bulundunuz, lütfen {{time}} sonra tekrar deneyin.'
   errors.userNotFound: 'Kullanıcı bulunamadı'
-  fields.email: ''
-  fields.emailUser: 'E-posta / Kullanıcı Adı'
-  fields.name: ''
-  fields.password: Parola
-  fields.verifyPassword: ''
-  forgotPasswordCancel: ''
-  forgotPasswordLink: ''
-  forgotPasswordSubtitle: ''
-  genericError: ''
-  invalidEmail: ''
-  invalidEmailUsername: ''
-  invalidPassword: ''
-  loginRequired: 'Giriş gerekli'
-  loginSuccess: ''
-  loginUsingStrategy: ''
-  missingEmail: ''
-  missingName: ''
-  missingPassword: ''
-  nameTooLong: ''
-  nameTooShort: ''
-  orLoginUsingStrategy: ''
-  passwordNotMatch: ''
-  passwordTooShort: ''
-  pleaseWait: ''
+  providers.local: Lokal
+  providers.windowslive: 'Microsoft Hesabı'
   providers.azure: 'Azure Aktif Dizin'
+  providers.google: 'Google ID'
   providers.facebook: Facebook
   providers.github: GitHub
-  providers.google: 'Google ID'
-  providers.ldap: 'LDAP / Aktif Dizin'
-  providers.local: Lokal
   providers.slack: Slack
-  providers.windowslive: 'Microsoft Hesabı'
-  registerCheckEmail: ''
-  registering: ''
-  registerSubTitle: ''
-  registerSuccess: ''
-  registerTitle: ''
-  sendResetPassword: ''
-  signingIn: ''
-  switchToLogin.link: ''
-  switchToLogin.text: ''
-  switchToRegister.link: ''
-  switchToRegister.text: ''
-  tfa.placeholder: XXXXXX
-  tfa.subtitle: 'Güvenlik kodu gerekli:'
+  providers.ldap: 'LDAP / Aktif Dizin'
   tfa.title: 'İki Faktörlü Kimlik Doğrulama'
+  tfa.subtitle: 'Güvenlik kodu gerekli:'
+  tfa.placeholder: XXXXXX
   tfa.verifyToken: Doğrula
-common:
-  actions.add: ''
-  actions.apply: ''
-  actions.cancel: İptal
-  actions.clear: Temizle
-  actions.create: Oluştur
-  actions.delete: Sil
-  actions.discard: Çıkar
-  actions.download: İndir
-  actions.edit: Düzenle
-  actions.ok: Tamam
-  actions.proceed: İlerle
-  actions.refresh: Yenile
-  actions.save: Kaydet
-  actions.saveChanges: 'Değişiklikleri Kaydet'
-  actions.upload: 'Karşıya yükle'
-  footer.copyright: '© {{year}} {{company}} . Her hakkı saklıdır.'
-  footer.poweredBy: 'Altyapı,'
-  newpage.create: ''
-  newpage.goback: ''
-  newpage.subtitle: ''
-  newpage.title: ''
-  notfound.gohome: ''
-  notfound.subtitle: ''
-  notfound.title: ''
-  unauthorized.action.create: ''
-  unauthorized.action.edit: ''
-  unauthorized.action.history: ''
-  unauthorized.action.source: ''
-  unauthorized.action.view: ''
-  unauthorized.goback: ''
-  unauthorized.login: ''
-  unauthorized.title: ''
+admin:
+  dashboard.title: Pano
+  general.title: Genel
+  locale.title: Yerel
+  stats.title: İstatistikler
+  theme.title: Tema
+  groups.title: Gruplar
+  users.title: Kullanıcılar
+  auth.title: 'Kimlik doğrulama'
+  editor.title: Editör
+  logging.title: 'Günlüğe kaydetme'
+  rendering.title: İşleme
+  search.title: 'Arama motoru'
+  storage.title: Depolama
+  api.title: 'API Erişimi'
+  system.title: 'Sistem Bilgisi'
+  utilities.title: 'Yardımcı Programlar'
+  dev.title: 'Geliştirici Araçları'
+  contribute.title: 'Wiki.js''e katkıda bulunun'
+  general.subtitle: 'Viki''nizin Ana ayarları'
+  general.siteInfo: 'Site Bilgisi'
+  general.siteBranding: 'Site Markası'
+  nav.site: Site
+  nav.users: Kullanıcılar
+  nav.modules: Modüller
+  nav.system: Sistem
+  dashboard.subtitle: 'Wiki.js v2 ALPHA Build - ÜRETİM KULLANIMI İÇİN DEĞİLDİR'
+  locale.subtitle: 'Viki''niz için yerelleştirme seçeneklerini ayarlayın'
+  locale.settings: 'Yerel Ayarları'
+  locale.namespacing: 'Çok Dilli Ad Alanlaştırma'
+  locale.download: 'Yerel İndir'
+  locale.base.labelWithNS: 'Temel Yerel'
+  locale.base.hint: 'Tüm Kullanıcı arayüzü metin öğeleri seçilen dilde görüntülenir.'
+  locale.autoUpdate.label: 'Otomatik Olarak Güncelle'
+  locale.autoUpdate.hintWithNS: 'Aşağıdaki etkin tüm ad alanlı yerellere gelen güncelleştirmeleri otomatik olarak indir.'
+  locale.namespaces.label: 'Çok Dilli Ad Alanları'
+  locale.namespaces.hint: 'Aynı sayfanın birden fazla dil sürümünü etkinleştirir.'
+  locale.activeNamespaces.label: 'Etkin Ad Alanları'
+  locale.activeNamespaces.hint: 'Çok dilli ad alanlaştırma için etkinleştirilmiş yerellerin listesi . Yukarıda tanımlanan temel yerel, bu seçimden bağımsız olarak her zaman dahil edilecektir.'
+  locale.namespacingPrefixWarning.title: 'Yerel kod, tüm yollara önceden eklenecektir. (ör. /{{langCode}}/sayfa-adı)'
+  locale.namespacingPrefixWarning.subtitle: 'Yerel kod içermeyen yollar, otomatik olarak yukarıda tanımlanan temel yerele yönlendirilir.'
+  locale.base.label: 'Site Yereli'
+  locale.autoUpdate.hint: 'Kullanılabilir olduklarında bu yerelin güncelleştirmelerini otomatik olarak indir.'
+  system.subtitle: 'Sisteminiz hakkında bilgiler'
+  system.hostInfo: 'Ana Bilgisayar Bilgileri'
+  system.currentVersion: 'Mevcut Sürüm'
+  system.latestVersion: 'En Son Sürüm'
+  system.published: Yayınlanan
+  system.os: 'İşletim Sistemi'
+  system.hostname: 'Ana Bilgisayar Adı'
+  system.cpuCores: 'CPU Çekirdekleri'
+  system.totalRAM: 'Toplam Bellek'
+  system.workingDirectory: 'Çalışma Dizini'
+  system.configFile: 'Yapılandırma Dosyası'
+  system.ramUsage: 'RAM Kullanımı: {{used}} / {{total}}'
+  contribute.subtitle: 'Wiki.js geliştirme ve işlemlerini desteklemeye yardımcı olun'
+  contribute.fundOurWork: 'Çalışmalarımızı kaynak sağlayın'
+  contribute.spreadTheWord: Duyurun
+  contribute.talkToFriends: 'Wiki.js''nin ne kadar harika olduğu hakkında arkadaşlarınız ve meslektaşlarınızla konuşun!'
+  contribute.followUsOnTwitter: 'Bizi {{0}} üzerinde takip edin.'
+  contribute.submitAnIdea: 'Fikir gönderin veya {{0}} üzerinde önerilenleri oylayın.'
+  contribute.submitAnIdeaLink: 'özellik istekleri kurulu'
+  contribute.foundABug: 'Bir hata mı buldunuz? {{0}} üzerinde talep açın.'
+  contribute.helpTranslate: 'Wiki.js’yi kendi dilinize çevirmeye yardım edin. {{0}} üzerinde bize bildirin.'
+  contribute.makeADonation: 'Bir bağışta bulunun'
+  contribute.contribute: 'Katkıda bulunun'
+  contribute.openCollective: 'Wiki.js, Open Collective girişiminin bir parçasıdır. Aylık veya tek seferlik bir bağış yaparak mali katkıda bulunabilirsiniz:'
+  contribute.needYourHelp: 'Yazılımı geliştirmeye devam etmek ve çeşitli ilgili hizmetleri (örn. Barındırma ve ağ oluşturma) çalıştırmak için yardımınıza ihtiyacımız var.'
+  contribute.openSource: 'Wiki.js, {{0}} ile {{1}} ve {{2}} tarafından sunulan ücretsiz ve açık kaynaklı bir yazılımdır.'
+  contribute.openSourceContributors: 'katkıda bulunanlar'
+  contribute.tshirts: 'Projeyi finansal olarak desteklemek için Wiki.js tişörtlerini de satın alabilirsiniz:'
+  contribute.shop: 'Wiki.js Alışveriş'
 editor:
   page: Sayfa
+  save.processing: İşleniyor
+  save.pleaseWait: 'Lütfen bekleyiniz...'
   save.createSuccess: 'Sayfa başarıyla oluşturuldu.'
   save.error: 'Sayfa oluşturulurken bir hata oluştu'
-  save.pleaseWait: 'Lütfen bekleyiniz...'
-  save.processing: İşleniyor
-  save.updateSuccess: ''

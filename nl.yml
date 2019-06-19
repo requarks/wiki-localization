@@ -1,105 +1,30 @@
-admin:
-  api.title: ''
-  auth.title: ''
-  contribute.becomeAPatron: ''
-  contribute.contribute: ''
-  contribute.followUsOnTwitter: ''
-  contribute.foundABug: ''
-  contribute.fundOurWork: ''
-  contribute.helpTranslate: ''
-  contribute.makeADonation: ''
-  contribute.needYourHelp: ''
-  contribute.openCollective: ''
-  contribute.openSource: ''
-  contribute.openSourceContributors: ''
-  contribute.patreon: ''
-  contribute.shop: ''
-  contribute.spreadTheWord: ''
-  contribute.submitAnIdea: ''
-  contribute.submitAnIdeaLink: ''
-  contribute.subtitle: ''
-  contribute.talkToFriends: ''
-  contribute.title: ''
-  contribute.tshirts: ''
-  dashboard.subtitle: ''
-  dashboard.title: ''
-  dev.title: ''
-  editor.title: ''
-  general.siteBranding: ''
-  general.siteInfo: ''
-  general.subtitle: ''
-  general.title: ''
-  groups.title: ''
-  locale.activeNamespaces.hint: ''
-  locale.activeNamespaces.label: ''
-  locale.autoUpdate.hint: ''
-  locale.autoUpdate.hintWithNS: ''
-  locale.autoUpdate.label: ''
-  locale.base.hint: ''
-  locale.base.label: ''
-  locale.base.labelWithNS: ''
-  locale.download: ''
-  locale.namespaces.hint: ''
-  locale.namespaces.label: ''
-  locale.namespacing: ''
-  locale.namespacingPrefixWarning.subtitle: ''
-  locale.namespacingPrefixWarning.title: ''
-  locale.settings: ''
-  locale.subtitle: ''
-  locale.title: ''
-  logging.title: ''
-  mail.configuration: Configuratie
-  mail.dkim: 'DKIM (optioneel)'
-  mail.subtitle: 'Configureer e-mail instellingen'
-  mail.title: Mail
-  nav.modules: ''
-  nav.site: ''
-  nav.system: ''
-  nav.users: ''
-  navigation.delete: 'Verwijder {{kind}}'
-  navigation.divider: Verdeler
-  navigation.edit: 'Bewerk {{kind}}'
-  navigation.emptyList: 'Navigatie is leeg'
-  navigation.header: Koptekst
-  navigation.icon: Pictogram
-  navigation.label: Label
-  navigation.link: Link
-  navigation.navType.external: 'Externe link'
-  navigation.navType.home: Home
-  navigation.navType.page: Pagina
-  navigation.navType.searchQuery: Zoekopdracht
-  navigation.noItemsText: 'Klik op de Toevoegen knop om je eerse navigatie-item toe te voegen.'
-  navigation.noSelectionText: ''
-  navigation.saveSuccess: 'Navigatie succesvol opgeslagen.'
-  navigation.subtitle: ''
-  navigation.target: ''
-  navigation.targetType: ''
-  navigation.title: ''
-  navigation.untitled: 'Zonder titel {{kind}}'
-  pages.title: ''
-  rendering.title: ''
-  search.title: ''
-  stats.title: ''
-  storage.title: ''
-  system.configFile: ''
-  system.cpuCores: ''
-  system.currentVersion: ''
-  system.hostInfo: ''
-  system.hostname: ''
-  system.latestVersion: ''
-  system.os: ''
-  system.published: ''
-  system.ramUsage: ''
-  system.subtitle: ''
-  system.title: ''
-  system.totalRAM: ''
-  system.workingDirectory: ''
-  theme.title: ''
-  users.title: ''
-  utilities.title: ''
+common:
+  footer.poweredBy: 'Powered by'
+  footer.copyright: '© {{year}} {{company}}. Alle rechten voorbehouden.'
+  actions.add: Toevoegen
+  actions.apply: Toepassen
+  unauthorized.title: Onbevoegd
+  unauthorized.action.view: 'Je kunt deze pagina niet bekijken.'
+  unauthorized.action.history: 'Je kunt de paginageschiedenis niet bekijken.'
+  unauthorized.action.edit: 'Je kunt de pagina niet bewerken.'
+  unauthorized.action.create: 'Je kunt de pagina niet maken.'
+  unauthorized.goback: 'Ga terug'
+  welcome.title: 'Welkom bij jouw wiki!'
+  welcome.subtitle: 'Ga aan de slag en maak de homepagina aan.'
+  welcome.createhome: 'Homepagina aanmaken'
+  header.searchHint: 'Typ tenminste 2 tekens om te beginnen met zoeken...'
+  header.searchLoading: Zoeken....
+  header.searchResultsCount: '{{total}} Resultaten gevonden'
+  header.searchDidYouMean: 'Bedoelde je...'
+  header.searchClose: Sluiten
+  password.strong: Sterk
+  password.veryStrong: 'Zeer sterk'
+  page.deleteTitle: 'Weet je zeker dat je de pagina {{title}} wilt verwijderen?'
 auth:
+  loginRequired: 'Inloggen verplicht'
+  fields.emailUser: 'E-mail / Gebruikersnaam'
+  fields.password: Wachtwoord
   actions.login: Inloggen
-  actions.register: Registreer
   errors.invalidLogin: 'Foutieve inloggegevens'
   errors.invalidLoginMsg: 'De ingevoerde e-mail of wachtwoord is fout.'
   errors.invalidUserEmail: 'Foutieve gebruikers e-mail'
@@ -108,90 +33,81 @@ auth:
   errors.tooManyAttempts: 'Te veel pogingen!'
   errors.tooManyAttemptsMsg: 'Je hebt te veel pogingen gedaan om in te loggen, probeer het straks nog een keer {{time}}.'
   errors.userNotFound: 'Gebruiker niet gevonden'
-  fields.email: E-mailadres
-  fields.emailUser: 'E-mail / Gebruikersnaam'
-  fields.name: Naam
-  fields.password: Wachtwoord
-  fields.verifyPassword: 'Bevestig het wachtwoord'
-  forgotPasswordCancel: Annuleer
-  forgotPasswordLink: 'Wachtwoord vergeten?'
-  forgotPasswordSubtitle: 'Voer je e-mailadres in om de instructies voor het opnieuw instellen van je wachtwoord te ontvangen:'
-  genericError: 'Authenticatie is niet beschikbaar.'
-  invalidEmail: 'E-mailadres is ongeldig.'
-  invalidEmailUsername: 'Voer een geldige e-mail / gebruikersnaam in.'
-  invalidPassword: 'Voer een geldig wachtwoord in.'
-  loginRequired: 'Inloggen verplicht'
-  loginSuccess: 'Login succesvol! Doorsturen...'
-  loginUsingStrategy: 'Inloggen met {{strategy}}'
-  missingEmail: 'Ontbrekend e-mailadres.'
-  missingName: 'Naam ontbreekt.'
-  missingPassword: 'Ontbrekend wachtwoord.'
-  nameTooLong: 'Naam is te lang.'
-  nameTooShort: 'Naam is te kort.'
-  orLoginUsingStrategy: 'of log in met...'
-  passwordNotMatch: 'Beide wachtwoorden komen niet overeen.'
-  passwordTooShort: 'Wachtwoord is te kort.'
-  pleaseWait: 'Even geduld aub'
+  providers.local: Lokaal
+  providers.windowslive: 'Microsoft Account'
   providers.azure: 'Azure Active Directory'
+  providers.google: 'Google Account'
   providers.facebook: Facebook
   providers.github: GitHub
-  providers.google: 'Google Account'
-  providers.ldap: 'LDAP / Active Directory'
-  providers.local: Lokaal
   providers.slack: Slack
-  providers.windowslive: 'Microsoft Account'
-  registerCheckEmail: 'Controleer je e-mail om je account te activeren.'
-  registering: 'Account aanmaken...'
-  registerSubTitle: 'Vul het onderstaande formulier in om je account aan te maken.'
-  registerSuccess: 'Account succesvol aangemaakt!'
+  providers.ldap: 'LDAP / Active Directory'
+  tfa.placeholder: XXXXXX
+  fields.email: E-mailadres
+  fields.verifyPassword: 'Bevestig het wachtwoord'
+  fields.name: Naam
+  actions.register: Registreer
   registerTitle: 'Maak een account aan'
-  sendResetPassword: 'Reset wachtwoord'
-  signingIn: Inloggen...
-  switchToLogin.link: 'Inloggen in plaats daarvan'
   switchToLogin.text: 'Heb je al een account? {{link}}'
-  switchToRegister.link: 'Maak een account aan'
+  switchToLogin.link: 'Inloggen in plaats daarvan'
+  loginUsingStrategy: 'Inloggen met {{strategy}}'
+  forgotPasswordLink: 'Wachtwoord vergeten?'
+  orLoginUsingStrategy: 'of log in met...'
   switchToRegister.text: 'Heb je nog geen account? {{link}}'
-  tfa.placeholder: ''
-  tfa.subtitle: ''
-  tfa.title: ''
-  tfa.verifyToken: ''
-common:
-  actions.add: Toevoegen
-  actions.apply: Toepassen
-  actions.cancel: ''
-  actions.clear: ''
-  actions.create: ''
-  actions.delete: ''
-  actions.discard: ''
-  actions.download: ''
-  actions.edit: ''
-  actions.ok: ''
-  actions.proceed: ''
-  actions.refresh: ''
-  actions.save: ''
-  actions.saveChanges: ''
-  actions.upload: ''
-  footer.copyright: ''
-  footer.poweredBy: 'Powered by'
-  newpage.create: ''
-  newpage.goback: ''
-  newpage.subtitle: ''
-  newpage.title: ''
-  notfound.gohome: ''
-  notfound.subtitle: ''
-  notfound.title: ''
-  unauthorized.action.create: 'Je kunt de pagina niet maken.'
-  unauthorized.action.edit: 'Je kunt de pagina niet bewerken.'
-  unauthorized.action.history: 'Je kunt de paginageschiedenis niet bekijken.'
-  unauthorized.action.source: ''
-  unauthorized.action.view: 'Je kunt deze pagina niet bekijken.'
-  unauthorized.goback: 'Ga terug'
-  unauthorized.login: ''
-  unauthorized.title: Onbevoegd
+  switchToRegister.link: 'Maak een account aan'
+  invalidEmailUsername: 'Voer een geldige e-mail / gebruikersnaam in.'
+  invalidPassword: 'Voer een geldig wachtwoord in.'
+  loginSuccess: 'Succesvol ingelogd! Doorsturen...'
+  signingIn: Inloggen...
+  genericError: 'Authenticatie is niet beschikbaar.'
+  registerSubTitle: 'Vul het onderstaande formulier in om je account aan te maken.'
+  pleaseWait: 'Even geduld a.u.b.'
+  registerSuccess: 'Account succesvol aangemaakt!'
+  registering: 'Account aanmaken...'
+  missingEmail: 'Ontbrekend e-mailadres.'
+  invalidEmail: 'E-mailadres is ongeldig.'
+  missingPassword: 'Ontbrekend wachtwoord.'
+  passwordTooShort: 'Wachtwoord is te kort.'
+  passwordNotMatch: 'Beide wachtwoorden komen niet overeen.'
+  missingName: 'Naam ontbreekt.'
+  nameTooShort: 'Naam is te kort.'
+  nameTooLong: 'Naam is te lang.'
+  forgotPasswordCancel: Annuleer
+  sendResetPassword: 'Wachtwoord opnieuw instellen'
+  forgotPasswordSubtitle: 'Voer je e-mailadres in om de instructies voor het opnieuw instellen van je wachtwoord te ontvangen:'
+  registerCheckEmail: 'Controleer je e-mail om je account te activeren.'
+admin:
+  system.ramUsage: 'Geheugen gebruik: {{used}} / {{total}}'
+  navigation.link: Link
+  navigation.divider: Verdeler
+  navigation.header: Koptekst
+  navigation.label: Label
+  navigation.icon: Pictogram
+  navigation.untitled: 'Zonder titel {{kind}}'
+  navigation.navType.external: 'Externe link'
+  navigation.navType.home: Home
+  navigation.navType.page: Pagina
+  navigation.navType.searchQuery: Zoekopdracht
+  navigation.edit: 'Bewerk {{kind}}'
+  navigation.delete: 'Verwijder {{kind}}'
+  navigation.saveSuccess: 'Navigatie succesvol opgeslagen.'
+  navigation.noItemsText: 'Klik op de Toevoegen knop om je eerse navigatie-item toe te voegen.'
+  navigation.emptyList: 'Navigatie is leeg'
+  mail.title: Mail
+  mail.subtitle: 'Configureer e-mail instellingen'
+  mail.configuration: Configuratie
+  mail.dkim: 'DKIM (optioneel)'
+  dev.graphiql.title: GraphiQL
+  dev.voyager.title: Voyager
+  webhooks.title: Webhooks
+  auth.loginUrl: 'Inlog URL'
+  auth.logoutUrl: 'Uitlog URL'
+  storage.unsupported: 'Niet ondersteund'
+  dashboard.pages: 'Pagina''s'
+  dashboard.users: Gebruikers
+  dashboard.groups: Groepen
+  dashboard.versionLatest: 'Je gebruikt de nieuwste versie.'
+  dashboard.versionNew: 'Er is een nieuwe versie beschikbaar: {{version}}'
+  general.metaRobots: 'Meta Robots'
+  general.metaRobotsHint: 'Standaard: Index, Follow. Dit kan ook individueel per pagina worden ingesteld.'
 editor:
-  page: ''
-  save.createSuccess: ''
-  save.error: ''
-  save.pleaseWait: ''
-  save.processing: ''
   save.updateSuccess: 'Pagina succesvol bijgewerkt.'

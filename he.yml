@@ -1,105 +1,8 @@
-admin:
-  api.title: 'גישה לAPI'
-  auth.title: אימות
-  contribute.becomeAPatron: ''
-  contribute.contribute: ''
-  contribute.followUsOnTwitter: ''
-  contribute.foundABug: ''
-  contribute.fundOurWork: ''
-  contribute.helpTranslate: ''
-  contribute.makeADonation: ''
-  contribute.needYourHelp: ''
-  contribute.openCollective: ''
-  contribute.openSource: ''
-  contribute.openSourceContributors: ''
-  contribute.patreon: ''
-  contribute.shop: ''
-  contribute.spreadTheWord: ''
-  contribute.submitAnIdea: ''
-  contribute.submitAnIdeaLink: ''
-  contribute.subtitle: ''
-  contribute.talkToFriends: ''
-  contribute.title: 'תרום ל Wiki.js'
-  contribute.tshirts: ''
-  dashboard.subtitle: 'Wiki.js v2 גירסת אלפא - לא לשימוש בסביבת אמת'
-  dashboard.title: 'לוח מחוונים'
-  dev.title: 'כלי מפתח'
-  editor.title: עורך
-  general.siteBranding: 'מיתוג האתר'
-  general.siteInfo: 'מידע על האתר'
-  general.subtitle: 'הגדרות עיקריות של הויקי שלך'
-  general.title: כללי
-  groups.title: קבוצות
-  locale.activeNamespaces.hint: ' רשימת האזורים (שפות) מאופשרת עבור אתר רב לשוני. אזור (שפת) הבסיס שהוגדר לעיל תמיד ייכלל ללא קשר בחירה זו.'
-  locale.activeNamespaces.label: 'מרחבים פעילים'
-  locale.autoUpdate.hint: 'הורד עדכונים באופן אוטומטי לאזור זה כאשר הם הופכים לזמינים.'
-  locale.autoUpdate.hintWithNS: 'הורד עדכונים באופן אוטומטי לכל המרחבים הזמינים להלן.'
-  locale.autoUpdate.label: 'עדכן אוטומטית'
-  locale.base.hint: 'כל רכיבי ממשק המשתמש יוצגו בשפה שנבחרה.'
-  locale.base.label: 'אזור (שפת) האתר'
-  locale.base.labelWithNS: 'אזור (שפת) בסיס'
-  locale.download: 'הורד הגדרות אזור (שפה)'
-  locale.namespaces.hint: 'מאפשר שפות מרובות של אותו דף.'
-  locale.namespaces.label: 'מרחבים רב לשוניים'
-  locale.namespacing: 'מרחבים רב לשוניים'
-  locale.namespacingPrefixWarning.subtitle: 'נתיבים ללא קוד אזור (שפה) יהיו מנותבים אוטומטית אל אזור (שפת) הבסיס שהוגדרו לעיל.'
-  locale.namespacingPrefixWarning.title: 'קוד האזור (שפה) יוצמד לכל הנתיבים. (למשל /{{langCode}}/page-name)'
-  locale.settings: 'הגדרות אזור (שפה)'
-  locale.subtitle: 'הגדר אפשרויות אזור (שפה) עבור הויקי שלך'
-  locale.title: 'אזור (שפת)'
-  logging.title: רישום
-  mail.configuration: ''
-  mail.dkim: ''
-  mail.subtitle: ''
-  mail.title: ''
-  nav.modules: מודולים
-  nav.site: אתר
-  nav.system: מערכת
-  nav.users: משתמשים
-  navigation.delete: ''
-  navigation.divider: ''
-  navigation.edit: ''
-  navigation.emptyList: ''
-  navigation.header: ''
-  navigation.icon: ''
-  navigation.label: ''
-  navigation.link: ''
-  navigation.navType.external: ''
-  navigation.navType.home: ''
-  navigation.navType.page: ''
-  navigation.navType.searchQuery: ''
-  navigation.noItemsText: ''
-  navigation.noSelectionText: ''
-  navigation.saveSuccess: ''
-  navigation.subtitle: ''
-  navigation.target: ''
-  navigation.targetType: ''
-  navigation.title: ''
-  navigation.untitled: ''
-  pages.title: ''
-  rendering.title: עיבוד
-  search.title: 'מנוע חיפוש'
-  stats.title: סטטיסטיקות
-  storage.title: 'שטח אחסון'
-  system.configFile: 'קובץ הגדרות'
-  system.cpuCores: 'ליבות מעבד'
-  system.currentVersion: 'הגרסה הנוכחית'
-  system.hostInfo: 'מידע על המחשב המארח'
-  system.hostname: 'שם מחשב המארח'
-  system.latestVersion: 'הגרסה העדכנית ביותר'
-  system.os: 'מערכת הפעלה'
-  system.published: פורסם
-  system.ramUsage: 'שימוש בזיכרון: {{used}} / {{total}}'
-  system.subtitle: 'מידע על המערכת שלך'
-  system.title: 'מידע על המערכת'
-  system.totalRAM: 'סה"כ זיכרון'
-  system.workingDirectory: 'מחיצת עבודה'
-  theme.title: 'ערכת נושא'
-  users.title: משתמשים
-  utilities.title: 'כלי עזר'
 auth:
+  loginRequired: 'נדרשת כניסה'
+  fields.emailUser: 'דוא"ל / שם משתמש'
+  fields.password: סיסמה
   actions.login: כנס
-  actions.register: ''
   errors.invalidLogin: 'כניסה לא חוקית'
   errors.invalidLoginMsg: 'כתובת הדוא"ל או הסיסמה אינן תקינות.'
   errors.invalidUserEmail: 'דוא"ל משתמש לא חוקי'
@@ -108,90 +11,83 @@ auth:
   errors.tooManyAttempts: 'יותר מדי ניסיונות!'
   errors.tooManyAttemptsMsg: 'ביצעת ניסיונות כושלים רבים מדי בפרק זמן קצר, נסה שוב {{time}} .'
   errors.userNotFound: 'המשתמש לא נמצא'
-  fields.email: ''
-  fields.emailUser: 'דוא"ל / שם משתמש'
-  fields.name: ''
-  fields.password: סיסמה
-  fields.verifyPassword: ''
-  forgotPasswordCancel: ''
-  forgotPasswordLink: ''
-  forgotPasswordSubtitle: ''
-  genericError: ''
-  invalidEmail: ''
-  invalidEmailUsername: ''
-  invalidPassword: ''
-  loginRequired: 'נדרשת כניסה'
-  loginSuccess: ''
-  loginUsingStrategy: ''
-  missingEmail: ''
-  missingName: ''
-  missingPassword: ''
-  nameTooLong: ''
-  nameTooShort: ''
-  orLoginUsingStrategy: ''
-  passwordNotMatch: ''
-  passwordTooShort: ''
-  pleaseWait: ''
+  providers.local: מקומי
+  providers.windowslive: 'חשבון Microsoft'
   providers.azure: 'Azure Active Directory'
+  providers.google: 'מזהה Google'
   providers.facebook: Facebook
   providers.github: GitHub
-  providers.google: 'מזהה Google'
-  providers.ldap: 'LDAP / Active Directory'
-  providers.local: מקומי
   providers.slack: Slack
-  providers.windowslive: 'חשבון Microsoft'
-  registerCheckEmail: ''
-  registering: ''
-  registerSubTitle: ''
-  registerSuccess: ''
-  registerTitle: ''
-  sendResetPassword: ''
-  signingIn: ''
-  switchToLogin.link: ''
-  switchToLogin.text: ''
-  switchToRegister.link: ''
-  switchToRegister.text: ''
-  tfa.placeholder: XXXXXX
-  tfa.subtitle: 'נדרש קוד אבטחה:'
+  providers.ldap: 'LDAP / Active Directory'
   tfa.title: 'אימות שני-גורמים'
+  tfa.subtitle: 'נדרש קוד אבטחה:'
+  tfa.placeholder: XXXXXX
   tfa.verifyToken: ודא
+admin:
+  dashboard.title: 'לוח מחוונים'
+  general.title: כללי
+  locale.title: 'אזור (שפת)'
+  stats.title: סטטיסטיקות
+  theme.title: 'ערכת נושא'
+  groups.title: קבוצות
+  users.title: משתמשים
+  auth.title: אימות
+  editor.title: עורך
+  logging.title: רישום
+  rendering.title: עיבוד
+  search.title: 'מנוע חיפוש'
+  storage.title: 'שטח אחסון'
+  api.title: 'גישה לAPI'
+  system.title: 'מידע על המערכת'
+  utilities.title: 'כלי עזר'
+  dev.title: 'כלי מפתח'
+  contribute.title: 'תרום ל Wiki.js'
+  general.subtitle: 'הגדרות עיקריות של הויקי שלך'
+  general.siteInfo: 'מידע על האתר'
+  general.siteBranding: 'מיתוג האתר'
+  nav.site: אתר
+  nav.users: משתמשים
+  nav.modules: מודולים
+  nav.system: מערכת
+  dashboard.subtitle: 'Wiki.js v2 גירסת אלפא - לא לשימוש בסביבת אמת'
+  locale.subtitle: 'הגדר אפשרויות אזור (שפה) עבור הויקי שלך'
+  locale.settings: 'הגדרות אזור (שפה)'
+  locale.namespacing: 'מרחבים רב לשוניים'
+  locale.download: 'הורד הגדרות אזור (שפה)'
+  locale.base.labelWithNS: 'אזור (שפת) בסיס'
+  locale.base.hint: 'כל רכיבי ממשק המשתמש יוצגו בשפה שנבחרה.'
+  locale.autoUpdate.label: 'עדכן אוטומטית'
+  locale.autoUpdate.hintWithNS: 'הורד עדכונים באופן אוטומטי לכל המרחבים הזמינים להלן.'
+  locale.namespaces.label: 'מרחבים רב לשוניים'
+  locale.namespaces.hint: 'מאפשר שפות מרובות של אותו דף.'
+  locale.activeNamespaces.label: 'מרחבים פעילים'
+  locale.activeNamespaces.hint: ' רשימת האזורים (שפות) מאופשרת עבור אתר רב לשוני. אזור (שפת) הבסיס שהוגדר לעיל תמיד ייכלל ללא קשר בחירה זו.'
+  locale.namespacingPrefixWarning.title: 'קוד האזור (שפה) יוצמד לכל הנתיבים. (למשל /{{langCode}}/page-name)'
+  locale.namespacingPrefixWarning.subtitle: 'נתיבים ללא קוד אזור (שפה) יהיו מנותבים אוטומטית אל אזור (שפת) הבסיס שהוגדרו לעיל.'
+  locale.base.label: 'אזור (שפת) האתר'
+  locale.autoUpdate.hint: 'הורד עדכונים באופן אוטומטי לאזור זה כאשר הם הופכים לזמינים.'
+  system.subtitle: 'מידע על המערכת שלך'
+  system.hostInfo: 'מידע על המחשב המארח'
+  system.currentVersion: 'הגרסה הנוכחית'
+  system.latestVersion: 'הגרסה העדכנית ביותר'
+  system.published: פורסם
+  system.os: 'מערכת הפעלה'
+  system.hostname: 'שם מחשב המארח'
+  system.cpuCores: 'ליבות מעבד'
+  system.totalRAM: 'סה"כ זיכרון'
+  system.workingDirectory: 'מחיצת עבודה'
+  system.configFile: 'קובץ הגדרות'
+  system.ramUsage: 'שימוש בזיכרון: {{used}} / {{total}}'
 common:
-  actions.add: ''
-  actions.apply: ''
+  actions.save: שמור
   actions.cancel: בטל
+  actions.download: הורד
+  actions.upload: העלה
+  actions.discard: דחה
   actions.clear: נקה
   actions.create: צור
-  actions.delete: מחק
-  actions.discard: דחה
-  actions.download: הורד
   actions.edit: ערוך
-  actions.ok: ''
-  actions.proceed: המשך
+  actions.delete: מחק
   actions.refresh: רענן
-  actions.save: שמור
   actions.saveChanges: 'שמור שינויים'
-  actions.upload: העלה
-  footer.copyright: ''
-  footer.poweredBy: ''
-  newpage.create: ''
-  newpage.goback: ''
-  newpage.subtitle: ''
-  newpage.title: ''
-  notfound.gohome: ''
-  notfound.subtitle: ''
-  notfound.title: ''
-  unauthorized.action.create: ''
-  unauthorized.action.edit: ''
-  unauthorized.action.history: ''
-  unauthorized.action.source: ''
-  unauthorized.action.view: ''
-  unauthorized.goback: ''
-  unauthorized.login: ''
-  unauthorized.title: ''
-editor:
-  page: ''
-  save.createSuccess: ''
-  save.error: ''
-  save.pleaseWait: ''
-  save.processing: ''
-  save.updateSuccess: ''
+  actions.proceed: המשך

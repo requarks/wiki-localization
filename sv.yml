@@ -1,105 +1,44 @@
-admin:
-  api.title: API-Åtkomst
-  auth.title: Autentisering
-  contribute.becomeAPatron: ''
-  contribute.contribute: Bidra
-  contribute.followUsOnTwitter: 'Följ oss på {{0}}.'
-  contribute.foundABug: 'Hittat en bugg? Skicka ett ärende till {{0}}.'
-  contribute.fundOurWork: 'Finansiera vårt arbete'
-  contribute.helpTranslate: 'Hjälpa till att översätta Wiki.js på ditt språk. Låt oss veta på {{0}}.'
-  contribute.makeADonation: 'Gör en donation'
-  contribute.needYourHelp: 'Vi behöver din hjälp för att fortsätta förbättra programvaran och driva de olika tillhörande tjänsterna (t.ex. hosting och nätverk).'
-  contribute.openCollective: 'Wiki.js är en del av Open Collective-initiativet. Du kan bidra ekonomiskt genom att göra en månadsvis- eller engångsdonation:'
-  contribute.openSource: 'Wiki.js är ett fritt och öppet källkodsprogram som har tagits fram med {{0}} av {{1}} och {{2}} .'
-  contribute.openSourceContributors: Medverkande
-  contribute.patreon: ''
-  contribute.shop: 'Wiki.js Butiken'
-  contribute.spreadTheWord: 'Sprid ordet'
-  contribute.submitAnIdea: 'Skicka in en idé eller rösta på ett förslag på {{0}} .'
-  contribute.submitAnIdeaLink: 'Efterfråga en idé'
-  contribute.subtitle: 'Hjälp till att stödja Wiki.js utveckling och verksamhet'
-  contribute.talkToFriends: 'Prata med dina vänner och kollegor om hur fantastisk Wiki.js är!'
-  contribute.title: 'Bidra till Wiki.js'
-  contribute.tshirts: 'Du kan också köpa Wiki.js t-shirts för att stödja projektet ekonomiskt:'
-  dashboard.subtitle: 'BETA Build - INTE FÖR ANVÄNDNING i PRODUKTION'
-  dashboard.title: Instrumentpanel
-  dev.title: Utvecklarverktyg
-  editor.title: Redigerare
-  general.siteBranding: 'Webbplats Branding'
-  general.siteInfo: Webbplatsinformation
-  general.subtitle: 'Huvudinställningarna för din wiki'
-  general.title: Allmänt
-  groups.title: Grupper
-  locale.activeNamespaces.hint: 'Lista över språk som är aktiverade för flerspråkiga namnrymder. Primärt språk definierad ovan kommer alltid att inkluderas oberoende av detta val.'
-  locale.activeNamespaces.label: 'Aktiva Namnrymder'
-  locale.autoUpdate.hint: 'Automatiskt hämta uppdateringar till det här språket när de blir tillgängliga.'
-  locale.autoUpdate.hintWithNS: 'Ladda ner uppdateringar automatiskt till alla namnutrymmen som är aktiverade nedan.'
-  locale.autoUpdate.label: 'Uppdatera Automatiskt'
-  locale.base.hint: 'Alla UI-element text kommer att visas i valt språk.'
-  locale.base.label: 'Webbplatsens Språk'
-  locale.base.labelWithNS: 'Webbplatsens Språk'
-  locale.download: 'Ladda Ner Språk'
-  locale.namespaces.hint: 'Möjliggör flera språkversioner av samma sida.'
-  locale.namespaces.label: 'Flerspråkiga Namnrymder'
-  locale.namespacing: 'Flerspråkig Namnutrymmen'
-  locale.namespacingPrefixWarning.subtitle: 'Länkar utan en språkkod kommer automatiskt att omdirigeras till basen som definieras ovan.'
-  locale.namespacingPrefixWarning.title: 'Språkkod kommer prefixas till alla länkar. (t.ex. / {{langCode}} / {{page-name}} )'
-  locale.settings: Språkinställningar
-  locale.subtitle: 'Ställ in språkinställningar för din wiki'
-  locale.title: Språk
-  logging.title: Loggning
-  mail.configuration: Konfiguration
-  mail.dkim: 'DKIM (valfritt)'
-  mail.subtitle: 'Konfigurera e-postinställningar'
-  mail.title: E-post
-  nav.modules: Moduler
-  nav.site: Webbplats
-  nav.system: System
-  nav.users: Användare
-  navigation.delete: 'Radera {{kind}}'
-  navigation.divider: Avdelare
-  navigation.edit: 'Redigera {{kind}}'
-  navigation.emptyList: 'Navigationen är tom'
-  navigation.header: Rubrik
-  navigation.icon: Ikon
-  navigation.label: Etikett
-  navigation.link: Länk
-  navigation.navType.external: 'Extern Länk'
-  navigation.navType.home: Hem
-  navigation.navType.page: Sida
-  navigation.navType.searchQuery: Sökfråga
-  navigation.noItemsText: 'Klicka på knappen Lägg till för att lägga till ditt första navigationsobjekt.'
-  navigation.noSelectionText: 'Välj ett navigeringsobjekt till vänster.'
-  navigation.saveSuccess: 'Navigering sparats.'
-  navigation.subtitle: 'Hantera sidnavigering'
-  navigation.target: Mål
-  navigation.targetType: Måltyp
-  navigation.title: Navigering
-  navigation.untitled: 'Untitled {{kind}}'
-  pages.title: Sidor
-  rendering.title: Rendering
-  search.title: Sökmotor
-  stats.title: Statistik
-  storage.title: Lagring
-  system.configFile: Konfigurationsfil
-  system.cpuCores: CPU-kärnor
-  system.currentVersion: 'Nuvarande Version'
-  system.hostInfo: Värdinformation
-  system.hostname: Värdnamn
-  system.latestVersion: 'Senaste Version'
-  system.os: Operativsystem
-  system.published: Publicerad
-  system.ramUsage: 'RAM-användning: {{used}} / {{total}}'
-  system.subtitle: 'Information om ditt system'
-  system.title: Systeminformation
-  system.totalRAM: 'Totalt RAM-minne'
-  system.workingDirectory: Arbetskatalog
-  theme.title: Tema
-  users.title: Användare
-  utilities.title: Verktyg
+common:
+  footer.poweredBy: 'Drivs av'
+  actions.save: Spara
+  actions.cancel: Avbryt
+  actions.download: 'Ladda ner'
+  actions.upload: 'Ladda upp'
+  actions.discard: 'Kasta Bort'
+  actions.clear: Rensa
+  actions.create: Skapa
+  actions.edit: Ändra
+  actions.delete: Radera
+  actions.refresh: Uppdatera
+  actions.saveChanges: 'Spara Ändringar'
+  actions.proceed: 'Gå vidare'
+  actions.ok: OK
+  footer.copyright: '© {{year}} {{company}} . Alla rättigheter förbehållna.'
+  newpage.title: 'Sidan finns inte ännu.'
+  newpage.subtitle: 'Vill du skapa det nu?'
+  newpage.create: 'Skapa Sida'
+  newpage.goback: 'Gå tillbaka'
+  actions.add: 'Lägg till'
+  actions.apply: Tillämpa
+  unauthorized.title: Obehörig
+  unauthorized.action.view: 'Du kan inte visa den här sidan.'
+  unauthorized.action.source: 'Du kan inte visa sidkällan.'
+  unauthorized.action.history: 'Du kan inte visa sidhistoriken.'
+  unauthorized.action.edit: 'Du kan inte redigera sidan.'
+  unauthorized.action.create: 'Du kan inte skapa sidan.'
+  unauthorized.goback: 'Gå Tillbaka'
+  notfound.gohome: Hem
+  notfound.title: 'Hittades inte'
+  notfound.subtitle: 'Sidan finns inte.'
+  unauthorized.login: 'Logga in som ...'
+  welcome.title: 'Välkommen till din wiki!'
+  welcome.subtitle: 'Låt oss komma igång och skapa startsidan.'
+  welcome.createhome: 'Skapa Startsida'
 auth:
+  loginRequired: 'Inloggning krävs'
+  fields.emailUser: 'E-post / Användarnamn'
+  fields.password: Lösenord
   actions.login: 'Logga in'
-  actions.register: Registrera
   errors.invalidLogin: 'Ogiltig Inloggning'
   errors.invalidLoginMsg: 'E-postadressen eller lösenordet är ogiltigt.'
   errors.invalidUserEmail: 'Ogiltig E-postadress'
@@ -108,90 +47,157 @@ auth:
   errors.tooManyAttempts: 'För många försök!'
   errors.tooManyAttemptsMsg: 'Du har gjort för många misslyckade försök på kort tid, försök igen {{time}}.'
   errors.userNotFound: 'Användaren hittades inte'
-  fields.email: E-postadress
-  fields.emailUser: 'E-post / Användarnamn'
-  fields.name: Namn
-  fields.password: Lösenord
-  fields.verifyPassword: 'Verifiera Lösenord'
-  forgotPasswordCancel: Avbryt
-  forgotPasswordLink: 'Glömt ditt lösenord?'
-  forgotPasswordSubtitle: 'Ange din e-postadress för att få instruktioner för att återställa ditt lösenord:'
-  genericError: 'Autentisering är inte tillgänglig.'
-  invalidEmail: 'E-postadressen är ogiltig.'
-  invalidEmailUsername: 'Ange en giltig e-post / användarnamn.'
-  invalidPassword: 'Ange ett giltigt lösenord.'
-  loginRequired: 'Inloggning krävs'
-  loginSuccess: 'Inloggningen lyckades! Omdirigerar ...'
-  loginUsingStrategy: 'Logga in med {{strategy}}'
-  missingEmail: 'Saknar e-postadress.'
-  missingName: 'Namn saknas.'
-  missingPassword: 'Saknar lösenord.'
-  nameTooLong: 'Namnet är för långt.'
-  nameTooShort: 'Namnet är för kort.'
-  orLoginUsingStrategy: 'eller logga in med ...'
-  passwordNotMatch: 'Lösenorden matchar inte.'
-  passwordTooShort: 'Lösenordet är för kort.'
-  pleaseWait: 'Vänligen vänta'
+  providers.local: Lokal
+  providers.windowslive: 'Microsoft Konto'
   providers.azure: 'Azure Active Directory'
+  providers.google: Google
   providers.facebook: Facebook
   providers.github: Github
-  providers.google: Google
-  providers.ldap: 'LDAP / Active Directory'
-  providers.local: Lokal
   providers.slack: Slack
-  providers.windowslive: 'Microsoft Konto'
-  registerCheckEmail: 'Kolla din e-post för att aktivera ditt konto.'
-  registering: 'Skapar konto...'
-  registerSubTitle: 'Fyll i formuläret nedan för att skapa ditt konto.'
-  registerSuccess: 'Kontot har skapats!'
-  registerTitle: 'Skapa ett konto'
-  sendResetPassword: 'Återställ Lösenord'
-  signingIn: 'Loggar in...'
-  switchToLogin.link: 'Logga in istället'
-  switchToLogin.text: 'Har du redan ett konto? {{link}}'
-  switchToRegister.link: 'Skapa ett konto'
-  switchToRegister.text: 'Har du inget konto än? {{link}}'
-  tfa.placeholder: XXXXXX
-  tfa.subtitle: 'Säkerhetskod krävs:'
+  providers.ldap: 'LDAP / Active Directory'
   tfa.title: Tvåfaktorautentisering
+  tfa.subtitle: 'Säkerhetskod krävs:'
+  tfa.placeholder: XXXXXX
   tfa.verifyToken: Verifiera
-common:
-  actions.add: 'Lägg till'
-  actions.apply: Tillämpa
-  actions.cancel: Avbryt
-  actions.clear: Rensa
-  actions.create: Skapa
-  actions.delete: Radera
-  actions.discard: 'Kasta Bort'
-  actions.download: 'Ladda ner'
-  actions.edit: Ändra
-  actions.ok: OK
-  actions.proceed: 'Gå vidare'
-  actions.refresh: Uppdatera
-  actions.save: Spara
-  actions.saveChanges: 'Spara Ändringar'
-  actions.upload: 'Ladda upp'
-  footer.copyright: '© {{year}} {{company}} . Alla rättigheter förbehållna.'
-  footer.poweredBy: 'Drivs av'
-  newpage.create: 'Skapa Sida'
-  newpage.goback: 'Gå tillbaka'
-  newpage.subtitle: 'Vill du skapa det nu?'
-  newpage.title: 'Sidan finns inte ännu.'
-  notfound.gohome: Hem
-  notfound.subtitle: 'Sidan finns inte.'
-  notfound.title: 'Hittades inte'
-  unauthorized.action.create: 'Du kan inte skapa sidan.'
-  unauthorized.action.edit: 'Du kan inte redigera sidan.'
-  unauthorized.action.history: 'Du kan inte visa sidhistoriken.'
-  unauthorized.action.source: 'Du kan inte visa sidkällan.'
-  unauthorized.action.view: 'Du kan inte visa den här sidan.'
-  unauthorized.goback: 'Gå Tillbaka'
-  unauthorized.login: 'Logga in som ...'
-  unauthorized.title: Obehörig
+  fields.email: E-postadress
+  fields.verifyPassword: 'Verifiera Lösenord'
+  fields.name: Namn
+  actions.register: Registrera
+  registerTitle: 'Skapa ett konto'
+  switchToLogin.text: 'Har du redan ett konto? {{link}}'
+  switchToLogin.link: 'Logga in istället'
+  loginUsingStrategy: 'Logga in med {{strategy}}'
+  forgotPasswordLink: 'Glömt ditt lösenord?'
+  orLoginUsingStrategy: 'eller logga in med ...'
+  switchToRegister.text: 'Har du inget konto än? {{link}}'
+  switchToRegister.link: 'Skapa ett konto'
+  invalidEmailUsername: 'Ange en giltig e-post / användarnamn.'
+  invalidPassword: 'Ange ett giltigt lösenord.'
+  loginSuccess: 'Inloggningen lyckades! Omdirigerar ...'
+  signingIn: 'Loggar in...'
+  genericError: 'Autentisering är inte tillgänglig.'
+  registerSubTitle: 'Fyll i formuläret nedan för att skapa ditt konto.'
+  pleaseWait: 'Vänligen vänta'
+  registerSuccess: 'Kontot har skapats!'
+  registering: 'Skapar konto...'
+  missingEmail: 'Saknar e-postadress.'
+  invalidEmail: 'E-postadressen är ogiltig.'
+  missingPassword: 'Saknar lösenord.'
+  passwordTooShort: 'Lösenordet är för kort.'
+  passwordNotMatch: 'Lösenorden matchar inte.'
+  missingName: 'Namn saknas.'
+  nameTooShort: 'Namnet är för kort.'
+  nameTooLong: 'Namnet är för långt.'
+  forgotPasswordCancel: Avbryt
+  sendResetPassword: 'Återställ Lösenord'
+  forgotPasswordSubtitle: 'Ange din e-postadress för att få instruktioner för att återställa ditt lösenord:'
+  registerCheckEmail: 'Kolla din e-post för att aktivera ditt konto.'
+admin:
+  dashboard.title: Instrumentpanel
+  general.title: Allmänt
+  locale.title: Språk
+  stats.title: Statistik
+  theme.title: Tema
+  groups.title: Grupper
+  users.title: Användare
+  auth.title: Autentisering
+  editor.title: Redigerare
+  logging.title: Loggning
+  rendering.title: Rendering
+  search.title: Sökmotor
+  storage.title: Lagring
+  api.title: API-Åtkomst
+  system.title: Systeminformation
+  utilities.title: Verktyg
+  dev.title: Utvecklarverktyg
+  contribute.title: 'Bidra till Wiki.js'
+  general.subtitle: 'Huvudinställningarna för din wiki'
+  general.siteInfo: Webbplatsinformation
+  general.siteBranding: 'Webbplats Branding'
+  nav.site: Webbplats
+  nav.users: Användare
+  nav.modules: Moduler
+  nav.system: System
+  dashboard.subtitle: 'BETA Build - INTE FÖR ANVÄNDNING i PRODUKTION'
+  locale.subtitle: 'Ställ in språkinställningar för din wiki'
+  locale.settings: Språkinställningar
+  locale.namespacing: 'Flerspråkig Namnutrymmen'
+  locale.download: 'Ladda Ner Språk'
+  locale.base.labelWithNS: 'Webbplatsens Språk'
+  locale.base.hint: 'Alla UI-element text kommer att visas i valt språk.'
+  locale.autoUpdate.label: 'Uppdatera Automatiskt'
+  locale.autoUpdate.hintWithNS: 'Ladda ner uppdateringar automatiskt till alla namnutrymmen som är aktiverade nedan.'
+  locale.namespaces.label: 'Flerspråkiga Namnrymder'
+  locale.namespaces.hint: 'Möjliggör flera språkversioner av samma sida.'
+  locale.activeNamespaces.label: 'Aktiva Namnrymder'
+  locale.activeNamespaces.hint: 'Lista över språk som är aktiverade för flerspråkiga namnrymder. Primärt språk definierad ovan kommer alltid att inkluderas oberoende av detta val.'
+  locale.namespacingPrefixWarning.title: 'Språkkod kommer prefixas till alla länkar. (t.ex. / {{langCode}} / {{page-name}} )'
+  locale.namespacingPrefixWarning.subtitle: 'Länkar utan en språkkod kommer automatiskt att omdirigeras till basen som definieras ovan.'
+  locale.base.label: 'Webbplatsens Språk'
+  locale.autoUpdate.hint: 'Automatiskt hämta uppdateringar till det här språket när de blir tillgängliga.'
+  system.subtitle: 'Information om ditt system'
+  system.hostInfo: Värdinformation
+  system.currentVersion: 'Nuvarande Version'
+  system.latestVersion: 'Senaste Version'
+  system.published: Publicerad
+  system.os: Operativsystem
+  system.hostname: Värdnamn
+  system.cpuCores: CPU-kärnor
+  system.totalRAM: 'Totalt RAM-minne'
+  system.workingDirectory: Arbetskatalog
+  system.configFile: Konfigurationsfil
+  system.ramUsage: 'RAM-användning: {{used}} / {{total}}'
+  contribute.subtitle: 'Hjälp till att stödja Wiki.js utveckling och verksamhet'
+  contribute.fundOurWork: 'Finansiera vårt arbete'
+  contribute.spreadTheWord: 'Sprid ordet'
+  contribute.talkToFriends: 'Prata med dina vänner och kollegor om hur fantastisk Wiki.js är!'
+  contribute.followUsOnTwitter: 'Följ oss på {{0}}.'
+  contribute.submitAnIdea: 'Skicka in en idé eller rösta på ett förslag på {{0}} .'
+  contribute.submitAnIdeaLink: 'Efterfråga en idé'
+  contribute.foundABug: 'Hittat en bugg? Skicka ett ärende till {{0}}.'
+  contribute.helpTranslate: 'Hjälpa till att översätta Wiki.js på ditt språk. Låt oss veta på {{0}}.'
+  contribute.makeADonation: 'Gör en donation'
+  contribute.contribute: Bidra
+  contribute.openCollective: 'Wiki.js är en del av Open Collective-initiativet. Du kan bidra ekonomiskt genom att göra en månadsvis- eller engångsdonation:'
+  contribute.needYourHelp: 'Vi behöver din hjälp för att fortsätta förbättra programvaran och driva de olika tillhörande tjänsterna (t.ex. hosting och nätverk).'
+  contribute.openSource: 'Wiki.js är ett fritt och öppet källkodsprogram som har tagits fram med {{0}} av {{1}} och {{2}} .'
+  contribute.openSourceContributors: Medverkande
+  contribute.tshirts: 'Du kan också köpa Wiki.js t-shirts för att stödja projektet ekonomiskt:'
+  contribute.shop: 'Wiki.js Butiken'
+  pages.title: Sidor
+  navigation.title: Navigering
+  navigation.subtitle: 'Hantera sidnavigering'
+  navigation.link: Länk
+  navigation.divider: Avdelare
+  navigation.header: Rubrik
+  navigation.label: Etikett
+  navigation.icon: Ikon
+  navigation.targetType: Måltyp
+  navigation.target: Mål
+  navigation.noSelectionText: 'Välj ett navigeringsobjekt till vänster.'
+  navigation.untitled: 'Untitled {{kind}}'
+  navigation.navType.external: 'Extern Länk'
+  navigation.navType.home: Hem
+  navigation.navType.page: Sida
+  navigation.navType.searchQuery: Sökfråga
+  navigation.edit: 'Redigera {{kind}}'
+  navigation.delete: 'Radera {{kind}}'
+  navigation.saveSuccess: 'Navigering sparats.'
+  navigation.noItemsText: 'Klicka på knappen Lägg till för att lägga till ditt första navigationsobjekt.'
+  navigation.emptyList: 'Navigationen är tom'
+  mail.title: E-post
+  mail.subtitle: 'Konfigurera e-postinställningar'
+  mail.configuration: Konfiguration
+  mail.dkim: 'DKIM (valfritt)'
+  contribute.becomeAPatron: 'Bli en Patron'
+  contribute.patreon: 'Bli en backer eller sponsor via Patreon (går direkt till stödjande utvecklaren Nicolas Giards mål att arbeta heltid på Wiki.js)'
+  dev.flags.title: Flaggor
+  dev.graphiql.title: GraphiQL
+  dev.voyager.title: Resenär
 editor:
   page: Sida
+  save.processing: Bearbetar
+  save.pleaseWait: 'Vänligen vänta...'
   save.createSuccess: 'Sidan har skapats.'
   save.error: 'Ett fel uppstod när du skapade sidan'
-  save.pleaseWait: 'Vänligen vänta...'
-  save.processing: Bearbetar
   save.updateSuccess: 'Sidan har uppdaterats.'
