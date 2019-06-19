@@ -78,6 +78,21 @@ common:
   page.delete: 删除页面
   page.deleteTitle: '确定要删除页面{{title}}吗？'
   page.deleteSubtitle: 该页面可以从管理区域恢复。
+  user.search: 搜索用户
+  user.searchPlaceholder: 搜索用户...
+  duration.every: 每
+  duration.minutes: 分钟
+  duration.hours: 小时
+  duration.days: 日
+  duration.months: 月份
+  duration.years: 年份
+  actions.discardChanges: 放弃
+  actions.move: 移动
+  actions.rename: 重命名
+  actions.optimize: 优化
+  actions.preview: 预览
+  actions.properties: 属性
+  actions.insert: 插入文件
   actions.fetch: 获取
   page.viewingSource: '查看页面源{{path}}'
   page.returnNormalView: 返回普通视图
@@ -386,6 +401,50 @@ editor:
   save.createSuccess: 页面创建成功。
   save.error: 创建页面时发生错误
   save.updateSuccess: 页面已成功更新。
+  props.pageProperties: 页面属性
+  props.pageInfo: 页面信息
+  props.title: 标题
+  props.shortDescription: 简短说明
+  props.shortDescriptionHint: 标题下方显示
+  props.pathCategorization: 路径和分类
+  props.locale: 语言环境
+  props.path: 路径
+  props.pathHint: 不要包含任何前导或尾随斜杠。
+  props.tags: 标签
+  props.tagsHint: '使用标记对页面进行分类,使其更易于查找。'
+  props.publishState: 发布状态
+  props.publishToggle: 发表
+  props.publishToggleHint: 在此页上具有写入权限的用户仍可以看到未发布的页面。
+  props.publishStart: 发布结束...
+  props.publishStartHint: 留空表示没有起始日期。
+  props.publishEnd: 发布结束...
+  props.publishEndHint: 留空表示没有终止日期
+  unsaved.title: 放弃未保存的更改？
+  unsaved.body: '您有未保存的更改。是否确实要离开编辑器并放弃自上次保存以来所做的任何修改?'
+  select.title: 使用哪个编辑器？
+  select.cannotChange: 创建页面后无法更改此项。
+  assets.title: 资源
+  assets.newFolder: 新建文件夹
+  assets.folderName: 文件夹名称
+  assets.folderNameNamingRules: '必须遵循 {{namingRules}}'
+  assets.folderNameNamingRulesLink: 命名规则
+  assets.folderEmpty: 空文件夹
+  assets.fileCount: '{{count}}文件'
+  assets.headerId: ID
+  assets.headerFilename: 文件名
+  assets.headerType: 类型
+  assets.headerFileSize: 文件大小
+  assets.headerAdded: 已添加
+  assets.headerActions: 操作
+  assets.uploadAssets: 上传
+  assets.uploadAssetsDropZone: 浏览或拖文件到此
+  assets.fetchImage: 获取远程图像
+  assets.imageAlign: 图像对齐
+  assets.renameAsset: 重命名
+  assets.renameAssetSubtitle: 输入新名称
+  assets.deleteAsset: 删除
+  assets.deleteAssetConfirm: 确定删除？
+  assets.deleteAssetWarn: 此操作无法撤消!
   assets.refreshSuccess: 已刷新的文件列表。
   assets.uploadFailed: 文件上传失败。
   assets.folderCreateSuccess: 已成功创建文件夹。
