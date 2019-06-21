@@ -1,0 +1,17 @@
+{
+    "auth:loginRequired": "Prijava je obvezna",
+    "auth:fields.emailUser": "E-pošta \/ uporabniško ime",
+    "auth:fields.password": "Geslo",
+    "auth:actions.login": "Prijava",
+    "auth:errors.invalidLogin": "Neveljavna prijava",
+    "auth:errors.invalidLoginMsg": "E-poštni naslov ali geslo je neveljavno",
+    "auth:errors.invalidUserEmail": "Neveljaven e-poštni naslov",
+    "auth:errors.loginError": "Napaka pri prijavi",
+    "auth:errors.userNotFound": "Uporabnika ni bilo mogoče najti",
+    "auth:providers.windowslive": "Microsoftov uporabniški račun",
+    "auth:providers.facebook": "Facebook",
+    "auth:providers.github": "GitHub",
+    "auth:providers.slack": "Slack",
+    "auth:tfa.placeholder": "XXXXXX",
+    "auth:tfa.verifyToken": "Preveri"
+}

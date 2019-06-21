@@ -1,0 +1,22 @@
+{
+    "auth:loginRequired": "Kræver login",
+    "auth:fields.emailUser": "E-mail \/ Brugernavn",
+    "auth:fields.password": "Adgangskode",
+    "auth:actions.login": "Log på",
+    "auth:errors.invalidLogin": "Ugyldigt Login",
+    "auth:errors.invalidLoginMsg": "E-mail eller adgangskoden er ugyldig.",
+    "auth:errors.invalidUserEmail": "Ugyldig bruger e-mail",
+    "auth:errors.loginError": "Login fejl",
+    "auth:errors.notYetAuthorized": "Du har ikke fået tilladelse til at logge på dette websted endnu.",
+    "auth:errors.tooManyAttempts": "For mange forsøg!",
+    "auth:errors.tooManyAttemptsMsg": "Du har lavet for mange mislykkede forsøg på for kort tid, prøv igen {{time}}.",
+    "auth:errors.userNotFound": "Brugeren blev ikke fundet",
+    "auth:providers.local": "Lokal",
+    "auth:providers.windowslive": "Microsoft-konto",
+    "auth:providers.azure": "Azure Active Directory",
+    "auth:providers.google": "Google ID",
+    "auth:providers.facebook": "Facebook",
+    "auth:providers.github": "GitHub",
+    "auth:providers.slack": "Slack",
+    "auth:providers.ldap": "LDAP \/ Active Directory"
+}
