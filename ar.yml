@@ -456,6 +456,8 @@ editor:
   markup.italic: مائل
   markup.strikethrough: يتوسطه
   markup.heading: 'العنوان {{level}}'
+  markup.subscript: مخطوطة
+  markup.superscript: علوية
   markup.blockquote: 'كتلة الاقتباس'
   markup.blockquoteInfo: 'كتلة المعلومات'
   markup.blockquoteSuccess: 'نجاح كتلة الاقتباس'
@@ -476,3 +478,4 @@ editor:
   markup.insertMathExpression: 'إدراج التعبير الرياضية'
   markup.tableHelper: 'مساعد الجدول'
   markup.distractionFreeMode: 'وضع التشتت الحرة'
+  markup.markdownFormattingHelp: 'تعليمات تنسيق Markdown'
