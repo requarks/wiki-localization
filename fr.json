@@ -475,5 +475,6 @@
     "editor:markup.markdownFormattingHelp": "Aide sur le formatage Markdown",
     "common:page.viewingSource": "Affichage de la source de la page {{path}}",
     "common:page.returnNormalView": "Retour à la vue normale",
-    "common:page.id": "ID {{id}}"
+    "common:page.id": "ID {{id}}",
+    "common:header.language": "Langue"
 }

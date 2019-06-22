@@ -475,5 +475,6 @@
     "editor:markup.markdownFormattingHelp": "Markdown Formatting Help",
     "common:page.viewingSource": "Viewing source of page {{path}}",
     "common:page.returnNormalView": "Return to Normal View",
-    "common:page.id": "ID {{id}}"
+    "common:page.id": "ID {{id}}",
+    "common:header.language": "Language"
 }
