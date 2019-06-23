@@ -475,5 +475,6 @@
     "editor:markup.markdownFormattingHelp": "마크다운 서식 도움말",
     "common:page.viewingSource": "페이지 {{path}} 의 원본을 봅니다 ",
     "common:page.returnNormalView": "기본보기로 돌아가기",
-    "common:page.id": "아이디 {{id}}"
+    "common:page.id": "아이디 {{id}}",
+    "common:header.language": "언어"
 }
