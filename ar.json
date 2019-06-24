@@ -475,5 +475,6 @@
     "editor:markup.markdownFormattingHelp": "تعليمات تنسيق Markdown",
     "common:page.viewingSource": "عرض مصدر الصفحة {{path}}",
     "common:page.returnNormalView": "العودة إلى طريقة العرض العادية",
-    "common:page.id": "رقم {id}}"
+    "common:page.id": "رقم {id}}",
+    "common:header.language": "اللغه"
 }

@@ -476,5 +476,12 @@
     "common:page.viewingSource": "Viewing source of page {{path}}",
     "common:page.returnNormalView": "Return to Normal View",
     "common:page.id": "ID {{id}}",
-    "common:header.language": "Language"
+    "common:header.language": "Language",
+    "admin:analytics.title": "Analytics",
+    "admin:analytics.subtitle": "Add analytics and tracking tools to your wiki",
+    "admin:analytics.providers": "Providers",
+    "admin:analytics.providerConfiguration": "Provider Configuration",
+    "admin:analytics.providerNoConfiguration": "This provider has no configuration options you can modify.",
+    "admin:analytics.refreshSuccess": "List of providers refreshed successfully.",
+    "admin:analytics.saveSuccess": "Analytics configuration saved successfully"
 }

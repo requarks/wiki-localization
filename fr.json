@@ -476,5 +476,12 @@
     "common:page.viewingSource": "Affichage de la source de la page {{path}}",
     "common:page.returnNormalView": "Retour à la vue normale",
     "common:page.id": "ID {{id}}",
-    "common:header.language": "Langue"
+    "common:header.language": "Langue",
+    "admin:analytics.title": "Analytiques",
+    "admin:analytics.subtitle": "Ajoutez des outils d'analyse à votre wiki",
+    "admin:analytics.providers": "Fournisseurs",
+    "admin:analytics.providerConfiguration": "Configuration du fournisseur",
+    "admin:analytics.providerNoConfiguration": "Ce fournisseur n'a pas d'options de configuration que vous pouvez modifier.",
+    "admin:analytics.refreshSuccess": "Liste des fournisseurs actualisée avec succès.",
+    "admin:analytics.saveSuccess": "Configuration des analytiques enregistrée avec succès"
 }
