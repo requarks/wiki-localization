@@ -228,7 +228,7 @@
     "admin:mail.testHint": "Отправьте тестовое электронное письмо, чтобы убедиться, что ваша конфигурация SMTP работает.",
     "admin:mail.saveSuccess": "Настройки успешно сохранены.",
     "admin:system.dbPartialSupport": "Ваша версия базы данных не полностью поддерживается. Некоторые функции могут быть ограничены или работать не так, как ожидалось.",
-    "admin:system.refreshSuccess": "Система информация обновлена.",
+    "admin:system.refreshSuccess": "Системная информация обновлена.",
     "admin:auth.subtitle": "Настройте параметры авторизации в вики",
     "admin:auth.strategies": "Способы авторизации",
     "admin:auth.globalAdvSettings": "Глобальные расширенные настройки",
@@ -475,5 +475,13 @@
     "editor:markup.markdownFormattingHelp": "Справка по разметке Markdown",
     "common:page.viewingSource": "Просмотр исходного кода страницы {{path}}",
     "common:page.returnNormalView": "Вернуться к обычному виду",
-    "common:page.id": "ID {{id}}"
+    "common:page.id": "ID {{id}}",
+    "common:header.language": "Язык",
+    "admin:analytics.title": "Аналитика",
+    "admin:analytics.subtitle": "Добавьте аналитику и инструменты отслеживания на свою вики",
+    "admin:analytics.providers": "Провайдеры",
+    "admin:analytics.providerConfiguration": "Настройки провайдера",
+    "admin:analytics.providerNoConfiguration": "У этого провайдера нет параметров конфигурации, которые вы можете изменить.",
+    "admin:analytics.refreshSuccess": "Список провайдеров успешно обновлен.",
+    "admin:analytics.saveSuccess": "Настройки аналитики успешно сохранены"
 }

@@ -483,5 +483,17 @@
     "admin:analytics.providerConfiguration": "Provider Configuration",
     "admin:analytics.providerNoConfiguration": "This provider has no configuration options you can modify.",
     "admin:analytics.refreshSuccess": "List of providers refreshed successfully.",
-    "admin:analytics.saveSuccess": "Analytics configuration saved successfully"
+    "admin:analytics.saveSuccess": "Analytics configuration saved successfully",
+    "admin:utilities.subtitle": "Maintenance and miscellaneous tools",
+    "admin:utilities.tools": "Tools",
+    "admin:utilities.authTitle": "Authentication",
+    "admin:utilities.authSubtitle": "Various tools for authentication \/ users",
+    "admin:utilities.cacheTitle": "Flush Cache",
+    "admin:utilities.cacheSubtitle": "Flush cache of various components",
+    "admin:utilities.graphEndpointTitle": "GraphQL Endpoint",
+    "admin:utilities.graphEndpointSubtitle": "Change the GraphQL endpoint for Wiki.js",
+    "admin:utilities.importv1Title": "Import from Wiki.js 1.x",
+    "admin:utilities.importv1Subtitle": "Migrate data from a previous 1.x installation",
+    "admin:utilities.telemetryTitle": "Telemetry",
+    "admin:utilities.telemetrySubtitle": "Enable\/Disable telemetry or reset the client ID"
 }

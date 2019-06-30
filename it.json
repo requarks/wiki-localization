@@ -197,5 +197,15 @@
     "common:welcome.createhome": "Crea la pagina principale",
     "admin:dev.flags.title": "Flags",
     "admin:dev.graphiql.title": "GraphiQL",
-    "admin:dev.voyager.title": "Passeggero"
+    "admin:dev.voyager.title": "Passeggero",
+    "common:header.language": "lingua",
+    "admin:analytics.subtitle": "Aggiungi strumenti di analisi e tracciamento al tuo wiki",
+    "admin:utilities.tools": "Strumenti",
+    "admin:utilities.authTitle": "Autenticazione",
+    "admin:utilities.cacheTitle": "Svuota la cache",
+    "admin:utilities.cacheSubtitle": "Svuota la cache dei vari componenti",
+    "admin:utilities.graphEndpointTitle": "Endpoint GraphQL",
+    "admin:utilities.graphEndpointSubtitle": "Cambia l'endpoint GraphQL per Wiki.js",
+    "admin:utilities.importv1Title": "Importa da Wiki.js 1.x",
+    "admin:utilities.telemetryTitle": "Telemetria"
 }

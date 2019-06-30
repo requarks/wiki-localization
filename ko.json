@@ -476,5 +476,19 @@
     "common:page.viewingSource": "페이지 {{path}} 의 원본을 봅니다 ",
     "common:page.returnNormalView": "기본보기로 돌아가기",
     "common:page.id": "아이디 {{id}}",
-    "common:header.language": "언어"
+    "common:header.language": "언어",
+    "admin:analytics.title": "분석",
+    "admin:analytics.subtitle": "위키에 분석 및 추적 도구 추가",
+    "admin:analytics.providers": "제공 업체",
+    "admin:analytics.providerConfiguration": "공급자 구성",
+    "admin:analytics.providerNoConfiguration": "이 공급자에는 수정할 수있는 구성 옵션이 없습니다.",
+    "admin:analytics.refreshSuccess": "성공적으로 새로 고쳐진 공급자 목록입니다.",
+    "admin:analytics.saveSuccess": "웹 분석 구성이 저장되었습니다.",
+    "admin:utilities.subtitle": "유지 보수 및 기타 도구",
+    "admin:utilities.tools": "도구",
+    "admin:utilities.authTitle": "계정 인증",
+    "admin:utilities.authSubtitle": "인증 \/ 사용자 도구",
+    "admin:utilities.importv1Title": "Wiki.js 1.x에서 가져 오기",
+    "admin:utilities.importv1Subtitle": "이전 1.x 설치에서 데이터 마이그레이션",
+    "admin:utilities.telemetryTitle": "원격"
 }

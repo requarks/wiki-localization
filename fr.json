@@ -483,5 +483,17 @@
     "admin:analytics.providerConfiguration": "Configuration du fournisseur",
     "admin:analytics.providerNoConfiguration": "Ce fournisseur n'a pas d'options de configuration que vous pouvez modifier.",
     "admin:analytics.refreshSuccess": "Liste des fournisseurs actualisée avec succès.",
-    "admin:analytics.saveSuccess": "Configuration des analytiques enregistrée avec succès"
+    "admin:analytics.saveSuccess": "Configuration des analytiques enregistrée avec succès",
+    "admin:utilities.subtitle": "Maintenance et outils divers",
+    "admin:utilities.tools": "Outils",
+    "admin:utilities.authTitle": "Authentification",
+    "admin:utilities.authSubtitle": "Divers outils d'authentification \/ utilisateurs",
+    "admin:utilities.cacheTitle": "Vider le cache",
+    "admin:utilities.cacheSubtitle": "Vider le cache de divers composants",
+    "admin:utilities.graphEndpointTitle": "Point de terminaison GraphQL",
+    "admin:utilities.graphEndpointSubtitle": "Modifier le point de terminaison GraphQL pour Wiki.js",
+    "admin:utilities.importv1Title": "Importer depuis Wiki.js 1.x",
+    "admin:utilities.importv1Subtitle": "Migrer les données d'une précédente installation 1.x",
+    "admin:utilities.telemetryTitle": "Télémétrie",
+    "admin:utilities.telemetrySubtitle": "Activer \/ désactiver la télémétrie ou réinitialiser l'ID client"
 }
