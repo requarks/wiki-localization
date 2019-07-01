@@ -483,5 +483,13 @@
     "admin:analytics.providerConfiguration": "Настройки провайдера",
     "admin:analytics.providerNoConfiguration": "У этого провайдера нет параметров конфигурации, которые вы можете изменить.",
     "admin:analytics.refreshSuccess": "Список провайдеров успешно обновлен.",
-    "admin:analytics.saveSuccess": "Настройки аналитики успешно сохранены"
+    "admin:analytics.saveSuccess": "Настройки аналитики успешно сохранены",
+    "admin:utilities.subtitle": "Обслуживание и прочие инструменты",
+    "admin:utilities.tools": "Инструменты",
+    "admin:utilities.authTitle": "Авторизация",
+    "admin:utilities.cacheTitle": "Очистить кэш",
+    "admin:utilities.graphEndpointTitle": "Конечная точка GraphQL",
+    "admin:utilities.graphEndpointSubtitle": "Изменить конечную точку GraphQL для Wiki.js",
+    "admin:utilities.importv1Title": "Импорт из Wiki.js 1.x",
+    "admin:utilities.importv1Subtitle": "Перенос данных с предыдущей установки 1.x"
 }

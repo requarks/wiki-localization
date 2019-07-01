@@ -475,5 +475,11 @@
     "editor:markup.markdownFormattingHelp": "Markdown 用法帮助",
     "common:page.viewingSource": "查看页面源{{path}}",
     "common:page.returnNormalView": "返回普通视图",
-    "common:page.id": "ID {{id}}"
+    "common:page.id": "ID {{id}}",
+    "admin:utilities.graphEndpointTitle": "GraphQL端点",
+    "admin:utilities.graphEndpointSubtitle": "更改 Wiki.js 的 GraphQL 端点",
+    "admin:utilities.importv1Title": "从 Wiki.js 1.x 导入",
+    "admin:utilities.importv1Subtitle": "从以前的 1.x 安装中迁移数据",
+    "admin:utilities.telemetryTitle": "遥测",
+    "admin:utilities.telemetrySubtitle": "启用\/禁用遥测或重置客户端 ID"
 }

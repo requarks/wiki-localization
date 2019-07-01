@@ -483,5 +483,17 @@
     "admin:analytics.providerConfiguration": "إعدادات المزود",
     "admin:analytics.providerNoConfiguration": "لا يحتوي هذا المزود على خيارات إعداد يمكنك تعديلها.",
     "admin:analytics.refreshSuccess": "تم تحديث قائمة بالموفرين بنجاح.",
-    "admin:analytics.saveSuccess": "تم حفظ إعدادات التحليلات بنجاح"
+    "admin:analytics.saveSuccess": "تم حفظ إعدادات التحليلات بنجاح",
+    "admin:utilities.subtitle": "أدوات الصيانة والأدوات المتنوعة",
+    "admin:utilities.tools": "أدوات",
+    "admin:utilities.authTitle": "المصادقة",
+    "admin:utilities.authSubtitle": "أدوات مختلفة للمصادقة \/ المستخدمين",
+    "admin:utilities.cacheTitle": "ذاكرة التخزين المؤقت",
+    "admin:utilities.cacheSubtitle": "مسح ذاكرة التخزين المؤقت من مختلف المكونات",
+    "admin:utilities.graphEndpointTitle": "GraphQL Endpoint",
+    "admin:utilities.graphEndpointSubtitle": "تغيير نقطة النهاية GraphQL ل Wiki.js",
+    "admin:utilities.importv1Title": "استيراد من Wiki.js 1.x",
+    "admin:utilities.importv1Subtitle": "ترحيل البيانات من تثبيت 1.x السابق",
+    "admin:utilities.telemetryTitle": "القياس",
+    "admin:utilities.telemetrySubtitle": "تمكين\/تعطيل القياس عن بعد أو إعادة تعيين معرف العميل"
 }
