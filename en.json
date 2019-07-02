@@ -495,5 +495,10 @@
     "admin:utilities.importv1Title": "Import from Wiki.js 1.x",
     "admin:utilities.importv1Subtitle": "Migrate data from a previous 1.x installation",
     "admin:utilities.telemetryTitle": "Telemetry",
-    "admin:utilities.telemetrySubtitle": "Enable\/Disable telemetry or reset the client ID"
+    "admin:utilities.telemetrySubtitle": "Enable\/Disable telemetry or reset the client ID",
+    "admin:comments.title": "Comments",
+    "common:page.published": "Published",
+    "common:page.private": "Private",
+    "common:page.global": "Global",
+    "common:page.loading": "Loading Page..."
 }

@@ -495,5 +495,9 @@
     "admin:utilities.importv1Title": "استيراد من Wiki.js 1.x",
     "admin:utilities.importv1Subtitle": "ترحيل البيانات من تثبيت 1.x السابق",
     "admin:utilities.telemetryTitle": "القياس",
-    "admin:utilities.telemetrySubtitle": "تمكين\/تعطيل القياس عن بعد أو إعادة تعيين معرف العميل"
+    "admin:utilities.telemetrySubtitle": "تمكين\/تعطيل القياس عن بعد أو إعادة تعيين معرف العميل",
+    "admin:comments.title": "تعليقات",
+    "common:page.published": "نشرت",
+    "common:page.private": "الخاصه",
+    "common:page.global": "عالمي"
 }

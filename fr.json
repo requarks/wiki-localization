@@ -495,5 +495,10 @@
     "admin:utilities.importv1Title": "Importer depuis Wiki.js 1.x",
     "admin:utilities.importv1Subtitle": "Migrer les données d'une précédente installation 1.x",
     "admin:utilities.telemetryTitle": "Télémétrie",
-    "admin:utilities.telemetrySubtitle": "Activer \/ désactiver la télémétrie ou réinitialiser l'ID client"
+    "admin:utilities.telemetrySubtitle": "Activer \/ désactiver la télémétrie ou réinitialiser l'ID client",
+    "admin:comments.title": "Commentaires",
+    "common:page.published": "Publié",
+    "common:page.private": "Privée",
+    "common:page.global": "Global",
+    "common:page.loading": "Chargement de la page..."
 }
