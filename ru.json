@@ -141,7 +141,7 @@
     "admin:navigation.noItemsText": "Нажмите на кнопку Добавить для добавления первого элемента навигации.",
     "admin:navigation.emptyList": "Навигация пуста",
     "common:actions.apply": "Применить",
-    "auth:fields.email": "Адрес электронной почты ",
+    "auth:fields.email": "Адрес электронной почты",
     "auth:fields.verifyPassword": "Подтвердите пароль",
     "auth:fields.name": "Название",
     "auth:actions.register": "Регистрация",
@@ -487,9 +487,18 @@
     "admin:utilities.subtitle": "Обслуживание и прочие инструменты",
     "admin:utilities.tools": "Инструменты",
     "admin:utilities.authTitle": "Авторизация",
+    "admin:utilities.authSubtitle": "Различные инструменты для авторизации \/ пользователей",
     "admin:utilities.cacheTitle": "Очистить кэш",
+    "admin:utilities.cacheSubtitle": "Очистка кеша различных компонентов",
     "admin:utilities.graphEndpointTitle": "Конечная точка GraphQL",
     "admin:utilities.graphEndpointSubtitle": "Изменить конечную точку GraphQL для Wiki.js",
     "admin:utilities.importv1Title": "Импорт из Wiki.js 1.x",
-    "admin:utilities.importv1Subtitle": "Перенос данных с предыдущей установки 1.x"
+    "admin:utilities.importv1Subtitle": "Перенос данных с предыдущей установки 1.x",
+    "admin:utilities.telemetryTitle": "Телеметрия",
+    "admin:utilities.telemetrySubtitle": "Включить \/ отключить телеметрию или сбросить ID клиента",
+    "admin:comments.title": "Комментарии",
+    "common:page.published": "Опубликовано",
+    "common:page.private": "Приватная",
+    "common:page.global": "Глобальная",
+    "common:page.loading": "Загрузка страницы..."
 }

@@ -499,5 +499,6 @@
     "admin:comments.title": "تعليقات",
     "common:page.published": "نشرت",
     "common:page.private": "الخاصه",
-    "common:page.global": "عالمي"
+    "common:page.global": "عالمي",
+    "common:page.loading": "تحميل الصفحة..."
 }
