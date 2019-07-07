@@ -488,7 +488,16 @@
     "admin:utilities.tools": "도구",
     "admin:utilities.authTitle": "계정 인증",
     "admin:utilities.authSubtitle": "인증 \/ 사용자 도구",
+    "admin:utilities.cacheTitle": "캐시 플러시",
+    "admin:utilities.cacheSubtitle": "다양한 구성 요소의 캐시 플러시",
+    "admin:utilities.graphEndpointTitle": "GraphQL 종점",
+    "admin:utilities.graphEndpointSubtitle": "Wiki.js에 대한 GraphQL 종점 변경",
     "admin:utilities.importv1Title": "Wiki.js 1.x에서 가져 오기",
     "admin:utilities.importv1Subtitle": "이전 1.x 설치에서 데이터 마이그레이션",
-    "admin:utilities.telemetryTitle": "원격"
+    "admin:utilities.telemetryTitle": "원격",
+    "admin:comments.title": "댓글",
+    "common:page.published": "발행됨",
+    "common:page.private": "개인",
+    "common:page.global": "전역",
+    "common:page.loading": "페이지 로드 중 ..."
 }

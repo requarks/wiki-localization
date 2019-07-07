@@ -233,5 +233,9 @@
     "admin:auth.strategyStateActive": "aktivní",
     "admin:auth.strategyStateInactive": "neaktivní",
     "admin:auth.strategyStateLocked": "a nelze ji zakázat.",
-    "admin:mail.sendTestSuccess": "Testovací e-mail byl úspěšně odeslán."
+    "admin:mail.sendTestSuccess": "Testovací e-mail byl úspěšně odeslán.",
+    "admin:utilities.telemetryTitle": "Telemetrie",
+    "admin:utilities.telemetrySubtitle": "Povolí\/zakáže telemetrii nebo resetuje ID klienta",
+    "admin:comments.title": "Komentáře",
+    "common:page.loading": "Načítání stránky..."
 }
