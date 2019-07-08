@@ -52,7 +52,7 @@
     "admin:locale.subtitle": "הגדר אפשרויות אזור (שפה) עבור הויקי שלך",
     "admin:locale.settings": "הגדרות אזור (שפה)",
     "admin:locale.namespacing": "מרחבים רב לשוניים",
-    "admin:locale.download": "הורד הגדרות אזור (שפה)",
+    "admin:locale.downloadTitle": "הורד הגדרות אזור (שפה)",
     "admin:locale.base.labelWithNS": "אזור (שפת) בסיס",
     "admin:locale.base.hint": "כל רכיבי ממשק המשתמש יוצגו בשפה שנבחרה.",
     "admin:locale.autoUpdate.label": "עדכן אוטומטית",

@@ -53,7 +53,7 @@
     "admin:locale.subtitle": "为您的wiki设置本地化选项",
     "admin:locale.settings": "语言环境设置",
     "admin:locale.namespacing": "多语言命名空间",
-    "admin:locale.download": "下载语言环境",
+    "admin:locale.downloadTitle": "下载语言环境",
     "admin:locale.base.labelWithNS": "基本语言环境",
     "admin:locale.base.hint": "所有UI文本元素都将以选定的语言显示。",
     "admin:locale.autoUpdate.label": "自动更新",

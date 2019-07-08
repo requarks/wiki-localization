@@ -53,7 +53,7 @@
     "admin:locale.subtitle": "Настройте параметры локализации для вашей вики",
     "admin:locale.settings": "Настройки языка",
     "admin:locale.namespacing": "Многоязычные страницы",
-    "admin:locale.download": "Загрузить язык",
+    "admin:locale.downloadTitle": "Загрузить язык",
     "admin:locale.base.labelWithNS": "Язык по умолчанию",
     "admin:locale.base.hint": "Все текстовые элементы пользовательского интерфейса будут отображаться на выбранном языке.",
     "admin:locale.autoUpdate.label": "Автоматическое обновление",

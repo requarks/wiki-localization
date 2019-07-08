@@ -53,7 +53,7 @@
     "admin:locale.subtitle": "Ställ in språkinställningar för din wiki",
     "admin:locale.settings": "Språkinställningar",
     "admin:locale.namespacing": "Flerspråkig Namnutrymmen",
-    "admin:locale.download": "Ladda Ner Språk",
+    "admin:locale.downloadTitle": "Ladda Ner Språk",
     "admin:locale.base.labelWithNS": "Webbplatsens Språk",
     "admin:locale.base.hint": "Alla UI-element text kommer att visas i valt språk.",
     "admin:locale.autoUpdate.label": "Uppdatera Automatiskt",

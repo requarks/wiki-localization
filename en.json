@@ -53,7 +53,7 @@
     "admin:locale.subtitle": "Set localization options for your wiki",
     "admin:locale.settings": "Locale Settings",
     "admin:locale.namespacing": "Multilingual Namespacing",
-    "admin:locale.download": "Download Locale",
+    "admin:locale.downloadTitle": "Download Locale",
     "admin:locale.base.labelWithNS": "Base Locale",
     "admin:locale.base.hint": "All UI text elements will be displayed in selected language.",
     "admin:locale.autoUpdate.label": "Update Automatically",
@@ -500,5 +500,13 @@
     "common:page.published": "Published",
     "common:page.private": "Private",
     "common:page.global": "Global",
-    "common:page.loading": "Loading Page..."
+    "common:page.loading": "Loading Page...",
+    "admin:locale.code": "Code",
+    "admin:locale.name": "Name",
+    "admin:locale.nativeName": "Native Name",
+    "admin:locale.rtl": "RTL",
+    "admin:locale.availability": "Availability",
+    "admin:locale.download": "Download",
+    "admin:utilities.contentTitle": "Content",
+    "admin:utilities.contentSubtitle": "Various tools for pages"
 }

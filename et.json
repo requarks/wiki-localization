@@ -53,7 +53,7 @@
     "admin:locale.subtitle": "Määra oma viki lokaliseerimise seadeid",
     "admin:locale.settings": "Keele seaded",
     "admin:locale.namespacing": "Mitmekeelsed nimeruumid",
-    "admin:locale.download": "Lae keel alla",
+    "admin:locale.downloadTitle": "Lae keel alla",
     "admin:locale.base.labelWithNS": "Baaskeel",
     "admin:locale.base.hint": "Kõik kasutajaliidese teksti elemendid kuvatakse valitud keeles.",
     "admin:locale.autoUpdate.label": "Uuenda automaatselt",

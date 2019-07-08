@@ -53,7 +53,7 @@
     "admin:locale.subtitle": "Viki'niz için yerelleştirme seçeneklerini ayarlayın",
     "admin:locale.settings": "Yerel Ayarları",
     "admin:locale.namespacing": "Çok Dilli Ad Alanlaştırma",
-    "admin:locale.download": "Yerel İndir",
+    "admin:locale.downloadTitle": "Yerel İndir",
     "admin:locale.base.labelWithNS": "Temel Yerel",
     "admin:locale.base.hint": "Tüm Kullanıcı arayüzü metin öğeleri seçilen dilde görüntülenir.",
     "admin:locale.autoUpdate.label": "Otomatik Olarak Güncelle",

@@ -53,7 +53,7 @@
     "admin:locale.subtitle": "언어 옵션",
     "admin:locale.settings": "현재 언어",
     "admin:locale.namespacing": "언어 이름 공간",
-    "admin:locale.download": "언어 받기",
+    "admin:locale.downloadTitle": "언어 받기",
     "admin:locale.base.labelWithNS": "현재 언어",
     "admin:locale.base.hint": "유저 인터페이스 텍스트는 이 언어로 표시할 거예요.",
     "admin:locale.autoUpdate.label": "자동 업데이트",

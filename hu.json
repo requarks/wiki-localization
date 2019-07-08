@@ -53,7 +53,7 @@
     "admin:locale.subtitle": "A wikid lokalizációs beállításainak beállítása",
     "admin:locale.settings": "Nyelv beállítások",
     "admin:locale.namespacing": "Többnyelvű névterezés",
-    "admin:locale.download": "Nyelv letöltése",
+    "admin:locale.downloadTitle": "Nyelv letöltése",
     "admin:locale.base.labelWithNS": "Alapnyelv",
     "admin:locale.base.hint": "Minden UI szövegelem a kijelölt nyelven fog megjelenni.",
     "admin:locale.autoUpdate.label": "Automatikus frissítés",

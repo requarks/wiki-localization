@@ -41,7 +41,7 @@
     "admin:nav.modules": "Модулі",
     "admin:nav.system": "Система",
     "admin:locale.settings": "Налаштування локалізації",
-    "admin:locale.download": "Завантажити локалізацію",
+    "admin:locale.downloadTitle": "Завантажити локалізацію",
     "admin:locale.base.labelWithNS": "Основна локалізація",
     "admin:locale.autoUpdate.label": "Оновлювати автоматично",
     "admin:locale.namespaces.label": "Багатомовний простір імен",

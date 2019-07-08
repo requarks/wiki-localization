@@ -53,7 +53,7 @@
     "admin:locale.subtitle": "Wybierz ustawienia regionalne swojej wiki",
     "admin:locale.settings": "Ustawienia regionalne",
     "admin:locale.namespacing": "Wersje językowe",
-    "admin:locale.download": "Pobierz wersje językowe",
+    "admin:locale.downloadTitle": "Pobierz wersje językowe",
     "admin:locale.base.labelWithNS": "Domyślny język",
     "admin:locale.base.hint": "Wszytkie elementy interfejsu użytkownika będą wyświetlane w wybranym języku.",
     "admin:locale.autoUpdate.label": "Aktualizuj automatycznie",

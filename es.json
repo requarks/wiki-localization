@@ -53,7 +53,7 @@
     "admin:locale.subtitle": "Establecer opciones de localización para tu wiki",
     "admin:locale.settings": "Configuración local",
     "admin:locale.namespacing": "Espacio de nombres multilingüe",
-    "admin:locale.download": "Descargar Localización",
+    "admin:locale.downloadTitle": "Descargar Localización",
     "admin:locale.base.labelWithNS": "Localización Base",
     "admin:locale.base.hint": "Todos los elementos de texto de la interfaz de usuario se mostrarán en el idioma seleccionado.",
     "admin:locale.autoUpdate.label": "Actualizar automáticamente",

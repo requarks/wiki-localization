@@ -53,7 +53,7 @@
     "admin:locale.subtitle": "Nastaviť možnosti lokalizácie pre vašu wiki",
     "admin:locale.settings": "Nastavenie Lokalizácie",
     "admin:locale.namespacing": "Viacjazyčné menné priestory",
-    "admin:locale.download": "Stiahnuť Lokalizáciu",
+    "admin:locale.downloadTitle": "Stiahnuť Lokalizáciu",
     "admin:locale.base.labelWithNS": "Lokalizácia Stránky",
     "admin:locale.base.hint": "Všetky prvky textu používateľského rozhrania sa zobrazia vo vybratom jazyku.",
     "admin:locale.autoUpdate.label": "Automaticky aktualizovať",

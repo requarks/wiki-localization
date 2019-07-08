@@ -53,7 +53,7 @@
     "admin:locale.subtitle": "Definir opções de tradução para o seu wiki",
     "admin:locale.settings": "Configurações de tradução",
     "admin:locale.namespacing": "Namespace multilíngue",
-    "admin:locale.download": "Baixar Idioma",
+    "admin:locale.downloadTitle": "Baixar Idioma",
     "admin:locale.base.labelWithNS": "Idioma Base",
     "admin:locale.base.hint": "Todos os elementos de texto da UI serão exibidos no idioma selecionado.",
     "admin:locale.autoUpdate.label": "Atualizar automaticamente",

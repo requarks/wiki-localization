@@ -53,7 +53,7 @@
     "admin:locale.subtitle": "為您的 Wiki 設定本地化選項",
     "admin:locale.settings": "語系設定",
     "admin:locale.namespacing": "多語系名空間",
-    "admin:locale.download": "下載語系",
+    "admin:locale.downloadTitle": "下載語系",
     "admin:locale.base.labelWithNS": "預設語系",
     "admin:locale.base.hint": "所有UI文字元素都將以選定的語言顯示。",
     "admin:locale.autoUpdate.label": "自動更新",

@@ -53,7 +53,7 @@
     "admin:locale.subtitle": "تعيين خيارات التعريب لويكي الخاص بك",
     "admin:locale.settings": "إعدادات اللغة",
     "admin:locale.namespacing": "النطاق متعددة اللغات",
-    "admin:locale.download": "تنزيل اللغة",
+    "admin:locale.downloadTitle": "تنزيل اللغة",
     "admin:locale.base.labelWithNS": "اللغة الاساسيه",
     "admin:locale.base.hint": "سيتم عرض كافة عناصر نص واجهه المستخدم في اللغة المحددة.",
     "admin:locale.autoUpdate.label": "التحديث تلقائيا",
