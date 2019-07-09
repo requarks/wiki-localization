@@ -500,5 +500,13 @@
     "common:page.published": "Опубликовано",
     "common:page.private": "Приватная",
     "common:page.global": "Глобальная",
-    "common:page.loading": "Загрузка страницы..."
+    "common:page.loading": "Загрузка страницы...",
+    "admin:locale.code": "Код",
+    "admin:locale.name": "Имя",
+    "admin:locale.nativeName": "Родное имя",
+    "admin:locale.rtl": "Справа налево",
+    "admin:locale.availability": "Доступность",
+    "admin:locale.download": "Загрузить",
+    "admin:utilities.contentTitle": "Контент",
+    "admin:utilities.contentSubtitle": "Различные инструменты для страниц"
 }
