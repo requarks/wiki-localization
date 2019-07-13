@@ -500,5 +500,13 @@
     "common:page.published": "Publicada",
     "common:page.private": "Privada",
     "common:page.global": "Global",
-    "common:page.loading": "Carregando..."
+    "common:page.loading": "Carregando...",
+    "admin:locale.code": "Código",
+    "admin:locale.name": "Nome",
+    "admin:locale.nativeName": "Nome Nativo",
+    "admin:locale.rtl": "RTL",
+    "admin:locale.availability": "Disponibilidade",
+    "admin:locale.download": "Download",
+    "admin:utilities.contentTitle": "Conteúdo",
+    "admin:utilities.contentSubtitle": "Ferramentas diversas para páginas"
 }
