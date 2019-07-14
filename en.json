@@ -508,5 +508,9 @@
     "admin:locale.availability": "Availability",
     "admin:locale.download": "Download",
     "admin:utilities.contentTitle": "Content",
-    "admin:utilities.contentSubtitle": "Various tools for pages"
+    "admin:utilities.contentSubtitle": "Various tools for pages",
+    "admin:theme.iconset": "Icon Set",
+    "admin:theme.iconsetHint": "Set of icons to use for the sidebar navigation.",
+    "common:outdatedBrowserWarning": "Your browser is outdated. Upgrade to a {{modernBrowser}}.",
+    "common:modernBrowser": "modern browser"
 }

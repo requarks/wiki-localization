@@ -508,5 +508,9 @@
     "admin:locale.availability": "Disponibilité",
     "admin:locale.download": "Télécharger",
     "admin:utilities.contentTitle": "Contenu",
-    "admin:utilities.contentSubtitle": "Divers outils pour les pages"
+    "admin:utilities.contentSubtitle": "Divers outils pour les pages",
+    "admin:theme.iconset": "Ensemble d'icônes",
+    "admin:theme.iconsetHint": "Ensemble d'icônes à utiliser pour la barre latérale de navigation.",
+    "common:outdatedBrowserWarning": "Votre navigateur est obsolète. Passez à un {{modernBrowser}}.",
+    "common:modernBrowser": "navigateur moderne"
 }
