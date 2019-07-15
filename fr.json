@@ -512,5 +512,10 @@
     "admin:theme.iconset": "Ensemble d'icônes",
     "admin:theme.iconsetHint": "Ensemble d'icônes à utiliser pour la barre latérale de navigation.",
     "common:outdatedBrowserWarning": "Votre navigateur est obsolète. Passez à un {{modernBrowser}}.",
-    "common:modernBrowser": "navigateur moderne"
+    "common:modernBrowser": "navigateur moderne",
+    "admin:theme.downloadName": "Nom",
+    "admin:theme.downloadAuthor": "Auteur",
+    "admin:theme.downloadDownload": "Télécharger",
+    "admin:theme.cssOverrideWarning": "{{caution}} Lors de l'ajout de styles affectant le contenu de la page, vous devez les limiter à la portée de la classe {{cssClass}}. Utiliser des classes globales pourrait briser l'interface de l'éditeur!",
+    "admin:theme.cssOverrideWarningCaution": "ATTENTION:"
 }

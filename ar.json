@@ -500,5 +500,22 @@
     "common:page.published": "نشرت",
     "common:page.private": "الخاصه",
     "common:page.global": "عالمي",
-    "common:page.loading": "تحميل الصفحة..."
+    "common:page.loading": "تحميل الصفحة...",
+    "admin:locale.code": "الشفرة",
+    "admin:locale.name": "اسم",
+    "admin:locale.nativeName": "الاسم الأصلي",
+    "admin:locale.rtl": "RTL",
+    "admin:locale.availability": "توافر",
+    "admin:locale.download": "تحميل",
+    "admin:utilities.contentTitle": "المحتوي",
+    "admin:utilities.contentSubtitle": "أدوات مختلفة للصفحات",
+    "admin:theme.iconset": "مجموعة الرموز",
+    "admin:theme.iconsetHint": "مجموعة من الرموز لاستخدامها في التنقل في الشريط الجانبي.",
+    "common:outdatedBrowserWarning": "متصفحك قديم. قم بالترقية إلى {{modernBrowser}} .",
+    "common:modernBrowser": "المتصفح الحديث",
+    "admin:theme.downloadName": "اسم",
+    "admin:theme.downloadAuthor": "مؤلف",
+    "admin:theme.downloadDownload": "تحميل",
+    "admin:theme.cssOverrideWarning": "{{caution}} عند إضافة أنماط لمحتوى الصفحة ، يجب عليك توسيع نطاقها إلى فئة {{cssClass}} . حذف هذا يمكن أن يكسر تصميم المحرر!",
+    "admin:theme.cssOverrideWarningCaution": "الحذر:"
 }

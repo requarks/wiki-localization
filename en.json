@@ -512,5 +512,10 @@
     "admin:theme.iconset": "Icon Set",
     "admin:theme.iconsetHint": "Set of icons to use for the sidebar navigation.",
     "common:outdatedBrowserWarning": "Your browser is outdated. Upgrade to a {{modernBrowser}}.",
-    "common:modernBrowser": "modern browser"
+    "common:modernBrowser": "modern browser",
+    "admin:theme.downloadName": "Name",
+    "admin:theme.downloadAuthor": "Author",
+    "admin:theme.downloadDownload": "Download",
+    "admin:theme.cssOverrideWarning": "{{caution}} When adding styles for page content, you must scope them to the {{cssClass}} class. Omitting this could break the layout of the editor!",
+    "admin:theme.cssOverrideWarningCaution": "CAUTION:"
 }
