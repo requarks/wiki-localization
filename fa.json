@@ -22,5 +22,7 @@
     "auth:providers.ldap": "ال‌دپ\/اکتیو دایرکتوری",
     "common:welcome.title": "به ویکی خودتان خوش آمدید!",
     "common:welcome.subtitle": "شروع و ساختن صفحه اصلی",
-    "common:welcome.createhome": "ایجاد صفحه اصلی"
+    "common:welcome.createhome": "ایجاد صفحه اصلی",
+    "admin:theme.cssOverrideWarning": "{{caution}} هنگام اضافه کردن استایل برای محتوای صفحه، شما باید به آنها کلاس {{cssClass}} را بدهید. اجتناب از این می تواند باعث بهم ریختگی ویرایشگر شود!",
+    "admin:theme.cssOverrideWarningCaution": "هشدار:"
 }
