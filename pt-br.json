@@ -508,5 +508,14 @@
     "admin:locale.availability": "Disponibilidade",
     "admin:locale.download": "Download",
     "admin:utilities.contentTitle": "Conteúdo",
-    "admin:utilities.contentSubtitle": "Ferramentas diversas para páginas"
+    "admin:utilities.contentSubtitle": "Ferramentas diversas para páginas",
+    "admin:theme.iconset": "Ícones",
+    "admin:theme.iconsetHint": "Conjunto de ícones para usar na navegação da barra lateral.",
+    "common:outdatedBrowserWarning": "Seu navegador está desatualizado. Atualize para um {{modernBrowser}} .",
+    "common:modernBrowser": "navegador moderno",
+    "admin:theme.downloadName": "Nome",
+    "admin:theme.downloadAuthor": "Autor",
+    "admin:theme.downloadDownload": "Download",
+    "admin:theme.cssOverrideWarning": "{{caution}} Ao adicionar estilos ao conteúdo da página, você deve aplicá-los à classe {{cssClass}} . Omitir isso poderia quebrar o layout do editor!",
+    "admin:theme.cssOverrideWarningCaution": "Cuidado:"
 }
