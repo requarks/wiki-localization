@@ -508,5 +508,14 @@
     "admin:locale.availability": "可用性",
     "admin:locale.download": "下载",
     "admin:utilities.contentTitle": "内容",
-    "admin:utilities.contentSubtitle": "页面工具"
+    "admin:utilities.contentSubtitle": "页面工具",
+    "admin:theme.iconset": "图标集",
+    "admin:theme.iconsetHint": "用于侧边栏导航的图标集。",
+    "common:outdatedBrowserWarning": "您的浏览器已过时。升级到{{modernBrowser}} 。",
+    "common:modernBrowser": "现代浏览器",
+    "admin:theme.downloadName": "名字",
+    "admin:theme.downloadAuthor": "作者",
+    "admin:theme.downloadDownload": "下载",
+    "admin:theme.cssOverrideWarning": "{{caution}}为页面内容增加样式时，必须讲页面内容放到 {{cssClass}} ；否则会破坏编辑器的布局。",
+    "admin:theme.cssOverrideWarningCaution": "注意："
 }
