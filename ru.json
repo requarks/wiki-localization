@@ -508,5 +508,14 @@
     "admin:locale.availability": "Доступность",
     "admin:locale.download": "Загрузить",
     "admin:utilities.contentTitle": "Контент",
-    "admin:utilities.contentSubtitle": "Различные инструменты для страниц"
+    "admin:utilities.contentSubtitle": "Различные инструменты для страниц",
+    "admin:theme.iconset": "Набор иконок",
+    "admin:theme.iconsetHint": "Набор иконок для использования в боковой панели навигации.",
+    "common:outdatedBrowserWarning": "Ваш браузер устарел. Обновите до {{modernBrowser}} .",
+    "common:modernBrowser": "современного браузера",
+    "admin:theme.downloadName": "Название",
+    "admin:theme.downloadAuthor": "Автор",
+    "admin:theme.downloadDownload": "Скачать",
+    "admin:theme.cssOverrideWarning": "{{caution}} Все переопределения стилей для содержимого страницы необходимо заключать в класс {{cssClass}}. Игнорирование данного требования может испортить верстку редактора!",
+    "admin:theme.cssOverrideWarningCaution": "ВНИМАНИЕ:"
 }
