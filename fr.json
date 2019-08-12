@@ -517,5 +517,6 @@
     "admin:theme.downloadAuthor": "Auteur",
     "admin:theme.downloadDownload": "Télécharger",
     "admin:theme.cssOverrideWarning": "{{caution}} Lors de l'ajout de styles affectant le contenu de la page, vous devez les limiter à la portée de la classe {{cssClass}}. Utiliser des classes globales pourrait briser l'interface de l'éditeur!",
-    "admin:theme.cssOverrideWarningCaution": "ATTENTION:"
+    "admin:theme.cssOverrideWarningCaution": "ATTENTION:",
+    "admin:theme.options": "Paramètres du thème"
 }

@@ -517,5 +517,6 @@
     "admin:theme.downloadAuthor": "Author",
     "admin:theme.downloadDownload": "Download",
     "admin:theme.cssOverrideWarning": "{{caution}} When adding styles for page content, you must scope them to the {{cssClass}} class. Omitting this could break the layout of the editor!",
-    "admin:theme.cssOverrideWarningCaution": "CAUTION:"
+    "admin:theme.cssOverrideWarningCaution": "CAUTION:",
+    "admin:theme.options": "Theme Options"
 }
