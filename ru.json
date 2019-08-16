@@ -517,5 +517,6 @@
     "admin:theme.downloadAuthor": "Автор",
     "admin:theme.downloadDownload": "Скачать",
     "admin:theme.cssOverrideWarning": "{{caution}} Все переопределения стилей для содержимого страницы необходимо заключать в класс {{cssClass}}. Игнорирование данного требования может испортить верстку редактора!",
-    "admin:theme.cssOverrideWarningCaution": "ВНИМАНИЕ:"
+    "admin:theme.cssOverrideWarningCaution": "ВНИМАНИЕ:",
+    "admin:theme.options": "Опции темы"
 }
