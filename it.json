@@ -198,6 +198,7 @@
     "admin:dev.flags.title": "Flags",
     "admin:dev.graphiql.title": "GraphiQL",
     "admin:dev.voyager.title": "Passeggero",
+    "admin:adminArea": "Area Amministrazione",
     "common:header.language": "lingua",
     "admin:analytics.subtitle": "Aggiungi strumenti di analisi e tracciamento al tuo wiki",
     "admin:utilities.tools": "Strumenti",
