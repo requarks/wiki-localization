@@ -545,5 +545,8 @@
     "admin:users.jobTitle": "Titre du poste",
     "admin:users.timezone": "Fuseau horaire",
     "admin:users.userUpdateSuccess": "Utilisateur mis à jour avec succès.",
-    "admin:users.userAlreadyAssignedToGroup": "L'utilisateur est déjà affecté à ce groupe!"
+    "admin:users.userAlreadyAssignedToGroup": "L'utilisateur est déjà affecté à ce groupe!",
+    "admin:storage.targetState": "Cette cible de stockage est {{state}}",
+    "admin:storage.targetStateActive": "activée",
+    "admin:storage.targetStateInactive": "désactivée"
 }

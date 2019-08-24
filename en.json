@@ -545,5 +545,8 @@
     "admin:users.jobTitle": "Job Title",
     "admin:users.timezone": "Timezone",
     "admin:users.userUpdateSuccess": "User updated successfully.",
-    "admin:users.userAlreadyAssignedToGroup": "User is already assigned to this group!"
+    "admin:users.userAlreadyAssignedToGroup": "User is already assigned to this group!",
+    "admin:storage.targetState": "This storage target is {{state}}",
+    "admin:storage.targetStateActive": "active",
+    "admin:storage.targetStateInactive": "inactive"
 }
