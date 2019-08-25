@@ -548,5 +548,12 @@
     "admin:users.userAlreadyAssignedToGroup": "User is already assigned to this group!",
     "admin:storage.targetState": "This storage target is {{state}}",
     "admin:storage.targetStateActive": "active",
-    "admin:storage.targetStateInactive": "inactive"
+    "admin:storage.targetStateInactive": "inactive",
+    "admin:storage.actionsInactiveWarn": "You must enable this storage target and apply changes before you can run actions.",
+    "auth:changePwd.subtitle": "Choose a new password",
+    "auth:changePwd.instructions": "You must choose a new password:",
+    "auth:changePwd.newPasswordPlaceholder": "New Password",
+    "auth:changePwd.newPasswordVerifyPlaceholder": "Verify New Password",
+    "auth:changePwd.proceed": "Change Password",
+    "auth:changePwd.loading": "Changing password..."
 }

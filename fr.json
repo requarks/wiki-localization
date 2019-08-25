@@ -548,5 +548,12 @@
     "admin:users.userAlreadyAssignedToGroup": "L'utilisateur est déjà affecté à ce groupe!",
     "admin:storage.targetState": "Cette cible de stockage est {{state}}",
     "admin:storage.targetStateActive": "activée",
-    "admin:storage.targetStateInactive": "désactivée"
+    "admin:storage.targetStateInactive": "désactivée",
+    "admin:storage.actionsInactiveWarn": "Vous devez activer cette cible de stockage et appliquer les modifications avant de pouvoir exécuter des actions.",
+    "auth:changePwd.subtitle": "Choisissez un nouveau mot de passe",
+    "auth:changePwd.instructions": "Vous devez choisir un nouveau mot de passe:",
+    "auth:changePwd.newPasswordPlaceholder": "Nouveau mot de passe",
+    "auth:changePwd.newPasswordVerifyPlaceholder": "Vérifier le nouveau mot de passe",
+    "auth:changePwd.proceed": "Changer le mot de passe",
+    "auth:changePwd.loading": "Changement du mot de passe en cours..."
 }
