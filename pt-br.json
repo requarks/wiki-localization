@@ -363,7 +363,7 @@
     "admin:general.siteDescription": "Descrição do site",
     "admin:general.siteDescriptionHint": "Descrição padrão quando nenhuma é inserida em uma página.",
     "admin:general.metaRobots": "Meta Robots",
-    "admin:general.metaRobotsHint": "Padrão: Index, Follow. Também pode ser definido por página.",
+    "admin:general.metaRobotsHint": "Padrão: Index, Follow. Também pode ser definido individualmente por página.",
     "common:header.searchHint": "Digite pelo menos 2 caracteres para iniciar a pesquisa…",
     "common:header.searchLoading": "Procurando…",
     "common:header.searchNoResult": "Nenhuma página corresponde à sua pesquisa.",
@@ -545,5 +545,15 @@
     "admin:users.jobTitle": "Cargo",
     "admin:users.timezone": "Fuso horário",
     "admin:users.userUpdateSuccess": "Usuário atualizado com sucesso.",
-    "admin:users.userAlreadyAssignedToGroup": "O usuário já está atribuído a este grupo!"
+    "admin:users.userAlreadyAssignedToGroup": "O usuário já está atribuído a este grupo!",
+    "admin:storage.targetState": "Este destino de armazenamento está {{state}}",
+    "admin:storage.targetStateActive": "ativo",
+    "admin:storage.targetStateInactive": "inativo",
+    "admin:storage.actionsInactiveWarn": "Você deve habilitar este destino de armazenamento e aplicar as mudanças antes de poder executar a ação.",
+    "auth:changePwd.subtitle": "Insira uma nova senha",
+    "auth:changePwd.instructions": "Você deve escolher uma nova senha:",
+    "auth:changePwd.newPasswordPlaceholder": "Nova senha",
+    "auth:changePwd.newPasswordVerifyPlaceholder": "Verificar nova senha",
+    "auth:changePwd.proceed": "Alterar senha",
+    "auth:changePwd.loading": "Alterar senha..."
 }
