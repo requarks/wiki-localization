@@ -555,5 +555,20 @@
     "auth:changePwd.newPasswordPlaceholder": "New Password",
     "auth:changePwd.newPasswordVerifyPlaceholder": "Verify New Password",
     "auth:changePwd.proceed": "Change Password",
-    "auth:changePwd.loading": "Changing password..."
+    "auth:changePwd.loading": "Changing password...",
+    "admin:dashboard.recentPages": "Recent Pages",
+    "admin:dashboard.mostPopularPages": "Most Popular Pages",
+    "editor:props.info": "Info",
+    "editor:props.scheduling": "Scheduling",
+    "editor:props.social": "Social",
+    "editor:props.categorization": "Categorization",
+    "editor:props.socialFeatures": "Social Features",
+    "editor:props.allowComments": "Allow Comments",
+    "editor:props.allowCommentsHint": "Enable commenting abilities on this page.",
+    "editor:props.allowRatings": "Allow Ratings",
+    "editor:props.displayAuthor": "Display Author Info",
+    "editor:props.displaySharingBar": "Display Sharing Toolbar",
+    "editor:props.displaySharingBarHint": "Show a toolbar with buttons to share and print this page",
+    "editor:props.displayAuthorHint": "Show the page author along with the last edition time.",
+    "editor:props.allowRatingsHint": "Enable rating capabilities on this page."
 }
