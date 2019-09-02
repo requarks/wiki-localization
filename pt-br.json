@@ -555,5 +555,10 @@
     "auth:changePwd.newPasswordPlaceholder": "Nova senha",
     "auth:changePwd.newPasswordVerifyPlaceholder": "Verificar nova senha",
     "auth:changePwd.proceed": "Alterar senha",
-    "auth:changePwd.loading": "Alterar senha..."
+    "auth:changePwd.loading": "Alterar senha...",
+    "admin:dashboard.recentPages": "Páginas Recentes",
+    "admin:dashboard.mostPopularPages": "Páginas Populares",
+    "editor:props.info": "Informações",
+    "editor:props.allowComments": "Permitir Comentários",
+    "editor:props.allowRatings": "Permitir Avaliações"
 }
