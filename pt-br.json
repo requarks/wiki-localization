@@ -559,6 +559,8 @@
     "admin:dashboard.recentPages": "Páginas Recentes",
     "admin:dashboard.mostPopularPages": "Páginas Populares",
     "editor:props.info": "Informações",
+    "editor:props.social": "Social",
+    "editor:props.categorization": "Categorização",
     "editor:props.allowComments": "Permitir Comentários",
     "editor:props.allowRatings": "Permitir Avaliações"
 }

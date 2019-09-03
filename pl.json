@@ -473,5 +473,7 @@
     "common:page.viewingSource": "Źródło wyświetlania strony {{{path}}}",
     "common:page.returnNormalView": "Powrót do normalnego widoku",
     "common:page.id": "ID {{id}}",
-    "common:header.language": "Język"
+    "common:header.language": "Język",
+    "auth:changePwd.newPasswordPlaceholder": "Nowe hasło",
+    "editor:props.allowRatingsHint": "Włącz możliwości oceniania na tej stronie."
 }
