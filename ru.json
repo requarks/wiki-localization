@@ -570,5 +570,6 @@
     "editor:props.displaySharingBar": "Отображать панель обмена",
     "editor:props.displaySharingBarHint": "Показывать панель инструментов с кнопками обмена и печати этой страницы",
     "editor:props.displayAuthorHint": "Показывать автора страницы вместе с датой последнего изменения.",
-    "editor:props.allowRatingsHint": "Включите возможность оценки этой страницы."
+    "editor:props.allowRatingsHint": "Включите возможность оценки этой страницы.",
+    "editor:select.customView": "Или создать пользовательский вид?"
 }

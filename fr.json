@@ -289,7 +289,7 @@
     "common:header.assets": "Médias",
     "common:header.imagesFiles": "Images et fichiers",
     "common:header.search": "Recherche...",
-    "common:header.admin": "Admin",
+    "common:header.admin": "Administration",
     "common:header.account": "Compte",
     "common:header.myWiki": "Mon wiki",
     "common:header.profile": "Profil",
@@ -570,5 +570,8 @@
     "editor:props.displaySharingBar": "Afficher la barre d'outils de partage",
     "editor:props.displaySharingBarHint": "Affiche une barre d'outils avec des boutons pour partager et imprimer cette page.",
     "editor:props.displayAuthorHint": "Affiche l'auteur de la page avec la dernière heure d'édition.",
-    "editor:props.allowRatingsHint": "Active la fonction d'évaluation pour cette page."
+    "editor:props.allowRatingsHint": "Active la fonction d'évaluation pour cette page.",
+    "editor:select.customView": "Ou créer une vue personnalisée?",
+    "common:header.browseTags": "Parcourir par mots clés",
+    "common:header.siteMap": "Plan du site"
 }
