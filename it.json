@@ -207,6 +207,7 @@
     "admin:theme.cssOverride": "Override CSS",
     "admin:theme.cssOverrideHint": "Codice CSS da iniettare dopo il CSS di default. Considerare l'utilizzo di temi personalizzati se si dispone di una grande quantità di codice CSS. Se si inietta troppo codice CSS, le prestazioni di caricamento peggioreranno! I CSS saranno automaticamente rimpiccioliti.",
     "admin:adminArea": "Area Amministrazione",
+    "admin:auth.configReference": "Configurazione di riferimento",
     "common:header.history": "Cronologia",
     "common:header.viewSource": "Visualizza Sorgente",
     "common:header.move": "Sposta \/ Rinomina",
