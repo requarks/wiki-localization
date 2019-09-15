@@ -555,5 +555,20 @@
     "auth:changePwd.newPasswordPlaceholder": "Neues Passwort",
     "auth:changePwd.newPasswordVerifyPlaceholder": "Neues Passwort bestätigen",
     "auth:changePwd.proceed": "Passwort ändern",
-    "auth:changePwd.loading": "Ändere Passwort ..."
+    "auth:changePwd.loading": "Ändere Passwort ...",
+    "admin:dashboard.recentPages": "Letzte Seiten",
+    "editor:props.allowComments": "Kommentare erlauben",
+    "editor:props.allowRatings": "Bewertungen erlauben",
+    "editor:props.allowRatingsHint": "Bewertungsfunktion auf dieser Seite aktivieren.",
+    "common:header.browseTags": "Nach Tags durchsuchen",
+    "common:header.siteMap": "Seitenverzeichnis",
+    "tags:currentSelection": "Aktuelle Auswahl",
+    "tags:clearSelection": "Auswahl aufheben",
+    "tags:locale": "Lokalisierung",
+    "tags:orderBy": "Sortieren nach",
+    "tags:retrievingResultsLoading": "Seitenergebnisse werden abgerufen ...",
+    "tags:orderByField.creationDate": "Erstellungsdatum",
+    "tags:orderByField.ID": "ID",
+    "tags:orderByField.lastModified": "Zuletzt geändert",
+    "tags:orderByField.title": "Titel"
 }
