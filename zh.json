@@ -590,5 +590,6 @@
     "tags:orderByField.ID": "ID",
     "tags:orderByField.lastModified": "最后编辑",
     "tags:orderByField.path": "路径",
-    "tags:orderByField.title": "标题"
+    "tags:orderByField.title": "标题",
+    "tags:localeAny": "任何"
 }
