@@ -571,7 +571,7 @@
     "editor:props.displaySharingBarHint": "Show a toolbar with buttons to share and print this page",
     "editor:props.displayAuthorHint": "Show the page author along with the last edition time.",
     "editor:props.allowRatingsHint": "Enable rating capabilities on this page.",
-    "editor:select.customView": "Or create a custom view?",
+    "editor:select.customView": "or create a custom view?",
     "common:header.browseTags": "Browse by Tags",
     "common:header.siteMap": "Site Map",
     "common:header.pageActions": "Page Actions",
