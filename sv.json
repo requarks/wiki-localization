@@ -197,5 +197,15 @@
     "common:welcome.createhome": "Skapa Startsida",
     "admin:dev.flags.title": "Flaggor",
     "admin:dev.graphiql.title": "GraphiQL",
-    "admin:dev.voyager.title": "Resenär"
+    "admin:dev.voyager.title": "Resenär",
+    "tags:orderBy": "Sortera efter",
+    "tags:noResults": "Det gick inte att hitta någon sida för de valda taggarna.",
+    "tags:noResultsWithFilter": "Det gick inte att hitta någon sida som matchar de aktuella filtreringsalternativen.",
+    "tags:pageLastUpdated": "Uppdaterad den {{date}}",
+    "tags:orderByField.creationDate": "Skapelsedatum",
+    "tags:orderByField.ID": "ID",
+    "tags:orderByField.lastModified": "Senast ändrad",
+    "tags:orderByField.path": "Sökväg",
+    "tags:orderByField.title": "Titel",
+    "tags:localeAny": "Någon"
 }
