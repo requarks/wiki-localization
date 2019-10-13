@@ -342,7 +342,7 @@
     "admin:dashboard.groups": "Groupes",
     "admin:dashboard.versionLatest": "Vous utilisez la dernière version.",
     "admin:dashboard.versionNew": "Une nouvelle version est disponible: {{version}}",
-    "admin:dashboard.contributeSubtitle": "Wiki.js est un projet gratuit et de source libre. Il ya plusieurs façons de contribuer au projet.",
+    "admin:dashboard.contributeSubtitle": "Wiki.js est un projet gratuit et de source libre. Il y a plusieurs façons de contribuer au projet.",
     "admin:dashboard.contributeHelp": "Nous avons besoin de votre aide!",
     "admin:dashboard.contributeLearnMore": "En savoir plus",
     "admin:auth.refreshSuccess": "La liste des stratégies a été actualisée.",
@@ -591,5 +591,7 @@
     "tags:orderByField.lastModified": "Dernière modification",
     "tags:orderByField.path": "Chemin",
     "tags:orderByField.title": "Titre",
-    "tags:localeAny": "Toutes"
+    "tags:localeAny": "Toutes",
+    "admin:contribute.github": "Devenez un contributeur financier ou commanditaire via GitHub Sponsors (va directement dans l'objectif du développeur principal, Nicolas Giard, de travailler à temps plein sur Wiki.js)",
+    "admin:contribute.becomeASponsor": "Devenez un mécène"
 }
