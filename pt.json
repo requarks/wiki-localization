@@ -198,5 +198,20 @@
     "admin:dev.graphiql.title": "GraphiQL",
     "admin:dev.voyager.title": "Voyager",
     "admin:contribute.paypal": "Faça uma doação única ou recorrente via Paypal:",
-    "admin:contribute.ethereum": "Aceitamos doações usando o Ethereum:"
+    "admin:contribute.ethereum": "Aceitamos doações usando o Ethereum:",
+    "tags:clearSelection": "Limpar Seleção",
+    "tags:selectOneMoreTags": "Selecione uma ou mais tags",
+    "tags:searchWithinResultsPlaceholder": "Resultados da Pesquisa",
+    "tags:locale": "Idioma",
+    "tags:orderBy": "Ordenar Por",
+    "tags:selectOneMoreTagsHint": "Selecione uma ou mais tags à esquerda.",
+    "tags:retrievingResultsLoading": "Recuperar resultados de páginas...",
+    "tags:noResults": "Não foi possível encontrar nenhuma página com as tags selecionadas.",
+    "tags:noResultsWithFilter": "Não foi possível encontrar nenhuma página que corresponda às opções de filtragem atuais.",
+    "tags:pageLastUpdated": "Última Atualização {{date}}",
+    "tags:orderByField.creationDate": "Data de Criação",
+    "tags:orderByField.ID": "ID",
+    "tags:orderByField.lastModified": "Última Modificação",
+    "tags:orderByField.path": "Caminho",
+    "tags:orderByField.title": "Título"
 }
