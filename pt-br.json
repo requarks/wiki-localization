@@ -582,7 +582,7 @@
     "tags:locale": "Idioma",
     "tags:orderBy": "Ordenar por",
     "tags:selectOneMoreTagsHint": "Selecione uma ou mais tags à esquerda.",
-    "tags:retrievingResultsLoading": "Recuperando resultados da página...",
+    "tags:retrievingResultsLoading": "Buscando resultados da página...",
     "tags:noResults": "Não foi possível encontrar nenhuma página com as tags selecionadas.",
     "tags:noResultsWithFilter": "Não foi possível encontrar nenhuma página que corresponda às opções de filtragem atuais.",
     "tags:pageLastUpdated": "Última modificação em {{date}}",
