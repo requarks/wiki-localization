@@ -114,7 +114,7 @@
     "admin:contribute.shop": "Loja Wiki.js",
     "common:actions.ok": "OK",
     "common:footer.copyright": "© {{year}} {{company}}. Todos os direitos reservados.",
-    "common:newpage.title": "Está página ainda não existe.",
+    "common:newpage.title": "Esta página ainda não existe.",
     "common:newpage.subtitle": "Você deseja criá-la agora?",
     "common:newpage.create": "Criar página",
     "common:newpage.goback": "Voltar",
