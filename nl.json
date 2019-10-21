@@ -108,6 +108,19 @@
     "common:password.strong": "Sterk",
     "common:password.veryStrong": "Zeer sterk",
     "common:page.deleteTitle": "Weet je zeker dat je de pagina {{title}} wilt verwijderen?",
+    "editor:markup.unorderedList": "Ongeordende lijst",
+    "editor:markup.orderedList": "Geordende lijst",
+    "editor:markup.inlineCode": "Inline code",
+    "editor:markup.keyboardKey": "Toetsenbordtoets",
+    "editor:markup.horizontalBar": "Horizontale balk",
+    "editor:markup.togglePreviewPane": "Voorbeeldvenster verbergen of weergeven",
+    "editor:markup.insertLink": "Link invoegen",
+    "editor:markup.insertAssets": "Bestand invoegen",
+    "editor:markup.insertBlock": "Blok invoegen",
+    "editor:markup.insertCodeBlock": "Code blok invoegen",
+    "editor:markup.insertVideoAudio": "Video \/ audio invoegen",
+    "editor:markup.insertDiagram": "Diagram invoegen",
+    "editor:markup.tableHelper": "Tabel Helper",
     "editor:markup.distractionFreeMode": "Afleidingsvrije modus",
     "editor:markup.markdownFormattingHelp": "Hulp voor markdown-opmaak",
     "common:page.viewingSource": "Bekijk de source code van de pagina {{path}}",
@@ -226,5 +239,6 @@
     "tags:orderByField.lastModified": "Laatst gewijzigd",
     "tags:orderByField.path": "Pad",
     "tags:orderByField.title": "Titel",
-    "tags:localeAny": "Elke"
+    "tags:localeAny": "Elke",
+    "admin:contribute.becomeASponsor": "Word een sponsor"
 }
