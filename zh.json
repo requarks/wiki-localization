@@ -591,5 +591,7 @@
     "tags:orderByField.lastModified": "最后编辑",
     "tags:orderByField.path": "路径",
     "tags:orderByField.title": "标题",
-    "tags:localeAny": "任何"
+    "tags:localeAny": "任何",
+    "admin:contribute.github": "通过Github进行捐赠(支持首席开发人员Nicolas Giard更好的致力于Wiki.js的发展!)",
+    "admin:contribute.becomeASponsor": "进行捐赠"
 }

@@ -429,7 +429,7 @@
     "editor:assets.headerFileSize": "Tamanho do arquivo",
     "editor:assets.headerAdded": "Adicionada",
     "editor:assets.headerActions": "Ações",
-    "editor:assets.uploadAssets": "Fazer upload de mídia",
+    "editor:assets.uploadAssets": "Enviar Arquivo",
     "editor:assets.uploadAssetsDropZone": "Navegue ou solte arquivos aqui…",
     "editor:assets.fetchImage": "Obter imagem remota",
     "editor:assets.imageAlign": "Alinhamento da imagem",
