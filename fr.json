@@ -511,7 +511,7 @@
     "admin:utilities.contentSubtitle": "Divers outils pour les pages",
     "admin:theme.iconset": "Ensemble d'icônes",
     "admin:theme.iconsetHint": "Ensemble d'icônes à utiliser pour la barre latérale de navigation.",
-    "common:outdatedBrowserWarning": "Votre navigateur est obsolète. Passez à un {{modernBrowser}}.",
+    "common:outdatedBrowserWarning": "Votre navigateur est obsolète. Mettez à niveau vers un {{modernBrowser}}.",
     "common:modernBrowser": "navigateur moderne",
     "admin:theme.downloadName": "Nom",
     "admin:theme.downloadAuthor": "Auteur",
