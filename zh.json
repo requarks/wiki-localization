@@ -585,13 +585,13 @@
     "tags:retrievingResultsLoading": "正在检索页面...",
     "tags:noResults": "找不到与选中标签匹配的页面",
     "tags:noResultsWithFilter": "找不到与当前筛选项匹配的页面。",
-    "tags:pageLastUpdated": "最后更新",
+    "tags:pageLastUpdated": "最后更新{{date}}",
     "tags:orderByField.creationDate": "创建时间",
     "tags:orderByField.ID": "ID",
     "tags:orderByField.lastModified": "最后编辑",
     "tags:orderByField.path": "路径",
     "tags:orderByField.title": "标题",
     "tags:localeAny": "任何",
-    "admin:contribute.github": "通过Github进行捐赠(支持首席开发人员Nicolas Giard更好的致力于Wiki.js的发展!)",
+    "admin:contribute.github": "通过Github Sponsors进行捐赠(支持首席开发人员Nicolas Giard更好地致力于Wiki.js的发展!)",
     "admin:contribute.becomeASponsor": "进行捐赠"
 }

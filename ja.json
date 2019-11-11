@@ -260,7 +260,7 @@
     "admin:auth.strategyConfiguration": "認証方式の設定",
     "admin:auth.strategyNoConfiguration": "この認証方式には変更可能な設定がありません",
     "admin:auth.registration": "登録",
-    "admin:auth.selfRegistration": "自身の登録を許可する",
+    "admin:auth.selfRegistration": "自己登録を許可する",
     "admin:auth.selfRegistrationHint": "この認証方法で認証されたユーザーにウィキへのアクセスを許可します",
     "admin:auth.domainsWhitelist": "メールアドレスのドメインを特定のものに制限する",
     "admin:auth.domainsWhitelistHint": "登録が許可されているドメインのリスト。アクセスするには、ユーザーのメールアドレスのドメインがこれらのいずれかと一致する必要があります",
