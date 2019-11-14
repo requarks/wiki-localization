@@ -307,7 +307,7 @@
     "admin:storage.subtitle": "Defina os destinos de backup e sincronização do seu conteúdo",
     "admin:storage.targets": "Destinos",
     "admin:storage.status": "Status",
-    "admin:storage.lastSync": "Última sincronização {{time}}",
+    "admin:storage.lastSync": "Última sincronização: {{time}}",
     "admin:storage.lastSyncAttempt": "A última tentativa foi {{time}}",
     "admin:storage.errorMsg": "Mensagem de erro",
     "admin:storage.noTarget": "Você não possui nenhum local de armazenamento ativo.",
