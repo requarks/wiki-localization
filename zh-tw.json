@@ -195,5 +195,6 @@
     "common:welcome.title": "歡迎來到您的維基！",
     "common:welcome.subtitle": "讓我們開始建立首頁。",
     "common:welcome.createhome": "建立首頁",
-    "admin:dev.graphiql.title": "GraphiQL"
+    "admin:dev.graphiql.title": "GraphiQL",
+    "tags:orderByField.lastModified": "更新日期"
 }

@@ -1,112 +1,22 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-<meta http-equiv="refresh" content="0">
-
-<title>graph.requarks.io | 526: Invalid SSL certificate</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
-<script src="/cdn-cgi/apps/head/45dDZJCP1AuAK6MlHF8RB-gcrJE.js"></script><link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
-<style type="text/css">body{margin:0;padding:0}</style>
-
-
-
-
-</head>
-<body>
-<div id="cf-wrapper">
-
-    
-
-    <div id="cf-error-details" class="cf-error-details-wrapper">
-        <div class="cf-wrapper cf-error-overview">
-            <h1>
-              
-              <span class="cf-error-type">Error</span>
-              <span class="cf-error-code">526</span>
-              <small class="heading-ray-id">Ray ID: 535eaa3acc21a3d2 &bull; 2019-11-15 05:01:02 UTC</small>
-            </h1>
-            <h2 class="cf-subheadline">Invalid SSL certificate</h2>
-        </div><!-- /.error-overview -->
-        
-        <div class="cf-section cf-highlight cf-status-display">
-            <div class="cf-wrapper">
-                <div class="cf-columns cols-3">
-                  
-<div id="cf-browser-status" class="cf-column cf-status-item cf-browser-status ">
-  <div class="cf-icon-error-container">
-    <i class="cf-icon cf-icon-browser"></i>
-    <i class="cf-icon-status cf-icon-ok"></i>
+<html>
+  <head>
+    <!-- Bootstrap -->
+    <script src="/cdn-cgi/apps/head/45dDZJCP1AuAK6MlHF8RB-gcrJE.js"></script><link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <style>
+      body {
+        padding-top: 50px
+      }
+    </style>
+  </head>
+  <body>
+  <div class="container">
+      <div class="panel panel-warning">
+        <div class="panel-heading">
+          <h3 class="panel-title">Docker Flow Proxy: 503 Service Unavailable</h3>
+        </div>
+      <div class="panel-body">
+        No server is available to handle this request.
+      </div>
   </div>
-  <span class="cf-status-desc">You</span>
-  <h3 class="cf-status-name">Browser</h3>
-  <span class="cf-status-label">Working</span>
-</div>
-
-<div id="cf-cloudflare-status" class="cf-column cf-status-item cf-cloudflare-status ">
-  <div class="cf-icon-error-container">
-    <i class="cf-icon cf-icon-cloud"></i>
-    <i class="cf-icon-status cf-icon-ok"></i>
-  </div>
-  <span class="cf-status-desc">Montgomery</span>
-  <h3 class="cf-status-name">Cloudflare</h3>
-  <span class="cf-status-label">Working</span>
-</div>
-
-<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source">
-  <div class="cf-icon-error-container">
-    <i class="cf-icon cf-icon-server"></i>
-    <i class="cf-icon-status cf-icon-error"></i>
-  </div>
-  <span class="cf-status-desc">graph.requarks.io</span>
-  <h3 class="cf-status-name">Host</h3>
-  <span class="cf-status-label">Error</span>
-</div>
-
-                </div>
-              
-            </div>
-        </div><!-- /.status-display -->
-
-        <div class="cf-section cf-wrapper">
-            <div class="cf-columns two">
-                <div class="cf-column">
-                    <h2>What happened?</h2>
-                    <p>The origin web server does not have a valid SSL certificate.</p>
-                </div>
-              
-                <div class="cf-column">
-                    <h2>What can I do?</h2>
-                          <h5>If you're a visitor of this website:</h5>
-      <p>Please try again in a few minutes.</p>
-
-      <h5>If you're the owner of this website:</h5>
-      <p><span>The SSL certificate presented by the server did not pass validation. This could indicate an expired SSL certificate or a certificate that does not include the requested domain name. Please contact your hosting provider to ensure that an up-to-date and valid SSL certificate issued by a Certificate Authority is configured for this domain name on the origin server.</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200721975">Additional troubleshooting information here.</a></p>
-                </div>
-            </div>
-              
-        </div><!-- /.section -->
-
-        <div class="cf-error-footer cf-wrapper">
-  <p>
-    <span class="cf-footer-item">Cloudflare Ray ID: <strong>535eaa3acc21a3d2</strong></span>
-    <span class="cf-footer-separator">&bull;</span>
-    <span class="cf-footer-item"><span>Your IP</span>: 208.52.157.165</span>
-    <span class="cf-footer-separator">&bull;</span>
-    <span class="cf-footer-item"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-</div><!-- /.error-footer -->
-
-
-    </div><!-- /#cf-error-details -->
-</div><!-- /#cf-wrapper -->
 </body>
 </html>
