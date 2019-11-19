@@ -49,7 +49,7 @@
     "admin:nav.users": "Vartotojai",
     "admin:nav.modules": "Moduliai",
     "admin:nav.system": "Sistema",
-    "admin:dashboard.subtitle": "BETA Versija - NEPARUOŠTA PRODUKCIJAI",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "Nustatykite savo Wiki lokalizacijos parinktis",
     "admin:locale.settings": "Kalbų nustatymai",
     "admin:locale.namespacing": "Kelios kalbos",

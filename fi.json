@@ -49,7 +49,7 @@
     "admin:nav.users": "Käyttäjät",
     "admin:nav.modules": "Moduulit",
     "admin:nav.system": "Järjestelmä",
-    "admin:dashboard.subtitle": "BETA Build - EI TUOTANTOKÄYTTÖÖN",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "Määrittele wikin kieliversioasetukset",
     "admin:locale.settings": "Kieli-asetukset",
     "admin:locale.namespacing": "Monikieliset nimitilat",

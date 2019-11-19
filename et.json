@@ -49,7 +49,7 @@
     "admin:nav.users": "Kasutajad",
     "admin:nav.modules": "Moodulid",
     "admin:nav.system": "Süsteem",
-    "admin:dashboard.subtitle": "BETA Build - MITTE PRODUCTION-is KASUTAMISEKS",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "Määra oma viki lokaliseerimise seadeid",
     "admin:locale.settings": "Keele seaded",
     "admin:locale.namespacing": "Mitmekeelsed nimeruumid",

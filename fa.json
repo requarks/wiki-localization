@@ -49,7 +49,7 @@
     "admin:nav.users": "کاربران",
     "admin:nav.modules": "ماژول ها",
     "admin:nav.system": "سیستم",
-    "admin:dashboard.subtitle": "نسخه بتا-برای استفاده در نسخه پروداکشن استفاده نشود",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "تنظیم گزینه های بومی سازی برای ویکی",
     "admin:locale.settings": "تنظیمات محلی",
     "admin:locale.namespacing": "فضای نام چندزبانگی",

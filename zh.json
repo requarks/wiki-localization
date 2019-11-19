@@ -49,7 +49,7 @@
     "admin:nav.users": "用户",
     "admin:nav.modules": "模块",
     "admin:nav.system": "系统",
-    "admin:dashboard.subtitle": "BETA版本 - 请不要用于生产环境",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "为您的wiki设置本地化选项",
     "admin:locale.settings": "语言环境设置",
     "admin:locale.namespacing": "多语言命名空间",

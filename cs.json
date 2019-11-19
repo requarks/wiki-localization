@@ -49,7 +49,7 @@
     "admin:nav.users": "Uživatelé",
     "admin:nav.modules": "Moduly",
     "admin:nav.system": "Systém",
-    "admin:dashboard.subtitle": "BETA sestavení - NENÍ URČENO PRO PRODUKČNÍ UŽITÍ",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "Nastavte si možnosti lokalizace wiki",
     "admin:locale.settings": "Nastavení lokalizace",
     "admin:locale.namespacing": "Vícejazyčné jmenné prostory",

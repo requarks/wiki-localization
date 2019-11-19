@@ -49,7 +49,7 @@
     "admin:nav.users": "Users",
     "admin:nav.modules": "Modules",
     "admin:nav.system": "System",
-    "admin:dashboard.subtitle": "BETA Build - NOT FOR PRODUCTION USE",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "Set localization options for your wiki",
     "admin:locale.settings": "Locale Settings",
     "admin:locale.namespacing": "Multilingual Namespacing",

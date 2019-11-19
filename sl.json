@@ -13,5 +13,6 @@
     "auth:providers.github": "GitHub",
     "auth:providers.slack": "Slack",
     "auth:tfa.placeholder": "XXXXXX",
-    "auth:tfa.verifyToken": "Preveri"
+    "auth:tfa.verifyToken": "Preveri",
+    "admin:dashboard.subtitle": "Wiki.js"
 }

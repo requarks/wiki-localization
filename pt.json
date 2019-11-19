@@ -49,7 +49,7 @@
     "admin:nav.users": "Utilizadores",
     "admin:nav.modules": "Módulos",
     "admin:nav.system": "Sistema",
-    "admin:dashboard.subtitle": "BETA Build - NÃO ESTÁ PRONTO PARA O USO EM PRODUÇÃO",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "Definir opções de tradução para o seu wiki",
     "admin:locale.settings": "Configurações de tradução",
     "admin:locale.namespacing": "Namespace multilingue",

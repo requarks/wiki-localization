@@ -49,7 +49,7 @@
     "admin:nav.users": "Felhasználók",
     "admin:nav.modules": "Modulok",
     "admin:nav.system": "Rendszer",
-    "admin:dashboard.subtitle": "BÉTA verzió - NEM PUBLIKUS HASZNÁLATRA",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "A wikid lokalizációs beállításainak beállítása",
     "admin:locale.settings": "Nyelv beállítások",
     "admin:locale.namespacing": "Többnyelvű névterezés",

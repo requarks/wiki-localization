@@ -48,7 +48,7 @@
     "admin:nav.users": "משתמשים",
     "admin:nav.modules": "מודולים",
     "admin:nav.system": "מערכת",
-    "admin:dashboard.subtitle": "Wiki.js v2 גירסת אלפא - לא לשימוש בסביבת אמת",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "הגדר אפשרויות אזור (שפה) עבור הויקי שלך",
     "admin:locale.settings": "הגדרות אזור (שפה)",
     "admin:locale.namespacing": "מרחבים רב לשוניים",

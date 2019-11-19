@@ -49,7 +49,7 @@
     "admin:nav.users": "Użytkownicy",
     "admin:nav.modules": "Moduły",
     "admin:nav.system": "System",
-    "admin:dashboard.subtitle": "BETA Build - WYŁĄCZNIE DO UŻYTKU TESTOWEGO",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "Wybierz ustawienia regionalne swojej wiki",
     "admin:locale.settings": "Ustawienia regionalne",
     "admin:locale.namespacing": "Wersje językowe",

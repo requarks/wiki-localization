@@ -49,7 +49,7 @@
     "admin:nav.users": "유저",
     "admin:nav.modules": "모듈",
     "admin:nav.system": "시스템",
-    "admin:dashboard.subtitle": "베타 빌드 - 안정성을 약속할 수 없어요.",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "언어 옵션",
     "admin:locale.settings": "현재 언어",
     "admin:locale.namespacing": "언어 이름 공간",

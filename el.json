@@ -24,6 +24,7 @@
     "auth:tfa.subtitle": "Απαιτείται κωδικός ασφαλείας:",
     "auth:tfa.placeholder": "XXXXXX",
     "auth:tfa.verifyToken": "Επιβεβαίωση",
+    "admin:dashboard.subtitle": "Wiki.js",
     "common:welcome.title": "Καλώς ήλθατε στο wiki σας!",
     "common:welcome.subtitle": "Ας ξεκινήσουμε δημιουργώντας την αρχική σελίδα.",
     "common:welcome.createhome": "Δημιουργία Αρχικής Σελίδας"

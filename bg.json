@@ -49,7 +49,7 @@
     "admin:nav.users": "Потребители",
     "admin:nav.modules": "Модули",
     "admin:nav.system": "Система",
-    "admin:dashboard.subtitle": "BETA версия - НЕПОДХОДЯЩА ЗА ПРОИЗВОДСТВЕНА УПОТРЕБА",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "Конфигурирайте настройките за локализация за вашето Wiki",
     "admin:locale.settings": "Настройки на езиковата променлива",
     "admin:locale.namespacing": "Многоезичност",

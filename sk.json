@@ -49,7 +49,7 @@
     "admin:nav.users": "Používatelia",
     "admin:nav.modules": "Moduly",
     "admin:nav.system": "Systém",
-    "admin:dashboard.subtitle": "Wiki.js v2 ALPHA Build - nie pre použitie v produkčných systémoch",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "Nastaviť možnosti lokalizácie pre vašu wiki",
     "admin:locale.settings": "Nastavenie Lokalizácie",
     "admin:locale.namespacing": "Viacjazyčné menné priestory",

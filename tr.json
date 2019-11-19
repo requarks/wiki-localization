@@ -49,7 +49,7 @@
     "admin:nav.users": "Kullanıcılar",
     "admin:nav.modules": "Modüller",
     "admin:nav.system": "Sistem",
-    "admin:dashboard.subtitle": "Wiki.js v2 ALPHA Build - ÜRETİM KULLANIMI İÇİN DEĞİLDİR",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "Viki'niz için yerelleştirme seçeneklerini ayarlayın",
     "admin:locale.settings": "Yerel Ayarları",
     "admin:locale.namespacing": "Çok Dilli Ad Alanlaştırma",

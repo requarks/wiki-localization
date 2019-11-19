@@ -49,7 +49,7 @@
     "admin:nav.users": "Utilizatori",
     "admin:nav.modules": "module",
     "admin:nav.system": "Sistem",
-    "admin:dashboard.subtitle": "Construire BETA - NU ESTE PENTRU UTILIZAREA PRODUCȚIEI",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "Setați opțiuni de localizare pentru wiki",
     "admin:locale.settings": "Setări locale",
     "admin:locale.namespacing": "Spațiu multilingv de nume",

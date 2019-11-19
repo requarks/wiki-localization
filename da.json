@@ -18,5 +18,6 @@
     "auth:providers.facebook": "Facebook",
     "auth:providers.github": "GitHub",
     "auth:providers.slack": "Slack",
-    "auth:providers.ldap": "LDAP \/ Active Directory"
+    "auth:providers.ldap": "LDAP \/ Active Directory",
+    "admin:dashboard.subtitle": "Wiki.js"
 }

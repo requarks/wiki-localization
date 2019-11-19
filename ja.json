@@ -49,7 +49,7 @@
     "admin:nav.users": "ユーザー",
     "admin:nav.modules": "モジュール",
     "admin:nav.system": "システム",
-    "admin:dashboard.subtitle": "BETA版 - 本番環境では使わないでください",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "言語に関するオプションを設定します",
     "admin:locale.settings": "言語設定",
     "admin:locale.namespacing": "多言語名前空間",
