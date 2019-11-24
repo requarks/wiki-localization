@@ -572,7 +572,7 @@
     "editor:props.displayAuthorHint": "Mostra o autor da página e o horário da última edição.",
     "editor:props.allowRatingsHint": "Ativa os recursos de classificação nesta página.",
     "editor:select.customView": "ou criar uma exibição personalizada?",
-    "common:header.browseTags": "Navegar por tags",
+    "common:header.browseTags": "Procurar por Tags",
     "common:header.siteMap": "Mapa do site",
     "common:header.pageActions": "Ações da página",
     "tags:currentSelection": "Seleção atual",
