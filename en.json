@@ -593,5 +593,6 @@
     "tags:orderByField.title": "Title",
     "tags:localeAny": "Any",
     "admin:contribute.github": "Become a sponsor via GitHub Sponsors (goes directly into supporting lead developer Nicolas Giard's goal of working full-time on Wiki.js)",
-    "admin:contribute.becomeASponsor": "Become a Sponsor"
+    "admin:contribute.becomeASponsor": "Become a Sponsor",
+    "admin:tags.title": "Tags"
 }
