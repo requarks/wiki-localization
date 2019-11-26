@@ -593,5 +593,6 @@
     "tags:orderByField.title": "标题",
     "tags:localeAny": "任何",
     "admin:contribute.github": "通过Github Sponsors进行捐赠(支持首席开发人员Nicolas Giard更好地致力于Wiki.js的发展!)",
-    "admin:contribute.becomeASponsor": "进行捐赠"
+    "admin:contribute.becomeASponsor": "进行捐赠",
+    "admin:tags.title": "标签"
 }

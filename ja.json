@@ -593,5 +593,6 @@
     "tags:orderByField.title": "タイトル",
     "tags:localeAny": "すべて",
     "admin:contribute.github": "GitHub Sponsors を介してスポンサーになる (フルタイムで Wiki.js を開発しているリード開発者 Nicolas Giard に直接入ります)",
-    "admin:contribute.becomeASponsor": "スポンサーになる"
+    "admin:contribute.becomeASponsor": "スポンサーになる",
+    "admin:tags.title": "タグ"
 }
