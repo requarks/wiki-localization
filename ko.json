@@ -593,5 +593,6 @@
     "tags:orderByField.title": "제목",
     "tags:localeAny": "아무거나",
     "admin:contribute.github": "GitHub Sponsers를 통해 후원자가 되세요. (Wiki.js에서 풀 타임으로 일하는 수석 개발자 Nicolars Giard의 목표를 지원하기 위해 이동)",
-    "admin:contribute.becomeASponsor": "후원자가 되세요."
+    "admin:contribute.becomeASponsor": "후원자가 되세요.",
+    "admin:tags.title": "태그"
 }
