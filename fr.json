@@ -594,5 +594,15 @@
     "tags:localeAny": "Toutes",
     "admin:contribute.github": "Devenez un contributeur financier ou commanditaire via GitHub Sponsors (va directement dans l'objectif du développeur principal, Nicolas Giard, de travailler à temps plein sur Wiki.js)",
     "admin:contribute.becomeASponsor": "Devenez un mécène",
-    "admin:tags.title": "Mots clés"
+    "admin:tags.title": "Mots clés",
+    "admin:ssl.title": "SSL",
+    "admin:ssl.subtitle": "Gérer la configuration SSL",
+    "admin:ssl.provider": "Fournisseur",
+    "admin:ssl.providerHint": "Sélectionnez Certificat personnalisé si vous avez déjà votre propre certificat.",
+    "admin:ssl.domain": "Nom de domaine",
+    "admin:ssl.domainHint": "Entrez le nom de domaine pointant vers votre wiki. (par ex. wiki.example.com)",
+    "admin:ssl.providerOptions": "Configuration du fournisseur",
+    "admin:ssl.providerDisabled": "Désactivé",
+    "admin:ssl.providerLetsEncrypt": "Let's Encrypt",
+    "admin:ssl.providerCustomCertificate": "Certificat personnalisé"
 }

@@ -594,5 +594,15 @@
     "tags:localeAny": "Any",
     "admin:contribute.github": "Become a sponsor via GitHub Sponsors (goes directly into supporting lead developer Nicolas Giard's goal of working full-time on Wiki.js)",
     "admin:contribute.becomeASponsor": "Become a Sponsor",
-    "admin:tags.title": "Tags"
+    "admin:tags.title": "Tags",
+    "admin:ssl.title": "SSL",
+    "admin:ssl.subtitle": "Manage SSL configuration",
+    "admin:ssl.provider": "Provider",
+    "admin:ssl.providerHint": "Select Custom Certificate if you have your own certificate already.",
+    "admin:ssl.domain": "Domain",
+    "admin:ssl.domainHint": "Enter the fully qualified domain pointing to your wiki. (e.g. wiki.example.com)",
+    "admin:ssl.providerOptions": "Provider Options",
+    "admin:ssl.providerDisabled": "Disabled",
+    "admin:ssl.providerLetsEncrypt": "Let's Encrypt",
+    "admin:ssl.providerCustomCertificate": "Custom Certificate"
 }
