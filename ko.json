@@ -594,5 +594,15 @@
     "tags:localeAny": "아무거나",
     "admin:contribute.github": "GitHub Sponsers를 통해 후원자가 되세요. (Wiki.js에서 풀 타임으로 일하는 수석 개발자 Nicolars Giard의 목표를 지원하기 위해 이동)",
     "admin:contribute.becomeASponsor": "후원자가 되세요.",
-    "admin:tags.title": "태그"
+    "admin:tags.title": "태그",
+    "admin:ssl.title": "SSL",
+    "admin:ssl.subtitle": "SSL 구성 관리",
+    "admin:ssl.provider": "공급자",
+    "admin:ssl.providerHint": "이미 인증서를 가지고 있는 경우, 사용자 지정 인증서를 선택합니다.",
+    "admin:ssl.domain": "도메인",
+    "admin:ssl.domainHint": "위키를 가리키는 전체 도메인 주소를 입력하세요. (예: wiki.example.com)",
+    "admin:ssl.providerOptions": "공급자 옵션",
+    "admin:ssl.providerDisabled": "사용안함",
+    "admin:ssl.providerLetsEncrypt": "Let's Encrypt",
+    "admin:ssl.providerCustomCertificate": "사용자 지정 인증서"
 }
