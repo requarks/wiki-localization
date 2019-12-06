@@ -254,7 +254,7 @@
     "admin:theme.headHtmlInjection": "HTML injetado no head",
     "admin:theme.headHtmlInjectionHint": "Código HTML a ser injetado logo antes de fechar a tag head. Geralmente para tags script.",
     "admin:theme.bodyHtmlInjection": "Injeção de HTML no body",
-    "admin:theme.bodyHtmlInjectionHint": "Código HTML a ser injetado logo antes da tag de fechamento body.",
+    "admin:theme.bodyHtmlInjectionHint": "Código HTML a ser injetado logo antes do fechamento da tag body.",
     "admin:theme.downloadThemes": "Baixar temas",
     "admin:adminArea": "Área administrativa",
     "admin:auth.strategyConfiguration": "Configurações da estratégia",
@@ -594,5 +594,15 @@
     "tags:localeAny": "Qualquer",
     "admin:contribute.github": "Torne-se um patrocinador via GitHub Sponsors (vai ajudar diretamente o desenvolvedor chefe Nicolas Giard no objetivo de trabalhar em tempo integral no Wiki.js)",
     "admin:contribute.becomeASponsor": "Seja um patrocinador",
-    "admin:tags.title": "Palavras chaves"
+    "admin:tags.title": "Palavras chaves",
+    "admin:ssl.title": "SSL",
+    "admin:ssl.subtitle": "Gerenciar configurações de SSL",
+    "admin:ssl.provider": "Provedor",
+    "admin:ssl.providerHint": "Selecione \"Certificado personalizado\" se você já possui o seu próprio certificado.",
+    "admin:ssl.domain": "Domínio",
+    "admin:ssl.domainHint": "Digite o domínio totalmente qualificado que aponta para a sua wiki (exemplo: wiki.exemplo.com).",
+    "admin:ssl.providerOptions": "Opções do provedor",
+    "admin:ssl.providerDisabled": "Desativado",
+    "admin:ssl.providerLetsEncrypt": "Let's Encrypt",
+    "admin:ssl.providerCustomCertificate": "Certificado personalizado"
 }
