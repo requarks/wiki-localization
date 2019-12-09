@@ -604,5 +604,15 @@
     "admin:ssl.providerOptions": "Provider Options",
     "admin:ssl.providerDisabled": "Disabled",
     "admin:ssl.providerLetsEncrypt": "Let's Encrypt",
-    "admin:ssl.providerCustomCertificate": "Custom Certificate"
+    "admin:ssl.providerCustomCertificate": "Custom Certificate",
+    "admin:ssl.ports": "Ports",
+    "admin:ssl.httpPort": "HTTP Port",
+    "admin:ssl.httpPortHint": "Non-SSL port the server will listen to for HTTP requests. Usually 80 or 3000.",
+    "admin:ssl.httpsPort": "HTTPS Port",
+    "admin:ssl.httpsPortHint": "SSL port the server will listen to for HTTPS requests. Usually 443.",
+    "admin:ssl.httpPortRedirect": "Redirect HTTP requests to HTTPS",
+    "admin:ssl.httpPortRedirectHint": "Will automatically redirect any requests on the HTTP port to HTTPS.",
+    "admin:ssl.writableConfigFileWarning": "Note that your config file must be writable in order to persist ports configuration.",
+    "admin:general.logoUrl": "Logo URL",
+    "admin:general.logoUrlHint": "Specify an image to use as the logo. SVG, PNG, JPG are supported, in a square ratio, 34x34 pixels or larger. Click the button on the right to upload a new image."
 }

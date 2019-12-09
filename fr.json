@@ -604,5 +604,15 @@
     "admin:ssl.providerOptions": "Configuration du fournisseur",
     "admin:ssl.providerDisabled": "Désactivé",
     "admin:ssl.providerLetsEncrypt": "Let's Encrypt",
-    "admin:ssl.providerCustomCertificate": "Certificat personnalisé"
+    "admin:ssl.providerCustomCertificate": "Certificat personnalisé",
+    "admin:ssl.ports": "Ports",
+    "admin:ssl.httpPort": "Port HTTP",
+    "admin:ssl.httpPortHint": "Port non-SSL que le serveur écoutera pour les requêtes HTTP. Habituellement 80 ou 3000.",
+    "admin:ssl.httpsPort": "Port HTTPS",
+    "admin:ssl.httpsPortHint": "Port SSL que le serveur écoutera pour les requêtes HTTPS. Habituellement 443.",
+    "admin:ssl.httpPortRedirect": "Rediriger les requêtes HTTP vers HTTPS",
+    "admin:ssl.httpPortRedirectHint": "Redirige automatiquement toutes les requêtes sur le port HTTP vers HTTPS.",
+    "admin:ssl.writableConfigFileWarning": "Notez que votre fichier de configuration doit être accessible en écriture afin de persister configuration des ports.",
+    "admin:general.logoUrl": "URL du logo",
+    "admin:general.logoUrlHint": "Spécifiez une image à utiliser comme logo. SVG, PNG, JPG sont pris en charge, en ratio carré de 34x34 pixels ou plus. Cliquez sur le bouton de droite pour téléverser une nouvelle image."
 }
