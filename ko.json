@@ -604,5 +604,15 @@
     "admin:ssl.providerOptions": "공급자 옵션",
     "admin:ssl.providerDisabled": "사용안함",
     "admin:ssl.providerLetsEncrypt": "Let's Encrypt",
-    "admin:ssl.providerCustomCertificate": "사용자 지정 인증서"
+    "admin:ssl.providerCustomCertificate": "사용자 지정 인증서",
+    "admin:ssl.ports": "포트",
+    "admin:ssl.httpPort": "HTTP 포트",
+    "admin:ssl.httpPortHint": "HTTP 요청을 받는 비 SSL 포트입니다. 보통 80이나 3000입니다.",
+    "admin:ssl.httpsPort": "HTTPS 포트",
+    "admin:ssl.httpsPortHint": "HTTPS 요청을 받는 SSL 포트입니다. 보통 443입니다.",
+    "admin:ssl.httpPortRedirect": "HTTP 요청을 HTTPS로 리디렉션",
+    "admin:ssl.httpPortRedirectHint": "HTTP 포트의 모든 요청을 HTTPS로 자동으로 리디렉션합니다.",
+    "admin:ssl.writableConfigFileWarning": "포트 구성을 유지하려면 설정 파일에 쓰기 권한이 있어야 합니다.",
+    "admin:general.logoUrl": "로고 URL",
+    "admin:general.logoUrlHint": "로고로 사용할 이미지를 지정합니다. 정사각형 비율의 SVG, PNG, JPG가 지원되며, 34x34 픽셀 이상이어야합니다. 오른쪽 버튼을 클릭하여 새 이미지를 업로드하세요."
 }
