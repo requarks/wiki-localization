@@ -587,5 +587,17 @@
     "tags:orderByField.title": "Título",
     "tags:localeAny": "Cualquiera",
     "admin:contribute.becomeASponsor": "Hazte patrocinador",
-    "admin:tags.title": "Etiquetas"
+    "admin:tags.title": "Etiquetas",
+    "admin:ssl.title": "SSL",
+    "admin:ssl.subtitle": "Configuración de SSL",
+    "admin:ssl.provider": "Proveedor",
+    "admin:ssl.domain": "Dominio",
+    "admin:ssl.providerOptions": "Opciones del proveedor",
+    "admin:ssl.providerDisabled": "Desactivado",
+    "admin:ssl.providerLetsEncrypt": "Let´s Encrypt",
+    "admin:ssl.providerCustomCertificate": "Certificado personalizado",
+    "admin:ssl.ports": "Puertos",
+    "admin:ssl.httpPort": "Puerto HTTP",
+    "admin:ssl.httpsPort": "Puerto HTTPS",
+    "admin:general.logoUrl": "URL del logotipo"
 }

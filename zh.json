@@ -604,5 +604,15 @@
     "admin:ssl.providerOptions": "供应商选项",
     "admin:ssl.providerDisabled": "禁用",
     "admin:ssl.providerLetsEncrypt": "Let's Encrypt",
-    "admin:ssl.providerCustomCertificate": "自定义证书"
+    "admin:ssl.providerCustomCertificate": "自定义证书",
+    "admin:ssl.ports": "端口",
+    "admin:ssl.httpPort": "HTTP端口",
+    "admin:ssl.httpPortHint": "非SSL服务器端口将会监听HTTP请求，这些端口一般是80或3000",
+    "admin:ssl.httpsPort": "HTTPS端口",
+    "admin:ssl.httpsPortHint": "SSL服务器监听的HTTPS请求端口，一般是443",
+    "admin:ssl.httpPortRedirect": "HTTP请求重定向到HTTPS",
+    "admin:ssl.httpPortRedirectHint": "将会自动将所有的HTTP请求重定向到HTTPS",
+    "admin:ssl.writableConfigFileWarning": "请注意，你的配置文件必须为可写入才能设定端口配置",
+    "admin:general.logoUrl": "Logo URL",
+    "admin:general.logoUrlHint": "制定一个图片座位你的LOGO，支持34*34或更高的正方形图像，支持SVG、PNG、JPG格式，点击按钮来上传新图像"
 }
