@@ -593,5 +593,15 @@
     "tags:orderByField.title": "Título",
     "tags:localeAny": "Qualquer",
     "admin:contribute.github": "Torne-se um patrocinador via Patreon (ajuda diretamente o objetivo do desenvolvedor-chefe Nicolas Giard de trabalhar em tempo integral no Wiki.js)",
-    "admin:contribute.becomeASponsor": "Torne-se um Patrocinador"
+    "admin:contribute.becomeASponsor": "Torne-se um Patrocinador",
+    "admin:tags.title": "Tags",
+    "admin:ssl.title": "SSL",
+    "admin:ssl.subtitle": "Gerenciar configuração SSL",
+    "admin:ssl.httpsPort": "Porta HTTPS",
+    "admin:ssl.httpsPortHint": "Porta SSL que o servidor ouvirá para pedidos HTTPS. Normalmente 443.",
+    "admin:ssl.httpPortRedirect": "Redirecionar solicitações HTTP para HTTPS",
+    "admin:ssl.httpPortRedirectHint": "Redirecionará automaticamente todos os pedidos na porta HTTP para HTTPS.",
+    "admin:ssl.writableConfigFileWarning": "Observe que o arquivo de configuração deve ser editavel para garantir a configuração das portas",
+    "admin:general.logoUrl": "Logo URL",
+    "admin:general.logoUrlHint": "Especifique uma imagem para usar como logotipo. SVG, PNG, JPG são suportados, em uma proporção quadrada, 34x34 pixels ou maior. Clique no botão à direita para fazer upload de uma nova imagem."
 }
