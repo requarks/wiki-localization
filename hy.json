@@ -1,3 +1,7 @@
 {
-    "admin:dashboard.subtitle": "Wiki.js"
+    "admin:dashboard.subtitle": "Wiki.js",
+    "tags:orderByField.title": "Անվանում",
+    "tags:localeAny": "Ցանկացած",
+    "admin:ssl.writableConfigFileWarning": "Նկատի ունեցեք, որ ձեր կազմաձևման ֆայլը պետք է գրավոր լինի `նավահանգիստների կազմաձևումը շարունակելու համար:",
+    "admin:general.logoUrl": "Լոգոյի URL"
 }

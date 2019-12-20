@@ -516,7 +516,7 @@
     "admin:theme.downloadName": "名字",
     "admin:theme.downloadAuthor": "作者",
     "admin:theme.downloadDownload": "下载",
-    "admin:theme.cssOverrideWarning": "{{caution}}为页面内容增加样式时，必须讲页面内容放到 {{cssClass}} ；否则会破坏编辑器的布局。",
+    "admin:theme.cssOverrideWarning": "{{caution}}为页面内容增加样式时，必须将页面内容放到 {{cssClass}} ；否则会破坏编辑器的布局。",
     "admin:theme.cssOverrideWarningCaution": "注意：",
     "admin:theme.options": "主题设置",
     "admin:users.active": "激活",
