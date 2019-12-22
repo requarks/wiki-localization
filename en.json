@@ -614,5 +614,8 @@
     "admin:ssl.httpPortRedirectHint": "Will automatically redirect any requests on the HTTP port to HTTPS.",
     "admin:ssl.writableConfigFileWarning": "Note that your config file must be writable in order to persist ports configuration.",
     "admin:general.logoUrl": "Logo URL",
-    "admin:general.logoUrlHint": "Specify an image to use as the logo. SVG, PNG, JPG are supported, in a square ratio, 34x34 pixels or larger. Click the button on the right to upload a new image."
+    "admin:general.logoUrlHint": "Specify an image to use as the logo. SVG, PNG, JPG are supported, in a square ratio, 34x34 pixels or larger. Click the button on the right to upload a new image.",
+    "admin:users.deleteConfirmTitle": "Delete User?",
+    "admin:users.deleteConfirmText": "Are you sure you want to delete user {{username}}?",
+    "admin:users.updateUser": "Update User"
 }
