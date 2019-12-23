@@ -617,5 +617,7 @@
     "admin:general.logoUrlHint": "Specify an image to use as the logo. SVG, PNG, JPG are supported, in a square ratio, 34x34 pixels or larger. Click the button on the right to upload a new image.",
     "admin:users.deleteConfirmTitle": "Delete User?",
     "admin:users.deleteConfirmText": "Are you sure you want to delete user {{username}}?",
-    "admin:users.updateUser": "Update User"
+    "admin:users.updateUser": "Update User",
+    "admin:users.groupAssignNotice": "Note that you cannot assign users to the Administrators or Guests groups from this panel.",
+    "admin:users.deleteConfirmForeignNotice": "Note that you cannot delete a user that already created content. You must instead either deactivate the user or delete all content that was created by that user."
 }

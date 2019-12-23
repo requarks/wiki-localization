@@ -617,5 +617,7 @@
     "admin:general.logoUrlHint": "Spécifiez une image à utiliser comme logo. SVG, PNG, JPG sont pris en charge, en ratio carré de 34x34 pixels ou plus. Cliquez sur le bouton de droite pour téléverser une nouvelle image.",
     "admin:users.deleteConfirmTitle": "Supprimer l'utilisateur?",
     "admin:users.deleteConfirmText": "Êtes-vous sûr de vouloir supprimer l'utilisateur {{username}} ?",
-    "admin:users.updateUser": "Mettre à jour l'utilisateur"
+    "admin:users.updateUser": "Mettre à jour l'utilisateur",
+    "admin:users.groupAssignNotice": "Notez qu'il n'est pas possible d'assigner des utilisateurs aux groupes Administrateurs ou Invités à partir de cet endroit.",
+    "admin:users.deleteConfirmForeignNotice": "Notez qu'il n'est pas possible de supprimer un utilisateur qui a déjà créé du contenu. Vous devez alors désactiver l'utilisateur ou supprimer tout contenu créé par l'utilisateur."
 }
