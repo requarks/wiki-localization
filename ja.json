@@ -614,5 +614,10 @@
     "admin:ssl.httpPortRedirectHint": "HTTPポートへのすべてのリクエストを自動的にHTTPSにリダイレクトします。",
     "admin:ssl.writableConfigFileWarning": "ポート構成を保存するには設定ファイルが書込み可能である必要があります。",
     "admin:general.logoUrl": "ロゴURL",
-    "admin:general.logoUrlHint": "ロゴとして使用する画像を指定します。SVG, PNG, JPGがサポートされています。34x34ピクセル以上の正方形にしてください。右のボタンをクリックすると新しい画像をアップロードできます。"
+    "admin:general.logoUrlHint": "ロゴとして使用する画像を指定します。SVG, PNG, JPGがサポートされています。34x34ピクセル以上の正方形にしてください。右のボタンをクリックすると新しい画像をアップロードできます。",
+    "admin:users.deleteConfirmTitle": "ユーザーを削除しますか？",
+    "admin:users.deleteConfirmText": "本当にユーザー {{username}} を削除しますか？",
+    "admin:users.updateUser": "ユーザーを更新",
+    "admin:users.groupAssignNotice": "この画面からユーザーを管理者やゲストのグループに割り当てることはできません。",
+    "admin:users.deleteConfirmForeignNotice": "コンテンツを作成したユーザーは削除できません。代わりにユーザーを無効化するか、そのユーザーの作成したコンテンツをすべて削除する必要があります。"
 }

@@ -614,5 +614,10 @@
     "admin:ssl.httpPortRedirectHint": "Redirecionará automaticamente todas as solicitações na porta HTTP para a HTTPS.",
     "admin:ssl.writableConfigFileWarning": "Observe que seu arquivo de configuração deve ser gravável para manter salva a configuração das portas.",
     "admin:general.logoUrl": "URL do logo",
-    "admin:general.logoUrlHint": "Escolha uma imagem para usar como logo. Imagens em SVG, PNG e JPG são aceitas, em proporção quadrada, com no mínimo 34x34 pixels. Clique no botão à direita para enviar uma nova imagem."
+    "admin:general.logoUrlHint": "Escolha uma imagem para usar como logo. Imagens em SVG, PNG e JPG são aceitas, em proporção quadrada, com no mínimo 34x34 pixels. Clique no botão à direita para enviar uma nova imagem.",
+    "admin:users.deleteConfirmTitle": "Apagar o usuário?",
+    "admin:users.deleteConfirmText": "Você tem certeza que deseja apagar este usuário?",
+    "admin:users.updateUser": "Atualizar usuário",
+    "admin:users.groupAssignNotice": "Você não pode adicionar usuários para os grupos Administradores e Convidados a partir deste painel.",
+    "admin:users.deleteConfirmForeignNotice": "Você não pode apagar um usuário que possui conteúdo criado por ele.  Você deve desativar o usuário ou excluir todos os conteúdos criados por ele."
 }

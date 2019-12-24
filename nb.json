@@ -614,5 +614,10 @@
     "admin:ssl.httpPortRedirectHint": "Vil automatisk videresende eventuelle forespørsler på HTTP-porten til HTTPS.",
     "admin:ssl.writableConfigFileWarning": "Merk at konfigurasjonsfilen din må være skrivbar for å få lagret portkonfigurasjonen.",
     "admin:general.logoUrl": "Logo URL",
-    "admin:general.logoUrlHint": "Spesifiser et bilde som skal brukes som logo. SVG, PNG, JPG støttes, i et kvadratisk forhold, 34x34 piksler eller større. Klikk på knappen til høyre for å laste opp et nytt bilde."
+    "admin:general.logoUrlHint": "Spesifiser et bilde som skal brukes som logo. SVG, PNG, JPG støttes, i et kvadratisk forhold, 34x34 piksler eller større. Klikk på knappen til høyre for å laste opp et nytt bilde.",
+    "admin:users.deleteConfirmTitle": "Vil du slette bruker?",
+    "admin:users.deleteConfirmText": "Er du sikker på at du vil slette bruker {{username}}?",
+    "admin:users.updateUser": "Oppdater bruker",
+    "admin:users.groupAssignNotice": "Merk at du ikke kan tilordne brukere til administrator-gruppen eller gjeste-gruppen fra dette panelet.",
+    "admin:users.deleteConfirmForeignNotice": "Merk at du ikke kan slette en bruker som allerede har opprettet innhold. Du må i stedet enten deaktivere brukeren eller slette alt innholdet som ble opprettet av den brukeren."
 }

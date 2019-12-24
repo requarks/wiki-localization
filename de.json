@@ -617,5 +617,7 @@
     "admin:general.logoUrlHint": "Wählen Sie ein Bild, welches als Logo verwendet werden soll. SVG, PNG, JPG werden unterstützt, in einem quadratischen Seitenverhältnis, 34x34 Pixel oder größer. Klicken Sie auf die Schaltfläche rechts, um ein neues Bild hochzuladen.",
     "admin:users.deleteConfirmTitle": "Benutzer löschen?",
     "admin:users.deleteConfirmText": "Sind Sie sicher, dass Sie den Benutzer {{username}} löschen wollen?",
-    "admin:users.updateUser": "Benutzer aktualisieren"
+    "admin:users.updateUser": "Benutzer aktualisieren",
+    "admin:users.groupAssignNotice": "Beachten Sie, dass Sie hier keine Benutzer den Gruppen \"Administratoren\" oder \"Gäste\" zuweisen können.",
+    "admin:users.deleteConfirmForeignNotice": "Sie können einen Benutzer, der bereits Inhalte erstellt hat, nicht löschen. Sie müssen stattdessen entweder den Benutzer deaktivieren oder alle Inhalte, die von diesem Benutzer erstellt wurden, löschen."
 }
