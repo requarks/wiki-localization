@@ -614,5 +614,10 @@
     "admin:ssl.httpPortRedirectHint": "HTTP 포트의 모든 요청을 HTTPS로 자동으로 리디렉션합니다.",
     "admin:ssl.writableConfigFileWarning": "포트 구성을 유지하려면 설정 파일에 쓰기 권한이 있어야 합니다.",
     "admin:general.logoUrl": "로고 URL",
-    "admin:general.logoUrlHint": "로고로 사용할 이미지를 지정합니다. 정사각형 비율의 SVG, PNG, JPG가 지원되며, 34x34 픽셀 이상이어야합니다. 오른쪽 버튼을 클릭하여 새 이미지를 업로드하세요."
+    "admin:general.logoUrlHint": "로고로 사용할 이미지를 지정합니다. 정사각형 비율의 SVG, PNG, JPG가 지원되며, 34x34 픽셀 이상이어야합니다. 오른쪽 버튼을 클릭하여 새 이미지를 업로드하세요.",
+    "admin:users.deleteConfirmTitle": "사용자를 삭제하시겠습니까?",
+    "admin:users.deleteConfirmText": "정말로 사용자 {{username}}을 삭제하시겠습니까?",
+    "admin:users.updateUser": "사용자 업데이트",
+    "admin:users.groupAssignNotice": "이 패널에서는 사용자를 관리자나 손님 그룹으로 지정할 수 없습니다.",
+    "admin:users.deleteConfirmForeignNotice": "이미 컨텐츠를 만든 사용자는 삭제할 수 없습니다. 사용자가 작성한 모든 문서를 지운 후 사용자를 삭제하거나, 사용자를 비활성화해야합니다."
 }
