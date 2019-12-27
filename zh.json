@@ -614,5 +614,15 @@
     "admin:ssl.httpPortRedirectHint": "将会自动将所有的HTTP请求重定向到HTTPS",
     "admin:ssl.writableConfigFileWarning": "请注意，你的配置文件必须为可写入才能设定端口配置",
     "admin:general.logoUrl": "Logo URL",
-    "admin:general.logoUrlHint": "制定一个图片座位你的LOGO，支持34*34或更高的正方形图像，支持SVG、PNG、JPG格式，点击按钮来上传新图像"
+    "admin:general.logoUrlHint": "制定一个图片座位你的LOGO，支持34*34或更高的正方形图像，支持SVG、PNG、JPG格式，点击按钮来上传新图像",
+    "admin:users.deleteConfirmTitle": "删除用户帐号？",
+    "admin:users.deleteConfirmText": "您确定要删除用户{{username}}的帐户吗？此操作无法撤销！",
+    "admin:users.updateUser": "更新用户账号",
+    "admin:users.groupAssignNotice": "请注意，您不能从此面板将用户分配给Administrators或Guests组。",
+    "admin:users.deleteConfirmForeignNotice": "请注意，您不能删除已经创建内容的用户。相反，您必须停用用户或删除该用户创建的所有内容。",
+    "editor:props.scripts": "脚本",
+    "editor:props.js": "Javascript",
+    "editor:props.css": "CSS",
+    "editor:props.jsHint": "请注意，如果管理员禁用了此功能，则脚本将不起作用。",
+    "editor:props.cssHint": "保存后会自动缩小CSS。"
 }

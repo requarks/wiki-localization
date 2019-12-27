@@ -619,5 +619,10 @@
     "admin:users.deleteConfirmText": "Are you sure you want to delete user {{username}}?",
     "admin:users.updateUser": "Update User",
     "admin:users.groupAssignNotice": "Note that you cannot assign users to the Administrators or Guests groups from this panel.",
-    "admin:users.deleteConfirmForeignNotice": "Note that you cannot delete a user that already created content. You must instead either deactivate the user or delete all content that was created by that user."
+    "admin:users.deleteConfirmForeignNotice": "Note that you cannot delete a user that already created content. You must instead either deactivate the user or delete all content that was created by that user.",
+    "editor:props.scripts": "Scripts",
+    "editor:props.js": "Javascript",
+    "editor:props.css": "CSS",
+    "editor:props.jsHint": "Note that scripts will not work if your administrator disabled this feature.",
+    "editor:props.cssHint": "CSS will automatically be minified upon saving."
 }
