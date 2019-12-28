@@ -619,5 +619,10 @@
     "admin:users.deleteConfirmText": "{{username}} kullanıcısını silmek istediğinizden emin misiniz?",
     "admin:users.updateUser": "Kullanıcı Düzenle",
     "admin:users.groupAssignNotice": "Bu panelden Yöneticiler veya Misafirler gruplarına kullanıcı atayamayacağınızı unutmayın.",
-    "admin:users.deleteConfirmForeignNotice": "Önceden içerik oluşturmuş bir kullanıcıyı silemeyeceğinizi unutmayın. Bunun yerine kullanıcıyı devre dışı bırakmalı veya o kullanıcı tarafından oluşturulan tüm içeriği silmelisiniz."
+    "admin:users.deleteConfirmForeignNotice": "Önceden içerik oluşturmuş bir kullanıcıyı silemeyeceğinizi unutmayın. Bunun yerine kullanıcıyı devre dışı bırakmalı veya o kullanıcı tarafından oluşturulan tüm içeriği silmelisiniz.",
+    "editor:props.scripts": "Scripts",
+    "editor:props.js": "JavaScript",
+    "editor:props.css": "CSS",
+    "editor:props.jsHint": "Yöneticiniz bu özelliği devre dışı bıraktıysa komut dosyalarının çalışmayacağını unutmayın.",
+    "editor:props.cssHint": "CSS kaydedildiğinde otomatik olarak küçültülecektir."
 }

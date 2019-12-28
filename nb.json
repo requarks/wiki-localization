@@ -619,5 +619,10 @@
     "admin:users.deleteConfirmText": "Er du sikker på at du vil slette bruker {{username}}?",
     "admin:users.updateUser": "Oppdater bruker",
     "admin:users.groupAssignNotice": "Merk at du ikke kan tilordne brukere til administrator-gruppen eller gjeste-gruppen fra dette panelet.",
-    "admin:users.deleteConfirmForeignNotice": "Merk at du ikke kan slette en bruker som allerede har opprettet innhold. Du må i stedet enten deaktivere brukeren eller slette alt innholdet som ble opprettet av den brukeren."
+    "admin:users.deleteConfirmForeignNotice": "Merk at du ikke kan slette en bruker som allerede har opprettet innhold. Du må i stedet enten deaktivere brukeren eller slette alt innholdet som ble opprettet av den brukeren.",
+    "editor:props.scripts": "Skript",
+    "editor:props.js": "Javascript",
+    "editor:props.css": "CSS",
+    "editor:props.jsHint": "Vær oppmerksom på at skript ikke vil fungere hvis administratoren har deaktivert denne funksjonen.",
+    "editor:props.cssHint": "CSS blir automatisk minimert ved lagring."
 }
