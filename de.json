@@ -619,5 +619,10 @@
     "admin:users.deleteConfirmText": "Sind Sie sicher, dass Sie den Benutzer {{username}} löschen wollen?",
     "admin:users.updateUser": "Benutzer aktualisieren",
     "admin:users.groupAssignNotice": "Beachten Sie, dass Sie hier keine Benutzer den Gruppen \"Administratoren\" oder \"Gäste\" zuweisen können.",
-    "admin:users.deleteConfirmForeignNotice": "Sie können einen Benutzer, der bereits Inhalte erstellt hat, nicht löschen. Sie müssen stattdessen entweder den Benutzer deaktivieren oder alle Inhalte, die von diesem Benutzer erstellt wurden, löschen."
+    "admin:users.deleteConfirmForeignNotice": "Sie können einen Benutzer, der bereits Inhalte erstellt hat, nicht löschen. Sie müssen stattdessen entweder den Benutzer deaktivieren oder alle Inhalte, die von diesem Benutzer erstellt wurden, löschen.",
+    "editor:props.scripts": "Skripte",
+    "editor:props.js": "Javascript",
+    "editor:props.css": "CSS",
+    "editor:props.jsHint": "Beachten Sie, dass Skripte nicht funktionieren, wenn Ihr Administrator diese Funktion deaktiviert hat.",
+    "editor:props.cssHint": "CSS wird beim Speichern automatisch verkleinert."
 }

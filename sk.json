@@ -141,6 +141,10 @@
     "admin:navigation.noItemsText": "Kliknutím na tlačidlo Pridať pridajte svoju prvú navigačnú položku.",
     "admin:navigation.emptyList": "Navigácia je prázdna",
     "common:actions.apply": "Použiť",
+    "common:unauthorized.goback": "Späť",
+    "common:notfound.gohome": "Domov",
+    "common:notfound.title": "Nenájdené",
+    "common:unauthorized.login": "Prihlásiť sa ako ...",
     "common:welcome.title": "Vitajte vo vašej wiki!",
     "common:welcome.subtitle": "Začnime a vytvorme domovskú stránku.",
     "common:welcome.createhome": "Vytvoriť Domovskú Stránku",
@@ -181,7 +185,7 @@
     "admin:utilities.contentTitle": "Obsah",
     "admin:utilities.contentSubtitle": "Rôzne nástroje pre stránky",
     "admin:theme.iconset": "Sada ikon",
-    "admin:theme.iconsetHint": "Sada ikon pre použtie pri navigácii postranného panela.",
+    "admin:theme.iconsetHint": "Sada ikon pre použitie pri navigácii postranného panela.",
     "common:outdatedBrowserWarning": "Váš prehliadač je zastaraný. Upgradujte na verziu {{modernBrowser}}.",
     "common:modernBrowser": "moderný prehliadač",
     "admin:theme.downloadName": "Meno",
@@ -264,5 +268,12 @@
     "tags:orderByField.title": "Názov",
     "tags:localeAny": "Akýkoľvek",
     "admin:contribute.github": "Staňte sa sponzorom cez GitHub Sponzori (ide priamo na podporu vedúceho developera Nicolasa Giarda ktorého cieľom je pracovať na Wiki.js na plný úväzok)",
-    "admin:contribute.becomeASponsor": "Staňte sa sponzorom"
+    "admin:contribute.becomeASponsor": "Staňte sa sponzorom",
+    "admin:users.groupAssignNotice": "Upozorňujeme, že na tomto paneli nemôžete priradiť používateľov do administrátorov alebo hostí.",
+    "admin:users.deleteConfirmForeignNotice": "Upozorňujeme, že nie je možné odstrániť používateľa, ktorý už vytvoril obsah. Namiesto toho musíte používateľa deaktivovať alebo odstrániť všetok obsah, ktorý  vytvoril.",
+    "editor:props.scripts": "Skripty",
+    "editor:props.js": "Javascript",
+    "editor:props.css": "CSS",
+    "editor:props.jsHint": "Upozorňujeme, že skripty nebudú fungovať, ak správca túto funkciu zakázal.",
+    "editor:props.cssHint": "CSS sa po uložení automaticky minimalizuje."
 }

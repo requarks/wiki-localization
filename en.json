@@ -624,5 +624,15 @@
     "editor:props.js": "Javascript",
     "editor:props.css": "CSS",
     "editor:props.jsHint": "Note that scripts will not work if your administrator disabled this feature.",
-    "editor:props.cssHint": "CSS will automatically be minified upon saving."
+    "editor:props.cssHint": "CSS will automatically be minified upon saving.",
+    "admin:navigation.visibilityMode.all": "Visible to everyone",
+    "admin:navigation.visibilityMode.restricted": "Visible to select groups...",
+    "admin:navigation.selectPageButton": "Select Page...",
+    "admin:navigation.mode": "Navigation Mode",
+    "admin:navigation.modeSiteTree.title": "Site Tree",
+    "admin:navigation.modeSiteTree.description": "Classic Tree-based Navigation",
+    "admin:navigation.modeCustom.title": "Custom Navigation",
+    "admin:navigation.modeCustom.description": "Static Navigation Menu + Site Tree Button",
+    "admin:navigation.modeNone.title": "None",
+    "admin:navigation.modeNone.description": "Disable Site Navigation"
 }
