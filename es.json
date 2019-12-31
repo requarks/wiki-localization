@@ -624,5 +624,6 @@
     "editor:props.js": "Javascript",
     "editor:props.css": "CSS",
     "editor:props.jsHint": "Tenga en cuenta que los scripts no funcionarán si el administrador deshabilitó esta función.",
-    "editor:props.cssHint": "El código CSS se minificará automáticamente al guardar."
+    "editor:props.cssHint": "El código CSS se minificará automáticamente al guardar.",
+    "admin:navigation.modeNone.description": "Deshabilitar la navegación del sitio"
 }
