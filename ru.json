@@ -606,5 +606,13 @@
     "admin:ssl.httpPort": "HTTP-порт",
     "admin:ssl.httpPortHint": "Не SSL-порт, который будет прослушиваться сервером для HTTP-запросов. Обычно 80 или 3000.",
     "admin:ssl.httpsPort": "порт HTTPS",
-    "admin:ssl.httpsPortHint": "SSL-порт, который будет прослушиваться сервером на предмет HTTPS-запросов. Обычно 443."
+    "admin:ssl.httpsPortHint": "SSL-порт, который будет прослушиваться сервером на предмет HTTPS-запросов. Обычно 443.",
+    "admin:ssl.httpPortRedirect": "Перенаправить HTTP-запросы на HTTPS",
+    "admin:ssl.httpPortRedirectHint": "Автоматически перенаправлять все HTTP запросы на HTTPS.",
+    "admin:ssl.writableConfigFileWarning": "Обратите внимание, что конфигурационный файл должен быть доступен для записи, чтобы сохранять конфигурацию портов.",
+    "admin:general.logoUrl": "URL логотипа",
+    "admin:general.logoUrlHint": "Укажите изображение для использования в качестве логотипа. Поддерживается SVG, PNG и JPG, в соотношении сторон, 34x34 пикселей или больше. Нажмите кнопку справа, чтобы загрузить новое изображение.",
+    "admin:users.deleteConfirmTitle": "Удалить пользователя?",
+    "admin:users.deleteConfirmText": "Вы уверены, что хотите удалить {{title}}?",
+    "admin:users.updateUser": "Обновить пользователя"
 }

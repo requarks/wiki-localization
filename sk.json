@@ -275,5 +275,9 @@
     "editor:props.js": "Javascript",
     "editor:props.css": "CSS",
     "editor:props.jsHint": "Upozorňujeme, že skripty nebudú fungovať, ak správca túto funkciu zakázal.",
-    "editor:props.cssHint": "CSS sa po uložení automaticky minimalizuje."
+    "editor:props.cssHint": "CSS sa po uložení automaticky minimalizuje.",
+    "admin:navigation.modeCustom.title": "Vlastná navigácia",
+    "admin:navigation.modeCustom.description": "Statické navigačné menu + tlačidlo mapy stránky",
+    "admin:navigation.modeNone.title": "Žiadny",
+    "admin:navigation.modeNone.description": "Vypnúť navigácia na stránke"
 }
