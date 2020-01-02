@@ -634,5 +634,6 @@
     "admin:navigation.modeCustom.title": "Custom Navigation",
     "admin:navigation.modeCustom.description": "Static Navigation Menu + Site Tree Button",
     "admin:navigation.modeNone.title": "None",
-    "admin:navigation.modeNone.description": "Disable Site Navigation"
+    "admin:navigation.modeNone.description": "Disable Site Navigation",
+    "admin:users.userVerifySuccess": "User has been verified successfully."
 }

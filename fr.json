@@ -632,5 +632,6 @@
     "admin:navigation.modeCustom.title": "Navigation personnalisée",
     "admin:navigation.modeCustom.description": "Menu de navigation statique + bouton de structure du site",
     "admin:navigation.modeNone.title": "Aucun",
-    "admin:navigation.modeNone.description": "Désactiver la navigation"
+    "admin:navigation.modeNone.description": "Désactiver la navigation",
+    "admin:users.userVerifySuccess": "L'utilisateur a été vérifié avec succès."
 }

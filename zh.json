@@ -624,5 +624,8 @@
     "editor:props.js": "Javascript",
     "editor:props.css": "CSS",
     "editor:props.jsHint": "请注意，如果管理员禁用了此功能，则脚本将不起作用。",
-    "editor:props.cssHint": "保存后会自动缩小CSS。"
+    "editor:props.cssHint": "保存后会自动缩小CSS。",
+    "admin:navigation.modeCustom.description": "静态导航菜单+站点树按钮",
+    "admin:navigation.modeNone.title": "无",
+    "admin:navigation.modeNone.description": "禁用站点导航栏"
 }
