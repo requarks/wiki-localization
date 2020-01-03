@@ -624,5 +624,16 @@
     "editor:props.js": "Javascript",
     "editor:props.css": "CSS",
     "editor:props.jsHint": "Vær oppmerksom på at skript ikke vil fungere hvis administratoren har deaktivert denne funksjonen.",
-    "editor:props.cssHint": "CSS blir automatisk minimert ved lagring."
+    "editor:props.cssHint": "CSS blir automatisk minimert ved lagring.",
+    "admin:navigation.visibilityMode.all": "Synlig for alle",
+    "admin:navigation.visibilityMode.restricted": "Synlig for valgte grupper...",
+    "admin:navigation.selectPageButton": "Velg side ...",
+    "admin:navigation.mode": "Navigasjonsmodus",
+    "admin:navigation.modeSiteTree.title": "Hierarki",
+    "admin:navigation.modeSiteTree.description": "Klassisk hierarkibasert navigeringsmeny",
+    "admin:navigation.modeCustom.title": "Egendefinert navigeringsmeny",
+    "admin:navigation.modeCustom.description": "Statisk navigeringsmeny + knapp for navigeringshierarki",
+    "admin:navigation.modeNone.title": "Ingen",
+    "admin:navigation.modeNone.description": "Deaktiver navigeringsmenyen",
+    "admin:users.userVerifySuccess": "Brukeren ble verifisert."
 }

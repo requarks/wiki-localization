@@ -624,5 +624,6 @@
     "editor:props.js": "JavaScript",
     "editor:props.css": "CSS",
     "editor:props.jsHint": "Yöneticiniz bu özelliği devre dışı bıraktıysa komut dosyalarının çalışmayacağını unutmayın.",
-    "editor:props.cssHint": "CSS kaydedildiğinde otomatik olarak küçültülecektir."
+    "editor:props.cssHint": "CSS kaydedildiğinde otomatik olarak küçültülecektir.",
+    "admin:navigation.selectPageButton": "Sayfa Seçin ..."
 }

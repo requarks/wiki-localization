@@ -633,5 +633,7 @@
     "admin:navigation.modeCustom.description": "Menu de navigation statique + bouton de structure du site",
     "admin:navigation.modeNone.title": "Aucun",
     "admin:navigation.modeNone.description": "Désactiver la navigation",
-    "admin:users.userVerifySuccess": "L'utilisateur a été vérifié avec succès."
+    "admin:users.userVerifySuccess": "L'utilisateur a été vérifié avec succès.",
+    "admin:users.userActivateSuccess": "L'utilisateur a été activé avec succès.",
+    "admin:users.userDeactivateSuccess": "L'utilisateur a été désactivé avec succès."
 }
