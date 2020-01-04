@@ -637,5 +637,6 @@
     "admin:navigation.modeNone.description": "Disable Site Navigation",
     "admin:users.userVerifySuccess": "User has been verified successfully.",
     "admin:users.userActivateSuccess": "User has been activated successfully.",
-    "admin:users.userDeactivateSuccess": "User deactivated successfully."
+    "admin:users.userDeactivateSuccess": "User deactivated successfully.",
+    "editor:markup.noSelectionError": "Text must be selected first!"
 }

@@ -626,13 +626,17 @@
     "editor:props.jsHint": "Beachten Sie, dass Skripte nicht funktionieren, wenn Ihr Administrator diese Funktion deaktiviert hat.",
     "editor:props.cssHint": "CSS wird beim Speichern automatisch verkleinert.",
     "admin:navigation.visibilityMode.all": "Für alle sichtbar",
-    "admin:navigation.visibilityMode.restricted": "Sichtbare Gruppen auswählen...",
-    "admin:navigation.selectPageButton": "Seite auswählen",
+    "admin:navigation.visibilityMode.restricted": "Sichtbar für ausgewählte Gruppen...",
+    "admin:navigation.selectPageButton": "Seite auswählen...",
     "admin:navigation.mode": "Navigationsmodus",
     "admin:navigation.modeSiteTree.title": "Seiten-Baumanzeige",
     "admin:navigation.modeSiteTree.description": "Klassische Baumnavigation",
     "admin:navigation.modeCustom.title": "Benutzerdefinierte Navigation",
     "admin:navigation.modeCustom.description": "Statisches Navigationsmenü + Seiten-Baumanzeige Button",
     "admin:navigation.modeNone.title": "Keine",
-    "admin:navigation.modeNone.description": "Seitennavigation deaktivieren"
+    "admin:navigation.modeNone.description": "Seitennavigation deaktivieren",
+    "admin:users.userVerifySuccess": "Benutzer wurde erfolgreich verifiziert.",
+    "admin:users.userActivateSuccess": "Benutzer wurde erfolgreich aktiviert.",
+    "admin:users.userDeactivateSuccess": "Benutzer erfolgreich deaktiviert.",
+    "editor:markup.noSelectionError": "Der Text muss zuerst ausgewählt werden!"
 }
