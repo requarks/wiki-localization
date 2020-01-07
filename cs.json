@@ -634,5 +634,9 @@
     "admin:navigation.modeCustom.title": "Vlastní navigace",
     "admin:navigation.modeCustom.description": "Statické Navigační Menu + Tlačítko Stromu Stránky",
     "admin:navigation.modeNone.title": "Žádný",
-    "admin:navigation.modeNone.description": "Zakázat navigaci stránky"
+    "admin:navigation.modeNone.description": "Zakázat navigaci stránky",
+    "admin:users.userVerifySuccess": "Uživatel byl úspěšně ověřen.",
+    "admin:users.userActivateSuccess": "Uživatel byl úspěšně aktivován.",
+    "admin:users.userDeactivateSuccess": "Uživatel byl úspěšně deaktivován.",
+    "editor:markup.noSelectionError": "Nejprve je nutné vybrat text!"
 }
