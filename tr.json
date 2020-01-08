@@ -625,5 +625,11 @@
     "editor:props.css": "CSS",
     "editor:props.jsHint": "Yöneticiniz bu özelliği devre dışı bıraktıysa komut dosyalarının çalışmayacağını unutmayın.",
     "editor:props.cssHint": "CSS kaydedildiğinde otomatik olarak küçültülecektir.",
-    "admin:navigation.selectPageButton": "Sayfa Seçin ..."
+    "admin:navigation.visibilityMode.all": "Herkese görünür",
+    "admin:navigation.selectPageButton": "Sayfa Seçin ...",
+    "admin:navigation.modeNone.title": "Hiçbiri",
+    "admin:users.userVerifySuccess": "Kullanıcı başarıyla doğrulandı.",
+    "admin:users.userActivateSuccess": "Kullanıcı başarıyla etkinleştirildi.",
+    "admin:users.userDeactivateSuccess": "Kullanıcı başarıyla etkisiz hale getirildi.",
+    "editor:markup.noSelectionError": "Önce metin seçilmelidir!"
 }
