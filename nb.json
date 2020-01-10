@@ -202,7 +202,7 @@
     "admin:contribute.ethereum": "Vi aksepterer donasjoner ved hjelp av Ethereum:",
     "admin:locale.sideload": "Last inn språkpakke",
     "admin:locale.sideloadHelp": "Hvis du ikke er koblet til Internett eller ikke kan laste ned språkfiler ved hjelp av metoden over, kan du i stedet laste  pakker manuelt ved å laste dem opp nedenfor.",
-    "common:actions.browse": "Bla gjennom...",
+    "common:actions.browse": "Bla...",
     "admin:webhooks.title": "Webhooks",
     "admin:webhooks.subtitle": "Administrer webhooks til eksterne tjenester",
     "admin:mail.test": "Send en test e-post",
@@ -635,5 +635,8 @@
     "admin:navigation.modeCustom.description": "Statisk navigeringsmeny + knapp for navigeringshierarki",
     "admin:navigation.modeNone.title": "Ingen",
     "admin:navigation.modeNone.description": "Deaktiver navigeringsmenyen",
-    "admin:users.userVerifySuccess": "Brukeren ble verifisert."
+    "admin:users.userVerifySuccess": "Brukeren ble verifisert.",
+    "admin:users.userActivateSuccess": "Brukeren ble aktivert.",
+    "admin:users.userDeactivateSuccess": "Brukeren ble deaktivert.",
+    "editor:markup.noSelectionError": "Tekst må velges først!"
 }
