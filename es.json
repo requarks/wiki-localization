@@ -625,5 +625,15 @@
     "editor:props.css": "CSS",
     "editor:props.jsHint": "Tenga en cuenta que los scripts no funcionarán si el administrador deshabilitó esta función.",
     "editor:props.cssHint": "El código CSS se minificará automáticamente al guardar.",
-    "admin:navigation.modeNone.description": "Deshabilitar la navegación del sitio"
+    "admin:navigation.visibilityMode.all": "Visible para todos",
+    "admin:navigation.visibilityMode.restricted": "Visible para grupos específicos",
+    "admin:navigation.selectPageButton": "Seleccionar página...",
+    "admin:navigation.mode": "Modo navegación",
+    "admin:navigation.modeSiteTree.title": "Árbol del sitio",
+    "admin:navigation.modeCustom.title": "Navegación personalizada",
+    "admin:navigation.modeNone.title": "Ninguno",
+    "admin:navigation.modeNone.description": "Deshabilitar la navegación del sitio",
+    "admin:users.userVerifySuccess": "El usuario ha sido verificado exitosamente.",
+    "admin:users.userActivateSuccess": "El usuario ha sido activado exitosamente.",
+    "admin:users.userDeactivateSuccess": "El usuario ha sido desactivado exitosamente."
 }
