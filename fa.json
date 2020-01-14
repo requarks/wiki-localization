@@ -614,5 +614,12 @@
     "admin:ssl.httpPortRedirectHint": "به صورت خودکار تمامی درخواست های HTTP به HTTPS انتقال خواهند یافت.",
     "admin:ssl.writableConfigFileWarning": "توجه داشته باشید که فایل کانفیگ شما باید حتما قابل نوشتن باشد تا تنظیمات به درستی اعمال شود.",
     "admin:general.logoUrl": "آدرس لوگو",
-    "admin:general.logoUrlHint": "یک تصویر برای لوگو وارد کنید ، تصویر باید با یکی از فرمت های SVG , PNG , JPG و در اندازه 34*34 پیکسل باشد. برای آپلود تصویر جدید رو دکمه زیر کلیک کنید."
+    "admin:general.logoUrlHint": "یک تصویر برای لوگو وارد کنید ، تصویر باید با یکی از فرمت های SVG , PNG , JPG و در اندازه 34*34 پیکسل باشد. برای آپلود تصویر جدید رو دکمه زیر کلیک کنید.",
+    "admin:navigation.visibilityMode.all": "قابل نمایش برای همه",
+    "admin:navigation.modeNone.title": "هیچ",
+    "admin:navigation.modeNone.description": "غیر فعال کردن منوی سایت",
+    "admin:users.userVerifySuccess": "کاربر با موفقیت تایید شد.",
+    "admin:users.userActivateSuccess": "کاربر با موفقیت فعال شد.",
+    "admin:users.userDeactivateSuccess": "کاربر با موفقیت غیرفعال شد.",
+    "editor:markup.noSelectionError": "ابتدا باید متن انتخاب شود!"
 }
