@@ -614,5 +614,11 @@
     "admin:ssl.httpPortRedirectHint": "Θα ανακατευθύνει αυτόματα τυχόν αιτήματα στη θύρα HTTP στο HTTPS.",
     "admin:ssl.writableConfigFileWarning": "Σημειώστε ότι το αρχείο ρυθμίσεών σας πρέπει να είναι εγγράψιμο για να διατηρήσει τη διαμόρφωση των θυρών.",
     "admin:general.logoUrl": "Διεύθυνση URL λογότυπου",
-    "admin:general.logoUrlHint": "Καθορίστε μια εικόνα που θα χρησιμοποιηθεί ως λογότυπο. SVG, PNG, JPG υποστηρίζονται, σε τετραγωνικό λόγο, 34x34 εικονοστοιχεία ή μεγαλύτερα. Κάντε κλικ στο κουμπί στα δεξιά για να ανεβάσετε μια νέα εικόνα."
+    "admin:general.logoUrlHint": "Καθορίστε μια εικόνα που θα χρησιμοποιηθεί ως λογότυπο. SVG, PNG, JPG υποστηρίζονται, σε τετραγωνικό λόγο, 34x34 εικονοστοιχεία ή μεγαλύτερα. Κάντε κλικ στο κουμπί στα δεξιά για να ανεβάσετε μια νέα εικόνα.",
+    "admin:navigation.modeNone.title": "Κανένας",
+    "admin:navigation.modeNone.description": "Απενεργοποίηση πλοήγησης ιστότοπου",
+    "admin:users.userVerifySuccess": "Ο χρήστης έχει επαληθευτεί με επιτυχία.",
+    "admin:users.userActivateSuccess": "Ο χρήστης έχει ενεργοποιηθεί με επιτυχία.",
+    "admin:users.userDeactivateSuccess": "Ο χρήστης απενεργοποιήθηκε με επιτυχία.",
+    "editor:markup.noSelectionError": "Πρέπει πρώτα να επιλέξετε κείμενο!"
 }
