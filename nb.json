@@ -101,7 +101,7 @@
     "admin:contribute.helpTranslate": "Hjelp med å oversette Wiki.js til ditt språk. Gi oss beskjed på {{0}} .",
     "admin:contribute.makeADonation": "Gi en donasjon",
     "admin:contribute.contribute": "Bidra",
-    "admin:contribute.openCollective": "Wiki.js er også en del av Open Collective-initiativet, et gjennomsiktig fond som jobber for communityressurser. Du kan bidra økonomisk ved å gi en månedlig eller engangs-donasjon:",
+    "admin:contribute.openCollective": "Wiki.js er også en del av Open Collective-initiativet, et transparent fond som jobber for communityressurser. Du kan bidra økonomisk ved å gi en månedlig eller engangs-donasjon:",
     "admin:contribute.needYourHelp": "Vi trenger din hjelp til å fortsette å forbedre programvaren og drifte de forskjellige tilknyttede tjenester (f.eks. Hosting og nettverk).",
     "admin:contribute.openSource": "Wiki.js er en gratis og åpen kildekode-programvare skapt med {{0}} av {{1}} og {{2}} .",
     "admin:contribute.openSourceContributors": "bidragsytere",

@@ -638,5 +638,5 @@
     "admin:users.userVerifySuccess": "用户已成功验证。",
     "admin:users.userActivateSuccess": "用户已成功激活。",
     "admin:users.userDeactivateSuccess": "用户已成功停用。",
-    "editor:markup.noSelectionError": "必须首先选择文本！"
+    "editor:markup.noSelectionError": "必须先选择文本！"
 }
