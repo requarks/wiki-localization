@@ -49,7 +49,6 @@
     "admin:nav.users": "Пользователи",
     "admin:nav.modules": "Модули",
     "admin:nav.system": "Система",
-    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "Настройте параметры локализации для вашей вики",
     "admin:locale.settings": "Настройки языка",
     "admin:locale.namespacing": "Многоязычные страницы",

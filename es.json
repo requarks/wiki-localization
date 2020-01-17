@@ -630,10 +630,13 @@
     "admin:navigation.selectPageButton": "Seleccionar página...",
     "admin:navigation.mode": "Modo navegación",
     "admin:navigation.modeSiteTree.title": "Árbol del sitio",
+    "admin:navigation.modeSiteTree.description": "Navegacion basada en Arbol Clasico",
     "admin:navigation.modeCustom.title": "Navegación personalizada",
+    "admin:navigation.modeCustom.description": "Menu de Navegacion Estatica + Boton Arbol del Sitio",
     "admin:navigation.modeNone.title": "Ninguno",
     "admin:navigation.modeNone.description": "Deshabilitar la navegación del sitio",
     "admin:users.userVerifySuccess": "El usuario ha sido verificado exitosamente.",
     "admin:users.userActivateSuccess": "El usuario ha sido activado exitosamente.",
-    "admin:users.userDeactivateSuccess": "El usuario ha sido desactivado exitosamente."
+    "admin:users.userDeactivateSuccess": "El usuario ha sido desactivado exitosamente.",
+    "editor:markup.noSelectionError": "El texto debe seleccionado primero!"
 }
