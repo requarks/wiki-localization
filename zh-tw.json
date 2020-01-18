@@ -209,6 +209,8 @@
     "admin:mail.smtp": "SMTP設定",
     "admin:mail.smtpHost": "Host",
     "admin:mail.smtpPort": "端口",
+    "admin:mail.smtpPortHint": "通常是 465（建議使用）、587 或 25。",
+    "admin:mail.smtpTLS": "安全（TLS）",
     "common:header.home": "首頁",
     "common:header.newPage": "新頁面",
     "common:header.currentPage": "目前頁面",
