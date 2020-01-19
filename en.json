@@ -638,5 +638,10 @@
     "admin:users.userVerifySuccess": "User has been verified successfully.",
     "admin:users.userActivateSuccess": "User has been activated successfully.",
     "admin:users.userDeactivateSuccess": "User deactivated successfully.",
-    "editor:markup.noSelectionError": "Text must be selected first!"
+    "editor:markup.noSelectionError": "Text must be selected first!",
+    "admin:ssl.renewCertificate": "Renew Certificate",
+    "admin:ssl.status": "Certificate Status",
+    "admin:ssl.expiration": "Certificate Expiration",
+    "admin:ssl.subscriberEmail": "Subscriber Email",
+    "admin:ssl.currentState": "Current State"
 }

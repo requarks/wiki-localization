@@ -638,5 +638,10 @@
     "admin:users.userVerifySuccess": "L'utilisateur a été vérifié avec succès.",
     "admin:users.userActivateSuccess": "L'utilisateur a été activé avec succès.",
     "admin:users.userDeactivateSuccess": "L'utilisateur a été désactivé avec succès.",
-    "editor:markup.noSelectionError": "Vous devez d'abord sélectionner du texte!"
+    "editor:markup.noSelectionError": "Vous devez d'abord sélectionner du texte!",
+    "admin:ssl.renewCertificate": "Renouveler le certificat",
+    "admin:ssl.status": "Statut du certificat",
+    "admin:ssl.expiration": "Expiration du certificat",
+    "admin:ssl.subscriberEmail": "Courriel du gestionnaire",
+    "admin:ssl.currentState": "État actuel"
 }
