@@ -643,5 +643,11 @@
     "admin:ssl.status": "Statut du certificat",
     "admin:ssl.expiration": "Expiration du certificat",
     "admin:ssl.subscriberEmail": "Courriel du gestionnaire",
-    "admin:ssl.currentState": "État actuel"
+    "admin:ssl.currentState": "État actuel",
+    "admin:ssl.httpPortRedirectTurnOn": "Activer",
+    "admin:ssl.httpPortRedirectTurnOff": "Désactiver",
+    "admin:ssl.renewCertificateLoadingTitle": "Renouvellement du certificat ...",
+    "admin:ssl.renewCertificateLoadingSubtitle": "Ne quittez pas cette page.",
+    "admin:ssl.renewCertificateSuccess": "Certificat renouvelé avec succès.",
+    "admin:ssl.httpPortRedirectSaveSuccess": "La redirection HTTP a été modifiée avec succès."
 }
