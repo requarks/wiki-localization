@@ -638,5 +638,16 @@
     "admin:users.userVerifySuccess": "A felhasználó sikeresen ellenőrizve.",
     "admin:users.userActivateSuccess": "A felhasználó sikeresen aktiválva.",
     "admin:users.userDeactivateSuccess": "A felhasználó sikeresen deaktiválva.",
-    "editor:markup.noSelectionError": "Először a szöveget kell kiválasztani!"
+    "editor:markup.noSelectionError": "Először a szöveget kell kiválasztani!",
+    "admin:ssl.renewCertificate": "Tanúsítvány megújítása",
+    "admin:ssl.status": "Tanúsítvány állapota",
+    "admin:ssl.expiration": "Tanúsítvány lejárata",
+    "admin:ssl.subscriberEmail": "Feliratkozási email cím",
+    "admin:ssl.currentState": "Jelenlegi állapot",
+    "admin:ssl.httpPortRedirectTurnOn": "Bekapcsolás",
+    "admin:ssl.httpPortRedirectTurnOff": "Kikapcsolás",
+    "admin:ssl.renewCertificateLoadingTitle": "Tanúsítvány megújítása...",
+    "admin:ssl.renewCertificateLoadingSubtitle": "Ne hagyja el ezt az oldalt.",
+    "admin:ssl.renewCertificateSuccess": "Tanúsítvány sikeresen megújítva.",
+    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP átirányítás sikeresen módosítva."
 }

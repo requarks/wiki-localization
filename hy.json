@@ -30,6 +30,8 @@
     "admin:editor.title": "Խմբագիր",
     "admin:search.title": "Որոնման համակարգ",
     "admin:storage.title": "Պահոց",
+    "admin:nav.site": "Կայք",
+    "admin:nav.users": "Օգտատերեր",
     "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.autoUpdate.label": "Թարմացնել ինքնաբերաբար",
     "admin:contribute.shop": "Wiki.js Խանութ",
@@ -177,5 +179,6 @@
     "admin:navigation.mode": "Կայքի նավարկում",
     "admin:navigation.modeSiteTree.title": "Կայքի ծառ",
     "admin:navigation.modeNone.title": "Ոչինչ",
-    "admin:navigation.modeNone.description": "Անջատել կայքի նավարկումը"
+    "admin:navigation.modeNone.description": "Անջատել կայքի նավարկումը",
+    "admin:ssl.renewCertificate": "Վերաթողարկել հավաստագիրը"
 }

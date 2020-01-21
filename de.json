@@ -638,5 +638,16 @@
     "admin:users.userVerifySuccess": "Benutzer wurde erfolgreich verifiziert.",
     "admin:users.userActivateSuccess": "Benutzer wurde erfolgreich aktiviert.",
     "admin:users.userDeactivateSuccess": "Benutzer erfolgreich deaktiviert.",
-    "editor:markup.noSelectionError": "Der Text muss zuerst ausgewählt werden!"
+    "editor:markup.noSelectionError": "Der Text muss zuerst ausgewählt werden!",
+    "admin:ssl.renewCertificate": "Zertifikat erneuern",
+    "admin:ssl.status": "Zertifikat-Status",
+    "admin:ssl.expiration": "Ablauf des Zertifikats",
+    "admin:ssl.subscriberEmail": "E-Mail-Abonnent",
+    "admin:ssl.currentState": "Aktueller Status",
+    "admin:ssl.httpPortRedirectTurnOn": "Anschalten",
+    "admin:ssl.httpPortRedirectTurnOff": "Ausschalten",
+    "admin:ssl.renewCertificateLoadingTitle": "Zertifikat wird erneuert …",
+    "admin:ssl.renewCertificateLoadingSubtitle": "Verlassen Sie diese Seite nicht.",
+    "admin:ssl.renewCertificateSuccess": "Zertifikat erfolgreich erneuert.",
+    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP-Umleitung erfolgreich geändert."
 }

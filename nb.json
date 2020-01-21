@@ -638,5 +638,16 @@
     "admin:users.userVerifySuccess": "Brukeren ble verifisert.",
     "admin:users.userActivateSuccess": "Brukeren ble aktivert.",
     "admin:users.userDeactivateSuccess": "Brukeren ble deaktivert.",
-    "editor:markup.noSelectionError": "Tekst må velges først!"
+    "editor:markup.noSelectionError": "Tekst må velges først!",
+    "admin:ssl.renewCertificate": "Forny sertifikatet",
+    "admin:ssl.status": "Status for sertifikat",
+    "admin:ssl.expiration": "Utløpsdato for sertifikat",
+    "admin:ssl.subscriberEmail": "Abonnentens e-post",
+    "admin:ssl.currentState": "Gjeldende tilstand",
+    "admin:ssl.httpPortRedirectTurnOn": "Slå på",
+    "admin:ssl.httpPortRedirectTurnOff": "Skru av",
+    "admin:ssl.renewCertificateLoadingTitle": "Forny sertifikat ...",
+    "admin:ssl.renewCertificateLoadingSubtitle": "Ikke forlat denne siden.",
+    "admin:ssl.renewCertificateSuccess": "Sertifikatet ble fornyet.",
+    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP Redirect ble endret."
 }
