@@ -627,7 +627,7 @@
     "editor:props.cssHint": "Το CSS θα εξομαλυνθεί αυτόματα κατά την αποθήκευση.",
     "admin:navigation.visibilityMode.all": "Ορατό σε όλους",
     "admin:navigation.visibilityMode.restricted": "Ορατό για την επιλογή ομάδων …",
-    "admin:navigation.selectPageButton": "Επιλέξτε Σελίδα ...",
+    "admin:navigation.selectPageButton": "Επιλέξτε Σελίδα …",
     "admin:navigation.mode": "Λειτουργία πλοήγησης",
     "admin:navigation.modeSiteTree.title": "Δέντρο ιστοτόπου",
     "admin:navigation.modeSiteTree.description": "Κλασική πλοήγηση με βάση το δέντρο",
@@ -638,5 +638,16 @@
     "admin:users.userVerifySuccess": "Ο χρήστης έχει επαληθευτεί με επιτυχία.",
     "admin:users.userActivateSuccess": "Ο χρήστης έχει ενεργοποιηθεί με επιτυχία.",
     "admin:users.userDeactivateSuccess": "Ο χρήστης απενεργοποιήθηκε με επιτυχία.",
-    "editor:markup.noSelectionError": "Πρέπει πρώτα να επιλέξετε κείμενο!"
+    "editor:markup.noSelectionError": "Πρέπει πρώτα να επιλέξετε κείμενο!",
+    "admin:ssl.renewCertificate": "Ανανέωση πιστοποιητικού",
+    "admin:ssl.status": "Κατάσταση πιστοποιητικού",
+    "admin:ssl.expiration": "Λήξη πιστοποιητικού",
+    "admin:ssl.subscriberEmail": "Email Συνδρομητή",
+    "admin:ssl.currentState": "Τρέχουσα Κατάσταση",
+    "admin:ssl.httpPortRedirectTurnOn": "Ενεργοποιήστε",
+    "admin:ssl.httpPortRedirectTurnOff": "Απενεργοποιήστε",
+    "admin:ssl.renewCertificateLoadingTitle": "Ανανέωση πιστοποιητικού…",
+    "admin:ssl.renewCertificateLoadingSubtitle": "Μην αφήνετε αυτήν τη σελίδα.",
+    "admin:ssl.renewCertificateSuccess": "Το πιστοποιητικό ανανεώθηκε με επιτυχία.",
+    "admin:ssl.httpPortRedirectSaveSuccess": "Η ανακατεύθυνση HTTP άλλαξε με επιτυχία."
 }

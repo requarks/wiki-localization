@@ -363,7 +363,7 @@
     "admin:general.siteDescription": "Descrição do site",
     "admin:general.siteDescriptionHint": "Descrição padrão quando nenhuma é inserida em uma página.",
     "admin:general.metaRobots": "Meta Robots",
-    "admin:general.metaRobotsHint": "Padrão: Índice, Fluxo. Também pode ser definido individualmente por página.",
+    "admin:general.metaRobotsHint": "Padrão: Index, Follow. Também pode ser definido individualmente por página.",
     "common:header.searchHint": "Digite pelo menos 2 caracteres para iniciar a pesquisa…",
     "common:header.searchLoading": "Procurando…",
     "common:header.searchNoResult": "Nenhuma página corresponde à sua pesquisa.",
@@ -638,5 +638,16 @@
     "admin:users.userVerifySuccess": "O usuário foi verificado com sucesso.",
     "admin:users.userActivateSuccess": "Usuário ativado com sucesso.",
     "admin:users.userDeactivateSuccess": "Usuário desativado com sucesso.",
-    "editor:markup.noSelectionError": "O texto precisa estar selecionado antes!"
+    "editor:markup.noSelectionError": "O texto precisa estar selecionado antes!",
+    "admin:ssl.renewCertificate": "Renovar certificado",
+    "admin:ssl.status": "Status do certificado",
+    "admin:ssl.expiration": "Expiração do certificado",
+    "admin:ssl.subscriberEmail": "E-mail do assinante",
+    "admin:ssl.currentState": "Estado atual",
+    "admin:ssl.httpPortRedirectTurnOn": "Ligar",
+    "admin:ssl.httpPortRedirectTurnOff": "Desligar",
+    "admin:ssl.renewCertificateLoadingTitle": "Renovando certificado...",
+    "admin:ssl.renewCertificateLoadingSubtitle": "Não saia desta página.",
+    "admin:ssl.renewCertificateSuccess": "Certificado renovado com êxito.",
+    "admin:ssl.httpPortRedirectSaveSuccess": "Redirecionamento HTTP alterado com êxito."
 }
