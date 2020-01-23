@@ -357,7 +357,7 @@
     "admin:general.uploadClear": "削除",
     "admin:general.uploadSizeHint": "{{size}} の画像を推奨します",
     "admin:general.uploadTypesHint": "{{typelist}}, {{lasttype}} のみ選択可能です",
-    "admin:general.footerCopyright": "下部に表示される著作権情報",
+    "admin:general.footerCopyright": "ページ下部に表示する著作権情報",
     "admin:general.companyName": "会社\/組織名",
     "admin:general.companyNameHint": "ページ下に表示される著作権情報です。空のままにすると非表示になります",
     "admin:general.siteDescription": "サイトの説明",
@@ -638,5 +638,13 @@
     "admin:users.userVerifySuccess": "ユーザーを確認しました。",
     "admin:users.userActivateSuccess": "ユーザーを有効化しました。",
     "admin:users.userDeactivateSuccess": "ユーザーを無効化しました。",
-    "editor:markup.noSelectionError": "最初にテキストを選択してください。"
+    "editor:markup.noSelectionError": "最初にテキストを選択してください。",
+    "admin:ssl.renewCertificate": "証明書を更新する",
+    "admin:ssl.status": "証明書の状態",
+    "admin:ssl.expiration": "証明書の有効期限",
+    "admin:ssl.subscriberEmail": "購読者のメールアドレス",
+    "admin:ssl.renewCertificateLoadingTitle": "証明書を更新しています...",
+    "admin:ssl.renewCertificateLoadingSubtitle": "このページを離れないでください。",
+    "admin:ssl.renewCertificateSuccess": "証明書が正常に更新されました。",
+    "admin:ssl.httpPortRedirectSaveSuccess": "HTTPリダイレクト設定が正常に変更されました。"
 }
