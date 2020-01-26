@@ -638,5 +638,16 @@
     "admin:users.userVerifySuccess": "Uživatel byl úspěšně ověřen.",
     "admin:users.userActivateSuccess": "Uživatel byl úspěšně aktivován.",
     "admin:users.userDeactivateSuccess": "Uživatel byl úspěšně deaktivován.",
-    "editor:markup.noSelectionError": "Nejprve je nutné vybrat text!"
+    "editor:markup.noSelectionError": "Nejprve je nutné vybrat text!",
+    "admin:ssl.renewCertificate": "Obnovit Certifikát",
+    "admin:ssl.status": "Stav Certifikátu",
+    "admin:ssl.expiration": "Vypršení Platnosti Certifikátu",
+    "admin:ssl.subscriberEmail": "E-mail Odběratele",
+    "admin:ssl.currentState": "Aktuální Stav",
+    "admin:ssl.httpPortRedirectTurnOn": "Zapnout",
+    "admin:ssl.httpPortRedirectTurnOff": "Vypnout",
+    "admin:ssl.renewCertificateLoadingTitle": "Obnovení Certifikátu...",
+    "admin:ssl.renewCertificateLoadingSubtitle": "Neopouštět tuto stránku.",
+    "admin:ssl.renewCertificateSuccess": "Certifikát byl úspěšně obnoven.",
+    "admin:ssl.httpPortRedirectSaveSuccess": "Přesměrování HTTP bylo úspěšně změněno."
 }

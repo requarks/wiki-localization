@@ -638,5 +638,16 @@
     "admin:users.userVerifySuccess": "Používateľ bol úspešne overený.",
     "admin:users.userActivateSuccess": "Používateľ bol úspešne aktivovaný.",
     "admin:users.userDeactivateSuccess": "Používateľ bol úspešne deaktivovaný.",
-    "editor:markup.noSelectionError": "Najprv musíte vybrať text!"
+    "editor:markup.noSelectionError": "Najprv musíte vybrať text!",
+    "admin:ssl.renewCertificate": "Obnoviť Certifikát",
+    "admin:ssl.status": "Stav Certifikátu",
+    "admin:ssl.expiration": "Uplynutie Platnosti Certifikátu",
+    "admin:ssl.subscriberEmail": "E-mail Odberateľa",
+    "admin:ssl.currentState": "Aktuálny Stav",
+    "admin:ssl.httpPortRedirectTurnOn": "Zapnúť",
+    "admin:ssl.httpPortRedirectTurnOff": "Vypnúť",
+    "admin:ssl.renewCertificateLoadingTitle": "Obnovenie Certifikátu...",
+    "admin:ssl.renewCertificateLoadingSubtitle": "Neopúšťať túto stránku.",
+    "admin:ssl.renewCertificateSuccess": "Certifikát bol obnovený úspešne.",
+    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP Presmerovanie úspešne zmenené."
 }
