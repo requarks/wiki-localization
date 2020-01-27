@@ -49,6 +49,7 @@
     "admin:nav.users": "Пользователи",
     "admin:nav.modules": "Модули",
     "admin:nav.system": "Система",
+    "admin:dashboard.subtitle": "Wiki.js",
     "admin:locale.subtitle": "Настройте параметры локализации для вашей вики",
     "admin:locale.settings": "Настройки языка",
     "admin:locale.namespacing": "Многоязычные страницы",
@@ -637,5 +638,16 @@
     "admin:users.userVerifySuccess": "Пользователь успешно прошел проверку.",
     "admin:users.userActivateSuccess": "Пользователь успешно активирован.",
     "admin:users.userDeactivateSuccess": "Пользователь успешно деактивирован.",
-    "editor:markup.noSelectionError": "Сначала выделите текс!"
+    "editor:markup.noSelectionError": "Сначала выделите текс!",
+    "admin:ssl.renewCertificate": "Обновить сертификат",
+    "admin:ssl.status": "Статус сертификата",
+    "admin:ssl.expiration": "Срок действия сертификата",
+    "admin:ssl.subscriberEmail": "Электронная почта подписчика",
+    "admin:ssl.currentState": "Текущее состояние",
+    "admin:ssl.httpPortRedirectTurnOn": "Включить",
+    "admin:ssl.httpPortRedirectTurnOff": "Выключить",
+    "admin:ssl.renewCertificateLoadingTitle": "Обновление сертификата ...",
+    "admin:ssl.renewCertificateLoadingSubtitle": "Не покидайте эту страницу.",
+    "admin:ssl.renewCertificateSuccess": "Сертификат успешно обновлен.",
+    "admin:ssl.httpPortRedirectSaveSuccess": "Перенаправление HTTP успешно изменено."
 }
