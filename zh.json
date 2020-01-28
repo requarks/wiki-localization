@@ -638,5 +638,16 @@
     "admin:users.userVerifySuccess": "用户已成功验证。",
     "admin:users.userActivateSuccess": "用户已成功激活。",
     "admin:users.userDeactivateSuccess": "用户已成功停用。",
-    "editor:markup.noSelectionError": "必须先选择文本！"
+    "editor:markup.noSelectionError": "必须先选择文本！",
+    "admin:ssl.renewCertificate": "续期证书",
+    "admin:ssl.status": "证书状态",
+    "admin:ssl.expiration": "证书过期",
+    "admin:ssl.subscriberEmail": "订阅者邮箱",
+    "admin:ssl.currentState": "当前状态",
+    "admin:ssl.httpPortRedirectTurnOn": "打开",
+    "admin:ssl.httpPortRedirectTurnOff": "关闭",
+    "admin:ssl.renewCertificateLoadingTitle": "正在续期证书……",
+    "admin:ssl.renewCertificateLoadingSubtitle": "请不要离开此页面",
+    "admin:ssl.renewCertificateSuccess": "证书续期成功",
+    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP重定向已成功更改"
 }
