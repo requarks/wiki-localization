@@ -625,7 +625,7 @@
     "editor:props.css": "CSS",
     "editor:props.jsHint": "管理者がこの機能を無効化している場合、スクリプトは動作しません。",
     "editor:props.cssHint": "CSSは保存するときに自動的に縮小されます。",
-    "admin:navigation.visibilityMode.all": "誰からでも閲覧可能",
+    "admin:navigation.visibilityMode.all": "誰でも閲覧可能",
     "admin:navigation.visibilityMode.restricted": "閲覧可能にするグループを選択...",
     "admin:navigation.selectPageButton": "ページを選択してください...",
     "admin:navigation.mode": "ナビゲーションモード",
@@ -643,8 +643,11 @@
     "admin:ssl.status": "証明書の状態",
     "admin:ssl.expiration": "証明書の有効期限",
     "admin:ssl.subscriberEmail": "購読者のメールアドレス",
+    "admin:ssl.currentState": "現在の状態",
+    "admin:ssl.httpPortRedirectTurnOn": "有効化",
+    "admin:ssl.httpPortRedirectTurnOff": "無効化",
     "admin:ssl.renewCertificateLoadingTitle": "証明書を更新しています...",
     "admin:ssl.renewCertificateLoadingSubtitle": "このページを離れないでください。",
-    "admin:ssl.renewCertificateSuccess": "証明書が正常に更新されました。",
-    "admin:ssl.httpPortRedirectSaveSuccess": "HTTPリダイレクト設定が正常に変更されました。"
+    "admin:ssl.renewCertificateSuccess": "証明書を更新しました。",
+    "admin:ssl.httpPortRedirectSaveSuccess": "HTTPリダイレクト設定を変更しました。"
 }
