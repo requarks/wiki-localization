@@ -638,5 +638,16 @@
     "admin:users.userVerifySuccess": "El usuario ha sido verificado exitosamente.",
     "admin:users.userActivateSuccess": "El usuario ha sido activado exitosamente.",
     "admin:users.userDeactivateSuccess": "El usuario ha sido desactivado exitosamente.",
-    "editor:markup.noSelectionError": "El texto debe seleccionado primero!"
+    "editor:markup.noSelectionError": "El texto debe seleccionado primero!",
+    "admin:ssl.renewCertificate": "Renovar certificado",
+    "admin:ssl.status": "Estado del certificado",
+    "admin:ssl.expiration": "Vencimiento de certificado",
+    "admin:ssl.subscriberEmail": "Subscribir email",
+    "admin:ssl.currentState": "Estado actual",
+    "admin:ssl.httpPortRedirectTurnOn": "Encender",
+    "admin:ssl.httpPortRedirectTurnOff": "Apagar",
+    "admin:ssl.renewCertificateLoadingTitle": "Renovando certificado...",
+    "admin:ssl.renewCertificateLoadingSubtitle": "No salga de esta página.",
+    "admin:ssl.renewCertificateSuccess": "Certificado renovado correctamente.",
+    "admin:ssl.httpPortRedirectSaveSuccess": "Redireccionamiento HTTP cambiado correctamente."
 }
