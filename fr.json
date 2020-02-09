@@ -649,5 +649,18 @@
     "admin:ssl.renewCertificateLoadingTitle": "Renouvellement du certificat ...",
     "admin:ssl.renewCertificateLoadingSubtitle": "Ne quittez pas cette page.",
     "admin:ssl.renewCertificateSuccess": "Certificat renouvelé avec succès.",
-    "admin:ssl.httpPortRedirectSaveSuccess": "La redirection HTTP a été modifiée avec succès."
+    "admin:ssl.httpPortRedirectSaveSuccess": "La redirection HTTP a été modifiée avec succès.",
+    "admin:tags.subtitle": "Gérer les mots clés",
+    "admin:tags.emptyList": "Aucun mot clé disponible.",
+    "admin:tags.edit": "Modifier le mot clé",
+    "admin:tags.tag": "Mot clé",
+    "admin:tags.label": "Étiquette du mot clé",
+    "admin:tags.date": "Créé {{created}} et dernière mise à jour {{updated}}.",
+    "admin:tags.delete": "Supprimer ce mot clé",
+    "admin:tags.noSelectionText": "Sélectionnez un mot clé à partir de la liste.",
+    "admin:tags.noItemsText": "Commencez par ajouter un mot clé à une page.",
+    "admin:tags.refreshSuccess": "Les mots clés ont été actualisés.",
+    "admin:tags.deleteSuccess": "Mot clé supprimé avec succès.",
+    "admin:tags.saveSuccess": "Le mot clé a été enregistré avec succès.",
+    "admin:tags.filter": "Filtrer..."
 }

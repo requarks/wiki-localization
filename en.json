@@ -649,5 +649,18 @@
     "admin:ssl.renewCertificateLoadingTitle": "Renewing Certificate...",
     "admin:ssl.renewCertificateLoadingSubtitle": "Do not leave this page.",
     "admin:ssl.renewCertificateSuccess": "Certificate renewed successfully.",
-    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP Redirection changed successfully."
+    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP Redirection changed successfully.",
+    "admin:tags.subtitle": "Manage page tags",
+    "admin:tags.emptyList": "No tags to display.",
+    "admin:tags.edit": "Edit Tag",
+    "admin:tags.tag": "Tag",
+    "admin:tags.label": "Label",
+    "admin:tags.date": "Created {{created}} and last updated {{updated}}.",
+    "admin:tags.delete": "Delete this tag",
+    "admin:tags.noSelectionText": "Select a tag from the list on the left.",
+    "admin:tags.noItemsText": "Add a tag to a page to get started.",
+    "admin:tags.refreshSuccess": "Tags have been refreshed.",
+    "admin:tags.deleteSuccess": "Tag deleted successfully.",
+    "admin:tags.saveSuccess": "Tag has been saved successfully.",
+    "admin:tags.filter": "Filter..."
 }
