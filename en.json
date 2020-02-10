@@ -662,5 +662,8 @@
     "admin:tags.refreshSuccess": "Tags have been refreshed.",
     "admin:tags.deleteSuccess": "Tag deleted successfully.",
     "admin:tags.saveSuccess": "Tag has been saved successfully.",
-    "admin:tags.filter": "Filter..."
+    "admin:tags.filter": "Filter...",
+    "admin:tags.viewLinkedPages": "View Linked Pages",
+    "admin:tags.deleteConfirm": "Delete Tag?",
+    "admin:tags.deleteConfirmText": "Are you sure you want to delete tag {{tag}}? The tag will also be unlinked from all pages."
 }

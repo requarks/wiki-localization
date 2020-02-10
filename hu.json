@@ -649,5 +649,21 @@
     "admin:ssl.renewCertificateLoadingTitle": "Tanúsítvány megújítása...",
     "admin:ssl.renewCertificateLoadingSubtitle": "Ne hagyja el ezt az oldalt.",
     "admin:ssl.renewCertificateSuccess": "Tanúsítvány sikeresen megújítva.",
-    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP átirányítás sikeresen módosítva."
+    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP átirányítás sikeresen módosítva.",
+    "admin:tags.subtitle": "Oldalcímkék kezelése",
+    "admin:tags.emptyList": "Nincs megjeleníthető címke.",
+    "admin:tags.edit": "Címke szerkesztése",
+    "admin:tags.tag": "Címke",
+    "admin:tags.label": "Címke",
+    "admin:tags.date": "Létrehozva: {{created}}, utoljára frissítve: {{updated}}",
+    "admin:tags.delete": "Címke törlése",
+    "admin:tags.noSelectionText": "Címke kiválasztása a bal oldali listából.",
+    "admin:tags.noItemsText": "A kezdéshez hozzá kell adni egy címkét egy oldalhoz.",
+    "admin:tags.refreshSuccess": "Címkék frissítve.",
+    "admin:tags.deleteSuccess": "Címke sikeresen törölve.",
+    "admin:tags.saveSuccess": "Címke sikeresen mentve.",
+    "admin:tags.filter": "Szűrő...",
+    "admin:tags.viewLinkedPages": "Hivatkozott oldalak megtekintése",
+    "admin:tags.deleteConfirm": "Címke tölése?",
+    "admin:tags.deleteConfirmText": "{{tag}} címke biztosan törölhető? A címke minden hivatkozott oldalról el lesz távolítva."
 }

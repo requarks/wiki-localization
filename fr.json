@@ -662,5 +662,8 @@
     "admin:tags.refreshSuccess": "Les mots clés ont été actualisés.",
     "admin:tags.deleteSuccess": "Mot clé supprimé avec succès.",
     "admin:tags.saveSuccess": "Le mot clé a été enregistré avec succès.",
-    "admin:tags.filter": "Filtrer..."
+    "admin:tags.filter": "Filtrer...",
+    "admin:tags.viewLinkedPages": "Afficher les pages liées",
+    "admin:tags.deleteConfirm": "Supprimer ce mot clé?",
+    "admin:tags.deleteConfirmText": "Voulez-vous vraiment supprimer le mot clé {{tag}}? Le mot clé sera également dissocié de toutes les pages."
 }

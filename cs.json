@@ -649,5 +649,21 @@
     "admin:ssl.renewCertificateLoadingTitle": "Obnovení Certifikátu...",
     "admin:ssl.renewCertificateLoadingSubtitle": "Neopouštět tuto stránku.",
     "admin:ssl.renewCertificateSuccess": "Certifikát byl úspěšně obnoven.",
-    "admin:ssl.httpPortRedirectSaveSuccess": "Přesměrování HTTP bylo úspěšně změněno."
+    "admin:ssl.httpPortRedirectSaveSuccess": "Přesměrování HTTP bylo úspěšně změněno.",
+    "admin:tags.subtitle": "Spravovat tagy stránky",
+    "admin:tags.emptyList": "Žádné tagy k zobrazení.",
+    "admin:tags.edit": "Upravit Tag",
+    "admin:tags.tag": "Tag",
+    "admin:tags.label": "Popisek",
+    "admin:tags.date": "Vytvářen {{created}} a naposledy aktualizován {{updated}}.",
+    "admin:tags.delete": "Smazat tento tag",
+    "admin:tags.noSelectionText": "Vyberte tag ze seznamu na levé straně.",
+    "admin:tags.noItemsText": "Chcete-li začít, přidejte na stránku tag.",
+    "admin:tags.refreshSuccess": "Tagy byly aktualizovány.",
+    "admin:tags.deleteSuccess": "Tag úspěšně odstraněn.",
+    "admin:tags.saveSuccess": "Tag byl úspěšně uložen.",
+    "admin:tags.filter": "Filtr...",
+    "admin:tags.viewLinkedPages": "Zobrazit Propojené Stránky",
+    "admin:tags.deleteConfirm": "Odstranit Tag?",
+    "admin:tags.deleteConfirmText": "Opravdu chcete smazat tag {{tag}} ? Značka bude také odpojena od všech stránek."
 }

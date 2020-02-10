@@ -649,5 +649,21 @@
     "admin:ssl.renewCertificateLoadingTitle": "Obnovenie Certifikátu...",
     "admin:ssl.renewCertificateLoadingSubtitle": "Neopúšťať túto stránku.",
     "admin:ssl.renewCertificateSuccess": "Certifikát bol obnovený úspešne.",
-    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP Presmerovanie úspešne zmenené."
+    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP Presmerovanie úspešne zmenené.",
+    "admin:tags.subtitle": "Spravovať tagy stránky.",
+    "admin:tags.emptyList": "Žiadne tagy k zobrazeniu.",
+    "admin:tags.edit": "Upraviť Tag",
+    "admin:tags.tag": "Tag",
+    "admin:tags.label": "Štítok",
+    "admin:tags.date": "Vytvorené {{created}} a naposledy aktualizované {{updated}}",
+    "admin:tags.delete": "Odstrániť tento tag.",
+    "admin:tags.noSelectionText": "Vyberte tag zo zoznamu na ľavej strane.",
+    "admin:tags.noItemsText": "Ak chcete začať, pridajte na stránku tag.",
+    "admin:tags.refreshSuccess": "Tagy boli obnovené.",
+    "admin:tags.deleteSuccess": "Tag bol úspešne odstránený.",
+    "admin:tags.saveSuccess": "Tag bol uložený úspešne.",
+    "admin:tags.filter": "Filter...",
+    "admin:tags.viewLinkedPages": "Zobraziť Prepojené Stránky",
+    "admin:tags.deleteConfirm": "Odstrániť Tag?",
+    "admin:tags.deleteConfirmText": "Naozaj chcete odstrániť tag {{tag}} ? Tag bude tiež odpojený od všetkých stránok."
 }

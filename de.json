@@ -649,5 +649,21 @@
     "admin:ssl.renewCertificateLoadingTitle": "Zertifikat wird erneuert …",
     "admin:ssl.renewCertificateLoadingSubtitle": "Verlassen Sie diese Seite nicht.",
     "admin:ssl.renewCertificateSuccess": "Zertifikat erfolgreich erneuert.",
-    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP-Umleitung erfolgreich geändert."
+    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP-Umleitung erfolgreich geändert.",
+    "admin:tags.subtitle": "Seiten-Tags verwalten",
+    "admin:tags.emptyList": "Keine Tags zum Anzeigen.",
+    "admin:tags.edit": "Tag bearbeiten",
+    "admin:tags.tag": "Tag",
+    "admin:tags.label": "Label",
+    "admin:tags.date": "Erstellt {{created}} und zuletzt aktualisiert {{updated}} .",
+    "admin:tags.delete": "Dieses Tag löschen",
+    "admin:tags.noSelectionText": "Wählen Sie ein Tag aus der Liste links aus.",
+    "admin:tags.noItemsText": "Fügen Sie ein Tag zu einer Seite hinzu, um zu beginnen.",
+    "admin:tags.refreshSuccess": "Tags wurden aktualisiert.",
+    "admin:tags.deleteSuccess": "Tag erfolgreich gelöscht.",
+    "admin:tags.saveSuccess": "Tag wurde erfolgreich gespeichert.",
+    "admin:tags.filter": "Filter...",
+    "admin:tags.viewLinkedPages": "Verknüpfte Seiten anzeigen",
+    "admin:tags.deleteConfirm": "Tag löschen?",
+    "admin:tags.deleteConfirmText": "Möchten Sie das Tag {{tag}} wirklich löschen? Das Tag wird auch von allen Seiten entfernt."
 }
