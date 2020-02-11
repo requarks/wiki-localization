@@ -649,5 +649,21 @@
     "admin:ssl.renewCertificateLoadingTitle": "Renovando certificado...",
     "admin:ssl.renewCertificateLoadingSubtitle": "No salga de esta página.",
     "admin:ssl.renewCertificateSuccess": "Certificado renovado correctamente.",
-    "admin:ssl.httpPortRedirectSaveSuccess": "Redireccionamiento HTTP cambiado correctamente."
+    "admin:ssl.httpPortRedirectSaveSuccess": "Redireccionamiento HTTP cambiado correctamente.",
+    "admin:tags.subtitle": "Administrar etiquetas de páginas.",
+    "admin:tags.emptyList": "No hay etiquetas para mostrar.",
+    "admin:tags.edit": "Editar Etiqueta",
+    "admin:tags.tag": "Etiqueta",
+    "admin:tags.label": "Rótulo",
+    "admin:tags.date": "Creado {{created}} y actualizado por última vez {{updated}}.",
+    "admin:tags.delete": "Eliminar esta etiqueta",
+    "admin:tags.noSelectionText": "Seleccione una etiqueta de la lista de la izquierda.",
+    "admin:tags.noItemsText": "Agregue una etiqueta a una página para comenzar.",
+    "admin:tags.refreshSuccess": "Las etiquetas han sido actualizadas.",
+    "admin:tags.deleteSuccess": "Etiqueta eliminada exitosamente.",
+    "admin:tags.saveSuccess": "La etiqueta ha sido guardada exitosamente.",
+    "admin:tags.filter": "Filtrar...",
+    "admin:tags.viewLinkedPages": "Ver Páginas Enlazadas",
+    "admin:tags.deleteConfirm": "¿Eliminar Etiqueta?",
+    "admin:tags.deleteConfirmText": "¿Estás seguro de que quieres eliminar la etiqueta {{tag}}? La etiqueta también será desvinculada de todas las páginas."
 }

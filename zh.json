@@ -649,5 +649,21 @@
     "admin:ssl.renewCertificateLoadingTitle": "正在续期证书……",
     "admin:ssl.renewCertificateLoadingSubtitle": "请不要离开此页面",
     "admin:ssl.renewCertificateSuccess": "证书续期成功",
-    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP重定向已成功更改"
+    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP重定向已成功更改",
+    "admin:tags.subtitle": "管理页面标签",
+    "admin:tags.emptyList": "没有标签可显示。",
+    "admin:tags.edit": "编辑标签",
+    "admin:tags.tag": "标签",
+    "admin:tags.label": "标记",
+    "admin:tags.date": "创建了{{created}}并最后更新了{{updated}} 。",
+    "admin:tags.delete": "删除这个标签",
+    "admin:tags.noSelectionText": "在左侧列表中选择一个标签",
+    "admin:tags.noItemsText": "在页面上添加标签并开始使用。",
+    "admin:tags.refreshSuccess": "标签已刷新。",
+    "admin:tags.deleteSuccess": "标签删除成功。",
+    "admin:tags.saveSuccess": "标签已成功保存。",
+    "admin:tags.filter": "筛选",
+    "admin:tags.viewLinkedPages": "查看链接页面",
+    "admin:tags.deleteConfirm": "删除标签？",
+    "admin:tags.deleteConfirmText": "您确定要删除标签{{tag}}吗？该标签还将与所有页面取消链接。"
 }
