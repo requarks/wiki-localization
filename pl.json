@@ -620,5 +620,17 @@
     "admin:users.userVerifySuccess": "Użytkownik został pomyślnie zweryfikowany.",
     "admin:users.userActivateSuccess": "Użytkownik został pomyślnie aktywowany.",
     "admin:users.userDeactivateSuccess": "Użytkownik został pomyślnie dezaktywowany.",
-    "editor:markup.noSelectionError": "Najpierw należy wybrać tekst!"
+    "editor:markup.noSelectionError": "Najpierw należy wybrać tekst!",
+    "admin:ssl.status": "Status Certyfikatu",
+    "admin:ssl.currentState": "Obecny Stan",
+    "admin:ssl.renewCertificateLoadingSubtitle": "Nie opuszczaj tej strony",
+    "admin:ssl.renewCertificateSuccess": "Certyfikat odnowiony pomyślnie",
+    "admin:tags.edit": "Edytuj Tag",
+    "admin:tags.label": "Etykieta",
+    "admin:tags.refreshSuccess": "Tagi zostały odświeżone",
+    "admin:tags.deleteSuccess": "Tag pomyślnie usunięto",
+    "admin:tags.saveSuccess": "Tag pomyślnie zapisany.",
+    "admin:tags.filter": "Filtruj...",
+    "admin:tags.deleteConfirm": "Usunąć tag?",
+    "admin:tags.deleteConfirmText": "Czy na pewno chcesz usunąć tag {{tag}}? Tag będzie usunięty ze wszystkich stron."
 }
