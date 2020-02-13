@@ -649,5 +649,21 @@
     "admin:ssl.renewCertificateLoadingTitle": "Sto rinnovando il certificato...",
     "admin:ssl.renewCertificateLoadingSubtitle": "Non uscire da questa pagina.",
     "admin:ssl.renewCertificateSuccess": "Il certificato è stato rinnovato con successo.",
-    "admin:ssl.httpPortRedirectSaveSuccess": "Il reindirizzamento HTTP è stato modificato con successo."
+    "admin:ssl.httpPortRedirectSaveSuccess": "Il reindirizzamento HTTP è stato modificato con successo.",
+    "admin:tags.subtitle": "Gestisci tag di pagina",
+    "admin:tags.emptyList": "Nessun tag da visualizzare.",
+    "admin:tags.edit": "Modifica tag",
+    "admin:tags.tag": "Tag",
+    "admin:tags.label": "Etichetta",
+    "admin:tags.date": "Creato {{created}} e aggiornato per ultimo {{updated}}.",
+    "admin:tags.delete": "Elimina questo tag",
+    "admin:tags.noSelectionText": "Seleziona un tag dall'elenco a sinistra.",
+    "admin:tags.noItemsText": "Aggiungi un tag a una pagina per iniziare.",
+    "admin:tags.refreshSuccess": "I tag sono stati aggiornati.",
+    "admin:tags.deleteSuccess": "Tag eliminato con successo.",
+    "admin:tags.saveSuccess": "Il tag è stato salvato con successo.",
+    "admin:tags.filter": "Filtro...",
+    "admin:tags.viewLinkedPages": "Visualizza le pagine collegate",
+    "admin:tags.deleteConfirm": "Eliminare il tag?",
+    "admin:tags.deleteConfirmText": "Sei sicuro di voler eliminare il tag {{tag}}? Il tag verrà anche scollegato da tutte le pagine."
 }

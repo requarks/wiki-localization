@@ -649,5 +649,21 @@
     "admin:ssl.renewCertificateLoadingTitle": "Ανανέωση πιστοποιητικού…",
     "admin:ssl.renewCertificateLoadingSubtitle": "Μην αφήνετε αυτήν τη σελίδα.",
     "admin:ssl.renewCertificateSuccess": "Το πιστοποιητικό ανανεώθηκε με επιτυχία.",
-    "admin:ssl.httpPortRedirectSaveSuccess": "Η ανακατεύθυνση HTTP άλλαξε με επιτυχία."
+    "admin:ssl.httpPortRedirectSaveSuccess": "Η ανακατεύθυνση HTTP άλλαξε με επιτυχία.",
+    "admin:tags.subtitle": "Διαχείριση ετικετών σελίδας",
+    "admin:tags.emptyList": "Δεν υπάρχουν ετικέτες για εμφάνιση.",
+    "admin:tags.edit": "Επεξεργασία ετικέτας",
+    "admin:tags.tag": "Ετικέτα",
+    "admin:tags.label": "Επιγραφή",
+    "admin:tags.date": "Δημιουργήθηκε {{created}} και ενημερώθηκε τελευταία {{updated}} .",
+    "admin:tags.delete": "Διαγράψτε αυτήν την ετικέτα",
+    "admin:tags.noSelectionText": "Επιλέξτε μια ετικέτα από τη λίστα στα αριστερά.",
+    "admin:tags.noItemsText": "Προσθέστε μια ετικέτα σε μια σελίδα για να ξεκινήσετε.",
+    "admin:tags.refreshSuccess": "Οι ετικέτες έχουν ανανεωθεί.",
+    "admin:tags.deleteSuccess": "Η ετικέτα διαγράφηκε επιτυχώς.",
+    "admin:tags.saveSuccess": "Η ετικέτα αποθηκεύτηκε με επιτυχία.",
+    "admin:tags.filter": "Φίλτρο…",
+    "admin:tags.viewLinkedPages": "Προβολή συνδεδεμένων σελίδων",
+    "admin:tags.deleteConfirm": "Διαγραφή ετικέτας;",
+    "admin:tags.deleteConfirmText": "Είστε βέβαιοι ότι θέλετε να διαγράψετε μια ετικέτα {{tag}} ; Η ετικέτα θα αποσυνδεθεί επίσης από όλες τις σελίδες."
 }
