@@ -649,5 +649,21 @@
     "admin:ssl.renewCertificateLoadingTitle": "Forny sertifikat ...",
     "admin:ssl.renewCertificateLoadingSubtitle": "Ikke forlat denne siden.",
     "admin:ssl.renewCertificateSuccess": "Sertifikatet ble fornyet.",
-    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP Redirect ble endret."
+    "admin:ssl.httpPortRedirectSaveSuccess": "HTTP Redirect ble endret.",
+    "admin:tags.subtitle": "Administrer tagger på denne siden",
+    "admin:tags.emptyList": "Ingen tagger å vise.",
+    "admin:tags.edit": "Rediger tag",
+    "admin:tags.tag": "Tag",
+    "admin:tags.label": "Merkelapp",
+    "admin:tags.date": "Opprettet {{created}} og sist oppdatert {{updated}}.",
+    "admin:tags.delete": "Slett denne taggen",
+    "admin:tags.noSelectionText": "Velg en tag fra listen til venstre.",
+    "admin:tags.noItemsText": "Legg til en tagg på en side for å komme i gang.",
+    "admin:tags.refreshSuccess": "Taggene er blitt oppdatert.",
+    "admin:tags.deleteSuccess": "Taggen ble slettet.",
+    "admin:tags.saveSuccess": "Taggen er lagret.",
+    "admin:tags.filter": "Filter...",
+    "admin:tags.viewLinkedPages": "Vis koblede sider",
+    "admin:tags.deleteConfirm": "Vil du slette tagg?",
+    "admin:tags.deleteConfirmText": "Er du sikker på at du vil slette taggen {{tag}}? Taggen vil også bli koblet fra alle sider."
 }
