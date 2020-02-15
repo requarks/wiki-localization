@@ -638,7 +638,7 @@
     "admin:users.userVerifySuccess": "Пользователь успешно прошел проверку.",
     "admin:users.userActivateSuccess": "Пользователь успешно активирован.",
     "admin:users.userDeactivateSuccess": "Пользователь успешно деактивирован.",
-    "editor:markup.noSelectionError": "Сначала выделите текс!",
+    "editor:markup.noSelectionError": "Сначала выделите текст!",
     "admin:ssl.renewCertificate": "Обновить сертификат",
     "admin:ssl.status": "Статус сертификата",
     "admin:ssl.expiration": "Срок действия сертификата",
