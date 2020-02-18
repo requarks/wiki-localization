@@ -504,7 +504,7 @@
     "admin:locale.code": "کد",
     "admin:locale.name": "نام",
     "admin:locale.nativeName": "نام اصلی",
-    "admin:locale.rtl": "راست به چپ (RTL)",
+    "admin:locale.rtl": "true",
     "admin:locale.availability": "دسترسی",
     "admin:locale.download": "دانلود",
     "admin:utilities.contentTitle": "محتوا",
