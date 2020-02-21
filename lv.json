@@ -688,6 +688,6 @@
     "admin:api.newKeySuccess": "API atslēga ir veiksmīgi izveidota.",
     "admin:api.newKeyNameError": "Vārda nav vai tas nav derīgs.",
     "admin:api.newKeyGroupError": "Jums jāizvēlas grupa.",
-    "admin:api.newKeyGuestGroupError": "Viesu grupu nevar izmantot API taustiņiem.",
+    "admin:api.newKeyGuestGroupError": "Viesu grupu nevar izmantot API atslēgām.",
     "admin:api.newKeyNameHint": "Noteikt atslegu "
 }
