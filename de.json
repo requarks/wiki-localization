@@ -689,5 +689,19 @@
     "admin:api.newKeyNameError": "Name fehlt oder ist ungültig.",
     "admin:api.newKeyGroupError": "Sie müssen eine Gruppe auswählen.",
     "admin:api.newKeyGuestGroupError": "Die Gästegruppe kann nicht für API-Schlüssel verwendet werden.",
-    "admin:api.newKeyNameHint": "Zweck dieses Schlüssels"
+    "admin:api.newKeyNameHint": "Zweck dieses Schlüssels",
+    "admin:api.newKeyName": "Name",
+    "admin:api.newKeyExpiration": "Ablauf",
+    "admin:api.newKeyExpirationHint": "Sie können einen Schlüssel unabhängig vom Ablaufdatum jederzeit widerrufen.",
+    "admin:api.newKeyPermissionScopes": "Berechtigungsbereiche",
+    "admin:api.newKeyFullAccess": "Voller Zugriff",
+    "admin:api.newKeyGroupPermissions": "oder Gruppenberechtigungen verwenden...",
+    "common:actions.generate": "Generieren",
+    "admin:api.newKeyGroup": "Gruppe",
+    "admin:api.newKeyGroupHint": "Der API-Schlüssel hat die gleichen Berechtigungen wie die ausgewählte Gruppe.",
+    "admin:api.expiration30d": "30 Tage",
+    "admin:api.expiration90d": "90 Tage",
+    "admin:api.expiration180d": "180 Tage",
+    "admin:api.expiration1y": "1 Jahr",
+    "admin:api.expiration3y": "3 Jahre"
 }

@@ -689,5 +689,12 @@
     "admin:api.newKeyNameError": "Le nom est manquant ou invalide.",
     "admin:api.newKeyGroupError": "Vous devez sélectionner un groupe.",
     "admin:api.newKeyGuestGroupError": "Le groupe d'invités ne peut pas être utilisé pour les clés API.",
-    "admin:api.newKeyNameHint": "Désignation de la clé"
+    "admin:api.newKeyNameHint": "Désignation de la clé",
+    "admin:api.newKeyName": "Nom",
+    "admin:api.newKeyExpiration": "Expiration",
+    "admin:api.newKeyExpirationHint": "Vous pouvez révoquer une clé à tout moment, quelle que soit son expiration.",
+    "admin:api.newKeyPermissionScopes": "Permissions",
+    "admin:api.newKeyFullAccess": "Accès total",
+    "admin:api.newKeyGroupPermissions": "ou utiliser des permissions du groupe ...",
+    "common:actions.generate": "Générer"
 }

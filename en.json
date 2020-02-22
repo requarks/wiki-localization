@@ -689,5 +689,19 @@
     "admin:api.newKeyNameError": "Name is missing or invalid.",
     "admin:api.newKeyGroupError": "You must select a group.",
     "admin:api.newKeyGuestGroupError": "The guests group cannot be used for API keys.",
-    "admin:api.newKeyNameHint": "Purpose of this key"
+    "admin:api.newKeyNameHint": "Purpose of this key",
+    "admin:api.newKeyName": "Name",
+    "admin:api.newKeyExpiration": "Expiration",
+    "admin:api.newKeyExpirationHint": "You can still revoke a key anytime regardless of the expiration.",
+    "admin:api.newKeyPermissionScopes": "Permission Scopes",
+    "admin:api.newKeyFullAccess": "Full Access",
+    "admin:api.newKeyGroupPermissions": "or use group permissions...",
+    "common:actions.generate": "Generate",
+    "admin:api.newKeyGroup": "Group",
+    "admin:api.newKeyGroupHint": "The API key will have the same permissions as the selected group.",
+    "admin:api.expiration30d": "30 days",
+    "admin:api.expiration90d": "90 days",
+    "admin:api.expiration180d": "180 days",
+    "admin:api.expiration1y": "1 year",
+    "admin:api.expiration3y": "3 years"
 }
