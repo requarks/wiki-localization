@@ -680,7 +680,7 @@
     "admin:api.headerRevoke": "Révoquer",
     "admin:api.noKeyInfo": "Aucune clé API n’a été générée.",
     "admin:api.revokeConfirm": "Révoquer la clé API?",
-    "admin:api.revokeConfirmText": "Voulez-vous vraiment révoquer la clé {name}? Cette action ne peut pas être annulée!",
+    "admin:api.revokeConfirmText": "Voulez-vous vraiment révoquer la clé {{name}}? Cette action ne peut pas être annulée!",
     "admin:api.revoke": "Révoquer",
     "admin:api.refreshSuccess": "La liste des clés API a été actualisée.",
     "admin:api.revokeSuccess": "La clé a été révoquée avec succès.",
@@ -696,5 +696,16 @@
     "admin:api.newKeyPermissionScopes": "Permissions",
     "admin:api.newKeyFullAccess": "Accès total",
     "admin:api.newKeyGroupPermissions": "ou utiliser des permissions du groupe ...",
-    "common:actions.generate": "Générer"
+    "common:actions.generate": "Générer",
+    "admin:api.newKeyGroup": "Groupe",
+    "admin:api.newKeyGroupHint": "La clé API aura les mêmes permissions que le groupe sélectionné.",
+    "admin:api.expiration30d": "30 jours",
+    "admin:api.expiration90d": "90 jours",
+    "admin:api.expiration180d": "180 jours",
+    "admin:api.expiration1y": "1 an",
+    "admin:api.expiration3y": "3 ans",
+    "admin:api.newKeyCopyWarn": "Copiez la clé ci-dessous puisqu'elle {{bold}}",
+    "admin:api.newKeyCopyWarnBold": "ne sera plus jamais affichée",
+    "admin:api.toggleStateEnabledSuccess": "L'API a été activée avec succès.",
+    "admin:api.toggleStateDisabledSuccess": "L'API a été désactivée avec succès."
 }

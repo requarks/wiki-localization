@@ -638,5 +638,6 @@
     "admin:users.userVerifySuccess": "Kullanıcı başarıyla doğrulandı.",
     "admin:users.userActivateSuccess": "Kullanıcı başarıyla etkinleştirildi.",
     "admin:users.userDeactivateSuccess": "Kullanıcı başarıyla etkisiz hale getirildi.",
-    "editor:markup.noSelectionError": "Önce metin seçilmelidir!"
+    "editor:markup.noSelectionError": "Önce metin seçilmelidir!",
+    "admin:api.toggleStateDisabledSuccess": "Resim eklendi."
 }

@@ -680,7 +680,7 @@
     "admin:api.headerRevoke": "Revoke",
     "admin:api.noKeyInfo": "No API keys have been generated yet.",
     "admin:api.revokeConfirm": "Revoke API Key?",
-    "admin:api.revokeConfirmText": "Are you sure you want to revoke key {name}? This action cannot be undone!",
+    "admin:api.revokeConfirmText": "Are you sure you want to revoke key {{name}}? This action cannot be undone!",
     "admin:api.revoke": "Revoke",
     "admin:api.refreshSuccess": "List of API keys has been refreshed.",
     "admin:api.revokeSuccess": "The key has been revoked successfully.",
@@ -703,5 +703,9 @@
     "admin:api.expiration90d": "90 days",
     "admin:api.expiration180d": "180 days",
     "admin:api.expiration1y": "1 year",
-    "admin:api.expiration3y": "3 years"
+    "admin:api.expiration3y": "3 years",
+    "admin:api.newKeyCopyWarn": "Copy the key shown below as {{bold}}",
+    "admin:api.newKeyCopyWarnBold": "it will NOT be shown again",
+    "admin:api.toggleStateEnabledSuccess": "API has been enabled successfully.",
+    "admin:api.toggleStateDisabledSuccess": "API has been disabled successfully."
 }

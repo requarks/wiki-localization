@@ -689,5 +689,21 @@
     "admin:api.newKeyNameError": "Hiányzó vagy érvénytelen név.",
     "admin:api.newKeyGroupError": "Ki kell választani egy csoportot.",
     "admin:api.newKeyGuestGroupError": "A vendégek csoportja nem használható API kulcsokhoz.",
-    "admin:api.newKeyNameHint": "A kulcs célja"
+    "admin:api.newKeyNameHint": "A kulcs célja",
+    "admin:api.newKeyName": "Név",
+    "admin:api.newKeyExpiration": "Lejárat",
+    "admin:api.newKeyExpirationHint": "Egy kulcs bármijor visszavonható a lejáratától függetlenül.",
+    "admin:api.newKeyPermissionScopes": "Jogisultság hatókörei",
+    "admin:api.newKeyFullAccess": "Teljes hozzáférés",
+    "admin:api.newKeyGroupPermissions": "vagy csoport jogosultságok használata...",
+    "common:actions.generate": "Létrehoz",
+    "admin:api.newKeyGroup": "Csoport",
+    "admin:api.newKeyGroupHint": "Az API kulcsnak ugyanazok lesznek a jogosultságai mint a kiválasztott csoportnak.",
+    "admin:api.expiration30d": "30 nap",
+    "admin:api.expiration90d": "90 nap",
+    "admin:api.expiration180d": "180 nap",
+    "admin:api.expiration1y": "1 év",
+    "admin:api.expiration3y": "3 év",
+    "admin:api.newKeyCopyWarn": "Az lentebb látható kulcs másolása mint {{bold}}",
+    "admin:api.newKeyCopyWarnBold": "NEM fog újra megjelenni"
 }
