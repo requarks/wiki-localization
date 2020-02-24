@@ -707,5 +707,18 @@
     "admin:api.newKeyCopyWarn": "Copy the key shown below as {{bold}}",
     "admin:api.newKeyCopyWarnBold": "it will NOT be shown again",
     "admin:api.toggleStateEnabledSuccess": "API has been enabled successfully.",
-    "admin:api.toggleStateDisabledSuccess": "API has been disabled successfully."
+    "admin:api.toggleStateDisabledSuccess": "API has been disabled successfully.",
+    "editor:save.saved": "Saved",
+    "common:license.none": "None",
+    "common:license.ccby": " Creative Commons Attribution License",
+    "common:license.ccbysa": "Creative Commons Attribution-ShareAlike License",
+    "common:license.ccbynd": "Creative Commons Attribution-NoDerivs License",
+    "common:license.ccbync": "Creative Commons Attribution-NonCommercial License",
+    "common:license.ccbyncsa": "Creative Commons Attribution-NonCommercial-ShareAlike License",
+    "common:license.ccbyncnd": "Creative Commons Attribution-NonCommercial-NoDerivs License",
+    "common:license.cc0": "Public Domain",
+    "common:license.alr": "All Rights Reserved",
+    "admin:general.contentLicense": "Content License",
+    "admin:general.contentLicenseHint": "License shown in the footer of all content pages.",
+    "common:footer.license": "Content is available under the {{license}}, by {{company}}."
 }
