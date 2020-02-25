@@ -720,5 +720,7 @@
     "common:license.alr": "All Rights Reserved",
     "admin:general.contentLicense": "Content License",
     "admin:general.contentLicenseHint": "License shown in the footer of all content pages.",
-    "common:footer.license": "Content is available under the {{license}}, by {{company}}."
+    "common:footer.license": "Content is available under the {{license}}, by {{company}}.",
+    "common:unauthorized.action.download": "You cannot download the page content.",
+    "common:unauthorized.action.downloadVersion": "You cannot download the content for this page version."
 }
