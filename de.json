@@ -720,5 +720,7 @@
     "common:license.alr": "Alle Rechte vorbehalten",
     "admin:general.contentLicense": "Inhaltslizenz",
     "admin:general.contentLicenseHint": "Lizenz, die in der Fußzeile aller Inhaltsseiten angezeigt wird.",
-    "common:footer.license": "Der Inhalt ist unter der {{license}} von {{company}} verfügbar."
+    "common:footer.license": "Der Inhalt ist unter der {{license}} von {{company}} verfügbar.",
+    "common:unauthorized.action.download": "Sie können den Seiteninhalt nicht herunterladen.",
+    "common:unauthorized.action.downloadVersion": "Sie können den Inhalt dieser Seitenversion nicht herunterladen."
 }

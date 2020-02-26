@@ -705,5 +705,15 @@
     "admin:api.expiration1y": "1 év",
     "admin:api.expiration3y": "3 év",
     "admin:api.newKeyCopyWarn": "Az lentebb látható kulcs másolása mint {{bold}}",
-    "admin:api.newKeyCopyWarnBold": "NEM fog újra megjelenni"
+    "admin:api.newKeyCopyWarnBold": "NEM fog újra megjelenni",
+    "admin:api.toggleStateEnabledSuccess": "API sikeresen engedélyezve.",
+    "admin:api.toggleStateDisabledSuccess": "API sikeresen letiltva.",
+    "editor:save.saved": "Mentett",
+    "common:license.none": "Nincs",
+    "common:license.cc0": "Közkincs",
+    "common:license.alr": "Minden jog fenntartva",
+    "admin:general.contentLicense": "Tartalomlicenc",
+    "admin:general.contentLicenseHint": "Minden tartalomoldal láblécében megjelenő licenc.",
+    "common:unauthorized.action.download": "Az oldal tartalma nem tölthető le.",
+    "common:unauthorized.action.downloadVersion": "Ennek az oldalverziónak a tartalma nem tölthető le."
 }
