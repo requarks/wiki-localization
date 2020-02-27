@@ -710,10 +710,17 @@
     "admin:api.toggleStateDisabledSuccess": "API sikeresen letiltva.",
     "editor:save.saved": "Mentett",
     "common:license.none": "Nincs",
+    "common:license.ccby": "Creative Commons Nevezd meg! licenc",
+    "common:license.ccbysa": "Creative Commons Nevezd meg! - Így add tovább! licenc",
+    "common:license.ccbynd": "Creative Commons Nevezd meg! - Ne változtasd! licenc",
+    "common:license.ccbync": "Creative Commons Nevezd meg! - Ne add el! licenc",
+    "common:license.ccbyncsa": "Creative Commons Nevezd meg! - Ne add el! - Így add tovább! licenc",
+    "common:license.ccbyncnd": "Creative Commons Nevezd meg! - Ne add el! - Ne változtasd! licenc",
     "common:license.cc0": "Közkincs",
     "common:license.alr": "Minden jog fenntartva",
     "admin:general.contentLicense": "Tartalomlicenc",
     "admin:general.contentLicenseHint": "Minden tartalomoldal láblécében megjelenő licenc.",
+    "common:footer.license": "A tartalom {{company}} {{license}} alatt érhető el.",
     "common:unauthorized.action.download": "Az oldal tartalma nem tölthető le.",
     "common:unauthorized.action.downloadVersion": "Ennek az oldalverziónak a tartalma nem tölthető le."
 }

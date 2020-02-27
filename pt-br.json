@@ -707,5 +707,20 @@
     "admin:api.newKeyCopyWarn": "Copie a chave mostrada abaixo como {{bold}}",
     "admin:api.newKeyCopyWarnBold": "NÃO será mostrado novamente",
     "admin:api.toggleStateEnabledSuccess": "API habilitada com sucesso.",
-    "admin:api.toggleStateDisabledSuccess": "API desabilitada com sucesso."
+    "admin:api.toggleStateDisabledSuccess": "API desabilitada com sucesso.",
+    "editor:save.saved": "Salvo",
+    "common:license.none": "Nenhuma",
+    "common:license.ccby": "Licença Creative Commons Attribution",
+    "common:license.ccbysa": "Licença Creative Commons Attribution-ShareAlike",
+    "common:license.ccbynd": "Licença Creative Commons Attribution-NoDerivs",
+    "common:license.ccbync": "Licença Creative Commons Attribution-NonCommercial",
+    "common:license.ccbyncsa": "Licença Creative Commons Attribution-NonCommercial-ShareAlike",
+    "common:license.ccbyncnd": "Licença Creative Commons Attribution-NonCommercial-NoDerivs",
+    "common:license.cc0": "Domínio público",
+    "common:license.alr": "Todos os direitos reservados",
+    "admin:general.contentLicense": "Licença do conteúdo",
+    "admin:general.contentLicenseHint": "Licença exibida no rodapé de todas as páginas de conteúdo.",
+    "common:footer.license": "O conteúdo está disponível sob a {{license}}, de {{company}}.",
+    "common:unauthorized.action.download": "Você não pode baixar o conteúdo da página.",
+    "common:unauthorized.action.downloadVersion": "Você não pode baixar o conteúdo desta versão da página."
 }
