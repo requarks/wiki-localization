@@ -722,5 +722,12 @@
     "admin:general.contentLicenseHint": "License shown in the footer of all content pages.",
     "common:footer.license": "Content is available under the {{license}}, by {{company}}.",
     "common:unauthorized.action.download": "You cannot download the page content.",
-    "common:unauthorized.action.downloadVersion": "You cannot download the content for this page version."
+    "common:unauthorized.action.downloadVersion": "You cannot download the content for this page version.",
+    "common:unauthorized.action.sourceVersion": "You cannot view the source of this version of the page.",
+    "common:page.viewingSourceVersion": "Viewing source as of {{date}} of page {{path}}",
+    "common:page.versionId": "Version ID {{id}}",
+    "history:restore.confirmTitle": "Restore page version?",
+    "history:restore.confirmText": "Are you sure you want to restore this page content as it was on {{date}}? This version will be copied on top of the current history. As such, newer versions will still be preserved.",
+    "history:restore.confirmButton": "Restore",
+    "history:restore.success": "Page version restored succesfully!"
 }

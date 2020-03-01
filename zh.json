@@ -707,5 +707,20 @@
     "admin:api.newKeyCopyWarn": "复制如下所示的密钥",
     "admin:api.newKeyCopyWarnBold": "它将不会再显示",
     "admin:api.toggleStateEnabledSuccess": "API已成功启用。",
-    "admin:api.toggleStateDisabledSuccess": "API已成功禁用。"
+    "admin:api.toggleStateDisabledSuccess": "API已成功禁用。",
+    "editor:save.saved": "已保存",
+    "common:license.none": "无",
+    "common:license.ccby": "知识共享署名许可",
+    "common:license.ccbysa": "知识共享署名-相同方式共享许可",
+    "common:license.ccbynd": "知识共享署名-无衍生许可",
+    "common:license.ccbync": "知识共享署名-非商业许可",
+    "common:license.ccbyncsa": "知识共享署名-非商业性-相同方式共享许可",
+    "common:license.ccbyncnd": "知识共享署名-非商业性-无衍生许可",
+    "common:license.cc0": "公共域名",
+    "common:license.alr": "保留所有权利",
+    "admin:general.contentLicense": "内容许可证",
+    "admin:general.contentLicenseHint": "许可证在所有内容页面的页脚中显示",
+    "common:footer.license": "内容在{{license}}下可用，来自于{{company}}",
+    "common:unauthorized.action.download": "你不能下载这个页面的内容",
+    "common:unauthorized.action.downloadVersion": "你不能下载这个页面版本的内容"
 }

@@ -722,5 +722,12 @@
     "admin:general.contentLicenseHint": "Licence indiquée dans le pied de page.",
     "common:footer.license": "Le contenu est disponible sous la {{license}}, par {{company}}.",
     "common:unauthorized.action.download": "Vous ne pouvez pas télécharger le contenu de la page.",
-    "common:unauthorized.action.downloadVersion": "Vous ne pouvez pas télécharger le contenu de cette version de la page."
+    "common:unauthorized.action.downloadVersion": "Vous ne pouvez pas télécharger le contenu de cette version de la page.",
+    "common:unauthorized.action.sourceVersion": "Vous ne pouvez pas afficher la source de cette version de la page.",
+    "common:page.viewingSourceVersion": "Affichage de la source (version {{date}}) de la page {{path}}",
+    "common:page.versionId": "ID de version {{id}}",
+    "history:restore.confirmTitle": "Restaurer cette version de la page?",
+    "history:restore.confirmText": "Voulez-vous vraiment restaurer le contenu de cette page telle qu'elle était le {{date}}? Cette version sera copiée à l'avant de l'historique actuel. Les versions plus récentes seront ainsi conservées.",
+    "history:restore.confirmButton": "Restaurer",
+    "history:restore.success": "La version a été restaurée avec succès!"
 }
