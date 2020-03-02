@@ -722,5 +722,12 @@
     "admin:general.contentLicenseHint": "Lizenz, die in der Fußzeile aller Inhaltsseiten angezeigt wird.",
     "common:footer.license": "Der Inhalt ist unter der {{license}} von {{company}} verfügbar.",
     "common:unauthorized.action.download": "Sie können den Seiteninhalt nicht herunterladen.",
-    "common:unauthorized.action.downloadVersion": "Sie können den Inhalt dieser Seitenversion nicht herunterladen."
+    "common:unauthorized.action.downloadVersion": "Sie können den Inhalt dieser Seitenversion nicht herunterladen.",
+    "common:unauthorized.action.sourceVersion": "Sie dürfen den Quellcode dieser Seitenversion nicht betrachten.",
+    "common:page.viewingSourceVersion": "Betrachte Quellcode vom {{date}} der Seite {{path}}",
+    "common:page.versionId": "Versions-ID {{id}}",
+    "history:restore.confirmTitle": "Seitenversion wiederherstellen?",
+    "history:restore.confirmText": "Sind Sie sicher, dass Sie den Seiteninhalt so wiederherstellen wollen, wie er am {{date}} war? Diese Version wird an die erste Stelle der Versionshistorie kopiert. Neuere Versionen bleiben in der Historie erhalten.",
+    "history:restore.confirmButton": "Wiederherstellen",
+    "history:restore.success": "Seitenversion erfolgreich wiederhergestellt!"
 }
