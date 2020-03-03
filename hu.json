@@ -722,5 +722,11 @@
     "admin:general.contentLicenseHint": "Minden tartalomoldal láblécében megjelenő licenc.",
     "common:footer.license": "A tartalom {{company}} {{license}} alatt érhető el.",
     "common:unauthorized.action.download": "Az oldal tartalma nem tölthető le.",
-    "common:unauthorized.action.downloadVersion": "Ennek az oldalverziónak a tartalma nem tölthető le."
+    "common:unauthorized.action.downloadVersion": "Ennek az oldalverziónak a tartalma nem tölthető le.",
+    "common:unauthorized.action.sourceVersion": "Az oldal ezen verziójának forrása nem tekinthető meg.",
+    "common:page.viewingSourceVersion": "{{path}} oldal {{date}} dátumú forrásának megtekintése.",
+    "common:page.versionId": "Verzió azonosítója: {{id}}",
+    "history:restore.confirmTitle": "Oldalverzió visszaállítása",
+    "history:restore.confirmButton": "Visszaállítás",
+    "history:restore.success": "Oldalverzió sikeresen visszaállítva!"
 }
