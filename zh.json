@@ -722,5 +722,9 @@
     "admin:general.contentLicenseHint": "许可证在所有内容页面的页脚中显示",
     "common:footer.license": "内容在{{license}}下可用，来自于{{company}}",
     "common:unauthorized.action.download": "你不能下载这个页面的内容",
-    "common:unauthorized.action.downloadVersion": "你不能下载这个页面版本的内容"
+    "common:unauthorized.action.downloadVersion": "你不能下载这个页面版本的内容",
+    "common:page.versionId": "版本ID {{id}}",
+    "history:restore.confirmText": "您确定恢复页面到1:date ? 这个版本将复制在当前的历史。",
+    "history:restore.confirmButton": "恢复",
+    "history:restore.success": "页面版本成功恢复！"
 }
