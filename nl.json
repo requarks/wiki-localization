@@ -39,7 +39,7 @@
     "admin:storage.title": "Opslag",
     "admin:api.title": "API toegang",
     "admin:system.title": "Systeem informatie",
-    "admin:utilities.title": "tr",
+    "admin:utilities.title": "Tools",
     "admin:dev.title": "Hulpmiddelen voor ontwikkelaars",
     "admin:contribute.title": "Bijdragen aan Wiki.js",
     "admin:general.subtitle": "Hoofdinstellingen van je wiki",
@@ -703,8 +703,13 @@
     "admin:api.toggleStateDisabledSuccess": "De API is met succes uitgeschakeld.",
     "editor:save.saved": "Opgeslagen",
     "common:license.none": "Geen",
+    "common:license.cc0": "Publiek Domein",
     "common:license.alr": "Alle rechten voorbehouden",
     "admin:general.contentLicenseHint": "Licentie weergegeven in de voettekst van alle inhoudspagina's.",
     "common:footer.license": "De inhoud is beschikbaar onder de {{license}}, door {{company}}.",
-    "common:unauthorized.action.download": "U kunt de inhoud van de pagina niet downloaden."
+    "common:unauthorized.action.download": "U kunt de inhoud van deze pagina niet downloaden.",
+    "common:page.versionId": "Versienummer {{id}}",
+    "history:restore.confirmTitle": "Herstel paginaversie?",
+    "history:restore.confirmButton": "Herstel",
+    "history:restore.success": "Paginaversie succesvol hersteld!"
 }
