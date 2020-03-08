@@ -106,7 +106,7 @@
     "admin:contribute.openSource": "Wiki.js is a free and open-source software brought to you with {{0}} by {{1}} and {{2}}.",
     "admin:contribute.openSourceContributors": "contributors",
     "editor:page": "Page",
-    "editor:save.processing": "Processing",
+    "editor:save.processing": "Rendering",
     "editor:save.pleaseWait": "Please wait...",
     "editor:save.createSuccess": "Page created successfully.",
     "editor:save.error": "An error occurred while creating the page",
