@@ -722,5 +722,12 @@
     "admin:general.contentLicenseHint": "Lisens vist i bunnteksten på alle innholdssider",
     "common:footer.license": "Innholdet er tilgjengelig under {{license}}, av {{company}}.",
     "common:unauthorized.action.download": "Du kan ikke laste ned sideinnholdet.",
-    "common:unauthorized.action.downloadVersion": "Du kan ikke laste ned innholdet for denne side versjonen."
+    "common:unauthorized.action.downloadVersion": "Du kan ikke laste ned innholdet for denne side versjonen.",
+    "common:unauthorized.action.sourceVersion": "Du kan ikke se kilden til denne versjonen av siden.",
+    "common:page.viewingSourceVersion": "Viser kilde per {{date}} på siden {{path}}",
+    "common:page.versionId": "Versjons-ID {{id}}",
+    "history:restore.confirmTitle": "Vil du gjenopprette versjonen?",
+    "history:restore.confirmText": "Er du sikker på at du vil gjenopprette dette sideinnholdet som det var på {{date}} ? Denne versjonen vil bli kopiert på toppen av den nåværende historikken. Som sådan vil nyere versjoner fortsatt bevares.",
+    "history:restore.confirmButton": "Gjenopprett",
+    "history:restore.success": "Vellykket gjenoppretting av versjonen!"
 }
