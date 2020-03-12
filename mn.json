@@ -12,7 +12,7 @@
     "common:actions.saveChanges": "Өөрчлөлтүүдийг хадгалах",
     "common:actions.proceed": "Үргэлжлүүлэх",
     "common:actions.ok": "OK",
-    "common:footer.copyright": "© {{жил}} {{компани}}. Бүх эрх хуулиар хамгаалагдсан.",
+    "common:footer.copyright": "© {{year}} {{company}}. Бүх эрх хуулиар хамгаалагдсан.",
     "common:newpage.title": "Энэ хуудас хараахан байхгүй байна.",
     "common:newpage.subtitle": "Та үүсгэхийг хүсч байна уу?",
     "common:newpage.create": "Хуудас үүсгэх",
