@@ -654,5 +654,9 @@
     "admin:tags.saveSuccess": "タグを保存しました。",
     "admin:tags.filter": "フィルター...",
     "admin:tags.viewLinkedPages": "リンクされたページを表示",
-    "admin:tags.deleteConfirm": "タグを削除しますか？"
+    "admin:tags.deleteConfirm": "タグを削除しますか？",
+    "common:page.versionId": "バージョンID {{id}}",
+    "history:restore.confirmTitle": "バージョンを復元しますか？",
+    "history:restore.confirmButton": "復元",
+    "history:restore.success": "バージョンを復元しました！"
 }
