@@ -616,12 +616,14 @@
     "editor:props.scripts": "Skrypty",
     "editor:props.js": "JavaScript",
     "editor:props.css": "CSS",
+    "editor:props.cssHint": "CSS zostanie automatycznie zminimalizowany po zapisaniu.",
     "admin:navigation.visibilityMode.all": "Widoczne dla wszystkich",
     "admin:navigation.visibilityMode.restricted": "Widoczne dla wybranych grup",
     "admin:navigation.selectPageButton": "Wybierz stronę...",
     "admin:navigation.mode": "Tryb nawigacji",
     "admin:navigation.modeSiteTree.title": "Drzewo strony",
     "admin:navigation.modeSiteTree.description": "Nawigacja oparta o klasyczną strukturę drzewa",
+    "admin:navigation.modeCustom.title": "Własna Nawigacja",
     "admin:navigation.modeNone.title": "Brak",
     "admin:navigation.modeNone.description": "Wyłącz nawigację w witrynie",
     "admin:users.userVerifySuccess": "Użytkownik został pomyślnie zweryfikowany.",
@@ -711,5 +713,10 @@
     "admin:general.contentLicenseHint": "Licencja wyświetlana w stopce wszystkich stron z zawartością.",
     "common:footer.license": "Treść jest dostępna na podstawie {{license}} autorstwa {{company}}.",
     "common:unauthorized.action.download": "Nie możesz pobrać zawartości tej strony.",
-    "common:unauthorized.action.downloadVersion": "Nie możesz pobrać zawartości dla tej wersji strony."
+    "common:unauthorized.action.downloadVersion": "Nie możesz pobrać zawartości dla tej wersji strony.",
+    "common:unauthorized.action.sourceVersion": "Nie możesz wyświetlić źródła dla tej wersji strony.",
+    "common:page.versionId": "Identyfikator wersji {{id}}",
+    "history:restore.confirmTitle": "Czy przywrócić wersję strony?",
+    "history:restore.confirmButton": "Przywróć",
+    "history:restore.success": "Wersja strony przywrócona pomyślnie!"
 }
