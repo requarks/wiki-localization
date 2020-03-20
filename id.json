@@ -258,6 +258,9 @@
     "common:actions.properties": "Properti",
     "common:actions.insert": "Masukkan",
     "common:actions.fetch": "Ambil",
+    "common:page.viewingSource": "Melihat sumber halaman {{path}}",
+    "common:page.returnNormalView": "Kembali ke Tampilan Normal",
+    "common:page.id": "ID {{id}}",
     "common:header.language": "Bahasa",
     "admin:analytics.title": "Analisis",
     "admin:analytics.subtitle": "Tambahkan alat analisis dan pelacakan ke wiki anda",
@@ -267,6 +270,10 @@
     "admin:analytics.refreshSuccess": "Daftar penyedia berhasil disegarkan.",
     "admin:analytics.saveSuccess": "Konfigurasi analisis berhasil disimpan",
     "admin:comments.title": "Komentar",
+    "common:page.published": "Diterbitkan",
+    "common:page.private": "Pribadi",
+    "common:page.global": "Global",
+    "common:page.loading": "Memuat Halaman...",
     "admin:dashboard.recentPages": "Halaman Terbaru",
     "admin:dashboard.mostPopularPages": "Halaman Paling Populer",
     "editor:props.allowCommentsHint": "Aktifkan fitur berkomentar di halaman ini.",
@@ -340,5 +347,7 @@
     "admin:users.userVerifySuccess": "Pengguna telah berhasil diverifikasi.",
     "admin:users.userActivateSuccess": "Pengguna telah berhasil diaktifkan.",
     "admin:users.userDeactivateSuccess": "Pengguna berhasil dinonaktifkan.",
-    "editor:markup.noSelectionError": "Teks harus dipilih terlebih dahulu!"
+    "editor:markup.noSelectionError": "Teks harus dipilih terlebih dahulu!",
+    "common:page.viewingSourceVersion": "Melihat sumber pada {{date}} dari halaman {{path}}",
+    "common:page.versionId": "ID Versi {{id}}"
 }

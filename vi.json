@@ -591,5 +591,12 @@
     "tags:orderByField.lastModified": "Lần sửa cuối",
     "tags:orderByField.path": "Đường dẫn",
     "tags:orderByField.title": "Tiêu đề",
-    "tags:localeAny": "Bất kì"
+    "tags:localeAny": "Bất kì",
+    "common:unauthorized.action.sourceVersion": "Bạn không thể xem nguồn của phiên bản này của trang.",
+    "common:page.viewingSourceVersion": "Xem nguồn kể từ {{date}} của trang {{path}}",
+    "common:page.versionId": "Phiên bản ID {{id}}",
+    "history:restore.confirmTitle": "Khôi phục phiên bản trang?",
+    "history:restore.confirmText": "Bạn có chắc chắn muốn khôi phục nội dung trang này như ngày {{date}} không? Phiên bản này sẽ được sao chép trên đầu trang của lịch sử hiện tại. Như vậy, các phiên bản mới hơn vẫn sẽ được bảo tồn.",
+    "history:restore.confirmButton": "Khôi phục",
+    "history:restore.success": "Phiên bản trang được khôi phục thành công!"
 }
