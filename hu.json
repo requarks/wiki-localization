@@ -727,6 +727,7 @@
     "common:page.viewingSourceVersion": "{{path}} oldal {{date}} dátumú forrásának megtekintése.",
     "common:page.versionId": "Verzió azonosítója: {{id}}",
     "history:restore.confirmTitle": "Oldalverzió visszaállítása",
+    "history:restore.confirmText": "Biztosan visszaállítható az oldal tartalma ahogy {{date}} időpontban volt? Ez a verzió az aktuális történet tetejére lesz másolva. Ígí az újabb változatok továbbra is megmaradnak.",
     "history:restore.confirmButton": "Visszaállítás",
     "history:restore.success": "Oldalverzió sikeresen visszaállítva!"
 }
