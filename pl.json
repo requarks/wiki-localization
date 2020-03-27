@@ -718,5 +718,17 @@
     "common:page.versionId": "Identyfikator wersji {{id}}",
     "history:restore.confirmTitle": "Czy przywrócić wersję strony?",
     "history:restore.confirmButton": "Przywróć",
-    "history:restore.success": "Wersja strony przywrócona pomyślnie!"
+    "history:restore.success": "Wersja strony przywrócona pomyślnie!",
+    "editor:conflict.overwrite.editsLost": "Twoje bieżące zmiany zostaną utracone.",
+    "common:actions.confirm": "Potwierdź",
+    "editor:conflict.localVersion": "Wersja lokalna {{refEditable}}",
+    "editor:conflict.editable": "(edytowalny)",
+    "editor:conflict.readonly": "(tylko do odczytu)",
+    "editor:conflict.remoteVersion": "Wersja zdalna {{refReadOnly}}",
+    "editor:conflict.leftPanelInfo": "Twoje bieżące zmiany, opierają się na wersji strony z {{date}}",
+    "editor:conflict.rightPanelInfo": "Ostatnio edytowane przez {{authorName}},{{date}}",
+    "editor:conflict.pageTitle": "Tytuł:",
+    "editor:conflict.pageDescription": "Opis:",
+    "editor:unsavedWarning": "Posiadasz niezapisane zmiany. Czy na pewno chcesz opuścić edytor?",
+    "editor:conflict.warning": "Rozwiąż problem! Inny użytkownik również wprowadził zmiany na tej stronie."
 }
