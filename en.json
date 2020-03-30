@@ -730,7 +730,7 @@
     "history:restore.confirmText": "Are you sure you want to restore this page content as it was on {{date}}? This version will be copied on top of the current history. As such, newer versions will still be preserved.",
     "history:restore.confirmButton": "Restore",
     "history:restore.success": "Page version restored succesfully!",
-    "editor:ckeditor.stats": "{{chars}} Chars, {{words}} Words",
+    "editor:ckeditor.stats": "{{chars}} chars, {{words}} words",
     "editor:conflict.title": "Resolve Save Conflict",
     "editor:conflict.useLocal": "Use Local",
     "editor:conflict.useRemote": "Use Remote",
@@ -754,5 +754,6 @@
     "editor:conflict.pageTitle": "Title:",
     "editor:conflict.pageDescription": "Description:",
     "editor:unsavedWarning": "You have unsaved edits. Are you sure you want to leave the editor?",
-    "editor:conflict.warning": "Save conflict! Another user has already modified this page."
+    "editor:conflict.warning": "Save conflict! Another user has already modified this page.",
+    "common:header.duplicate": "Duplicate"
 }

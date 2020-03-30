@@ -286,5 +286,9 @@
     "tags:orderByField.lastModified": "Paskutinį kartą keista",
     "tags:orderByField.path": "Kelias",
     "tags:orderByField.title": "Pavadinimas",
-    "tags:localeAny": "Bet koks"
+    "tags:localeAny": "Bet koks",
+    "editor:conflict.pageDescription": "Aprašymas:",
+    "editor:unsavedWarning": "Turite ne pakeitimų! Ar tikrai norite palikti redaktorių?",
+    "editor:conflict.warning": "Išsaugoti pakeitimus! Kitas naudotojas jau atliko pakeitimus puslapyje.",
+    "common:header.duplicate": "Kopija"
 }

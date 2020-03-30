@@ -754,5 +754,6 @@
     "editor:conflict.pageTitle": "Titre:",
     "editor:conflict.pageDescription": "Description:",
     "editor:unsavedWarning": "Vous avez des modifications non enregistrées. Voulez-vous vraiment quitter l'éditeur?",
-    "editor:conflict.warning": "Conflit de sauvegarde! Un autre utilisateur a déjà modifié cette page."
+    "editor:conflict.warning": "Conflit de sauvegarde! Un autre utilisateur a déjà modifié cette page.",
+    "common:header.duplicate": "Dupliquer"
 }

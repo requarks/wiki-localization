@@ -754,5 +754,6 @@
     "editor:conflict.pageTitle": "標題：",
     "editor:conflict.pageDescription": "描述：",
     "editor:unsavedWarning": "您有尚未保存的編輯。您確定要離開編輯器嗎？",
-    "editor:conflict.warning": "保存衝突！另一個使用者已經修改了此頁面。"
+    "editor:conflict.warning": "保存衝突！另一個使用者已經修改了此頁面。",
+    "common:header.duplicate": "重複"
 }
