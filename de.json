@@ -754,5 +754,14 @@
     "editor:conflict.pageTitle": "Titel:",
     "editor:conflict.pageDescription": "Beschreibung:",
     "editor:unsavedWarning": "Sie haben nicht gespeicherte Änderungen. Möchten Sie den Editor wirklich verlassen?",
-    "editor:conflict.warning": "Konflikt beim Speichern! Ein anderer Benutzer hat diese Seite bereits geändert."
+    "editor:conflict.warning": "Konflikt beim Speichern! Ein anderer Benutzer hat diese Seite bereits geändert.",
+    "common:header.duplicate": "Duplizieren",
+    "profile:displayName": "Anzeigename",
+    "profile:location": "Ort",
+    "profile:jobTitle": "Job Titel",
+    "profile:timezone": "Zeitzone",
+    "profile:title": "Profil",
+    "profile:subtitle": "Meine persönlichen Informationen",
+    "profile:myInfo": "Meine Infos",
+    "profile:viewPublicProfile": "Öffentliches Profil anzeigen"
 }

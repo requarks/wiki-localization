@@ -755,5 +755,13 @@
     "editor:conflict.pageDescription": "描述：",
     "editor:unsavedWarning": "您有尚未保存的編輯。您確定要離開編輯器嗎？",
     "editor:conflict.warning": "保存衝突！另一個使用者已經修改了此頁面。",
-    "common:header.duplicate": "重複"
+    "common:header.duplicate": "重複",
+    "profile:displayName": "顯示名稱",
+    "profile:location": "位置",
+    "profile:jobTitle": "職稱",
+    "profile:timezone": "時區",
+    "profile:title": "個人資料",
+    "profile:subtitle": "我的個人資訊",
+    "profile:myInfo": "我的資訊",
+    "profile:viewPublicProfile": "查看公開資料"
 }

@@ -754,5 +754,14 @@
     "editor:conflict.pageTitle": "标题：",
     "editor:conflict.pageDescription": "说明:",
     "editor:unsavedWarning": "您有未保存的修改. 是否确认离开编辑器?",
-    "editor:conflict.warning": "保存冲突！另一个用户已经修改了此页面。"
+    "editor:conflict.warning": "保存冲突！另一个用户已经修改了此页面。",
+    "common:header.duplicate": "复制",
+    "profile:displayName": "显示名称",
+    "profile:location": "地区",
+    "profile:jobTitle": "职位",
+    "profile:timezone": "时区",
+    "profile:title": "配置文件",
+    "profile:subtitle": "我的个人信息",
+    "profile:myInfo": "我的信息",
+    "profile:viewPublicProfile": "查看公开资料"
 }

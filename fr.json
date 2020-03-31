@@ -755,5 +755,13 @@
     "editor:conflict.pageDescription": "Description:",
     "editor:unsavedWarning": "Vous avez des modifications non enregistrées. Voulez-vous vraiment quitter l'éditeur?",
     "editor:conflict.warning": "Conflit de sauvegarde! Un autre utilisateur a déjà modifié cette page.",
-    "common:header.duplicate": "Dupliquer"
+    "common:header.duplicate": "Dupliquer",
+    "profile:displayName": "Nom complet",
+    "profile:location": "Emplacement",
+    "profile:jobTitle": "Titre du poste",
+    "profile:timezone": "Fuseau horaire",
+    "profile:title": "Profil",
+    "profile:subtitle": "Mes informations personnelles",
+    "profile:myInfo": "Mes informations",
+    "profile:viewPublicProfile": "Afficher mon profil public"
 }

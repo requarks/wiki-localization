@@ -754,5 +754,14 @@
     "editor:conflict.pageTitle": "Tittel:",
     "editor:conflict.pageDescription": "Beskrivelse:",
     "editor:unsavedWarning": "Du har ulagrede endringer. Er du sikker på at du vil forlate redigeringsprogrammet og forkaste eventuelle endringer du har gjort siden siste lagring?",
-    "editor:conflict.warning": "Versjonskonflikt! En annen bruker har allerede endret denne siden."
+    "editor:conflict.warning": "Versjonskonflikt! En annen bruker har allerede endret denne siden.",
+    "common:header.duplicate": "Dupliser",
+    "profile:displayName": "Visningsnavn",
+    "profile:location": "Sted",
+    "profile:jobTitle": "Stilling",
+    "profile:timezone": "Tidssone",
+    "profile:title": "Profil",
+    "profile:subtitle": "Min personlige info",
+    "profile:myInfo": "Min info",
+    "profile:viewPublicProfile": "Vis offentlig profil"
 }

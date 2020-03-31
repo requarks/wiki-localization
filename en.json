@@ -755,5 +755,13 @@
     "editor:conflict.pageDescription": "Description:",
     "editor:unsavedWarning": "You have unsaved edits. Are you sure you want to leave the editor?",
     "editor:conflict.warning": "Save conflict! Another user has already modified this page.",
-    "common:header.duplicate": "Duplicate"
+    "common:header.duplicate": "Duplicate",
+    "profile:displayName": "Display Name",
+    "profile:location": "Location",
+    "profile:jobTitle": "Job Title",
+    "profile:timezone": "Timezone",
+    "profile:title": "Profile",
+    "profile:subtitle": "My personal info",
+    "profile:myInfo": "My Info",
+    "profile:viewPublicProfile": "View Public Profile"
 }
