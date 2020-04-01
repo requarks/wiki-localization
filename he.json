@@ -336,8 +336,10 @@
     "admin:tags.label": "תווית",
     "admin:tags.date": "נוצר {{created}} ועודכן לאחרונה {{updated}} .",
     "admin:tags.delete": "מחק תגית זו",
+    "admin:tags.refreshSuccess": "התגיות רועננו.",
     "admin:tags.deleteSuccess": "תגית נמחקה בהצלחה.",
     "admin:tags.filter": "סנן...",
+    "admin:tags.viewLinkedPages": "צפה בדפים מקושרים",
     "admin:tags.deleteConfirm": "האם למחוק תגית?",
     "admin:api.enabled": "API מופעל",
     "admin:api.disabled": "API לא זמין",
@@ -368,6 +370,7 @@
     "admin:api.toggleStateEnabledSuccess": "ממשק ה- API הופעל בהצלחה.",
     "editor:save.saved": "נשמר",
     "common:license.none": "ללא",
+    "common:license.cc0": "דומיין ציבורי",
     "common:license.alr": "כל הזכויות שמורות",
     "common:unauthorized.action.download": "לא ניתן להוריד את תוכן הדף.",
     "common:page.versionId": "מזהה גרסה {{id}}",
@@ -397,5 +400,7 @@
     "profile:jobTitle": "הגדרת תפקיד",
     "profile:timezone": "אזור זמן",
     "profile:title": "פרופיל",
-    "profile:subtitle": "המידע האישי שלי"
+    "profile:subtitle": "המידע האישי שלי",
+    "profile:myInfo": "הפרטים שלי",
+    "profile:viewPublicProfile": "צפה בפרופיל ציבורי"
 }

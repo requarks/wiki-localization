@@ -754,5 +754,14 @@
     "editor:conflict.pageTitle": "Cím:",
     "editor:conflict.pageDescription": "Leírás:",
     "editor:unsavedWarning": "Vannak nem mentett módosítások. Biztosan bezárható a szerkesztő?",
-    "editor:conflict.warning": "Mentési probléma! Egy másik felhasználó már módosította ezt az oldalt."
+    "editor:conflict.warning": "Mentési probléma! Egy másik felhasználó már módosította ezt az oldalt.",
+    "common:header.duplicate": "Másolat",
+    "profile:displayName": "Megjelenített név",
+    "profile:location": "Hely",
+    "profile:jobTitle": "Beosztás",
+    "profile:timezone": "Időzóna",
+    "profile:title": "Profil",
+    "profile:subtitle": "Saját személyes információm",
+    "profile:myInfo": "Saját információm",
+    "profile:viewPublicProfile": "Nyilvános profil megtekintése"
 }
