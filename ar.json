@@ -754,5 +754,14 @@
     "editor:conflict.pageTitle": "عنوان:",
     "editor:conflict.pageDescription": "وصف:",
     "editor:unsavedWarning": "لديك تعديلات غير محفوظة. هل أنت متأكد أنك تريد مغادرة المحرر؟",
-    "editor:conflict.warning": "حفظ التعارض! قام مستخدم آخر بتعديل هذه الصفحة بالفعل."
+    "editor:conflict.warning": "حفظ التعارض! قام مستخدم آخر بتعديل هذه الصفحة بالفعل.",
+    "common:header.duplicate": "مكرر",
+    "profile:displayName": "اسم العرض",
+    "profile:location": "الموقع",
+    "profile:jobTitle": "المسمى الوظيفي",
+    "profile:timezone": "التوقيت",
+    "profile:title": "الملف الشخصي",
+    "profile:subtitle": "معلوماتي الشخصية",
+    "profile:myInfo": "معلوماتي",
+    "profile:viewPublicProfile": "عرض الملف الشخصي العام"
 }
