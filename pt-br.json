@@ -754,5 +754,14 @@
     "editor:conflict.pageTitle": "Título:",
     "editor:conflict.pageDescription": "Descrição:",
     "editor:unsavedWarning": "Você possui alterações não salvas. Deseja mesmo sair do editor?",
-    "editor:conflict.warning": "Erro ao salvar! Outro usuário já modificou esta página."
+    "editor:conflict.warning": "Erro ao salvar! Outro usuário já modificou esta página.",
+    "common:header.duplicate": "Duplicado",
+    "profile:displayName": "Nome para exibição",
+    "profile:location": "Localização",
+    "profile:jobTitle": "Cargo",
+    "profile:timezone": "Fuso horário",
+    "profile:title": "Perfil",
+    "profile:subtitle": "Minhas informações pessoais",
+    "profile:myInfo": "Minhas informações",
+    "profile:viewPublicProfile": "Ver Perfil Público"
 }
