@@ -630,5 +630,14 @@
     "editor:conflict.pageTitle": "หัวเรื่อง:",
     "editor:conflict.pageDescription": "รายละเอียด:",
     "editor:unsavedWarning": "คุณยังไม่ได้บันทึกการแก้ไข. คุณแน่ใจว่าคุณอยากจะออกจากเครื่องมือแก้ไขนี้?",
-    "editor:conflict.warning": "บันทึกความขัดแย้ง! ผู้ใช้รายอื่นได้แก้ไขหน้านี้แล้ว"
+    "editor:conflict.warning": "บันทึกความขัดแย้ง! ผู้ใช้รายอื่นได้แก้ไขหน้านี้แล้ว",
+    "common:header.duplicate": "ทำซ้ำ",
+    "profile:displayName": "ชื่อที่แสดง",
+    "profile:location": "ตำแหน่งที่ตั้ง",
+    "profile:jobTitle": "ตำแหน่งงาน",
+    "profile:timezone": "เขตเวลา",
+    "profile:title": "โปรไฟล์",
+    "profile:subtitle": "ข้อมูลส่วนตัวของฉัน",
+    "profile:myInfo": "ข้อมูลของฉัน",
+    "profile:viewPublicProfile": "ดูโปรไฟล์สาธารณะ"
 }
