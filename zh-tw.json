@@ -781,5 +781,11 @@
     "profile:auth.changePassSuccess": "密碼變更成功。",
     "profile:pages.title": "頁面",
     "profile:comments.title": "評論",
-    "profile:pages.subtitle": "我建立或參與的頁面列表"
+    "profile:pages.subtitle": "我建立或參與的頁面列表",
+    "profile:pages.emptyList": "沒有頁面可顯示。",
+    "profile:pages.refreshSuccess": "頁面列表已更新。",
+    "profile:pages.headerTitle": "標題",
+    "profile:pages.headerPath": "路徑",
+    "profile:pages.headerCreatedAt": "建立",
+    "profile:pages.headerUpdatedAt": "最後更新"
 }
