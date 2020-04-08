@@ -763,5 +763,18 @@
     "profile:title": "Profil",
     "profile:subtitle": "Meine persönlichen Informationen",
     "profile:myInfo": "Meine Infos",
-    "profile:viewPublicProfile": "Öffentliches Profil anzeigen"
+    "profile:viewPublicProfile": "Öffentliches Profil anzeigen",
+    "profile:auth.title": "Authentifizierung",
+    "profile:auth.provider": "Anbieter",
+    "profile:auth.changePassword": "Passwort ändern",
+    "profile:auth.currentPassword": "Aktuelles Passwort",
+    "profile:auth.newPassword": "Neues Passwort",
+    "profile:auth.verifyPassword": "Neues Passwort bestätigen",
+    "profile:groups.title": "Gruppen",
+    "profile:activity.title": "Aktivität",
+    "profile:activity.joinedOn": "Beitritt am",
+    "profile:activity.lastUpdatedOn": "Profil zuletzt aktualisiert am",
+    "profile:activity.lastLoginOn": "Letzte Anmeldung am",
+    "profile:activity.pagesCreated": "Seiten erstellt",
+    "profile:auth.changePassSuccess": "Passwort erfolgreich geändert."
 }
