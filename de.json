@@ -776,5 +776,16 @@
     "profile:activity.lastUpdatedOn": "Profil zuletzt aktualisiert am",
     "profile:activity.lastLoginOn": "Letzte Anmeldung am",
     "profile:activity.pagesCreated": "Seiten erstellt",
-    "profile:auth.changePassSuccess": "Passwort erfolgreich geändert."
+    "profile:activity.commentsPosted": "Kommentare veröffentlicht",
+    "profile:save.success": "Profil erfolgreich gespeichert.",
+    "profile:auth.changePassSuccess": "Passwort erfolgreich geändert.",
+    "profile:pages.title": "Seiten",
+    "profile:comments.title": "Kommentare",
+    "profile:pages.subtitle": "Liste der Seiten, die ich erstellt oder zuletzt geändert habe",
+    "profile:pages.emptyList": "Keine Seiten zum Anzeigen.",
+    "profile:pages.refreshSuccess": "Seitenliste wurde aktualisiert.",
+    "profile:pages.headerTitle": "Titel",
+    "profile:pages.headerPath": "Pfad",
+    "profile:pages.headerCreatedAt": "Erstellt",
+    "profile:pages.headerUpdatedAt": "Zuletzt aktualisiert"
 }
