@@ -665,5 +665,21 @@
     "admin:tags.filter": "Filtr...",
     "admin:tags.viewLinkedPages": "Zobrazit Propojené Stránky",
     "admin:tags.deleteConfirm": "Odstranit Tag?",
-    "admin:tags.deleteConfirmText": "Opravdu chcete smazat tag {{tag}} ? Značka bude také odpojena od všech stránek."
+    "admin:tags.deleteConfirmText": "Opravdu chcete smazat tag {{tag}} ? Značka bude také odpojena od všech stránek.",
+    "profile:timezone": "Časové pásmo",
+    "profile:title": "Profil",
+    "profile:viewPublicProfile": "Zobrazit veřejný profil",
+    "profile:auth.title": "Ověření",
+    "profile:auth.provider": "Poskytovatel",
+    "profile:auth.changePassword": "Změnit heslo",
+    "profile:auth.currentPassword": "Aktuální heslo",
+    "profile:auth.changePassSuccess": "Heslo bylo úspěšně změněno.",
+    "profile:pages.title": "Stránky",
+    "profile:pages.subtitle": "Seznam stránek, které jsem vytvořil nebo naposledy upravil",
+    "profile:pages.emptyList": "Žádné stránky k zobrazení.",
+    "profile:pages.refreshSuccess": "Seznam stránek byl aktualizován.",
+    "profile:pages.headerTitle": "Název",
+    "profile:pages.headerPath": "Cesta",
+    "profile:pages.headerCreatedAt": "Vytvořeno",
+    "profile:pages.headerUpdatedAt": "Naposledy upraveno"
 }

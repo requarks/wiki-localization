@@ -787,5 +787,6 @@
     "profile:pages.headerTitle": "Title",
     "profile:pages.headerPath": "Path",
     "profile:pages.headerCreatedAt": "Created",
-    "profile:pages.headerUpdatedAt": "Last Updated"
+    "profile:pages.headerUpdatedAt": "Last Updated",
+    "admin:dashboard.lastLogins": "Last Logins"
 }
