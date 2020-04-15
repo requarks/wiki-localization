@@ -787,5 +787,6 @@
     "profile:pages.headerTitle": "Cím",
     "profile:pages.headerPath": "Útvonal",
     "profile:pages.headerCreatedAt": "Létrehozva",
-    "profile:pages.headerUpdatedAt": "Utoljára frissítve"
+    "profile:pages.headerUpdatedAt": "Utoljára frissítve",
+    "admin:dashboard.lastLogins": "Utolsó bejelentkezések"
 }
