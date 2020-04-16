@@ -787,5 +787,6 @@
     "profile:pages.headerTitle": "標題",
     "profile:pages.headerPath": "路徑",
     "profile:pages.headerCreatedAt": "建立",
-    "profile:pages.headerUpdatedAt": "最後更新"
+    "profile:pages.headerUpdatedAt": "最後更新",
+    "admin:dashboard.lastLogins": "上次登錄"
 }
