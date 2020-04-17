@@ -636,6 +636,7 @@
     "admin:api.revoke": "Peru",
     "admin:api.newKeyTitle": "Uusi API-avain",
     "admin:api.newKeyExpiration": "Vanheneminen",
+    "editor:save.saved": "Tallennettu",
     "editor:conflict.overwrite.editsLost": "Nykyiset muutokset menetetään.",
     "common:actions.confirm": "Vahvista",
     "editor:conflict.editable": "(muokattavissa)",
