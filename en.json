@@ -788,5 +788,9 @@
     "profile:pages.headerPath": "Path",
     "profile:pages.headerCreatedAt": "Created",
     "profile:pages.headerUpdatedAt": "Last Updated",
-    "admin:dashboard.lastLogins": "Last Logins"
+    "admin:dashboard.lastLogins": "Last Logins",
+    "common:sidebar.browse": "Browse",
+    "common:sidebar.mainMenu": "Main Menu",
+    "common:sidebar.currentDirectory": "Current Directory",
+    "common:sidebar.root": "(root)"
 }
