@@ -787,5 +787,10 @@
     "profile:pages.headerTitle": "Titel",
     "profile:pages.headerPath": "Pfad",
     "profile:pages.headerCreatedAt": "Erstellt",
-    "profile:pages.headerUpdatedAt": "Zuletzt aktualisiert"
+    "profile:pages.headerUpdatedAt": "Zuletzt aktualisiert",
+    "admin:dashboard.lastLogins": "Letzte Anmeldungen",
+    "common:sidebar.browse": "Durchsuchen",
+    "common:sidebar.mainMenu": "Hauptmenü",
+    "common:sidebar.currentDirectory": "Aktuelles Verzeichnis",
+    "common:sidebar.root": "(root)"
 }

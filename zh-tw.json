@@ -788,5 +788,9 @@
     "profile:pages.headerPath": "路徑",
     "profile:pages.headerCreatedAt": "建立",
     "profile:pages.headerUpdatedAt": "最後更新",
-    "admin:dashboard.lastLogins": "上次登錄"
+    "admin:dashboard.lastLogins": "上次登錄",
+    "common:sidebar.browse": "瀏覽",
+    "common:sidebar.mainMenu": "主選單",
+    "common:sidebar.currentDirectory": "目前目錄",
+    "common:sidebar.root": "（根）"
 }

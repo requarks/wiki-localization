@@ -705,5 +705,10 @@
     "admin:api.expiration1y": "1 рік",
     "admin:api.expiration3y": "3 роки",
     "admin:api.newKeyCopyWarn": "Скопіюйте ключ, показаний нижче як {{bold}}",
-    "admin:api.newKeyCopyWarnBold": "НЕ буде показане знову"
+    "admin:api.newKeyCopyWarnBold": "НЕ буде показане знову",
+    "profile:pages.refreshSuccess": "Список сторінок було оновлено.",
+    "profile:pages.headerTitle": "Заголовок",
+    "profile:pages.headerPath": "Шлях",
+    "common:sidebar.mainMenu": "Головне меню",
+    "common:sidebar.currentDirectory": "Поточний каталог\n"
 }
