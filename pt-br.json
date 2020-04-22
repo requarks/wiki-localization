@@ -788,5 +788,9 @@
     "profile:pages.headerPath": "Caminho",
     "profile:pages.headerCreatedAt": "Criado",
     "profile:pages.headerUpdatedAt": "Última alteração",
-    "admin:dashboard.lastLogins": "Últimos logins"
+    "admin:dashboard.lastLogins": "Últimos logins",
+    "common:sidebar.browse": "Navegar",
+    "common:sidebar.mainMenu": "Menu principal",
+    "common:sidebar.currentDirectory": "Diretório atual",
+    "common:sidebar.root": "(raiz)"
 }
