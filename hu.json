@@ -788,5 +788,9 @@
     "profile:pages.headerPath": "Útvonal",
     "profile:pages.headerCreatedAt": "Létrehozva",
     "profile:pages.headerUpdatedAt": "Utoljára frissítve",
-    "admin:dashboard.lastLogins": "Utolsó bejelentkezések"
+    "admin:dashboard.lastLogins": "Utolsó bejelentkezések",
+    "common:sidebar.browse": "Böngészés",
+    "common:sidebar.mainMenu": "Főmenü",
+    "common:sidebar.currentDirectory": "Aktuális könyvtár",
+    "common:sidebar.root": "(gyökér)"
 }
