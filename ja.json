@@ -787,5 +787,10 @@
     "profile:pages.headerTitle": "タイトル",
     "profile:pages.headerPath": "パス",
     "profile:pages.headerCreatedAt": "作成日時",
-    "profile:pages.headerUpdatedAt": "最終更新"
+    "profile:pages.headerUpdatedAt": "最終更新",
+    "admin:dashboard.lastLogins": "最終ログイン",
+    "common:sidebar.browse": "参照",
+    "common:sidebar.mainMenu": "メインメニュー",
+    "common:sidebar.currentDirectory": "現在のディレクトリ",
+    "common:sidebar.root": "(ルート)"
 }
