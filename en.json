@@ -792,5 +792,12 @@
     "common:sidebar.browse": "Browse",
     "common:sidebar.mainMenu": "Main Menu",
     "common:sidebar.currentDirectory": "Current Directory",
-    "common:sidebar.root": "(root)"
+    "common:sidebar.root": "(root)",
+    "admin:navigation.copyFromLocale": "Copy from locale...",
+    "admin:navigation.sourceLocale": "Source Locale",
+    "admin:navigation.sourceLocaleHint": "The locale from which navigation items will be copied from.",
+    "common:actions.copy": "Copy",
+    "admin:navigation.copyFromLocaleInfoText": "Select the locale from which items will be copied from. Items will be appended to the current list of items in the active locale.",
+    "admin:navigation.modeStatic.title": "Static Navigation",
+    "admin:navigation.modeStatic.description": "Static Navigation Menu Only"
 }

@@ -792,5 +792,12 @@
     "common:sidebar.browse": "Parcourir",
     "common:sidebar.mainMenu": "Menu principal",
     "common:sidebar.currentDirectory": "Répertoire actuel",
-    "common:sidebar.root": "(racine)"
+    "common:sidebar.root": "(racine)",
+    "admin:navigation.copyFromLocale": "Copier depuis la langue...",
+    "admin:navigation.sourceLocale": "Langue source",
+    "admin:navigation.sourceLocaleHint": "La langue à partir de laquelle les éléments de navigation seront copiés.",
+    "common:actions.copy": "Copier",
+    "admin:navigation.copyFromLocaleInfoText": "Sélectionnez la langue à partir de laquelle sera copiés les éléments de navigation. Les éléments seront ajoutés à la fin de la liste actuelle pour la langue courante.",
+    "admin:navigation.modeStatic.title": "Navigation statique",
+    "admin:navigation.modeStatic.description": "Menu de navigation statique uniquement"
 }

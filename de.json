@@ -792,5 +792,7 @@
     "common:sidebar.browse": "Durchsuchen",
     "common:sidebar.mainMenu": "Hauptmenü",
     "common:sidebar.currentDirectory": "Aktuelles Verzeichnis",
-    "common:sidebar.root": "(root)"
+    "common:sidebar.root": "(root)",
+    "admin:navigation.copyFromLocale": "Kopiere von Lokalisierung...",
+    "common:actions.copy": "Kopieren"
 }
