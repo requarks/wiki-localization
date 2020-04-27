@@ -794,5 +794,10 @@
     "common:sidebar.currentDirectory": "Aktuelles Verzeichnis",
     "common:sidebar.root": "(root)",
     "admin:navigation.copyFromLocale": "Kopiere von Lokalisierung...",
-    "common:actions.copy": "Kopieren"
+    "admin:navigation.sourceLocale": "Ursprungs-Lokalisierung",
+    "admin:navigation.sourceLocaleHint": "Die Lokalisierung, aus welcher Navigationselemente kopiert werden.",
+    "common:actions.copy": "Kopieren",
+    "admin:navigation.copyFromLocaleInfoText": "Wählen Sie die Lokalisierung aus, von der Elemente kopiert werden sollen. Elemente werden an die aktuelle Liste der Elemente in der aktiven Lokalisierung angehängt.",
+    "admin:navigation.modeStatic.title": "Statische Navigation",
+    "admin:navigation.modeStatic.description": "Nur statisches Navigationsmenü"
 }

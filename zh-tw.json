@@ -792,5 +792,12 @@
     "common:sidebar.browse": "瀏覽",
     "common:sidebar.mainMenu": "主選單",
     "common:sidebar.currentDirectory": "目前目錄",
-    "common:sidebar.root": "（根）"
+    "common:sidebar.root": "（根）",
+    "admin:navigation.copyFromLocale": "由此語系複製...",
+    "admin:navigation.sourceLocale": "來源語系",
+    "admin:navigation.sourceLocaleHint": "作為導覽項目複製來源的語系",
+    "common:actions.copy": "複製",
+    "admin:navigation.copyFromLocaleInfoText": "選擇要作為項目複製來源的語系. 該項目會被附加到目前使用中語系的項目清單中.",
+    "admin:navigation.modeStatic.title": "靜態導覽",
+    "admin:navigation.modeStatic.description": "僅使用靜態導覽選單"
 }
