@@ -792,5 +792,12 @@
     "common:sidebar.browse": "参照",
     "common:sidebar.mainMenu": "メインメニュー",
     "common:sidebar.currentDirectory": "現在のディレクトリ",
-    "common:sidebar.root": "(ルート)"
+    "common:sidebar.root": "(ルート)",
+    "admin:navigation.copyFromLocale": "他の言語からコピー",
+    "admin:navigation.sourceLocale": "コピー元言語",
+    "admin:navigation.sourceLocaleHint": "ナビゲーション項目のコピー元の言語",
+    "common:actions.copy": "コピー",
+    "admin:navigation.copyFromLocaleInfoText": "どの言語から項目をコピーするか選択してください。現在有効化されている言語のナビゲーションに追加されます。",
+    "admin:navigation.modeStatic.title": "固定ナビゲーション",
+    "admin:navigation.modeStatic.description": "固定ナビゲーションのみ"
 }

@@ -218,6 +218,7 @@
     "admin:auth.domainsWhitelist": "Batasi untuk domain email tertentu",
     "admin:auth.domainsWhitelistHint": "Daftar domain yang diotorisasi untuk mendaftar. Domain alamat email pengguna harus cocok dengan salah satunya untuk mendapatkan akses.",
     "admin:auth.security": "Keamanan",
+    "admin:auth.siteUrlNotSetup": "Anda harus menetapkan {{siteUrl}} yang valid terlebih dahulu! Klik {{general}} di sidebar kiri.",
     "common:header.home": "Beranda",
     "common:header.newPage": "Halaman Baru",
     "common:header.currentPage": "Halaman Saat Ini",
@@ -437,5 +438,9 @@
     "profile:timezone": "Zona waktu",
     "profile:title": "Profil",
     "profile:subtitle": "Info pribadi saya",
-    "profile:myInfo": "Info Saya"
+    "profile:myInfo": "Info Saya",
+    "common:sidebar.browse": "Telusuri",
+    "common:sidebar.mainMenu": "Menu Utama",
+    "common:sidebar.currentDirectory": "Direktori Saat Ini",
+    "common:sidebar.root": "(akar)"
 }

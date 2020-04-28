@@ -787,5 +787,17 @@
     "profile:pages.headerTitle": "Tiêu đề",
     "profile:pages.headerPath": "Đường dẫn",
     "profile:pages.headerCreatedAt": "Tạo ngày",
-    "profile:pages.headerUpdatedAt": "Cập nhật lần cuối"
+    "profile:pages.headerUpdatedAt": "Cập nhật lần cuối",
+    "admin:dashboard.lastLogins": "Đăng nhập gần đây",
+    "common:sidebar.browse": "Xem",
+    "common:sidebar.mainMenu": "Menu Chính",
+    "common:sidebar.currentDirectory": "Mục Hiện Tại",
+    "common:sidebar.root": "Gốc",
+    "admin:navigation.copyFromLocale": "Sao chép từ ",
+    "admin:navigation.sourceLocale": "Nguồn của ngôn ngữ",
+    "admin:navigation.sourceLocaleHint": "Ngôn ngữ mà từ đó các mục điều hướng sẽ được sao chép vào",
+    "common:actions.copy": "Sao Chép",
+    "admin:navigation.copyFromLocaleInfoText": "Chọn ngôn ngữ mà từ đó các mục sẽ được sao chép. Các mục được sao chép sẽ được thêm vào danh sách hiện tại của ngôn ngữ đang dùng.",
+    "admin:navigation.modeStatic.title": "Điều Hướng Cố Định",
+    "admin:navigation.modeStatic.description": "Điều Hướng Cố Định"
 }

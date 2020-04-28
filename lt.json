@@ -730,5 +730,16 @@
     "profile:pages.headerTitle": "Pavadinimas",
     "profile:pages.headerPath": "Kelias",
     "profile:pages.headerCreatedAt": "Sukurta",
-    "profile:pages.headerUpdatedAt": "Paskutinį kartą atnaujinta"
+    "profile:pages.headerUpdatedAt": "Paskutinį kartą atnaujinta",
+    "admin:dashboard.lastLogins": "Paskutiniai prisijungimai",
+    "common:sidebar.browse": "Meniu",
+    "common:sidebar.mainMenu": "Pagrindinis meniu",
+    "common:sidebar.currentDirectory": "Dabartinis katalogas",
+    "common:sidebar.root": "(šaknis)",
+    "admin:navigation.copyFromLocale": "Kopijuoti iš lokalės ...",
+    "admin:navigation.sourceLocale": "Šaltinio lokalė",
+    "admin:navigation.sourceLocaleHint": "Lokalė, iš kurios bus nukopijuoti naršymo elementai.",
+    "common:actions.copy": "Kopijuoti",
+    "admin:navigation.modeStatic.title": "Statinis meniu",
+    "admin:navigation.modeStatic.description": "Tik statinis meniu"
 }

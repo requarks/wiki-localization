@@ -135,6 +135,8 @@
     "auth:missingName": "חסר שם",
     "editor:save.updateSuccess": "הדף עודכן בהצלחה.",
     "common:unauthorized.title": "לא מורשה",
+    "common:unauthorized.goback": "חזור",
+    "common:notfound.gohome": "דף הבית",
     "common:welcome.title": "ברוך הבא לוויקי שלך!",
     "admin:dev.flags.title": "דגלים",
     "common:actions.browse": "עיון...",
@@ -158,6 +160,7 @@
     "common:header.viewSource": "הצג קוד מקור",
     "common:header.move": "העבר \/ שנה שם",
     "common:header.delete": "מחק",
+    "common:header.assets": "קבצים",
     "common:header.imagesFiles": "תמונות וקבצים",
     "common:header.search": "חפש...",
     "common:header.admin": "ניהול",
@@ -413,5 +416,10 @@
     "profile:title": "פרופיל",
     "profile:subtitle": "המידע האישי שלי",
     "profile:myInfo": "הפרטים שלי",
-    "profile:viewPublicProfile": "צפה בפרופיל ציבורי"
+    "profile:viewPublicProfile": "צפה בפרופיל ציבורי",
+    "common:sidebar.browse": "עיון",
+    "common:sidebar.mainMenu": "תפריט ראשי",
+    "common:sidebar.currentDirectory": "תיקייה נוכחית",
+    "common:sidebar.root": "בסיס",
+    "common:actions.copy": "העתק"
 }
