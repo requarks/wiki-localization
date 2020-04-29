@@ -792,5 +792,11 @@
     "common:sidebar.browse": "Böngészés",
     "common:sidebar.mainMenu": "Főmenü",
     "common:sidebar.currentDirectory": "Aktuális könyvtár",
-    "common:sidebar.root": "(gyökér)"
+    "common:sidebar.root": "(gyökér)",
+    "admin:navigation.copyFromLocale": "Másolja a nyelvből...",
+    "admin:navigation.sourceLocale": "Forrás nyelve",
+    "admin:navigation.sourceLocaleHint": "A nyelv ahonnan a navigáció elemei másolásra kerülnek.",
+    "common:actions.copy": "Másolás",
+    "admin:navigation.modeStatic.title": "Statikus navigáció",
+    "admin:navigation.modeStatic.description": "Csak statikus navigációs menü"
 }

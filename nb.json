@@ -798,6 +798,6 @@
     "admin:navigation.sourceLocaleHint": "Språket som navigasjonselementene vil bli kopiert fra.",
     "common:actions.copy": "Kopier",
     "admin:navigation.copyFromLocaleInfoText": "Velg språk som elementene skal kopieres fra. Elementer vil bli lagt til den gjeldende listen over elementer i det aktive språket.",
-    "admin:navigation.modeStatic.title": "Statisk Navigering",
-    "admin:navigation.modeStatic.description": "Kun Statisk Navigasjonsmeny"
+    "admin:navigation.modeStatic.title": "Statisk navigering",
+    "admin:navigation.modeStatic.description": "Kun statisk navigasjonsmeny"
 }

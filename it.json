@@ -792,5 +792,6 @@
     "common:sidebar.browse": "Sfoglia",
     "common:sidebar.mainMenu": "Menù principale",
     "common:sidebar.currentDirectory": "Cartella attuale",
-    "common:sidebar.root": "(root)"
+    "common:sidebar.root": "(root)",
+    "common:actions.copy": "Copia"
 }
