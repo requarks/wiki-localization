@@ -787,5 +787,14 @@
     "profile:pages.headerTitle": "Başlık",
     "profile:pages.headerPath": "Yol",
     "profile:pages.headerCreatedAt": "Oluşturuldu",
-    "profile:pages.headerUpdatedAt": "Son Güncelleme"
+    "profile:pages.headerUpdatedAt": "Son Güncelleme",
+    "admin:dashboard.lastLogins": "Son giriş tarihi",
+    "common:sidebar.browse": "Gözat",
+    "common:sidebar.mainMenu": "Ana menü",
+    "common:sidebar.currentDirectory": "Mevcut Dizin",
+    "common:sidebar.root": "(root)",
+    "admin:navigation.copyFromLocale": "Yerel ayardan kopyala ...",
+    "common:actions.copy": "Kopyala",
+    "admin:navigation.modeStatic.title": "Statik Navigasyon",
+    "admin:navigation.modeStatic.description": "Yalnızca Statik Gezinme Menüsü"
 }
