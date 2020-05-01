@@ -665,5 +665,18 @@
     "admin:tags.filter": "Filter...",
     "admin:tags.viewLinkedPages": "Zobraziť Prepojené Stránky",
     "admin:tags.deleteConfirm": "Odstrániť Tag?",
-    "admin:tags.deleteConfirmText": "Naozaj chcete odstrániť tag {{tag}} ? Tag bude tiež odpojený od všetkých stránok."
+    "admin:tags.deleteConfirmText": "Naozaj chcete odstrániť tag {{tag}} ? Tag bude tiež odpojený od všetkých stránok.",
+    "profile:pages.headerTitle": "Názov",
+    "profile:pages.headerPath": "Cesta",
+    "profile:pages.headerCreatedAt": "Vytvorené",
+    "profile:pages.headerUpdatedAt": "Naposledy aktualizované",
+    "admin:dashboard.lastLogins": "Posledné prihlásenia",
+    "common:sidebar.browse": "Prehľadávať",
+    "common:sidebar.mainMenu": "Hlavné menu",
+    "common:sidebar.currentDirectory": "Aktuálny adresár",
+    "common:sidebar.root": "root",
+    "admin:navigation.copyFromLocale": "Kopírovať z miestneho nastavenia ...",
+    "admin:navigation.sourceLocale": "Zdrojové miestne nastavenie",
+    "admin:navigation.sourceLocaleHint": "Miestne nastavenie, z ktorého sa budú navigačné položky kopírovať.",
+    "common:actions.copy": "Kopírovať"
 }

@@ -797,6 +797,7 @@
     "admin:navigation.sourceLocale": "Forrás nyelve",
     "admin:navigation.sourceLocaleHint": "A nyelv ahonnan a navigáció elemei másolásra kerülnek.",
     "common:actions.copy": "Másolás",
+    "admin:navigation.copyFromLocaleInfoText": "A nyelv kiválasztása ahonnan az elemek másolva lesznek. Az elemek hozzá lesznek fűzve az aktív nyelv aktuális elemlistájához.",
     "admin:navigation.modeStatic.title": "Statikus navigáció",
     "admin:navigation.modeStatic.description": "Csak statikus navigációs menü"
 }
