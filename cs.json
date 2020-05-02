@@ -797,5 +797,7 @@
     "admin:navigation.sourceLocale": "Zdroj lokalizace",
     "admin:navigation.sourceLocaleHint": "Lokalizace, ze kterého budou navigační položky zkopírovány.",
     "common:actions.copy": "Kopírovat",
-    "admin:navigation.copyFromLocaleInfoText": "Vyberte lokalizaci, ze které budou zkopírovány položky. Položky budou připojeny k aktuálnímu seznamu položek v aktivní lokalizaci."
+    "admin:navigation.copyFromLocaleInfoText": "Vyberte lokalizaci, ze které budou zkopírovány položky. Položky budou připojeny k aktuálnímu seznamu položek v aktivní lokalizaci.",
+    "admin:navigation.modeStatic.title": "Statická navigace",
+    "admin:navigation.modeStatic.description": "Pouze statické navigační menu"
 }
