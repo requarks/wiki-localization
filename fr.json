@@ -799,5 +799,12 @@
     "common:actions.copy": "Copier",
     "admin:navigation.copyFromLocaleInfoText": "Sélectionnez la langue à partir de laquelle sera copiés les éléments de navigation. Les éléments seront ajoutés à la fin de la liste actuelle pour la langue courante.",
     "admin:navigation.modeStatic.title": "Navigation statique",
-    "admin:navigation.modeStatic.description": "Menu de navigation statique uniquement"
+    "admin:navigation.modeStatic.description": "Menu de navigation statique uniquement",
+    "profile:preferences": "Préférences",
+    "profile:dateFormat": "Format de date",
+    "profile:localeDefault": "Par défaut",
+    "profile:appearance": "Apparence",
+    "profile:appearanceDefault": "Défaut du site",
+    "profile:appearanceLight": "Clair",
+    "profile:appearanceDark": "Sombre"
 }

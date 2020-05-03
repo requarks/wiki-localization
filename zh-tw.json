@@ -799,5 +799,12 @@
     "common:actions.copy": "複製",
     "admin:navigation.copyFromLocaleInfoText": "選擇要作為項目複製來源的語系. 該項目會被附加到目前使用中語系的項目清單中.",
     "admin:navigation.modeStatic.title": "靜態導覽",
-    "admin:navigation.modeStatic.description": "僅使用靜態導覽選單"
+    "admin:navigation.modeStatic.description": "僅使用靜態導覽選單",
+    "profile:preferences": "偏好設定",
+    "profile:dateFormat": "日期格式",
+    "profile:localeDefault": "語系預設",
+    "profile:appearance": "外觀",
+    "profile:appearanceDefault": "網站預設",
+    "profile:appearanceLight": "淺色",
+    "profile:appearanceDark": "深色"
 }

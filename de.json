@@ -799,5 +799,8 @@
     "common:actions.copy": "Kopieren",
     "admin:navigation.copyFromLocaleInfoText": "Wählen Sie die Lokalisierung aus, von der Elemente kopiert werden sollen. Elemente werden an die aktuelle Liste der Elemente in der aktiven Lokalisierung angehängt.",
     "admin:navigation.modeStatic.title": "Statische Navigation",
-    "admin:navigation.modeStatic.description": "Nur statisches Navigationsmenü"
+    "admin:navigation.modeStatic.description": "Nur statisches Navigationsmenü",
+    "profile:preferences": "Einstellungen",
+    "profile:dateFormat": "Datumsformat",
+    "profile:localeDefault": "Standard-Lokalisierung"
 }

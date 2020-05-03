@@ -799,5 +799,12 @@
     "common:actions.copy": "Copy",
     "admin:navigation.copyFromLocaleInfoText": "Select the locale from which items will be copied from. Items will be appended to the current list of items in the active locale.",
     "admin:navigation.modeStatic.title": "Static Navigation",
-    "admin:navigation.modeStatic.description": "Static Navigation Menu Only"
+    "admin:navigation.modeStatic.description": "Static Navigation Menu Only",
+    "profile:preferences": "Preferences",
+    "profile:dateFormat": "Date Format",
+    "profile:localeDefault": "Locale Default",
+    "profile:appearance": "Appearance",
+    "profile:appearanceDefault": "Site Default",
+    "profile:appearanceLight": "Light",
+    "profile:appearanceDark": "Dark"
 }
