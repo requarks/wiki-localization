@@ -799,5 +799,12 @@
     "common:actions.copy": "Másolás",
     "admin:navigation.copyFromLocaleInfoText": "A nyelv kiválasztása ahonnan az elemek másolva lesznek. Az elemek hozzá lesznek fűzve az aktív nyelv aktuális elemlistájához.",
     "admin:navigation.modeStatic.title": "Statikus navigáció",
-    "admin:navigation.modeStatic.description": "Csak statikus navigációs menü"
+    "admin:navigation.modeStatic.description": "Csak statikus navigációs menü",
+    "profile:preferences": "Beállítások",
+    "profile:dateFormat": "Dátum formátuma",
+    "profile:localeDefault": "Nyelv alapértelmezése",
+    "profile:appearance": "Megjelenés",
+    "profile:appearanceDefault": "Weboldal alapértelmezése",
+    "profile:appearanceLight": "Világos",
+    "profile:appearanceDark": "Sötét"
 }

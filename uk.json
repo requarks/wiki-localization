@@ -799,5 +799,12 @@
     "common:actions.copy": "Копіювати",
     "admin:navigation.copyFromLocaleInfoText": "Оберіть мову, з якої будуть скопійовані елементи. Елементи будуть додані до поточного списку елементів в активній мові.",
     "admin:navigation.modeStatic.title": "Статична навігація",
-    "admin:navigation.modeStatic.description": "Тільки статичне меню навігації"
+    "admin:navigation.modeStatic.description": "Тільки статичне меню навігації",
+    "profile:preferences": "Налаштування",
+    "profile:dateFormat": "Формат дати",
+    "profile:localeDefault": "Мова за замовчуванням",
+    "profile:appearance": "Зовнішній вигляд",
+    "profile:appearanceDefault": "За замовчуванням на сайті",
+    "profile:appearanceLight": "Світла",
+    "profile:appearanceDark": "Темна"
 }
