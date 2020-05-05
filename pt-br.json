@@ -319,7 +319,7 @@
     "admin:storage.syncDirPush": "Enviar para o destino",
     "admin:storage.syncDirPull": "Baixar do destino",
     "admin:storage.unsupported": "Não suportado",
-    "admin:storage.syncDirBiHint": "No modo bidirecional, o conteúdo é inicialmente baixado do armazenamento remoto. Qualquer conteúdo novo sobrescreverá o conteúdo local. O conteúdo novo desde a última sincronização é então enviado para o armazenamento remoto, sobrescrevendo qualquer conteúdo no destino, se presente.",
+    "admin:storage.syncDirBiHint": "No modo bidirecional, o conteúdo é inicialmente baixado do armazenamento remoto. Qualquer conteúdo novo sobrescreverá o conteúdo local. O conteúdo novo desde a última sincronização é então enviado para o armazenamento remoto, sobrescrevendo qualquer conteúdo no destino (caso existente).",
     "admin:storage.syncDirPushHint": "O conteúdo é sempre enviado para o armazenamento remoto, sobrescrevendo qualquer conteúdo nele. Esta é a escolha mais segura para situações de backup.",
     "admin:storage.syncDirPullHint": "O conteúdo é sempre baixado do armazenamento remoto, sobrescrevendo qualquer conteúdo local que já exista. Essa opção é geralmente utilizada para importações de uso único. Cuidado com esta opção, pois qualquer conteúdo local será sempre sobrescrito!",
     "admin:storage.syncSchedule": "Agenda de sincronização",
@@ -650,7 +650,7 @@
     "admin:ssl.renewCertificateLoadingSubtitle": "Não saia desta página.",
     "admin:ssl.renewCertificateSuccess": "Certificado renovado com êxito.",
     "admin:ssl.httpPortRedirectSaveSuccess": "Redirecionamento HTTP alterado com êxito.",
-    "admin:tags.subtitle": "Gerenciar palavras-chave da página",
+    "admin:tags.subtitle": "Gerenciar as palavras-chave das páginas",
     "admin:tags.emptyList": "Nenhuma palavra-chave para exibir.",
     "admin:tags.edit": "Editar palavra-chave",
     "admin:tags.tag": "Palavra-chave",
@@ -799,5 +799,12 @@
     "common:actions.copy": "Copiar",
     "admin:navigation.copyFromLocaleInfoText": "Selecione o idioma do qual os itens serão copiados. Os itens serão acrescentados à lista atual de itens do idioma ativo.",
     "admin:navigation.modeStatic.title": "Navegação estática",
-    "admin:navigation.modeStatic.description": "Apenas menu de navegação estático"
+    "admin:navigation.modeStatic.description": "Apenas menu de navegação estático",
+    "profile:preferences": "Preferências",
+    "profile:dateFormat": "Formato de data",
+    "profile:localeDefault": "Padrão do idioma\/região",
+    "profile:appearance": "Aparência",
+    "profile:appearanceDefault": "Padrão do site",
+    "profile:appearanceLight": "Claro",
+    "profile:appearanceDark": "Escuro"
 }

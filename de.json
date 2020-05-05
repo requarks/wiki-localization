@@ -802,5 +802,9 @@
     "admin:navigation.modeStatic.description": "Nur statisches Navigationsmenü",
     "profile:preferences": "Einstellungen",
     "profile:dateFormat": "Datumsformat",
-    "profile:localeDefault": "Standard-Lokalisierung"
+    "profile:localeDefault": "Standard-Lokalisierung",
+    "profile:appearance": "Aussehen",
+    "profile:appearanceDefault": "Site-Standard",
+    "profile:appearanceLight": "Hell",
+    "profile:appearanceDark": "Dunkel"
 }

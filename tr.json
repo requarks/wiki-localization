@@ -794,7 +794,17 @@
     "common:sidebar.currentDirectory": "Mevcut Dizin",
     "common:sidebar.root": "(root)",
     "admin:navigation.copyFromLocale": "Yerel ayardan kopyala ...",
+    "admin:navigation.sourceLocale": "Temel Dil",
+    "admin:navigation.sourceLocaleHint": "Gezinme öğelerinin kopyalanacağı yerel ayar.",
     "common:actions.copy": "Kopyala",
+    "admin:navigation.copyFromLocaleInfoText": "Öğelerin kopyalanacağı yerel ayarı seçin. Öğeler, etkin yerel ayardaki geçerli öğe listesine eklenir.",
     "admin:navigation.modeStatic.title": "Statik Navigasyon",
-    "admin:navigation.modeStatic.description": "Yalnızca Statik Gezinme Menüsü"
+    "admin:navigation.modeStatic.description": "Yalnızca Statik Gezinme Menüsü",
+    "profile:preferences": "Tercihler",
+    "profile:dateFormat": "Tarih formatı",
+    "profile:localeDefault": "Dil Ayarları",
+    "profile:appearance": "Görünüm",
+    "profile:appearanceDefault": "Site Varsayılan",
+    "profile:appearanceLight": "Aydınlık Mod",
+    "profile:appearanceDark": "Karanlık Mod"
 }

@@ -795,6 +795,16 @@
     "common:sidebar.root": "（根目录）",
     "admin:navigation.copyFromLocale": "从语言环境复制...",
     "admin:navigation.sourceLocale": "源语言",
+    "admin:navigation.sourceLocaleHint": "将从中复制导航项的区域设置。",
     "common:actions.copy": "复制",
-    "admin:navigation.copyFromLocaleInfoText": "从要复制的项目中选择语言.项目将被添加到当前活跃语言列表之后"
+    "admin:navigation.copyFromLocaleInfoText": "从要复制的项目中选择语言.项目将被添加到当前活跃语言列表之后",
+    "admin:navigation.modeStatic.title": "静态导航",
+    "admin:navigation.modeStatic.description": "仅静态导航菜单",
+    "profile:preferences": "偏好设置",
+    "profile:dateFormat": "日期格式",
+    "profile:localeDefault": "默认语言",
+    "profile:appearance": "外观",
+    "profile:appearanceDefault": "默认站点",
+    "profile:appearanceLight": "亮模式",
+    "profile:appearanceDark": "暗模式"
 }
