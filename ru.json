@@ -710,7 +710,7 @@
     "editor:save.saved": "Сохранено",
     "common:license.none": "Пусто",
     "common:license.ccbyncnd": "Лицензия Creative Commons - Некоммерческая лицензия на право осуществления некоммерческой деятельности",
-    "common:license.cc0": "Общественное достояние",
+    "common:license.cc0": "Всеобщее достояние",
     "common:license.alr": "Все права защищены",
     "admin:general.contentLicense": "Лицензия на контент",
     "admin:general.contentLicenseHint": "Лицензия отображается в нижнем колонтитуле всех страниц контента.",

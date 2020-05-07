@@ -452,6 +452,7 @@
     "admin:navigation.sourceLocale": "שפת ",
     "common:actions.copy": "העתק",
     "profile:dateFormat": "תבנית תאריך",
+    "profile:appearance": "מראה",
     "profile:appearanceLight": "בהיר",
     "profile:appearanceDark": "כהה"
 }
