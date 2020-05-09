@@ -806,5 +806,8 @@
     "profile:appearance": "外觀",
     "profile:appearanceDefault": "網站預設",
     "profile:appearanceLight": "淺色",
-    "profile:appearanceDark": "深色"
+    "profile:appearanceDark": "深色",
+    "admin:mail.smtpVerifySSL": "驗證SSL憑證",
+    "admin:mail.smtpVerifySSLHint": "某些主機要求停用SSL憑證檢查。保持啟用狀態以獲得適當的安全性。",
+    "admin:navigation.navType.externalblank": "外部連結（新窗口）"
 }
