@@ -809,5 +809,6 @@
     "profile:appearanceDark": "Dark",
     "admin:mail.smtpVerifySSL": "Verify SSL Certificate",
     "admin:mail.smtpVerifySSLHint": "Some hosts requires SSL certificate checking to be disabled. Leave enabled for proper security.",
-    "admin:navigation.navType.externalblank": "External Link (New Window)"
+    "admin:navigation.navType.externalblank": "External Link (New Window)",
+    "admin:security.title": "Security"
 }

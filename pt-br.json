@@ -806,5 +806,8 @@
     "profile:appearance": "Aparência",
     "profile:appearanceDefault": "Padrão do site",
     "profile:appearanceLight": "Claro",
-    "profile:appearanceDark": "Escuro"
+    "profile:appearanceDark": "Escuro",
+    "admin:mail.smtpVerifySSL": "Verifique o certificado SSL",
+    "admin:mail.smtpVerifySSLHint": "Alguns hosts exigem que a verificação de certificado SSL esteja desabilitada. Deixe ativado para segurança adequada.",
+    "admin:navigation.navType.externalblank": "Link externo (nova janela)"
 }
