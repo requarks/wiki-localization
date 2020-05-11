@@ -806,5 +806,9 @@
     "profile:appearance": "Görünüm",
     "profile:appearanceDefault": "Site Varsayılan",
     "profile:appearanceLight": "Aydınlık Mod",
-    "profile:appearanceDark": "Karanlık Mod"
+    "profile:appearanceDark": "Karanlık Mod",
+    "admin:mail.smtpVerifySSL": "SSL Sertifikasını Doğrula",
+    "admin:mail.smtpVerifySSLHint": "Bazı ana bilgisayarlar devre dışı kalmak için SSL sertifikası denetimi gerektirir. Uygun güvenlik için etkin bırakın.",
+    "admin:navigation.navType.externalblank": "Dış Bağlantı (Yeni Pencere)",
+    "admin:security.title": "Güvenlik"
 }

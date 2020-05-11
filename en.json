@@ -810,5 +810,13 @@
     "admin:mail.smtpVerifySSL": "Verify SSL Certificate",
     "admin:mail.smtpVerifySSLHint": "Some hosts requires SSL certificate checking to be disabled. Leave enabled for proper security.",
     "admin:navigation.navType.externalblank": "External Link (New Window)",
-    "admin:security.title": "Security"
+    "admin:security.title": "Security",
+    "admin:security.maxUploadSize": "Max Upload Size",
+    "admin:security.maxUploadBatch": "Max Files per Upload",
+    "admin:security.maxUploadBatchHint": "How many files can be uploaded in a single batch?",
+    "admin:security.maxUploadSizeHint": "The maximum size for a single file.",
+    "admin:security.maxUploadSizeSuffix": "bytes",
+    "admin:security.maxUploadBatchSuffix": "files",
+    "admin:security.uploads": "Uploads",
+    "admin:security.uploadsInfo": "These settings only affect Wiki.js. If you're using a reverse-proxy (e.g. nginx, apache, Cloudflare), you must also change its settings to match."
 }

@@ -806,5 +806,16 @@
     "profile:appearance": "Aussehen",
     "profile:appearanceDefault": "Site-Standard",
     "profile:appearanceLight": "Hell",
-    "profile:appearanceDark": "Dunkel"
+    "profile:appearanceDark": "Dunkel",
+    "admin:mail.smtpVerifySSL": "SSL-Zertifikat überprüfen",
+    "admin:mail.smtpVerifySSLHint": "Bei einigen Hosts muss die Überprüfung des SSL-Zertifikats deaktiviert sein. Lassen Sie diese Option für ordnungsgemäße Sicherheit aktiviert.",
+    "admin:navigation.navType.externalblank": "Externer Link (neues Fenster)",
+    "admin:security.title": "Sicherheit",
+    "admin:security.maxUploadSize": "Max. Upload-Größe",
+    "admin:security.maxUploadBatch": "Max. Dateien pro Upload",
+    "admin:security.maxUploadBatchHint": "Wie viele Dateien können in einem Durchgang hochgeladen werden?",
+    "admin:security.maxUploadSizeHint": "Die maximale Größe für eine einzelne Datei.",
+    "admin:security.maxUploadSizeSuffix": "Bytes",
+    "admin:security.maxUploadBatchSuffix": "Dateien",
+    "admin:security.uploads": "Uploads"
 }

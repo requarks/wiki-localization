@@ -810,5 +810,13 @@
     "admin:mail.smtpVerifySSL": "Vérifier le certificat SSL",
     "admin:mail.smtpVerifySSLHint": "Certains hôtes exigent que la vérification des certificats SSL soit désactivée. Laissez cette option activée pour une sécurité adéquate.",
     "admin:navigation.navType.externalblank": "Lien externe (Nouvelle fenêtre)",
-    "admin:security.title": "Sécurité"
+    "admin:security.title": "Sécurité",
+    "admin:security.maxUploadSize": "Taille de téléversement maximale",
+    "admin:security.maxUploadBatch": "Fichiers max par téléversement",
+    "admin:security.maxUploadBatchHint": "Limite de fichiers peuvent être téléversés en un seul lot.",
+    "admin:security.maxUploadSizeHint": "La taille maximale pour un seul fichier.",
+    "admin:security.maxUploadSizeSuffix": "octets",
+    "admin:security.maxUploadBatchSuffix": "fichiers",
+    "admin:security.uploads": "Téléversements",
+    "admin:security.uploadsInfo": "Ces paramètres ne concernent que Wiki.js. Si vous utilisez un reverse-proxy (par exemple nginx, apache, Cloudflare), vous devez également modifier ses paramètres pour qu'ils correspondent."
 }
