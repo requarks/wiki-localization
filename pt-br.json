@@ -807,7 +807,17 @@
     "profile:appearanceDefault": "Padrão do site",
     "profile:appearanceLight": "Claro",
     "profile:appearanceDark": "Escuro",
-    "admin:mail.smtpVerifySSL": "Verifique o certificado SSL",
-    "admin:mail.smtpVerifySSLHint": "Alguns hosts exigem que a verificação de certificado SSL esteja desabilitada. Deixe ativado para segurança adequada.",
-    "admin:navigation.navType.externalblank": "Link externo (nova janela)"
+    "admin:mail.smtpVerifySSL": "Verificar certificado SSL",
+    "admin:mail.smtpVerifySSLHint": "Alguns hosts exigem que a verificação de certificado SSL esteja desativada. Deixe ativada para obter a segurança adequada.",
+    "admin:navigation.navType.externalblank": "Link externo (nova janela)",
+    "admin:security.title": "Segurança",
+    "admin:security.maxUploadSize": "Tamanho máximo de envio",
+    "admin:security.maxUploadBatch": "Máximo de arquivos por envio",
+    "admin:security.maxUploadBatchHint": "Quantos arquivos no máximo podem ser enviados de uma única vez?",
+    "admin:security.maxUploadSizeHint": "O tamanho máximo para um único arquivo.",
+    "admin:security.maxUploadSizeSuffix": "bytes",
+    "admin:security.maxUploadBatchSuffix": "arquivos",
+    "admin:security.uploads": "Uploads",
+    "admin:security.uploadsInfo": "Estas configurações afetam apenas o Wiki.js. Se estiver usando um proxy reverso (ex.: nginx, Apache, Cloudflare), você também deverá altear as configurações dele para corresponder com as feitas aqui.",
+    "admin:security.subtitle": "Configurar ajustes de segurança"
 }

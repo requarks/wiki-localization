@@ -818,5 +818,6 @@
     "admin:security.maxUploadSizeSuffix": "octets",
     "admin:security.maxUploadBatchSuffix": "fichiers",
     "admin:security.uploads": "Téléversements",
-    "admin:security.uploadsInfo": "Ces paramètres ne concernent que Wiki.js. Si vous utilisez un reverse-proxy (par exemple nginx, apache, Cloudflare), vous devez également modifier ses paramètres pour qu'ils correspondent."
+    "admin:security.uploadsInfo": "Ces paramètres ne concernent que Wiki.js. Si vous utilisez un reverse-proxy (par exemple nginx, apache, Cloudflare), vous devez également modifier ses paramètres pour qu'ils correspondent.",
+    "admin:security.subtitle": "Configurer les paramètres de sécurité"
 }

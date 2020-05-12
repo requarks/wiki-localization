@@ -806,5 +806,16 @@
     "profile:appearance": "Megjelenés",
     "profile:appearanceDefault": "Weboldal alapértelmezése",
     "profile:appearanceLight": "Világos",
-    "profile:appearanceDark": "Sötét"
+    "profile:appearanceDark": "Sötét",
+    "admin:mail.smtpVerifySSL": "SSL tanúsítvány ellenőrzése",
+    "admin:navigation.navType.externalblank": "Külső hivatkozás (új ablak)",
+    "admin:security.title": "Biztonság",
+    "admin:security.maxUploadSize": "Maximális feltöltési méret",
+    "admin:security.maxUploadBatch": "Fájlok maximális száma feltöltésenként",
+    "admin:security.maxUploadBatchHint": "Hány fájl tölthető fel egyszerre?",
+    "admin:security.maxUploadSizeHint": "Egy fájl maximális mérete.",
+    "admin:security.maxUploadSizeSuffix": "bájt",
+    "admin:security.maxUploadBatchSuffix": "fájlok",
+    "admin:security.uploads": "Feltöltések",
+    "admin:security.subtitle": "Biztonsági beállítások konfigurálása"
 }
