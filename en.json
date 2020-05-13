@@ -819,5 +819,7 @@
     "admin:security.maxUploadBatchSuffix": "files",
     "admin:security.uploads": "Uploads",
     "admin:security.uploadsInfo": "These settings only affect Wiki.js. If you're using a reverse-proxy (e.g. nginx, apache, Cloudflare), you must also change its settings to match.",
-    "admin:security.subtitle": "Configure security settings"
+    "admin:security.subtitle": "Configure security settings",
+    "admin:extensions.title": "Extensions",
+    "admin:extensions.subtitle": "Install extensions for extra functionality"
 }

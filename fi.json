@@ -806,5 +806,18 @@
     "profile:appearance": "Ulkoasu",
     "profile:appearanceDefault": "Sivuston oletus",
     "profile:appearanceLight": "Vaalea",
-    "profile:appearanceDark": "Tumma"
+    "profile:appearanceDark": "Tumma",
+    "admin:mail.smtpVerifySSL": "Tarkasta SSL-varmenne",
+    "admin:mail.smtpVerifySSLHint": "Jotkin isännät vaativat SSL-varmenteen tarkistuksen poistamista käytöstä. Jätä käyttöön kunnollisen suojauksen varmistamiseksi.",
+    "admin:navigation.navType.externalblank": "Ulkoinen linkki (uusi ikkuna)",
+    "admin:security.title": "Suojaus",
+    "admin:security.maxUploadSize": "Lähetyksen enimmäiskoko",
+    "admin:security.maxUploadBatch": "Tiedostojen enimmäismäärä lähetystä kohden",
+    "admin:security.maxUploadBatchHint": "Kuinka monta tiedostoa voidaan ladata yhdessä erässä?",
+    "admin:security.maxUploadSizeHint": "Tiedoston enimmäiskoko.",
+    "admin:security.maxUploadSizeSuffix": "tavua",
+    "admin:security.maxUploadBatchSuffix": "tiedostoa",
+    "admin:security.uploads": "Tiedostojen lähettäminen",
+    "admin:security.uploadsInfo": "Nämä asetukset vaikuttavat vain Wiki.js-wikiin. Jos käytät käänteistä välityspalvelinta (reverse proxy, esim. nginx, Apache, Cloudflare), myös sen asetukset on muutettava vastaaviksi.",
+    "admin:security.subtitle": "Suojausasetusten määrittäminen"
 }
