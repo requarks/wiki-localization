@@ -799,5 +799,12 @@
     "common:actions.copy": "コピー",
     "admin:navigation.copyFromLocaleInfoText": "どの言語から項目をコピーするか選択してください。現在有効化されている言語のナビゲーションに追加されます。",
     "admin:navigation.modeStatic.title": "固定ナビゲーション",
-    "admin:navigation.modeStatic.description": "固定ナビゲーションのみ"
+    "admin:navigation.modeStatic.description": "固定ナビゲーションのみ",
+    "profile:appearance": "外観",
+    "profile:appearanceDefault": "サイトのデフォルト",
+    "admin:mail.smtpVerifySSLHint": "一部のホストでは、SSL証明書のチェックを無効にする必要があります。適切なセキュリティのために有効のままにします。",
+    "admin:navigation.navType.externalblank": "外部リンク（新しいウィンドウ）",
+    "admin:security.title": "セキュリティ",
+    "admin:security.maxUploadSize": "最大アップロードサイズ",
+    "admin:security.maxUploadBatchSuffix": "ファイル"
 }

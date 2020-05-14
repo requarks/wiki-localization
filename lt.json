@@ -754,5 +754,14 @@
     "profile:appearance": "Išvaizda",
     "profile:appearanceDefault": "Svetainės numatytoji",
     "profile:appearanceLight": "Šviesus",
-    "profile:appearanceDark": "Tamsus"
+    "profile:appearanceDark": "Tamsus",
+    "admin:navigation.navType.externalblank": "Išorė nuoroda (Naujas Langas)",
+    "admin:security.maxUploadSize": "Maksimalus įkėlimo dydis",
+    "admin:security.maxUploadBatch": "Daugiausia failų vienam įkėlimui",
+    "admin:security.maxUploadSizeHint": "Maksimalus vieno failo dydis.",
+    "admin:security.maxUploadBatchSuffix": "failai",
+    "admin:security.uploads": "Įkėlimai",
+    "admin:security.subtitle": "Konfigūruokite saugos parametrus",
+    "admin:extensions.title": "Plėtiniai",
+    "admin:extensions.subtitle": "Įdiekite plėtinius, kad gautumėte papildomų funkcijų"
 }

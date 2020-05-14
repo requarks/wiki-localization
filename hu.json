@@ -817,5 +817,8 @@
     "admin:security.maxUploadSizeSuffix": "bájt",
     "admin:security.maxUploadBatchSuffix": "fájlok",
     "admin:security.uploads": "Feltöltések",
-    "admin:security.subtitle": "Biztonsági beállítások konfigurálása"
+    "admin:security.uploadsInfo": "Ez csak a Wiki.js-re van hatással. Reverse-proxy (pl.: nginx, apache, Cloudflare) annak beállításait is megfelelően módosítani kell.",
+    "admin:security.subtitle": "Biztonsági beállítások konfigurálása",
+    "admin:extensions.title": "Kiterjesztések",
+    "admin:extensions.subtitle": "Kiterjesztések telepítése extra funkciókért"
 }
