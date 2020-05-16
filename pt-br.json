@@ -808,7 +808,7 @@
     "profile:appearanceLight": "Claro",
     "profile:appearanceDark": "Escuro",
     "admin:mail.smtpVerifySSL": "Verificar certificado SSL",
-    "admin:mail.smtpVerifySSLHint": "Alguns hosts exigem que a verificação de certificado SSL esteja desativada. Deixe ativada para obter a segurança adequada.",
+    "admin:mail.smtpVerifySSLHint": "Alguns servidores de hospedagem exigem que a verificação de certificado SSL esteja desativada. Deixe ativada para obter a segurança adequada.",
     "admin:navigation.navType.externalblank": "Link externo (nova janela)",
     "admin:security.title": "Segurança",
     "admin:security.maxUploadSize": "Tamanho máximo de envio",
@@ -821,5 +821,5 @@
     "admin:security.uploadsInfo": "Estas configurações afetam apenas o Wiki.js. Se estiver usando um proxy reverso (ex.: nginx, Apache, Cloudflare), você também deverá altear as configurações dele para corresponder com as feitas aqui.",
     "admin:security.subtitle": "Configurar ajustes de segurança",
     "admin:extensions.title": "Extensões",
-    "admin:extensions.subtitle": "Instalar extensões para funcionalidade extra"
+    "admin:extensions.subtitle": "Instale extensões para obter funcionalidades extras"
 }

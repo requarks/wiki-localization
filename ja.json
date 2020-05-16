@@ -806,5 +806,7 @@
     "admin:navigation.navType.externalblank": "外部リンク（新しいウィンドウ）",
     "admin:security.title": "セキュリティ",
     "admin:security.maxUploadSize": "最大アップロードサイズ",
-    "admin:security.maxUploadBatchSuffix": "ファイル"
+    "admin:security.maxUploadBatchSuffix": "ファイル",
+    "admin:extensions.title": "拡張機能",
+    "admin:extensions.subtitle": "機能を追加するための拡張機能をインストールします"
 }

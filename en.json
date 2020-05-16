@@ -821,5 +821,9 @@
     "admin:security.uploadsInfo": "These settings only affect Wiki.js. If you're using a reverse-proxy (e.g. nginx, apache, Cloudflare), you must also change its settings to match.",
     "admin:security.subtitle": "Configure security settings",
     "admin:extensions.title": "Extensions",
-    "admin:extensions.subtitle": "Install extensions for extra functionality"
+    "admin:extensions.subtitle": "Install extensions for extra functionality",
+    "admin:comments.provider": "Provider",
+    "admin:comments.subtitle": "Add discussions to your wiki pages",
+    "admin:comments.providerConfig": "Provider Configuration",
+    "admin:comments.providerNoConfig": "This provider has no configuration options you can modify."
 }

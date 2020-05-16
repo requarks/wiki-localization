@@ -821,5 +821,9 @@
     "admin:security.uploadsInfo": "Ces paramètres ne concernent que Wiki.js. Si vous utilisez un reverse-proxy (par exemple nginx, apache, Cloudflare), vous devez également modifier ses paramètres pour qu'ils correspondent.",
     "admin:security.subtitle": "Configurer les paramètres de sécurité",
     "admin:extensions.title": "Extensions",
-    "admin:extensions.subtitle": "Installer des extensions pour des fonctionnalités supplémentaires"
+    "admin:extensions.subtitle": "Installer des extensions pour des fonctionnalités supplémentaires",
+    "admin:comments.provider": "Fournisseur",
+    "admin:comments.subtitle": "Ajoutez des discussions à vos pages wiki",
+    "admin:comments.providerConfig": "Configuration du fournisseur",
+    "admin:comments.providerNoConfig": "Ce fournisseur n'a pas d'options de configuration que vous pouvez modifier."
 }
