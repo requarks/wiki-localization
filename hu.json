@@ -820,5 +820,6 @@
     "admin:security.uploadsInfo": "Ez csak a Wiki.js-re van hatással. Reverse-proxy (pl.: nginx, apache, Cloudflare) annak beállításait is megfelelően módosítani kell.",
     "admin:security.subtitle": "Biztonsági beállítások konfigurálása",
     "admin:extensions.title": "Kiterjesztések",
-    "admin:extensions.subtitle": "Kiterjesztések telepítése extra funkciókért"
+    "admin:extensions.subtitle": "Kiterjesztések telepítése extra funkciókért",
+    "admin:comments.subtitle": "Beszélgetések hozzáadása a wiki oldalaihoz"
 }
