@@ -823,7 +823,7 @@
     "admin:extensions.title": "Erweiterungen",
     "admin:extensions.subtitle": "Erweiterungen für zusätzliche Funktionen installieren",
     "admin:comments.provider": "Anbieter",
-    "admin:comments.subtitle": "Füge Diskussionen zu deinen Wiki Seiten hinzu.",
-    "admin:comments.providerConfig": "Anbieter Konfiguration",
+    "admin:comments.subtitle": "Füge Diskussionen zu deinen Wiki Seiten hinzu",
+    "admin:comments.providerConfig": "Anbieter-Konfiguration",
     "admin:comments.providerNoConfig": "Dieser Anbieter verfügt über keine Konfigurationsoptionen, die Sie ändern können."
 }

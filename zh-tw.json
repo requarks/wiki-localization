@@ -809,5 +809,21 @@
     "profile:appearanceDark": "深色",
     "admin:mail.smtpVerifySSL": "驗證SSL憑證",
     "admin:mail.smtpVerifySSLHint": "某些主機要求停用SSL憑證檢查。保持啟用狀態以獲得適當的安全性。",
-    "admin:navigation.navType.externalblank": "外部連結（新窗口）"
+    "admin:navigation.navType.externalblank": "外部連結（新窗口）",
+    "admin:security.title": "安全",
+    "admin:security.maxUploadSize": "最大上傳大小",
+    "admin:security.maxUploadBatch": "最多檔案上傳數",
+    "admin:security.maxUploadBatchHint": "一次可以上傳多少個檔案？",
+    "admin:security.maxUploadSizeHint": "單檔的最大大小。",
+    "admin:security.maxUploadSizeSuffix": "bytes",
+    "admin:security.maxUploadBatchSuffix": "檔案",
+    "admin:security.uploads": "上傳",
+    "admin:security.uploadsInfo": "這些設置僅影響Wiki.js。如果您使用反向代理（例如nginx，apache，Cloudflare），則還必須更改其設置以匹配。",
+    "admin:security.subtitle": "安全設定",
+    "admin:extensions.title": "外掛",
+    "admin:extensions.subtitle": "安裝外掛以獲得更多功能",
+    "admin:comments.provider": "提供者",
+    "admin:comments.subtitle": "將討論添加到您的Wiki頁面",
+    "admin:comments.providerConfig": "提供商設定",
+    "admin:comments.providerNoConfig": "該提供者沒有您可以修改的設定選項。"
 }
