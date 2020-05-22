@@ -1,0 +1,15 @@
+{
+    "admin:security.maxUploadBatchHint": "Hoeveel lêers kan in een groep gelaai word?",
+    "admin:security.maxUploadSizeHint": "Die maksimum grootte vir 'n lêer.",
+    "admin:security.maxUploadSizeSuffix": "bytes",
+    "admin:security.maxUploadBatchSuffix": "lêers",
+    "admin:security.uploads": "Oplaaisels",
+    "admin:security.uploadsInfo": "Hierdie instellings beïnvloed slegs Wiki.js. As u 'n revers-proxy (bv. Nginx, apache, Cloudflare) gebruik, moet u ook daai instellings verander om te pas.",
+    "admin:security.subtitle": "Stel sekuriteitsinstellings",
+    "admin:extensions.title": "Extensions",
+    "admin:extensions.subtitle": "Installeer extensions vir addisionele funksionaliteit",
+    "admin:comments.provider": "verskaffer",
+    "admin:comments.subtitle": "Voeg besprekings by u wiki-bladsye",
+    "admin:comments.providerConfig": "Verskaffer se konfigurasie",
+    "admin:comments.providerNoConfig": "Hierdie verskaffer het geen konfigurasie-opsies wat u kan verander nie."
+}
