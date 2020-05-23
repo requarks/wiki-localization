@@ -808,6 +808,7 @@
     "profile:appearanceLight": "Világos",
     "profile:appearanceDark": "Sötét",
     "admin:mail.smtpVerifySSL": "SSL tanúsítvány ellenőrzése",
+    "admin:mail.smtpVerifySSLHint": "Néhány kiszolgálónál szükséges az SSL tanúsítvány ellenőrzés letiltása. A megfelelő biztonság érdekében engedélyezni kell",
     "admin:navigation.navType.externalblank": "Külső hivatkozás (új ablak)",
     "admin:security.title": "Biztonság",
     "admin:security.maxUploadSize": "Maximális feltöltési méret",
@@ -821,5 +822,8 @@
     "admin:security.subtitle": "Biztonsági beállítások konfigurálása",
     "admin:extensions.title": "Kiterjesztések",
     "admin:extensions.subtitle": "Kiterjesztések telepítése extra funkciókért",
-    "admin:comments.subtitle": "Beszélgetések hozzáadása a wiki oldalaihoz"
+    "admin:comments.provider": "Szolgáltató",
+    "admin:comments.subtitle": "Beszélgetések hozzáadása a wiki oldalaihoz",
+    "admin:comments.providerConfig": "Szolgáltató beállítása",
+    "admin:comments.providerNoConfig": "Ez a szolgáltató nem rendelkezik módosítható beállításokkal."
 }

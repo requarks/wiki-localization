@@ -810,5 +810,20 @@
     "admin:mail.smtpVerifySSL": "验证SSL证书",
     "admin:mail.smtpVerifySSLHint": "某些主机要求禁用SSL证书检查来继续，但我们推荐保持启用来确保安全性",
     "admin:navigation.navType.externalblank": "外部链接（新窗口）",
-    "admin:security.title": "安全"
+    "admin:security.title": "安全",
+    "admin:security.maxUploadSize": "最大上传大小",
+    "admin:security.maxUploadBatch": "每次上传的最大文件数",
+    "admin:security.maxUploadBatchHint": "一次可以批量上传多少文件?",
+    "admin:security.maxUploadSizeHint": "单个文件的最大大小。",
+    "admin:security.maxUploadSizeSuffix": "字节",
+    "admin:security.maxUploadBatchSuffix": "文件",
+    "admin:security.uploads": "上传",
+    "admin:security.uploadsInfo": "这些设置只影响Wiki.js. 如果您使用反向代理(例如Nginx,Apache,Cloudflare),您必须更改它们的设置以匹配",
+    "admin:security.subtitle": "配置安全设置",
+    "admin:extensions.title": "扩展",
+    "admin:extensions.subtitle": "安装扩展以获得额外功能",
+    "admin:comments.provider": "提供者",
+    "admin:comments.subtitle": "向您的维基添加讨论",
+    "admin:comments.providerConfig": "提供者配置",
+    "admin:comments.providerNoConfig": "该提供者没有可供您修改的配置选项。"
 }

@@ -821,5 +821,9 @@
     "admin:security.uploadsInfo": "これらの設定はWiki.jsのみに影響します。リバースプロキシ (nginx, apache, Cloudflareなど) を使用している場合は、それらの設定と一致させる必要があります。",
     "admin:security.subtitle": "セキュリティに関するオプションを設定します",
     "admin:extensions.title": "拡張機能",
-    "admin:extensions.subtitle": "機能を追加するための拡張機能をインストールします"
+    "admin:extensions.subtitle": "機能を追加するための拡張機能をインストールします",
+    "admin:comments.provider": "コメントシステム",
+    "admin:comments.subtitle": "wikiのページにコメント欄を追加します",
+    "admin:comments.providerConfig": "コメントシステムの設定",
+    "admin:comments.providerNoConfig": "このコメントシステムには変更可能な設定がありません"
 }
