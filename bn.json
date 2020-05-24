@@ -32,6 +32,8 @@
     "profile:pages.headerCreatedAt": "নির্মিত",
     "profile:pages.headerUpdatedAt": "সর্বশেষ আপডেট",
     "admin:dashboard.lastLogins": "সর্বশেষ লগইন",
+    "common:sidebar.browse": "ব্রাউজ",
+    "common:sidebar.currentDirectory": "বর্তমান ডিরেক্টরি",
     "profile:preferences": "অগ্রাধিকার",
     "profile:dateFormat": "তারিখ বিন্যাস",
     "profile:localeDefault": "ডিফল্ট ভাষা",
