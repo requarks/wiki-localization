@@ -730,7 +730,7 @@
     "history:restore.confirmText": "您确定恢复页面到1:date ? 这个版本将复制在当前的历史。",
     "history:restore.confirmButton": "恢复",
     "history:restore.success": "页面版本成功恢复！",
-    "editor:ckeditor.stats": "{{chars}}字符， {{words}}单词",
+    "editor:ckeditor.stats": "{{chars}}字符， {{words}}单词 ",
     "editor:conflict.title": "解决保存冲突",
     "editor:conflict.useLocal": "使用本地",
     "editor:conflict.useRemote": "使用远程",

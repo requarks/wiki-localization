@@ -415,6 +415,7 @@
     "admin:ssl.renewCertificate": "חידוש תעודה",
     "admin:ssl.status": "סטטוס תעודה",
     "admin:ssl.expiration": "פקיעת תעודה",
+    "admin:ssl.subscriberEmail": "דוא\"ל של המנוי",
     "admin:ssl.currentState": "מצב נוכחי",
     "admin:ssl.httpPortRedirectTurnOn": "הפעל",
     "admin:ssl.httpPortRedirectTurnOff": "כבה",
