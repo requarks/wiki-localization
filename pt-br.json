@@ -821,5 +821,9 @@
     "admin:security.uploadsInfo": "Estas configurações afetam apenas o Wiki.js. Se estiver usando um proxy reverso (ex.: nginx, Apache, Cloudflare), você também deverá altear as configurações dele para corresponder com as feitas aqui.",
     "admin:security.subtitle": "Configurar ajustes de segurança",
     "admin:extensions.title": "Extensões",
-    "admin:extensions.subtitle": "Instale extensões para obter funcionalidades extras"
+    "admin:extensions.subtitle": "Instale extensões para obter funcionalidades extras",
+    "admin:comments.provider": "Provedor",
+    "admin:comments.subtitle": "Adicione fóruns de discussão às suas páginas wiki",
+    "admin:comments.providerConfig": "Configurações do provedor",
+    "admin:comments.providerNoConfig": "Este provedor não possui opções de configuração que você possa modificar."
 }

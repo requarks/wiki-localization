@@ -821,5 +821,9 @@
     "admin:security.uploadsInfo": "Disse innstillingene påvirker bare Wiki.js. Hvis du bruker en reverse-proxy (f.eks. Nginx, apache, Cloudflare), må du også endre innstillingene der for å matche.",
     "admin:security.subtitle": "Konfigurer sikkerhetsinnstillinger",
     "admin:extensions.title": "Utvidelser",
-    "admin:extensions.subtitle": "Installer utvidelser for ekstra funksjonalitet"
+    "admin:extensions.subtitle": "Installer utvidelser for ekstra funksjonalitet",
+    "admin:comments.provider": "Tilbyder",
+    "admin:comments.subtitle": "Legg til diskusjoner på wikisidene dine",
+    "admin:comments.providerConfig": "Tilbyderkonfigurasjon",
+    "admin:comments.providerNoConfig": "Denne tilbyderen har ingen konfigurasjoner du kan endre."
 }
