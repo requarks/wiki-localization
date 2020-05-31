@@ -810,5 +810,20 @@
     "admin:mail.smtpVerifySSL": "تایید گواهی SSL",
     "admin:mail.smtpVerifySSLHint": "برخی از میزبان ها نیاز دارند تا گواهینامه SSL غیر فعال باشد. برای امنیت بهتر فعال کنید.",
     "admin:navigation.navType.externalblank": "پیوند خارجی (پنجره جدید)",
-    "admin:security.title": "امنیت"
+    "admin:security.title": "امنیت",
+    "admin:security.maxUploadSize": "حداکثر اندازه بارگذاری",
+    "admin:security.maxUploadBatch": "حداکثر فایل در هر آپلود",
+    "admin:security.maxUploadBatchHint": "چند پرونده را می توان در یک بار بارگذاری کرد؟",
+    "admin:security.maxUploadSizeHint": "حداکثر اندازه برای یک فایل واحد.",
+    "admin:security.maxUploadSizeSuffix": "بایت",
+    "admin:security.maxUploadBatchSuffix": "فایل",
+    "admin:security.uploads": "آپلود",
+    "admin:security.uploadsInfo": "این تنظیمات فقط مربوط به Wiki.js میباشد. اگر از reverse-proxy استفاده می کنید (به عنوان مثال nginx ، apache ، Cloudflare) ، باید تنظیمات آن را هماهنگ کنید.",
+    "admin:security.subtitle": "پیکربندی تنظیمات امنیتی",
+    "admin:extensions.title": "برنامه های افزودنی",
+    "admin:extensions.subtitle": "افزونه ها را برای عملکرد اضافی نصب کنید",
+    "admin:comments.provider": "ارائه دهنده",
+    "admin:comments.subtitle": "اضافه کردن بحث به صفحات ویکی",
+    "admin:comments.providerConfig": "پیکربندی ارائه دهنده",
+    "admin:comments.providerNoConfig": "این ارائه دهنده هیچ گزینه پیکربندی برای ویرایش ندارد."
 }
