@@ -673,6 +673,7 @@
     "admin:api.disableButton": "Deshabilitar API",
     "admin:api.newKeyButton": "Nueva clave API",
     "admin:api.headerName": "Nombre",
+    "admin:api.headerKeyEnding": "Fin de clave",
     "admin:api.headerExpiration": "Expiración",
     "admin:api.headerCreated": "Creado",
     "admin:api.headerLastUpdated": "Última actualización",
@@ -824,5 +825,6 @@
     "admin:comments.provider": "Proveedor",
     "admin:comments.subtitle": "Agrega discusiones a tus páginas wiki",
     "admin:comments.providerConfig": "Configuración del proveedor",
-    "admin:comments.providerNoConfig": "Este proveedor no tiene opciones de configuración que pueda modificar."
+    "admin:comments.providerNoConfig": "Este proveedor no tiene opciones de configuración que pueda modificar.",
+    "admin:users.deleteConfirmReplaceWarn": "Cualquier contenido (páginas, subidas, comentarios, etc.) que haya sido creado por este usuario se reasignará al usuario seleccionado a continuación. Se recomienda crear un usuario de destino ficticio (por ejemplo, Usuario Eliminado) si no desea que el contenido se reasigna a ningún usuario activo actual."
 }

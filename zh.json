@@ -825,5 +825,6 @@
     "admin:comments.provider": "提供者",
     "admin:comments.subtitle": "向您的维基添加讨论",
     "admin:comments.providerConfig": "提供者配置",
-    "admin:comments.providerNoConfig": "该提供者没有可供您修改的配置选项。"
+    "admin:comments.providerNoConfig": "该提供者没有可供您修改的配置选项。",
+    "admin:users.deleteConfirmReplaceWarn": "该用户创建的任何内容（页面，上载，评论等）将重新分配给下面选择的用户。如果您不希望将内容重新分配给任何当前活动用户，建议创建一个虚拟目标用户（例如，“已删除的用户”）。"
 }
