@@ -666,7 +666,7 @@
     "admin:tags.viewLinkedPages": "Verknüpfte Seiten anzeigen",
     "admin:tags.deleteConfirm": "Tag löschen?",
     "admin:tags.deleteConfirmText": "Möchten Sie das Tag {{tag}} wirklich löschen? Das Tag wird auch von allen Seiten entfernt.",
-    "admin:api.subtitle": "Schlüssel für den Zugriff auf die API verwalten",
+    "admin:api.subtitle": "Schlüssel für den API-Zugriff verwalten",
     "admin:api.enabled": "API aktiviert",
     "admin:api.disabled": "API deaktiviert",
     "admin:api.enableButton": "API aktivieren",
@@ -825,5 +825,6 @@
     "admin:comments.provider": "Anbieter",
     "admin:comments.subtitle": "Füge Diskussionen zu deinen Wiki Seiten hinzu",
     "admin:comments.providerConfig": "Anbieter-Konfiguration",
-    "admin:comments.providerNoConfig": "Dieser Anbieter verfügt über keine Konfigurationsoptionen, die Sie ändern können."
+    "admin:comments.providerNoConfig": "Dieser Anbieter verfügt über keine Konfigurationsoptionen, die Sie ändern können.",
+    "admin:users.deleteConfirmReplaceWarn": "Alle Inhalte (Seiten, Uploads, Kommentare usw.), die von diesem Benutzer erstellt wurden, werden dem unten ausgewählten Benutzer zugeordnet. Es wird empfohlen, einen Dummy-Zielbenutzer (z. B. „Gelöschter Benutzer“) zu erstellen, wenn der Inhalt keinem aktuell aktiven Benutzer zugeordnet werden soll."
 }
