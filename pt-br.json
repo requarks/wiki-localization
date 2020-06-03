@@ -826,5 +826,5 @@
     "admin:comments.subtitle": "Adicione fóruns de discussão às suas páginas wiki",
     "admin:comments.providerConfig": "Configurações do provedor",
     "admin:comments.providerNoConfig": "Este provedor não possui opções de configuração que você possa modificar.",
-    "admin:users.deleteConfirmReplaceWarn": "Todo conteúdo (páginas, uploads, comentários etc.) criado por este usuário será reatribuído ao usuário selecionado abaixo. Recomenda-se criar um usuário de destino fictício (por exemplo: Usuário Excluído) se você não quiser que o conteúdo seja reatribuído a nenhum usuário ativo atual."
+    "admin:users.deleteConfirmReplaceWarn": "Todo o conteúdo criado por este usuário (páginas, uploads, comentários etc.) será reatribuído ao usuário selecionado abaixo. Recomenda-se criar um usuário de destino fictício (por exemplo: \"Usuário excluído\") se você não quiser que o conteúdo seja reatribuído a algum usuário atualmente ativo."
 }
