@@ -825,5 +825,6 @@
     "admin:comments.provider": "コメントシステム",
     "admin:comments.subtitle": "wikiのページにコメント欄を追加します",
     "admin:comments.providerConfig": "コメントシステムの設定",
-    "admin:comments.providerNoConfig": "このコメントシステムには変更可能な設定がありません"
+    "admin:comments.providerNoConfig": "このコメントシステムには変更可能な設定がありません",
+    "admin:users.deleteConfirmReplaceWarn": "このユーザーが作成したコンテンツ (ページ、ファイル、コメントなど) は、以下で選択したユーザーに割り当てられます。現在有効なユーザーに割り当てたくない場合は、ダミーのユーザー (削除済みユーザーなど) を作成することをお勧めします。"
 }
