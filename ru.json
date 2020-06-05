@@ -734,10 +734,13 @@
     "editor:conflict.title": "Разрешить сохранить конфликт",
     "editor:conflict.useLocal": "Использовать локальную",
     "editor:conflict.useRemote": "Использовать удаленную",
+    "editor:conflict.useRemoteHint": "Отменить изменения и использовать последнюю версию ",
     "editor:conflict.useLocalHint": "Использовать содержимое на левой панели",
     "editor:conflict.viewLatestVersion": "Просмотреть последнюю версию",
     "editor:conflict.infoGeneric": "Более актуальная версия этой страницы была сохранена {{authorName}}, {{date}}.",
     "editor:conflict.whatToDo": "Что вы хотите сделать?",
+    "editor:conflict.whatToDoLocal": "Использовать вашу текущую версию и игнорировать последние изменения.",
+    "editor:conflict.whatToDoRemote": "Использовать удаленную версию (последнее) и отменить текущие изменения.",
     "editor:conflict.overwrite.title": "Заменить удаленной версией?",
     "editor:conflict.overwrite.description": "Вы уверены, что хотите заменить вашу текущую версию на последнюю версию удаленного контента? {{refEditsLost}}",
     "editor:conflict.overwrite.editsLost": "Ваши текущие изменения будут потеряны.",
@@ -794,6 +797,7 @@
     "admin:navigation.sourceLocale": "Выбрать локаль",
     "common:actions.copy": "Копировать",
     "admin:navigation.modeStatic.title": "Статическая навигация",
+    "admin:navigation.modeStatic.description": "Только статичное навигационно меню",
     "profile:preferences": "Настройки",
     "profile:dateFormat": "Формат даты",
     "profile:localeDefault": "Язык по умолчанию",
@@ -819,5 +823,6 @@
     "admin:comments.provider": "Провайдер",
     "admin:comments.subtitle": "Добавить обсуждения на страницы вики",
     "admin:comments.providerConfig": "Конфигурация провайдера",
-    "admin:comments.providerNoConfig": "У этого провайдера нет параметров конфигурации, которые вы можете изменить."
+    "admin:comments.providerNoConfig": "У этого провайдера нет параметров конфигурации, которые вы можете изменить.",
+    "admin:users.deleteConfirmReplaceWarn": "Любые материалы, созданные текущим пользователем (страницы, загрузки, комментарии и т.д.), будут назначены пользователю, выбранному далее. Рекомендуем создать служебную учетную запись (пример: Deleted User), если не хотите назначать материалы активным пользователям."
 }

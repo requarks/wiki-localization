@@ -804,9 +804,12 @@
     "profile:dateFormat": "Formát data",
     "profile:localeDefault": "Výchozí národní prostředí",
     "profile:appearance": "Vzhled",
+    "profile:appearanceDefault": "Výchozí web",
     "profile:appearanceLight": "Světlý",
     "profile:appearanceDark": "Tmavý",
     "admin:mail.smtpVerifySSL": "Ověření certifikátu SSL",
+    "admin:mail.smtpVerifySSLHint": "Některé hostingy vyžadují kontrolu SSL pro zakázání. Nechte povolené pro zajištění správné bezpečnosti.",
+    "admin:navigation.navType.externalblank": "Externí odkaz (nové okno)",
     "admin:security.title": "Zabezpečení",
     "admin:security.maxUploadSize": "Maximální velikost pro nahrávání",
     "admin:security.maxUploadBatch": "Maximální počet souborů na nahrání",
@@ -817,5 +820,11 @@
     "admin:security.uploads": "Nahrávání",
     "admin:security.uploadsInfo": "Toto nastavení ovlivní pouze Wiki.js. Pokud používáte reverzní proxy (např. Nginx, apache, Cloudflare), musíte také změnit nastavení tak, aby odpovídala.",
     "admin:security.subtitle": "Konfigurace nastavení zabezpečení",
-    "admin:extensions.title": "Rozšíření"
+    "admin:extensions.title": "Rozšíření",
+    "admin:extensions.subtitle": "Nainstalujte rozšíření pro rozšíření funkcionality",
+    "admin:comments.provider": "Poskytovatel",
+    "admin:comments.subtitle": "Přidejte diskuzi k vašim wiki stránkám",
+    "admin:comments.providerConfig": "Konfigurace poskytovatele",
+    "admin:comments.providerNoConfig": "Tento poskytovatel nemá žádné možnosti konfigurace, které by se daly upravit.",
+    "admin:users.deleteConfirmReplaceWarn": "Jakýkoli obsah (stránky, nahrané soubory, komentáře apod.), který byl vytvořen tímto uživatelem bude přidělen k uživateli níže. Pokud nechcete, aby byl obsah přidělen k současnému aktivnímu uživateli, doporučujeme vytvořit fiktivního cílového uživatele (např. Smazaný uživatel)."
 }
