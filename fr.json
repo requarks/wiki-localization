@@ -826,5 +826,7 @@
     "admin:comments.subtitle": "Ajoutez des discussions à vos pages wiki",
     "admin:comments.providerConfig": "Configuration du fournisseur",
     "admin:comments.providerNoConfig": "Ce fournisseur n'a pas d'options de configuration que vous pouvez modifier.",
-    "admin:users.deleteConfirmReplaceWarn": "Tout contenu (pages, téléchargements, commentaires, etc.) créé par cet utilisateur sera réaffecté à l'utilisateur sélectionné ci-dessous. Il est recommandé de créer un utilisateur cible factice (ex: Usager Supprimé) si vous ne souhaitez pas que le contenu soit réaffecté à un utilisateur actif actuel."
+    "admin:users.deleteConfirmReplaceWarn": "Tout contenu (pages, téléchargements, commentaires, etc.) créé par cet utilisateur sera réaffecté à l'utilisateur sélectionné ci-dessous. Il est recommandé de créer un utilisateur cible factice (ex: Usager Supprimé) si vous ne souhaitez pas que le contenu soit réaffecté à un utilisateur actif actuel.",
+    "admin:auth.activeStrategies": "Stratégies actives",
+    "admin:auth.addStrategy": "Ajouter une stratégie"
 }

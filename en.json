@@ -826,5 +826,7 @@
     "admin:comments.subtitle": "Add discussions to your wiki pages",
     "admin:comments.providerConfig": "Provider Configuration",
     "admin:comments.providerNoConfig": "This provider has no configuration options you can modify.",
-    "admin:users.deleteConfirmReplaceWarn": "Any content (pages, uploads, comments, etc.) that was created by this user will be reassigned to the user selected below. It is recommended to create a dummy target user (e.g. Deleted User) if you don't want the content to be reassigned to any current active user."
+    "admin:users.deleteConfirmReplaceWarn": "Any content (pages, uploads, comments, etc.) that was created by this user will be reassigned to the user selected below. It is recommended to create a dummy target user (e.g. Deleted User) if you don't want the content to be reassigned to any current active user.",
+    "admin:auth.activeStrategies": "Active Strategies",
+    "admin:auth.addStrategy": "Add Strategy"
 }
