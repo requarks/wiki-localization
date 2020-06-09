@@ -825,5 +825,7 @@
     "admin:comments.provider": "Szolgáltató",
     "admin:comments.subtitle": "Beszélgetések hozzáadása a wiki oldalaihoz",
     "admin:comments.providerConfig": "Szolgáltató beállítása",
-    "admin:comments.providerNoConfig": "Ez a szolgáltató nem rendelkezik módosítható beállításokkal."
+    "admin:comments.providerNoConfig": "Ez a szolgáltató nem rendelkezik módosítható beállításokkal.",
+    "admin:auth.activeStrategies": "Aktív stratégiák",
+    "admin:auth.addStrategy": "Stratégia hozzáadása"
 }
