@@ -514,6 +514,7 @@
     "profile:groups.title": "קבוצות",
     "profile:activity.title": "פעילות",
     "profile:activity.joinedOn": "הצטרף ב",
+    "profile:activity.lastUpdatedOn": "הפרופיל עודכן לאחרונה בתאריך",
     "profile:activity.lastLoginOn": "כניסה אחרונה ב",
     "profile:activity.pagesCreated": "דפים שנוצרו",
     "profile:save.success": "הפרופיל נשמר בהצלחה.",
@@ -551,5 +552,6 @@
     "admin:security.maxUploadSizeSuffix": "בתים",
     "admin:security.maxUploadBatchSuffix": "קבצים",
     "admin:security.uploads": "העלאות",
-    "admin:security.subtitle": "קבע את הגדרות האבטחה"
+    "admin:security.subtitle": "קבע את הגדרות האבטחה",
+    "admin:extensions.title": "הרחבות"
 }

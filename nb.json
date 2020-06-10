@@ -826,5 +826,7 @@
     "admin:comments.subtitle": "Legg til diskusjoner på wikisidene dine",
     "admin:comments.providerConfig": "Tilbyderkonfigurasjon",
     "admin:comments.providerNoConfig": "Denne tilbyderen har ingen konfigurasjoner du kan endre.",
-    "admin:users.deleteConfirmReplaceWarn": "Alt innhold (sider, opplastinger, kommentarer osv.) som ble opprettet av denne brukeren vil bli tildelt brukeren som er valgt nedenfor. Det anbefales å opprette en dummy-målbruker (f.eks. Slettet bruker) hvis du ikke vil at innholdet skal tilordnes til noen nåværende aktiv bruker."
+    "admin:users.deleteConfirmReplaceWarn": "Alt innhold (sider, opplastinger, kommentarer osv.) som ble opprettet av denne brukeren vil bli tildelt brukeren som er valgt nedenfor. Det anbefales å opprette en dummy-målbruker (f.eks. Slettet bruker) hvis du ikke vil at innholdet skal tilordnes til noen nåværende aktiv bruker.",
+    "admin:auth.activeStrategies": "Aktive strategier",
+    "admin:auth.addStrategy": "Legg til strategi"
 }

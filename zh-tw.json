@@ -825,5 +825,8 @@
     "admin:comments.provider": "提供者",
     "admin:comments.subtitle": "將討論添加到您的Wiki頁面",
     "admin:comments.providerConfig": "提供商設定",
-    "admin:comments.providerNoConfig": "該提供者沒有您可以修改的設定選項。"
+    "admin:comments.providerNoConfig": "該提供者沒有您可以修改的設定選項。",
+    "admin:users.deleteConfirmReplaceWarn": "該用戶創建的任何內容（頁面，上載，評論等）將被重新分配給下面選擇的用戶。如果您不希望將內容被重新分配給任何當前活動用戶，建議創建一個虛擬目標用戶（例如，“已刪除用戶”）。",
+    "admin:auth.activeStrategies": "啟用中的策略",
+    "admin:auth.addStrategy": "添加策略"
 }
