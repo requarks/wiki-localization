@@ -752,7 +752,7 @@
     "editor:conflict.leftPanelInfo": "現在{{date}}時点のページを編集しています",
     "editor:conflict.rightPanelInfo": "最終編集者 {{authorName}}, {{date}}",
     "editor:conflict.pageTitle": "タイトル：",
-    "editor:conflict.pageDescription": "説明：",
+    "editor:conflict.pageDescription": "説明:",
     "editor:unsavedWarning": "保存されていない内容があります。編集画面から離れてもよろしいですか？",
     "editor:conflict.warning": "競合が発生しました！他のユーザーがこのページを既に変更しています。",
     "common:header.duplicate": "複製",
@@ -809,7 +809,7 @@
     "profile:appearanceDark": "ダーク",
     "admin:mail.smtpVerifySSL": "SSL証明書の検証",
     "admin:mail.smtpVerifySSLHint": "一部のホストでは、SSL証明書のチェックを無効にする必要があります。適切なセキュリティのために有効のままにします。",
-    "admin:navigation.navType.externalblank": "外部リンク（新しいウィンドウ）",
+    "admin:navigation.navType.externalblank": "外部リンク (新しいウィンドウ)",
     "admin:security.title": "セキュリティ",
     "admin:security.maxUploadSize": "最大アップロードサイズ",
     "admin:security.maxUploadBatch": "一回あたりの最大ファイル数",
@@ -826,5 +826,7 @@
     "admin:comments.subtitle": "wikiのページにコメント欄を追加します",
     "admin:comments.providerConfig": "コメントシステムの設定",
     "admin:comments.providerNoConfig": "このコメントシステムには変更可能な設定がありません",
-    "admin:users.deleteConfirmReplaceWarn": "このユーザーが作成したコンテンツ (ページ、ファイル、コメントなど) は、以下で選択したユーザーに割り当てられます。現在有効なユーザーに割り当てたくない場合は、ダミーのユーザー (削除済みユーザーなど) を作成することをお勧めします。"
+    "admin:users.deleteConfirmReplaceWarn": "このユーザーが作成したコンテンツ (ページ、ファイル、コメントなど) は、以下で選択したユーザーに割り当てられます。現在有効なユーザーに割り当てたくない場合は、ダミーのユーザー (削除済みユーザーなど) を作成することをお勧めします。",
+    "admin:auth.activeStrategies": "有効化済みの認証方式",
+    "admin:auth.addStrategy": "認証方式を追加"
 }
