@@ -826,5 +826,7 @@
     "admin:comments.subtitle": "Füge Diskussionen zu deinen Wiki Seiten hinzu",
     "admin:comments.providerConfig": "Anbieter-Konfiguration",
     "admin:comments.providerNoConfig": "Dieser Anbieter verfügt über keine Konfigurationsoptionen, die Sie ändern können.",
-    "admin:users.deleteConfirmReplaceWarn": "Alle Inhalte (Seiten, Uploads, Kommentare usw.), die von diesem Benutzer erstellt wurden, werden dem unten ausgewählten Benutzer zugeordnet. Es wird empfohlen, einen Dummy-Zielbenutzer (z. B. „Gelöschter Benutzer“) zu erstellen, wenn der Inhalt keinem aktuell aktiven Benutzer zugeordnet werden soll."
+    "admin:users.deleteConfirmReplaceWarn": "Alle Inhalte (Seiten, Uploads, Kommentare usw.), die von diesem Benutzer erstellt wurden, werden dem unten ausgewählten Benutzer zugeordnet. Es wird empfohlen, einen Dummy-Zielbenutzer (z. B. „Gelöschter Benutzer“) zu erstellen, wenn der Inhalt keinem aktuell aktiven Benutzer zugeordnet werden soll.",
+    "admin:auth.activeStrategies": "Strategien",
+    "admin:auth.addStrategy": "Strategie hinzufügen"
 }

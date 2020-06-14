@@ -1,4 +1,6 @@
 {
+    "common:actions.copy": "Kopye",
+    "admin:navigation.copyFromLocaleInfoText": "Chwazi an lang ",
     "admin:navigation.modeStatic.title": "Navigasyon èstatik",
     "admin:navigation.modeStatic.description": "Navigasyon èstatik sèlman",
     "profile:preferences": "Preferans",
