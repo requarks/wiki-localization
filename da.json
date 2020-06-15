@@ -825,5 +825,8 @@
     "admin:comments.provider": "Udbyder",
     "admin:comments.subtitle": "Tilføj diskussioner til dine wiki sider",
     "admin:comments.providerConfig": "Udbyderkonfiguration",
-    "admin:comments.providerNoConfig": "Denne provider har ingen konfigurationsindstillinger, du kan ændre."
+    "admin:comments.providerNoConfig": "Denne provider har ingen konfigurationsindstillinger, du kan ændre.",
+    "admin:users.deleteConfirmReplaceWarn": "Alt indhold (sider, uploads, kommentarer osv.), Der blev oprettet af denne bruger, tildeles igen til den bruger, der er valgt nedenfor. Det anbefales at oprette en dummy bruger (f.eks. Slettet bruger), hvis du ikke ønsker, at indholdet skal tildeles igen til nogen aktuel aktiv bruger.",
+    "admin:auth.activeStrategies": "Aktive strategier",
+    "admin:auth.addStrategy": "Tilføj strategi"
 }

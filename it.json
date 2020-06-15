@@ -825,5 +825,8 @@
     "admin:comments.provider": "Provider",
     "admin:comments.subtitle": "Aggiungi discussioni alle tue pagine wiki",
     "admin:comments.providerConfig": "Configurazione del provider",
-    "admin:comments.providerNoConfig": "Questo provider non ha opzioni di configurazione che puoi modificare."
+    "admin:comments.providerNoConfig": "Questo provider non ha opzioni di configurazione che puoi modificare.",
+    "admin:users.deleteConfirmReplaceWarn": "Qualsiasi contenuto (pagine, caricamenti, commenti, ecc.) creato da questo utente verrà riassegnato all'utente selezionato di seguito. Si consiglia di creare un utente target fittizio (ad es. Utente eliminato) se non si desidera riassegnare il contenuto a nessun utente attivo corrente.",
+    "admin:auth.activeStrategies": "Strategie attive",
+    "admin:auth.addStrategy": "Aggiungi strategia"
 }
