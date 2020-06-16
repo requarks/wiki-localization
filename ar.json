@@ -825,5 +825,8 @@
     "admin:comments.provider": "مزود",
     "admin:comments.subtitle": "إضافة مناقشات إلى صفحات الويكي الخاصة بك",
     "admin:comments.providerConfig": "إعدادات المزود",
-    "admin:comments.providerNoConfig": "لا يحتوي هذا المزود على خيارات إعداد يمكنك تعديلها."
+    "admin:comments.providerNoConfig": "لا يحتوي هذا المزود على خيارات إعداد يمكنك تعديلها.",
+    "admin:users.deleteConfirmReplaceWarn": "سيتم إعادة تعيين أي محتوى (صفحات ، وتحميلات ، وتعليقات ، وما إلى ذلك) تم إنشاؤه بواسطة هذا المستخدم إلى المستخدم المحدد أدناه. يوصى بإنشاء مستخدم مستهدف وهمي (مثل المستخدم المحذوف) إذا كنت لا تريد إعادة تعيين المحتوى لأي مستخدم نشط حاليًا.",
+    "admin:auth.activeStrategies": "الاستراتيجيات النشطة",
+    "admin:auth.addStrategy": "إضافة استراتيجية"
 }
