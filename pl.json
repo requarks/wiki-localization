@@ -825,5 +825,8 @@
     "admin:comments.provider": "Dostawca",
     "admin:comments.subtitle": "Dodawaj dyskusje do twoich stron wiki",
     "admin:comments.providerConfig": "Konfiguracja dostawcy",
-    "admin:comments.providerNoConfig": "Ten dostawca nie ma opcji konfiguracji, które można by zmodyfikować."
+    "admin:comments.providerNoConfig": "Ten dostawca nie ma opcji konfiguracji, które można by zmodyfikować.",
+    "admin:users.deleteConfirmReplaceWarn": "Wszelkie treści (strony, przesłane pliki, komentarze itp.) utworzone przez tego użytkownika zostaną przepisane do użytkownika wybranego poniżej. Zaleca się utworzenie fikcyjnego użytkownika docelowego (np. użytkownika usuniętego), jeśli nie chcesz, aby treść została przepisana do bieżącego aktywnego użytkownika.",
+    "admin:auth.activeStrategies": "Aktywne strategie",
+    "admin:auth.addStrategy": "Dodaj strategię"
 }
