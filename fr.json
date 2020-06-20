@@ -623,8 +623,8 @@
     "editor:props.scripts": "Scripts",
     "editor:props.js": "Javascript",
     "editor:props.css": "CSS",
-    "editor:props.jsHint": "Notez que ces scripts ne s'appliqueront pas si votre administrateur a désactivé cette fonctionnalité.",
-    "editor:props.cssHint": "Le code CSS sera automatiquement réduit lors de l'enregistrement.",
+    "editor:props.jsHint": "Ne pas inclure les balises script, mais seulement le code javascript.",
+    "editor:props.cssHint": "Le code CSS sera automatiquement réduit lors de l'enregistrement. Ne pas inclure les balises style, mais uniquement le code CSS.",
     "admin:navigation.visibilityMode.all": "Visible par tous",
     "admin:navigation.visibilityMode.restricted": "Visible uniquement par les groupes sélectionnés...",
     "admin:navigation.selectPageButton": "Parcourir une page...",
@@ -828,5 +828,6 @@
     "admin:comments.providerNoConfig": "Ce fournisseur n'a pas d'options de configuration que vous pouvez modifier.",
     "admin:users.deleteConfirmReplaceWarn": "Tout contenu (pages, téléchargements, commentaires, etc.) créé par cet utilisateur sera réaffecté à l'utilisateur sélectionné ci-dessous. Il est recommandé de créer un utilisateur cible factice (ex: Usager Supprimé) si vous ne souhaitez pas que le contenu soit réaffecté à un utilisateur actif actuel.",
     "admin:auth.activeStrategies": "Stratégies actives",
-    "admin:auth.addStrategy": "Ajouter une stratégie"
+    "admin:auth.addStrategy": "Ajouter une stratégie",
+    "editor:props.styles": "Styles"
 }
