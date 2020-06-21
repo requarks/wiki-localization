@@ -621,10 +621,8 @@
     "admin:users.groupAssignNotice": "Beachten Sie, dass Sie hier keine Benutzer den Gruppen \"Administratoren\" oder \"Gäste\" zuweisen können.",
     "admin:users.deleteConfirmForeignNotice": "Sie können einen Benutzer, der bereits Inhalte erstellt hat, nicht löschen. Sie müssen stattdessen entweder den Benutzer deaktivieren oder alle Inhalte, die von diesem Benutzer erstellt wurden, löschen.",
     "editor:props.scripts": "Skripte",
-    "editor:props.js": "Javascript",
     "editor:props.css": "CSS",
-    "editor:props.jsHint": "Beachten Sie, dass Skripte nicht funktionieren, wenn Ihr Administrator diese Funktion deaktiviert hat.",
-    "editor:props.cssHint": "CSS wird beim Speichern automatisch verkleinert.",
+    "editor:props.cssHint": "CSS wird beim Speichern automatisch verkleinert. Fügen Sie keine einschließenden Style-Tags ein, sondern nur den eigentlichen CSS-Code.",
     "admin:navigation.visibilityMode.all": "Für alle sichtbar",
     "admin:navigation.visibilityMode.restricted": "Sichtbar für ausgewählte Gruppen...",
     "admin:navigation.selectPageButton": "Seite auswählen...",
@@ -828,5 +826,6 @@
     "admin:comments.providerNoConfig": "Dieser Anbieter verfügt über keine Konfigurationsoptionen, die Sie ändern können.",
     "admin:users.deleteConfirmReplaceWarn": "Alle Inhalte (Seiten, Uploads, Kommentare usw.), die von diesem Benutzer erstellt wurden, werden dem unten ausgewählten Benutzer zugeordnet. Es wird empfohlen, einen Dummy-Zielbenutzer (z. B. „Gelöschter Benutzer“) zu erstellen, wenn der Inhalt keinem aktuell aktiven Benutzer zugeordnet werden soll.",
     "admin:auth.activeStrategies": "Strategien",
-    "admin:auth.addStrategy": "Strategie hinzufügen"
+    "admin:auth.addStrategy": "Strategie hinzufügen",
+    "editor:props.styles": "Stile"
 }

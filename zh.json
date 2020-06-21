@@ -621,9 +621,7 @@
     "admin:users.groupAssignNotice": "请注意，您不能从此面板将用户分配给Administrators或Guests组。",
     "admin:users.deleteConfirmForeignNotice": "请注意，您不能删除已经创建内容的用户。相反，您必须停用用户或删除该用户创建的所有内容。",
     "editor:props.scripts": "脚本",
-    "editor:props.js": "Javascript",
     "editor:props.css": "CSS",
-    "editor:props.jsHint": "请注意，如果管理员禁用了此功能，则脚本将不起作用。",
     "editor:props.cssHint": "保存后会自动缩小CSS。",
     "admin:navigation.visibilityMode.all": "所有人可见",
     "admin:navigation.visibilityMode.restricted": "选定组以对该组可见……",
@@ -828,5 +826,6 @@
     "admin:comments.providerNoConfig": "该提供者没有可供您修改的配置选项。",
     "admin:users.deleteConfirmReplaceWarn": "该用户创建的任何内容（页面，上载，评论等）将重新分配给下面选择的用户。如果您不希望将内容重新分配给任何当前活动用户，建议创建一个虚拟目标用户（例如，“已删除的用户”）。",
     "admin:auth.activeStrategies": "激活策略",
-    "admin:auth.addStrategy": "添加策略"
+    "admin:auth.addStrategy": "添加策略",
+    "editor:props.styles": "样式"
 }

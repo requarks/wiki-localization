@@ -621,9 +621,7 @@
     "admin:users.groupAssignNotice": "Meg kell jegyezni, hogy erről a panelről nem lehet felhasználókat hozzárendelni az Adminisztrátorok vagy a Vendégek csoporthoz.",
     "admin:users.deleteConfirmForeignNotice": "Meg kell jegyezni, hogy anem törölhető olyan felhasználó aki már hozott létre tartalmat. Helyette vagy deaktiválni kell a felhasználót, vagy a felhasználó által létrehozott összes tartalmat törölni kell.",
     "editor:props.scripts": "Parancsfájlok",
-    "editor:props.js": "Javascript",
     "editor:props.css": "CSS",
-    "editor:props.jsHint": "Meg kell jegyezni, hogy ezek a parancsfájlok nem fognak működni ha az adminisztrátor letiltotta ezt a funkciót.",
     "editor:props.cssHint": "Mentéskor a CSS automatikusan tömörítve lesz.",
     "admin:navigation.visibilityMode.all": "Mindenki láthatja",
     "admin:navigation.visibilityMode.restricted": "A kiválasztott csoportok láthatják...",
@@ -828,5 +826,6 @@
     "admin:comments.providerNoConfig": "Ez a szolgáltató nem rendelkezik módosítható beállításokkal.",
     "admin:users.deleteConfirmReplaceWarn": "A felhasználó által létrehozott bármely tartalom (oldalak, feltöltések, megjegyzések stb.) az alább kiválasztott felhasználóhoz kerül. Javasoljuk, hogy hozzon létre egy hamis célfelhasználót (pl. Törölt felhasználó), ha nem szeretné, hogy a tartalom bármely aktuális aktív felhasználóhoz legyen hozzárendelve.",
     "admin:auth.activeStrategies": "Aktív stratégiák",
-    "admin:auth.addStrategy": "Stratégia hozzáadása"
+    "admin:auth.addStrategy": "Stratégia hozzáadása",
+    "editor:props.styles": "Stílusok"
 }

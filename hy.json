@@ -171,7 +171,6 @@
     "admin:general.logoUrl": "Լոգոյի URL",
     "admin:users.deleteConfirmTitle": "Հեռացնե՞լ օգտագործողին",
     "admin:users.updateUser": "Թարմացնել օգտագործողին",
-    "editor:props.js": "Javascript",
     "editor:props.css": "CSS",
     "admin:navigation.visibilityMode.all": "Տեսանելի է բոլորի համար",
     "admin:navigation.visibilityMode.restricted": "Տեսանելի է խմբերի համար",

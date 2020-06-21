@@ -508,7 +508,6 @@
     "admin:users.groupAssignNotice": "โปรดสังเกตว่าคุณไม่สามารถกำหนดผู้ใช้ไปเป็นผู้ดูแลระบบได้ หรือ กลุ่มผู้เข้าชมจากแผงคอนโทรลนี้",
     "admin:users.deleteConfirmForeignNotice": "โปรดสังเกตว่าคุณไม่สามารถลบผู้ใช้ที่สร้างเนื้อหาไว้แล้ว คุณต้องปิดการทำงานผู้ใช้หรือลบเนื้อหาทั้งหมดที่สร้างโดยผู้ใช้นั้น",
     "editor:props.scripts": "สคริปต์",
-    "editor:props.js": "จาวาสคริปต์",
     "editor:props.css": "CSS",
     "admin:navigation.mode": "โหมดเนวิเกเตอร์",
     "admin:navigation.modeSiteTree.title": "แผนผังเว็บไซต์",
