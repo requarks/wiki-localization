@@ -849,5 +849,6 @@
     "common:comments.postSuccess": "New comment posted successfully.",
     "common:comments.contentMissingError": "Comment is empty or too short!",
     "common:comments.updateSuccess": "Comment was updated successfully.",
-    "common:comments.deleteSuccess": "Comment was deleted successfully."
+    "common:comments.deleteSuccess": "Comment was deleted successfully.",
+    "editor:markup.toggleSpellcheck": "Toggle Spellcheck"
 }
