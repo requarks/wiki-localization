@@ -829,6 +829,7 @@
     "admin:auth.addStrategy": "Stratégia hozzáadása",
     "editor:props.styles": "Stílusok",
     "editor:props.html": "HTML",
+    "editor:props.htmlHint": "A javascript kódot HTML szkript címkék közé kell tenni.",
     "common:page.unpublishedWarning": "Ez az oldal nincs közzétéve.",
     "common:comments.title": "Hozzászólások",
     "common:comments.newPlaceholder": "Új hozzászólás írása...",
@@ -838,6 +839,7 @@
     "common:comments.postComment": "Hozzászólás beküldése",
     "common:comments.loading": "Hozzászólások betöltése...",
     "common:comments.postingAs": "Beküldés mint {{name}}.",
+    "common:comments.beFirst": "Legyél az első hozzászóló.",
     "common:comments.none": "Még nincsenek hozzászólások.",
     "common:comments.updateComment": "Hozzászólás frissítése",
     "common:comments.deleteConfirmTitle": "Törlés megerősítése",
@@ -847,5 +849,6 @@
     "common:comments.postSuccess": "Az új hozzászólás sikeresen elküldve.",
     "common:comments.contentMissingError": "A hozzászólás üres vagy túl rövid!",
     "common:comments.updateSuccess": "A hozzászólás sikeresen frissítve.",
-    "common:comments.deleteSuccess": "A hozzászólás sikeresen törölve."
+    "common:comments.deleteSuccess": "A hozzászólás sikeresen törölve.",
+    "editor:markup.toggleSpellcheck": "Helyesírás-ellenőrzés váltása"
 }
