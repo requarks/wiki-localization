@@ -849,5 +849,13 @@
     "common:comments.postSuccess": "Nouveau commentaire publié avec succès.",
     "common:comments.contentMissingError": "Le commentaire est vide ou trop court.",
     "common:comments.updateSuccess": "Le commentaire a été mis à jour avec succès.",
-    "common:comments.deleteSuccess": "Le commentaire a été supprimé avec succès."
+    "common:comments.deleteSuccess": "Le commentaire a été supprimé avec succès.",
+    "editor:markup.toggleSpellcheck": "Activer le correcteur orthographique",
+    "admin:security.login": "Authentification",
+    "admin:security.loginScreen": "Écran de connexion",
+    "admin:security.jwt": "Configuration JWT",
+    "admin:security.bypassLogin": "Passer l'écran de connexion",
+    "admin:security.bypassLoginHint": "L’utilisateur est redirigé automatiquement vers le premier fournisseur d’authentification.",
+    "admin:security.loginBgUrl": "URL de l'image de fond",
+    "admin:security.loginBgUrlHint": "Spécifiez une image à utiliser comme arrière-plan de l'écran de connexion. Les formats PNG et JPG sont pris en charge, 1920x1080 recommandé. Laissez vide pour l'image par défaut. Cliquez sur le bouton de droite pour téléverser une nouvelle image. Notez que le groupe Guests doit avoir un accès en lecture à l’image sélectionnée!"
 }
