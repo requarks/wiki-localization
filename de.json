@@ -849,5 +849,13 @@
     "common:comments.postSuccess": "Neuer Kommentar erfolgreich gepostet.",
     "common:comments.contentMissingError": "Kommentar ist leer oder zu kurz!",
     "common:comments.updateSuccess": "Kommentar wurde erfolgreich aktualisiert.",
-    "common:comments.deleteSuccess": "Kommentar wurde erfolgreich gelöscht."
+    "common:comments.deleteSuccess": "Kommentar wurde erfolgreich gelöscht.",
+    "editor:markup.toggleSpellcheck": "Rechtschreibprüfung umschalten",
+    "admin:security.login": "Anmeldung",
+    "admin:security.loginScreen": "Anmeldebildschirm",
+    "admin:security.jwt": "JWT-Konfiguration",
+    "admin:security.bypassLogin": "Anmeldebildschirm umgehen",
+    "admin:security.bypassLoginHint": "Benutzer wird automatisch zum ersten Authentifizierungsanbieter umgeleitet.",
+    "admin:security.loginBgUrl": "Login Hintergrundbild URL",
+    "admin:security.loginBgUrlHint": "Geben Sie an, welches Bild als Login-Hintergrund verwendet werden soll. PNG und JPG werden unterstützt, 1920×1080 px empfohlen. Lassen Sie das Feld für die Voreinstellung leer. Klicken Sie auf die Schaltfläche rechts, um ein neues Bild hochzuladen. Beachten Sie, dass die Gruppe \"Gäste\" Lesezugriff auf das ausgewählte Bild haben muss!"
 }

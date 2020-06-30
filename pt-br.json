@@ -850,5 +850,12 @@
     "common:comments.contentMissingError": "O comentário está vazio ou é muito curto!",
     "common:comments.updateSuccess": "O comentário foi atualizado com êxito.",
     "common:comments.deleteSuccess": "O comentário foi excluído com êxito.",
-    "editor:markup.toggleSpellcheck": "Alternar verificação ortográfica"
+    "editor:markup.toggleSpellcheck": "Alternar verificação ortográfica",
+    "admin:security.login": "Login",
+    "admin:security.loginScreen": "Tela de login",
+    "admin:security.jwt": "Configurações do JWT",
+    "admin:security.bypassLogin": "Ignorar tela de login",
+    "admin:security.bypassLoginHint": "Define se o usuário será automaticamente redirecionado ao primeiro provedor de autenticação.",
+    "admin:security.loginBgUrl": "URL da imagem de fundo da tela de login",
+    "admin:security.loginBgUrlHint": "Especifica uma imagem como plano de fundo da tela de login. Aceita os formatos PNG e JPG, com resolução recomendada de 1920x1080. Deixe vazio para usar o padrão. Clique no botão à direita para enviar uma nova imagem. Observe que o grupo Convidados precisa ter acesso de leitura à imagem selecionada!"
 }

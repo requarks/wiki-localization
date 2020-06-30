@@ -850,5 +850,10 @@
     "common:comments.contentMissingError": "A hozzászólás üres vagy túl rövid!",
     "common:comments.updateSuccess": "A hozzászólás sikeresen frissítve.",
     "common:comments.deleteSuccess": "A hozzászólás sikeresen törölve.",
-    "editor:markup.toggleSpellcheck": "Helyesírás-ellenőrzés váltása"
+    "editor:markup.toggleSpellcheck": "Helyesírás-ellenőrzés váltása",
+    "admin:security.login": "Bejelentkezés",
+    "admin:security.loginScreen": "Bejelentkezési képernyő",
+    "admin:security.jwt": "JWT konfiguráció",
+    "admin:security.bypassLogin": "Bejelentkezési képernyő megkerülése",
+    "admin:security.loginBgUrl": "Bejelentkezés háttérképének URL-je"
 }
