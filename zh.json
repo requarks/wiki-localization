@@ -849,5 +849,13 @@
     "common:comments.postSuccess": "新评论已成功发布。",
     "common:comments.contentMissingError": "评论为空或太短！",
     "common:comments.updateSuccess": "评论已成功更新。",
-    "common:comments.deleteSuccess": "评论已成功删除。"
+    "common:comments.deleteSuccess": "评论已成功删除。",
+    "editor:markup.toggleSpellcheck": "切换拼写检查",
+    "admin:security.login": "登录",
+    "admin:security.loginScreen": "登录页",
+    "admin:security.jwt": "JWT配置",
+    "admin:security.bypassLogin": "绕过登录",
+    "admin:security.bypassLoginHint": "用户是否自动重定向到第一个身份验证提供程序。",
+    "admin:security.loginBgUrl": "登录背景图片网址",
+    "admin:security.loginBgUrlHint": "指定要用作登录背景的图像。支持PNG和JPG，建议使用图片尺寸为1920x1080。默认为空。点击右侧的按钮上传新图像。请注意，Guests组必须对所选图像具有读取权限！"
 }
