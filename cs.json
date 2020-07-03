@@ -850,5 +850,12 @@
     "common:comments.contentMissingError": "Komentář je prázdný nebo příliš krátký!",
     "common:comments.updateSuccess": "Komentář byl úspěšně aktualizován.",
     "common:comments.deleteSuccess": "Komentář byl úspěšně odstraněn.",
-    "editor:markup.toggleSpellcheck": "Přepnout kontrolu pravopisu"
+    "editor:markup.toggleSpellcheck": "Přepnout kontrolu pravopisu",
+    "admin:security.login": "Přihlášení",
+    "admin:security.loginScreen": "Přihlašovací obrazovka",
+    "admin:security.jwt": "Konfigurace JWT",
+    "admin:security.bypassLogin": "Přeskočit přihlášovací obrazovku",
+    "admin:security.bypassLoginHint": "Uživatel by měl být automaticky přesměrován na první způsob přihlášení",
+    "admin:security.loginBgUrl": "URL Adresa obrázku pozadí na přihlašovacího stránce",
+    "admin:security.loginBgUrlHint": "Určete obrázek, který chcete použít jako přihlašovací pozadí. Podporovány jsou soubory PNG a JPG, doporučuje se rozlišení 1920x1080. Pro použití výchozího nechte prázné. Kliknutím na tlačítko vpravo nahrajte nový obrázek. Uvědomte si, že skupina Hosté musí mít přístup ke čtení u vybraného obrázku!"
 }
