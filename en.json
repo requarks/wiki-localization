@@ -857,5 +857,7 @@
     "admin:security.bypassLogin": "Bypass Login Screen",
     "admin:security.bypassLoginHint": "Should the user be redirected automatically to the first authentication provider.",
     "admin:security.loginBgUrl": "Login Background Image URL",
-    "admin:security.loginBgUrlHint": "Specify an image to use as the login background. PNG and JPG are supported, 1920x1080 recommended. Leave empty for default. Click the button on the right to upload a new image. Note that the Guests group must have read-access to the selected image!"
+    "admin:security.loginBgUrlHint": "Specify an image to use as the login background. PNG and JPG are supported, 1920x1080 recommended. Leave empty for default. Click the button on the right to upload a new image. Note that the Guests group must have read-access to the selected image!",
+    "admin:security.hideLocalLogin": "Hide Local Authentication Provider",
+    "admin:security.hideLocalLoginHint": "Don't show the local authentication provider on the login screen. Use ?all=1 to temporarily use it."
 }
