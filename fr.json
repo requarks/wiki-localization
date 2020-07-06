@@ -857,5 +857,10 @@
     "admin:security.bypassLogin": "Passer l'écran de connexion",
     "admin:security.bypassLoginHint": "L’utilisateur est redirigé automatiquement vers le premier fournisseur d’authentification.",
     "admin:security.loginBgUrl": "URL de l'image de fond",
-    "admin:security.loginBgUrlHint": "Spécifiez une image à utiliser comme arrière-plan de l'écran de connexion. Les formats PNG et JPG sont pris en charge, 1920x1080 recommandé. Laissez vide pour l'image par défaut. Cliquez sur le bouton de droite pour téléverser une nouvelle image. Notez que le groupe Guests doit avoir un accès en lecture à l’image sélectionnée!"
+    "admin:security.loginBgUrlHint": "Spécifiez une image à utiliser comme arrière-plan de l'écran de connexion. Les formats PNG et JPG sont pris en charge, 1920x1080 recommandé. Laissez vide pour l'image par défaut. Cliquez sur le bouton de droite pour téléverser une nouvelle image. Notez que le groupe Guests doit avoir un accès en lecture à l’image sélectionnée!",
+    "admin:security.hideLocalLogin": "Masquer le fournisseur d'authentification local",
+    "admin:security.hideLocalLoginHint": "Ne pas afficher pas le fournisseur d'authentification local sur l'écran de connexion. Ajoutez ?all à l'URL pour l'utiliser temporairement.",
+    "admin:security.loginSecurity": "Sécurité",
+    "admin:security.enforce2fa": "Imposer 2FA",
+    "admin:security.enforce2faHint": "Forcer tous les utilisateurs à utiliser l'authentification à deux facteurs (2FA) lorsqu'ils se connectent avec un fournisseur utilisant un formulaire usager \/ mot de passe."
 }
