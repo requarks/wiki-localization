@@ -857,5 +857,10 @@
     "admin:security.bypassLogin": "Anmeldebildschirm umgehen",
     "admin:security.bypassLoginHint": "Benutzer wird automatisch zum ersten Authentifizierungsanbieter umgeleitet.",
     "admin:security.loginBgUrl": "Login Hintergrundbild URL",
-    "admin:security.loginBgUrlHint": "Geben Sie an, welches Bild als Login-Hintergrund verwendet werden soll. PNG und JPG werden unterstützt, 1920×1080 px empfohlen. Lassen Sie das Feld für die Voreinstellung leer. Klicken Sie auf die Schaltfläche rechts, um ein neues Bild hochzuladen. Beachten Sie, dass die Gruppe \"Gäste\" Lesezugriff auf das ausgewählte Bild haben muss!"
+    "admin:security.loginBgUrlHint": "Geben Sie an, welches Bild als Login-Hintergrund verwendet werden soll. PNG und JPG werden unterstützt, 1920×1080 px empfohlen. Lassen Sie das Feld für die Voreinstellung leer. Klicken Sie auf die Schaltfläche rechts, um ein neues Bild hochzuladen. Beachten Sie, dass die Gruppe \"Gäste\" Lesezugriff auf das ausgewählte Bild haben muss!",
+    "admin:security.hideLocalLogin": "Lokalen Authentifizierungsanbieter ausblenden",
+    "admin:security.hideLocalLoginHint": "Lokalen Authentifizierungsanbieter nicht auf dem Anmeldebildschirm anzeigen. Füge \"?all\" zur URL hinzu, um ihn vorübergehend zu verwenden.",
+    "admin:security.loginSecurity": "Sicherheit",
+    "admin:security.enforce2fa": "2FA erzwingen",
+    "admin:security.enforce2faHint": "Erzwingen Sie, dass alle Benutzer die Zwei-Faktor-Authentifizierung verwenden, wenn Sie einen Authentifizierungsanbieter mit einem Benutzer- \/ Kennwortformular verwenden."
 }

@@ -855,5 +855,6 @@
     "admin:security.loginScreen": "Bejelentkezési képernyő",
     "admin:security.jwt": "JWT konfiguráció",
     "admin:security.bypassLogin": "Bejelentkezési képernyő megkerülése",
-    "admin:security.loginBgUrl": "Bejelentkezés háttérképének URL-je"
+    "admin:security.loginBgUrl": "Bejelentkezés háttérképének URL-je",
+    "admin:security.loginSecurity": "Biztonság"
 }
