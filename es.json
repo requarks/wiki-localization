@@ -850,5 +850,8 @@
     "common:comments.contentMissingError": "¡El comentario está vacío o es demasiado corto!",
     "common:comments.updateSuccess": "El comentario se actualizó correctamente.",
     "common:comments.deleteSuccess": "El comentario se eliminó correctamente.",
-    "editor:markup.toggleSpellcheck": "Alternar corrector ortográfico"
+    "editor:markup.toggleSpellcheck": "Alternar corrector ortográfico",
+    "admin:security.loginSecurity": "Seguridad",
+    "admin:security.enforce2fa": "Activar 2FA",
+    "admin:security.enforce2faHint": "Obligue a todos los usuarios a usar la autenticación de dos factores cuando utilice un proveedor de autenticación con un formulario de usuario\/contraseña."
 }

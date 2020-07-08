@@ -862,5 +862,12 @@
     "admin:security.hideLocalLoginHint": "Ne pas afficher pas le fournisseur d'authentification local sur l'écran de connexion. Ajoutez ?all à l'URL pour l'utiliser temporairement.",
     "admin:security.loginSecurity": "Sécurité",
     "admin:security.enforce2fa": "Imposer 2FA",
-    "admin:security.enforce2faHint": "Forcer tous les utilisateurs à utiliser l'authentification à deux facteurs (2FA) lorsqu'ils se connectent avec un fournisseur utilisant un formulaire usager \/ mot de passe."
+    "admin:security.enforce2faHint": "Forcer tous les utilisateurs à utiliser l'authentification à deux facteurs (2FA) lorsqu'ils se connectent avec un fournisseur utilisant un formulaire usager \/ mot de passe.",
+    "common:comments.viewDiscussion": "Afficher la discussion",
+    "common:comments.newComment": "Nouveau commentaire",
+    "common:comments.fieldContent": "Contenu du commentaire",
+    "common:comments.sdTitle": "Discuter",
+    "common:page.tags": "Mots clés",
+    "common:page.tagsMatching": "Pages correspondant aux mots clés",
+    "common:actions.returnToTop": "Retour en haut"
 }

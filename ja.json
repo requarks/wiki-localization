@@ -847,5 +847,11 @@
     "common:comments.postSuccess": "新しいコメントが正しく投稿されました。",
     "common:comments.contentMissingError": "コメントが空欄であるか、短すぎます。",
     "common:comments.updateSuccess": "コメントは正常に更新されました。",
-    "common:comments.deleteSuccess": "コメントは正常に削除されました。"
+    "common:comments.deleteSuccess": "コメントは正常に削除されました。",
+    "admin:security.login": "ログイン",
+    "admin:security.loginScreen": "ログイン画面",
+    "admin:security.loginBgUrl": "ログイン画面の背景画像URL",
+    "admin:security.loginSecurity": "セキュリティ",
+    "admin:security.enforce2fa": "二段階認証を強制する",
+    "admin:security.enforce2faHint": "ユーザー名 \/ パスワードフォームが表示される認証方式を使用している場合、すべてのユーザーに二段階認証の使用を強制します。"
 }

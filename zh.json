@@ -857,5 +857,15 @@
     "admin:security.bypassLogin": "绕过登录",
     "admin:security.bypassLoginHint": "用户是否自动重定向到第一个身份验证提供程序。",
     "admin:security.loginBgUrl": "登录背景图片网址",
-    "admin:security.loginBgUrlHint": "指定要用作登录背景的图像。支持PNG和JPG，建议使用图片尺寸为1920x1080。默认为空。点击右侧的按钮上传新图像。请注意，Guests组必须对所选图像具有读取权限！"
+    "admin:security.loginBgUrlHint": "指定要用作登录背景的图像。支持PNG和JPG，建议使用图片尺寸为1920x1080。默认为空。点击右侧的按钮上传新图像。请注意，Guests组必须对所选图像具有读取权限！",
+    "admin:security.hideLocalLogin": "隐藏本地身份验证提供程序",
+    "admin:security.hideLocalLoginHint": "不要在登录屏幕上显示本地身份验证提供程序。 在 URL 后加上 ?all 可以暂时使用它。",
+    "admin:security.loginSecurity": "安全",
+    "admin:security.enforce2fa": "强制两步验证",
+    "admin:security.enforce2faHint": "在使用带有 用户名 \/ 密码 形式的身份验证提供程序时，强制所有用户使用多因素验证。",
+    "common:comments.viewDiscussion": "查看讨论",
+    "common:comments.newComment": "发表评论",
+    "common:comments.fieldContent": "评论内容",
+    "common:page.tags": "标签",
+    "common:page.tagsMatching": "匹配标签的页面"
 }

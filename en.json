@@ -862,5 +862,12 @@
     "admin:security.hideLocalLoginHint": "Don't show the local authentication provider on the login screen. Use ?all to the URL to temporarily use it.",
     "admin:security.loginSecurity": "Security",
     "admin:security.enforce2fa": "Enforce 2FA",
-    "admin:security.enforce2faHint": "Force all users to use Two-Factor Authentication when using an authentication provider with a user \/ password form."
+    "admin:security.enforce2faHint": "Force all users to use Two-Factor Authentication when using an authentication provider with a user \/ password form.",
+    "common:comments.viewDiscussion": "View Discussion",
+    "common:comments.newComment": "New Comment",
+    "common:comments.fieldContent": "Comment Content",
+    "common:comments.sdTitle": "Talk",
+    "common:page.tags": "Tags",
+    "common:page.tagsMatching": "Pages matching tags",
+    "common:actions.returnToTop": "Return to top"
 }
