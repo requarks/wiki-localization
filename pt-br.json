@@ -862,5 +862,12 @@
     "admin:security.hideLocalLoginHint": "Não exibe o provedor de autenticação local na tela de login. Adicione ?all ao final da URL para usá-lo temporariamente.",
     "admin:security.loginSecurity": "Segurança",
     "admin:security.enforce2fa": "Forçar verificação em duas etapas",
-    "admin:security.enforce2faHint": "Obriga todos os usuários a usar a verificação em duas etapas ao usar um provedor de autenticação com um formulário de usuário\/senha."
+    "admin:security.enforce2faHint": "Obriga todos os usuários a usar a verificação em duas etapas ao usar um provedor de autenticação com um formulário de usuário\/senha.",
+    "common:comments.viewDiscussion": "Ver discussão",
+    "common:comments.newComment": "Novo comentário",
+    "common:comments.fieldContent": "Conteúdo do comentário",
+    "common:comments.sdTitle": "Comentários",
+    "common:page.tags": "Palavras-chave",
+    "common:page.tagsMatching": "Páginas correspondentes às palavras-chave",
+    "common:actions.returnToTop": "Retornar ao topo"
 }

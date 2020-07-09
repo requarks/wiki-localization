@@ -856,5 +856,7 @@
     "admin:security.jwt": "JWT konfiguráció",
     "admin:security.bypassLogin": "Bejelentkezési képernyő megkerülése",
     "admin:security.loginBgUrl": "Bejelentkezés háttérképének URL-je",
-    "admin:security.loginSecurity": "Biztonság"
+    "admin:security.loginSecurity": "Biztonság",
+    "common:comments.newComment": "Új hozzászólás",
+    "common:page.tags": "Címkék"
 }

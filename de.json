@@ -862,5 +862,12 @@
     "admin:security.hideLocalLoginHint": "Lokalen Authentifizierungsanbieter nicht auf dem Anmeldebildschirm anzeigen. Füge \"?all\" zur URL hinzu, um ihn vorübergehend zu verwenden.",
     "admin:security.loginSecurity": "Sicherheit",
     "admin:security.enforce2fa": "2FA erzwingen",
-    "admin:security.enforce2faHint": "Erzwingen Sie, dass alle Benutzer die Zwei-Faktor-Authentifizierung verwenden, wenn Sie einen Authentifizierungsanbieter mit einem Benutzer- \/ Kennwortformular verwenden."
+    "admin:security.enforce2faHint": "Erzwingen Sie, dass alle Benutzer die Zwei-Faktor-Authentifizierung verwenden, wenn Sie einen Authentifizierungsanbieter mit einem Benutzer- \/ Kennwortformular verwenden.",
+    "common:comments.viewDiscussion": "Diskussion ansehen",
+    "common:comments.newComment": "Neuer Kommentar",
+    "common:comments.fieldContent": "Inhalt kommentieren",
+    "common:comments.sdTitle": "Kommentieren",
+    "common:page.tags": "Schlagwörter",
+    "common:page.tagsMatching": "Seiten mit übereinstimmenden Tags",
+    "common:actions.returnToTop": "Zurück nach oben"
 }
