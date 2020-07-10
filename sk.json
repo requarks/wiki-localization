@@ -778,7 +778,7 @@
     "admin:navigation.navType.externalblank": "Externý odkaz (nové okno)",
     "admin:security.title": "Bezpečnosť",
     "admin:security.maxUploadSize": "Maximálna veľkosť súborov",
-    "admin:security.maxUploadBatch": "Maximálny počet súborov na upload",
+    "admin:security.maxUploadBatch": "Maximálna veľkosť súborov",
     "admin:security.maxUploadBatchHint": "Koľko súborov je možné nahrať v jednej dávke?",
     "admin:security.maxUploadSizeHint": "Maximálna veľkosť jedného súboru.",
     "admin:security.maxUploadSizeSuffix": "bajtov",
@@ -819,9 +819,15 @@
     "common:comments.updateSuccess": "Komentár bol úspešne aktualizovaný.",
     "common:comments.deleteSuccess": "Komentár bol úspešne odstránený.",
     "editor:markup.toggleSpellcheck": "Prepnúť kontrolu pravopisu",
+    "admin:security.login": "Prihlásiť sa",
     "admin:security.bypassLoginHint": "Má byť užívateľ automaticky presmerovaný na prvého poskytovateľa overovania. ",
     "admin:security.loginBgUrl": "URL adresa obrázku pozadia pri prihlasovaní",
     "admin:security.loginBgUrlHint": "Zadajte obrázok, ktorý sa má použiť ako prihlasovacie pozadie. PNG a JPG sú podporované, 1920x1080 odporúčané. Ponechajte prázdne pre predvolené. Kliknutím na tlačidlo vpravo nahrajte nový obrázok. Upozorňujeme, že skupina Guests musí mať prístup na čítanie k vybratému obrázku!",
     "admin:security.hideLocalLogin": "Skryť lokálneho poskytovateľa overovania",
-    "admin:security.hideLocalLoginHint": "Nezobrazovať miestneho poskytovateľa overenia na prihlasovacej obrazovke. Dočasne použite ?all=1"
+    "admin:security.hideLocalLoginHint": "Nezobrazovať miestneho poskytovateľa overenia na prihlasovacej obrazovke. Dočasne použite ?all=1",
+    "admin:security.loginSecurity": "Bezpečnosť",
+    "common:comments.viewDiscussion": "Zobrazit diskusiu",
+    "common:comments.newComment": "Nový komentár",
+    "common:page.tags": "Tagy",
+    "common:actions.returnToTop": "Vrátit sa na vrh"
 }
