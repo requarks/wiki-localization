@@ -857,5 +857,17 @@
     "admin:security.bypassLogin": "Přeskočit přihlášovací obrazovku",
     "admin:security.bypassLoginHint": "Uživatel by měl být automaticky přesměrován na první způsob přihlášení",
     "admin:security.loginBgUrl": "URL Adresa obrázku pozadí na přihlašovacího stránce",
-    "admin:security.loginBgUrlHint": "Určete obrázek, který chcete použít jako přihlašovací pozadí. Podporovány jsou soubory PNG a JPG, doporučuje se rozlišení 1920x1080. Pro použití výchozího nechte prázné. Kliknutím na tlačítko vpravo nahrajte nový obrázek. Uvědomte si, že skupina Hosté musí mít přístup ke čtení u vybraného obrázku!"
+    "admin:security.loginBgUrlHint": "Určete obrázek, který chcete použít jako přihlašovací pozadí. Podporovány jsou soubory PNG a JPG, doporučuje se rozlišení 1920x1080. Pro použití výchozího nechte prázné. Kliknutím na tlačítko vpravo nahrajte nový obrázek. Uvědomte si, že skupina Hosté musí mít přístup ke čtení u vybraného obrázku!",
+    "admin:security.hideLocalLogin": "Skrýt lokální možnost přihlášení",
+    "admin:security.hideLocalLoginHint": "Skrýt lokální možnost přihlášení. Je možné ji použít, když do URL zadáte parametr ?all.",
+    "admin:security.loginSecurity": "Zabezpečení",
+    "admin:security.enforce2fa": "Vynutit dvoufaktorové ověřování",
+    "admin:security.enforce2faHint": "Vynutit používání dvoufaktorové autentifikace ve formulářích s uživatelskkým jménem a heslem.",
+    "common:comments.viewDiscussion": "Zobrazit komentáře",
+    "common:comments.newComment": "Přidat komentář",
+    "common:comments.fieldContent": "Obsah",
+    "common:comments.sdTitle": "Diskutovat",
+    "common:page.tags": "Tagy",
+    "common:page.tagsMatching": "Stránky odpovídající tagům",
+    "common:actions.returnToTop": "Vrátit se nahoru"
 }
