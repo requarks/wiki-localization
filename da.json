@@ -862,5 +862,12 @@
     "admin:security.hideLocalLoginHint": "Vis ikke den lokale godkendelsesudbyder på login skærmen. Brug ?all til URL-adressen for midlertidigt at bruge den.",
     "admin:security.loginSecurity": "Sikkerhed",
     "admin:security.enforce2fa": "Gennemtving 2FA",
-    "admin:security.enforce2faHint": "Tving alle brugere til at bruge tofaktorgodkendelse, når de bruger en godkendelsesudbyder med en bruger- \/ adgangskodeform."
+    "admin:security.enforce2faHint": "Tving alle brugere til at bruge tofaktorgodkendelse, når de bruger en godkendelsesudbyder med en bruger- \/ adgangskodeform.",
+    "common:comments.viewDiscussion": "Se diskussion",
+    "common:comments.newComment": "Ny kommentar",
+    "common:comments.fieldContent": "Kommentarindhold",
+    "common:comments.sdTitle": "Tal",
+    "common:page.tags": "Tags",
+    "common:page.tagsMatching": "Sider, der matcher tags",
+    "common:actions.returnToTop": "Tilbage til toppen"
 }
