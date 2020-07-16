@@ -250,7 +250,7 @@
     "admin:theme.darkModeHint": "Ne preporučuje se zbog pristupačnosti. Možda nije podržano u svim temama.",
     "admin:theme.codeInjection": "Ubacivanje kȏda",
     "admin:theme.cssOverride": "Nadjačavanje CSS-a",
-    "admin:theme.cssOverrideHint": "CSS kȏd koji će biti ubačen nakon sistemski zadanog CSS-a. Razmotrite uporabu prilagođenih tema u slučaju da imate veliku količinu CSS kȏda. Ubacivanje prevelike količine CSS kȏda rezultirat će slabimjim performansama učitavanja sadržaja stranica! CSS će automatski biti reduciran.",
+    "admin:theme.cssOverrideHint": "CSS kȏd koji će biti ubačen nakon sistemski zadanog CSS-a. Razmotrite uporabu prilagođenih tema u slučaju da imate veliku količinu CSS kȏda. Ubacivanje prevelike količine CSS kȏda rezultirat će lošijim performansama učitavanja sadržaja stranica! CSS će automatski biti reduciran.",
     "admin:theme.headHtmlInjection": "Ubacivanje kȏda u Head dio HTML sadržaja",
     "admin:theme.headHtmlInjectionHint": "HTML kȏd koji će biti ubačen neposredno pred završetak head oznake. Obično se koristi za oznake skripti.",
     "admin:theme.bodyHtmlInjection": "Ubacivanje kȏda u Body dio HTML sadržaja",

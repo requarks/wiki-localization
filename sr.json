@@ -622,7 +622,7 @@
     "admin:users.deleteConfirmForeignNotice": "Имајте на уму да не можете избрисати корисника који је већ креирао садржај. Уместо тога, или морате деактивирати корисника или избрисати сав садржај који је креирао тај корисник.",
     "editor:props.scripts": "Скрипте",
     "editor:props.css": "CSS",
-    "editor:props.cssHint": "CCS ће се аутоматски минимизовати након снимања.",
+    "editor:props.cssHint": "CCS ће се аутоматски минимизовати након снимања. Не треба укључивати околне ознаке стила већ само стварни CSS код.",
     "admin:navigation.visibilityMode.all": "Видљиво свима",
     "admin:navigation.visibilityMode.restricted": "Видљиво одабраним групама ...",
     "admin:navigation.selectPageButton": "Изаберите страницу ...",

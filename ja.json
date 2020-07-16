@@ -853,6 +853,7 @@
     "editor:markup.toggleSpellcheck": "スペルチェックの切り替え",
     "admin:security.login": "ログイン",
     "admin:security.loginScreen": "ログイン画面",
+    "admin:security.jwt": "JWT設定",
     "admin:security.bypassLogin": "ログイン画面をスキップ",
     "admin:security.bypassLoginHint": "ユーザーを一番目の認証方式に自動的にリダイレクトします。",
     "admin:security.loginBgUrl": "ログイン画面の背景画像URL",
