@@ -801,5 +801,10 @@
     "admin:comments.subtitle": "당신의 위키페이지에 의견을 달아보세요.",
     "admin:comments.providerConfig": "제공자 구성",
     "admin:comments.providerNoConfig": "이 제공자는 당신이 수정할 수 있는 옵션을 제공하지 않습니다",
-    "editor:props.styles": "스타일"
+    "editor:props.styles": "스타일",
+    "editor:props.html": "HTML",
+    "common:comments.title": "댓글",
+    "admin:security.loginSecurity": "보안",
+    "common:page.tags": "태그",
+    "common:actions.returnToTop": "맨 위로"
 }

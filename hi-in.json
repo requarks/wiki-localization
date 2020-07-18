@@ -1,4 +1,10 @@
 {
+    "editor:conflict.overwrite.description": "Are you sure you want to replace your current version with the latest remote content?",
+    "editor:conflict.overwrite.editsLost": "Your current edits will be lost.",
+    "common:actions.confirm": "Confirm",
+    "editor:conflict.localVersion": "Local Version ",
+    "editor:conflict.editable": "(editable)",
+    "editor:conflict.readonly": "(read-only)",
     "common:header.duplicate": "डुप्लिकेट",
     "profile:displayName": "Display Name",
     "profile:location": "Location",
@@ -95,5 +101,14 @@
     "common:comments.postSuccess": "नई टिप्पणी सफलतापूर्वक पोस्ट की गई।",
     "common:comments.contentMissingError": "टिप्पणी खाली है या बहुत छोटी है!",
     "common:comments.updateSuccess": "टिप्पणी सफलतापूर्वक अपडेट की गई।",
-    "common:comments.deleteSuccess": "टिप्पणी को सफलतापूर्वक हटा दिया गया।"
+    "common:comments.deleteSuccess": "टिप्पणी को सफलतापूर्वक हटा दिया गया।",
+    "admin:security.hideLocalLogin": "Hide Local Authentication Provider",
+    "admin:security.loginSecurity": "सुरक्षा",
+    "admin:security.enforce2fa": "Enforce 2FA",
+    "common:comments.viewDiscussion": "View Discussion",
+    "common:comments.newComment": "New Comment",
+    "common:comments.fieldContent": "Comment Content",
+    "common:comments.sdTitle": "बातचीत",
+    "common:page.tags": "Tags",
+    "common:page.tagsMatching": "पेज मिलान  tags"
 }
