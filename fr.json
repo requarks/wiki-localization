@@ -869,5 +869,6 @@
     "common:comments.sdTitle": "Discuter",
     "common:page.tags": "Mots clés",
     "common:page.tagsMatching": "Pages correspondant aux mots clés",
-    "common:actions.returnToTop": "Retour en haut"
+    "common:actions.returnToTop": "Retour en haut",
+    "auth:fields.username": "Nom d'utilisateur"
 }

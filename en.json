@@ -869,5 +869,6 @@
     "common:comments.sdTitle": "Talk",
     "common:page.tags": "Tags",
     "common:page.tagsMatching": "Pages matching tags",
-    "common:actions.returnToTop": "Return to top"
+    "common:actions.returnToTop": "Return to top",
+    "auth:fields.username": "Username"
 }
