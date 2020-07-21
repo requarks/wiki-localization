@@ -858,5 +858,7 @@
     "admin:security.loginBgUrl": "Bejelentkezés háttérképének URL-je",
     "admin:security.loginSecurity": "Biztonság",
     "common:comments.newComment": "Új hozzászólás",
-    "common:page.tags": "Címkék"
+    "common:page.tags": "Címkék",
+    "common:actions.returnToTop": "Vissza a lap tetejére",
+    "auth:fields.username": "Felhasználónév"
 }

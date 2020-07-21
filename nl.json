@@ -828,7 +828,7 @@
     "admin:auth.activeStrategies": "Actieve strategieën",
     "admin:auth.addStrategy": "Strategie toevoegen",
     "editor:props.styles": "Stijlen",
-    "editor:props.html": "Html",
+    "editor:props.html": "HTML",
     "editor:props.htmlHint": "U moet uw JavaScript-code omringen met HTML-scripttags.",
     "common:page.unpublishedWarning": "Deze pagina is niet gepubliceerd.",
     "common:comments.title": "Opmerkingen",
@@ -869,5 +869,6 @@
     "common:comments.sdTitle": "Praten",
     "common:page.tags": "Tags",
     "common:page.tagsMatching": "Pagina's die overeenkomen met tags",
-    "common:actions.returnToTop": "Terug naar boven"
+    "common:actions.returnToTop": "Terug naar boven",
+    "auth:fields.username": "Gebruikersnaam"
 }

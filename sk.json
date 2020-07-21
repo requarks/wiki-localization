@@ -147,7 +147,7 @@
     "auth:actions.register": "Zaregistrovať sa",
     "auth:registerTitle": "Vytvoriť účet",
     "auth:switchToLogin.text": "Už máte účet? {{link}}",
-    "auth:switchToLogin.link": "Prihlásiť sa namiesto",
+    "auth:switchToLogin.link": "Prihláste sa",
     "auth:loginUsingStrategy": "Prihlásenie pomocou {{strategy}}",
     "auth:forgotPasswordLink": "Zabudli ste heslo?",
     "auth:orLoginUsingStrategy": "alebo prihlásiť pomocou...",
