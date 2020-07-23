@@ -622,7 +622,7 @@
     "admin:users.deleteConfirmForeignNotice": "Önceden içerik oluşturmuş bir kullanıcıyı silemeyeceğinizi unutmayın. Bunun yerine kullanıcıyı devre dışı bırakmalı veya o kullanıcı tarafından oluşturulan tüm içeriği silmelisiniz.",
     "editor:props.scripts": "Scripts",
     "editor:props.css": "CSS",
-    "editor:props.cssHint": "CSS kaydedildiğinde otomatik olarak küçültülecektir.",
+    "editor:props.cssHint": "CSS kaydedildiğinde otomatik olarak küçültülecektir. CSS kodunun etrafını saran style etiketlerini dahil etmeyin, sadece asıl CSS kodunu dahil edin.",
     "admin:navigation.visibilityMode.all": "Herkese görünür",
     "admin:navigation.visibilityMode.restricted": "Görünür seçmek için gruplar...",
     "admin:navigation.selectPageButton": "Sayfa Seçin ...",
