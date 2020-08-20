@@ -869,5 +869,8 @@
     "common:comments.sdTitle": "Comentários",
     "common:page.tags": "Palavras-chave",
     "common:page.tagsMatching": "Páginas correspondentes às palavras-chave",
-    "common:actions.returnToTop": "Retornar ao topo"
+    "common:actions.returnToTop": "Retornar ao topo",
+    "auth:fields.username": "Nome de usuário",
+    "common:actions.exit": "Sair",
+    "admin:rendering.subtitle": "Configure o pipeline de renderização das páginas"
 }

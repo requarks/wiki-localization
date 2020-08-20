@@ -867,5 +867,6 @@
     "common:comments.fieldContent": "Contenuto del commento",
     "common:page.tags": "Tags",
     "common:page.tagsMatching": "Pagine che corrispondono ai tag",
-    "common:actions.returnToTop": "Torna in cima"
+    "common:actions.returnToTop": "Torna in cima",
+    "auth:fields.username": "Nome utente"
 }

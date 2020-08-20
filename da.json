@@ -869,5 +869,7 @@
     "common:comments.sdTitle": "Tal",
     "common:page.tags": "Tags",
     "common:page.tagsMatching": "Sider, der matcher tags",
-    "common:actions.returnToTop": "Tilbage til toppen"
+    "common:actions.returnToTop": "Tilbage til toppen",
+    "auth:fields.username": "Brugernavn",
+    "common:actions.exit": "Afslut"
 }

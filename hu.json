@@ -856,9 +856,14 @@
     "admin:security.jwt": "JWT konfiguráció",
     "admin:security.bypassLogin": "Bejelentkezési képernyő megkerülése",
     "admin:security.loginBgUrl": "Bejelentkezés háttérképének URL-je",
+    "admin:security.hideLocalLogin": "Helyi hitelesítésszolgáltató elrejtése",
     "admin:security.loginSecurity": "Biztonság",
+    "admin:security.enforce2fa": "Kétlépcsős hitelesítés kikényszerítése",
     "common:comments.newComment": "Új hozzászólás",
     "common:page.tags": "Címkék",
+    "common:page.tagsMatching": "A címkéknek megfelelő oldalak",
     "common:actions.returnToTop": "Vissza a lap tetejére",
-    "auth:fields.username": "Felhasználónév"
+    "auth:fields.username": "Felhasználónév",
+    "common:actions.exit": "Kilépés",
+    "admin:rendering.subtitle": "Oldallétrehozási folyamat beállítása"
 }

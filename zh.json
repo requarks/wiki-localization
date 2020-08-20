@@ -869,5 +869,8 @@
     "common:comments.sdTitle": "谈论",
     "common:page.tags": "标签",
     "common:page.tagsMatching": "匹配标签的页面",
-    "common:actions.returnToTop": "返回顶部"
+    "common:actions.returnToTop": "返回顶部",
+    "auth:fields.username": "用户名",
+    "common:actions.exit": "退出",
+    "admin:rendering.subtitle": "配置页面渲染管道"
 }

@@ -869,5 +869,8 @@
     "common:comments.sdTitle": "Kommentieren",
     "common:page.tags": "Schlagwörter",
     "common:page.tagsMatching": "Seiten mit übereinstimmenden Tags",
-    "common:actions.returnToTop": "Zurück nach oben"
+    "common:actions.returnToTop": "Zurück nach oben",
+    "auth:fields.username": "Benutzername",
+    "common:actions.exit": "Verlassen",
+    "admin:rendering.subtitle": "Konfigurieren Sie die Pipeline für die Seitendarstellung"
 }

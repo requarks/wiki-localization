@@ -753,7 +753,7 @@
     "editor:conflict.pageDescription": "Descrição:",
     "editor:unsavedWarning": "Há edições não salvas. Tem certeza que quer deixar o editor?",
     "editor:conflict.warning": "Conflito ao salvar! Outro utilizador já modificou esta página.",
-    "common:header.duplicate": "Duplicado",
+    "common:header.duplicate": "Duplicar",
     "profile:displayName": "Nome de exibição",
     "profile:location": "Localidade",
     "profile:jobTitle": "Cargo",
@@ -823,5 +823,9 @@
     "admin:comments.provider": "Fornecedor",
     "admin:comments.subtitle": "Adicione discussões às suas páginas wiki",
     "admin:comments.providerConfig": "Configuração do Fornecedor",
-    "admin:comments.providerNoConfig": "Este fornecedor não tem opções de configuração que possa modificar."
+    "admin:comments.providerNoConfig": "Este fornecedor não tem opções de configuração que possa modificar.",
+    "common:actions.returnToTop": "Voltar ao início",
+    "auth:fields.username": "Utilizador",
+    "common:actions.exit": "Sair",
+    "admin:rendering.subtitle": "Configure o pipeline de renderização de página"
 }

@@ -869,5 +869,8 @@
     "common:comments.sdTitle": "Rozmowa",
     "common:page.tags": "Tagi",
     "common:page.tagsMatching": "Strony pasujące do tagów",
-    "common:actions.returnToTop": "Wróć do góry"
+    "common:actions.returnToTop": "Wróć do góry",
+    "auth:fields.username": "Nazwa użytkownika",
+    "common:actions.exit": "Wyjście",
+    "admin:rendering.subtitle": "Skonfiguruj pipeline renderowania strony"
 }

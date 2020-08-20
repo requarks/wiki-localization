@@ -869,5 +869,8 @@
     "common:comments.sdTitle": "Обсуждение",
     "common:page.tags": "Теги",
     "common:page.tagsMatching": "Страницы, соответствующие тегам",
-    "common:actions.returnToTop": "Вернуться наверх"
+    "common:actions.returnToTop": "Вернуться наверх",
+    "auth:fields.username": "Имя пользователя",
+    "common:actions.exit": "Выход",
+    "admin:rendering.subtitle": "Настройка конвейера рендеринга страницы"
 }

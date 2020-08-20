@@ -870,5 +870,7 @@
     "common:page.tags": "Ознаке",
     "common:page.tagsMatching": "Ознаке које се подударају са страницама",
     "common:actions.returnToTop": "Повратак на врх",
-    "auth:fields.username": "Корисничко име"
+    "auth:fields.username": "Корисничко име",
+    "common:actions.exit": "Излаз",
+    "admin:rendering.subtitle": "Конфигуриши цевовод за приказивање страница"
 }

@@ -851,7 +851,20 @@
     "common:comments.updateSuccess": "El comentario se actualizó correctamente.",
     "common:comments.deleteSuccess": "El comentario se eliminó correctamente.",
     "editor:markup.toggleSpellcheck": "Alternar corrector ortográfico",
+    "admin:security.login": "Iniciar Sesión",
+    "admin:security.loginScreen": "Pantalla de inicio de sesión",
+    "admin:security.loginBgUrl": "URL para Imagen de fondo de Inicio de Sesión",
+    "admin:security.loginBgUrlHint": "Especificar una imagen para el fondo de inicio de sesión. Soportados PNG y JPG, recomendado 1920x1080. Dejar vacío para usar imagen por defecto. Hacer clic en el botón de la derecha para subir una nueva imágen. Tener en cuenta que el grupo Invitados debe tener acceso de lectura para la imágen seleccionada.",
+    "admin:security.hideLocalLogin": "Ocultar el Proveedor de Autenticación Local",
     "admin:security.loginSecurity": "Seguridad",
     "admin:security.enforce2fa": "Activar 2FA",
-    "admin:security.enforce2faHint": "Obligue a todos los usuarios a usar la autenticación de dos factores cuando utilice un proveedor de autenticación con un formulario de usuario\/contraseña."
+    "admin:security.enforce2faHint": "Obligue a todos los usuarios a usar la autenticación de dos factores cuando utilice un proveedor de autenticación con un formulario de usuario\/contraseña.",
+    "common:comments.viewDiscussion": "Ver Discusión",
+    "common:comments.newComment": "Nuevo Comentario",
+    "common:comments.fieldContent": "Comentar Contenido",
+    "common:comments.sdTitle": "Hablar",
+    "common:page.tags": "Etiquetas",
+    "common:actions.returnToTop": "Volver arriba",
+    "auth:fields.username": "Nombre de usuario",
+    "common:actions.exit": "Salida"
 }

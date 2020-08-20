@@ -867,5 +867,7 @@
     "common:comments.newComment": "新しいコメント",
     "common:comments.sdTitle": "コメント",
     "common:page.tags": "タグ",
-    "common:actions.returnToTop": "トップへ戻る"
+    "common:actions.returnToTop": "トップへ戻る",
+    "auth:fields.username": "ユーザー名",
+    "common:actions.exit": "閉じる"
 }

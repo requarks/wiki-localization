@@ -869,5 +869,8 @@
     "common:comments.sdTitle": "Diskutovat",
     "common:page.tags": "Tagy",
     "common:page.tagsMatching": "Stránky odpovídající tagům",
-    "common:actions.returnToTop": "Vrátit se nahoru"
+    "common:actions.returnToTop": "Vrátit se nahoru",
+    "auth:fields.username": "Uživatelské jméno",
+    "common:actions.exit": "Ukončit",
+    "admin:rendering.subtitle": "Konfigurace kanálu vykreslování stránek"
 }

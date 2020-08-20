@@ -62,7 +62,7 @@
     "admin:locale.namespaces.hint": "Active le versionage multilingue pour la même page.",
     "admin:locale.activeNamespaces.label": "Espaces de noms actifs",
     "admin:locale.activeNamespaces.hint": "Liste des langues actives pour les espaces de nommage multilingues. La langue principale définie ci-dessus sera toujours incluse sans égard à cette sélection.",
-    "admin:locale.namespacingPrefixWarning.title": "Le code régional sera préfixé à tous les requêtes. (ex: \/{{langCode}}\/nom-de-page)",
+    "admin:locale.namespacingPrefixWarning.title": "Le code régional sera préfixé à tous les requêtes (ex: \/{{langCode}}\/nom-de-page).",
     "admin:locale.namespacingPrefixWarning.subtitle": "Les requêtes sans code régional seront automatiquement redirigées vers le code régional de base défini ci-dessus.",
     "common:actions.save": "Sauvegarder",
     "common:actions.cancel": "Annuler",
@@ -430,7 +430,7 @@
     "editor:assets.headerAdded": "Ajouté",
     "editor:assets.headerActions": "Actions",
     "editor:assets.uploadAssets": "Téléverser les fichiers",
-    "editor:assets.uploadAssetsDropZone": "Parcourir ou déposer des fichiers ici ...",
+    "editor:assets.uploadAssetsDropZone": "Parcourir ou déposer des fichiers ici...",
     "editor:assets.fetchImage": "Récupérer une image distante",
     "editor:assets.imageAlign": "Alignement de l'image",
     "editor:assets.renameAsset": "Renommer le fichier",
@@ -859,7 +859,7 @@
     "admin:security.loginBgUrl": "URL de l'image de fond",
     "admin:security.loginBgUrlHint": "Spécifiez une image à utiliser comme arrière-plan de l'écran de connexion. Les formats PNG et JPG sont pris en charge, 1920x1080 recommandé. Laissez vide pour l'image par défaut. Cliquez sur le bouton de droite pour téléverser une nouvelle image. Notez que le groupe Guests doit avoir un accès en lecture à l’image sélectionnée!",
     "admin:security.hideLocalLogin": "Masquer le fournisseur d'authentification local",
-    "admin:security.hideLocalLoginHint": "Ne pas afficher pas le fournisseur d'authentification local sur l'écran de connexion. Ajoutez ?all à l'URL pour l'utiliser temporairement.",
+    "admin:security.hideLocalLoginHint": "Ne pas afficher le fournisseur d'authentification local sur l'écran de connexion. Ajoutez ?all à l'URL pour l'utiliser temporairement.",
     "admin:security.loginSecurity": "Sécurité",
     "admin:security.enforce2fa": "Imposer 2FA",
     "admin:security.enforce2faHint": "Forcer tous les utilisateurs à utiliser l'authentification à deux facteurs (2FA) lorsqu'ils se connectent avec un fournisseur utilisant un formulaire usager \/ mot de passe.",
@@ -870,5 +870,7 @@
     "common:page.tags": "Mots clés",
     "common:page.tagsMatching": "Pages correspondant aux mots clés",
     "common:actions.returnToTop": "Retour en haut",
-    "auth:fields.username": "Nom d'utilisateur"
+    "auth:fields.username": "Nom d'utilisateur",
+    "common:actions.exit": "Quitter",
+    "admin:rendering.subtitle": "Configurer le pipeline de rendu des pages"
 }

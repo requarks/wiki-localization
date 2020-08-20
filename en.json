@@ -859,7 +859,7 @@
     "admin:security.loginBgUrl": "Login Background Image URL",
     "admin:security.loginBgUrlHint": "Specify an image to use as the login background. PNG and JPG are supported, 1920x1080 recommended. Leave empty for default. Click the button on the right to upload a new image. Note that the Guests group must have read-access to the selected image!",
     "admin:security.hideLocalLogin": "Hide Local Authentication Provider",
-    "admin:security.hideLocalLoginHint": "Don't show the local authentication provider on the login screen. Use ?all to the URL to temporarily use it.",
+    "admin:security.hideLocalLoginHint": "Don't show the local authentication provider on the login screen. Add ?all to the URL to temporarily use it.",
     "admin:security.loginSecurity": "Security",
     "admin:security.enforce2fa": "Enforce 2FA",
     "admin:security.enforce2faHint": "Force all users to use Two-Factor Authentication when using an authentication provider with a user \/ password form.",
@@ -870,5 +870,7 @@
     "common:page.tags": "Tags",
     "common:page.tagsMatching": "Pages matching tags",
     "common:actions.returnToTop": "Return to top",
-    "auth:fields.username": "Username"
+    "auth:fields.username": "Username",
+    "common:actions.exit": "Exit",
+    "admin:rendering.subtitle": "Configure the page rendering pipeline"
 }
