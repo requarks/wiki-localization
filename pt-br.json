@@ -859,7 +859,7 @@
     "admin:security.loginBgUrl": "URL da imagem de fundo da tela de login",
     "admin:security.loginBgUrlHint": "Especifica uma imagem como plano de fundo da tela de login. Aceita os formatos PNG e JPG, com resolução recomendada de 1920x1080. Deixe vazio para usar o padrão. Clique no botão à direita para enviar uma nova imagem. Observe que o grupo Convidados precisa ter acesso de leitura à imagem selecionada!",
     "admin:security.hideLocalLogin": "Ocultar provedor de autenticação local",
-    "admin:security.hideLocalLoginHint": "Não exibe o provedor de autenticação local na tela de login. Adicione ?all ao final da URL para usá-lo temporariamente.",
+    "admin:security.hideLocalLoginHint": "Não exibe o provedor de autenticação local na tela de login. Adicione ?all ao final do URL para usá-lo temporariamente.",
     "admin:security.loginSecurity": "Segurança",
     "admin:security.enforce2fa": "Forçar verificação em duas etapas",
     "admin:security.enforce2faHint": "Obriga todos os usuários a usar a verificação em duas etapas ao usar um provedor de autenticação com um formulário de usuário\/senha.",
