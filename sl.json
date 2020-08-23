@@ -536,6 +536,7 @@
     "tags:orderByField.path": "Pot",
     "tags:orderByField.title": "Naslov",
     "tags:localeAny": "Katero koli",
+    "admin:contribute.github": "Postanite sponzor prek GitHub Sponzorjev (gre neposredno v podporo vodilnemu razvijalcu Nicolasu Giardu za polni delovni čas na Wiki.js)",
     "admin:contribute.becomeASponsor": "Postani sponzor",
     "admin:tags.title": "Oznake",
     "admin:ssl.title": "SSL",
