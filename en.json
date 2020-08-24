@@ -872,5 +872,7 @@
     "common:actions.returnToTop": "Return to top",
     "auth:fields.username": "Username",
     "common:actions.exit": "Exit",
-    "admin:rendering.subtitle": "Configure the page rendering pipeline"
+    "admin:rendering.subtitle": "Configure the page rendering pipeline",
+    "admin:general.siteTitleInvalidChars": "Site Title contains invalid characters.",
+    "admin:general.saveSuccess": "Site configuration saved successfully."
 }

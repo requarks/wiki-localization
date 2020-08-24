@@ -872,5 +872,7 @@
     "common:actions.returnToTop": "Retour en haut",
     "auth:fields.username": "Nom d'utilisateur",
     "common:actions.exit": "Quitter",
-    "admin:rendering.subtitle": "Configurer le pipeline de rendu des pages"
+    "admin:rendering.subtitle": "Configurer le pipeline de rendu des pages",
+    "admin:general.siteTitleInvalidChars": "Le titre du site contient des caractères non valides.",
+    "admin:general.saveSuccess": "La configuration du site a été enregistrée avec succès."
 }
