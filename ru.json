@@ -872,5 +872,7 @@
     "common:actions.returnToTop": "Вернуться наверх",
     "auth:fields.username": "Имя пользователя",
     "common:actions.exit": "Выход",
-    "admin:rendering.subtitle": "Настройка конвейера рендеринга страницы"
+    "admin:rendering.subtitle": "Настройка конвейера рендеринга страницы",
+    "admin:general.siteTitleInvalidChars": "Название сайта содержит недопустимые символы.",
+    "admin:general.saveSuccess": "Конфигурация сайта успешно сохранена."
 }
