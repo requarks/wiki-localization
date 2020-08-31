@@ -874,5 +874,9 @@
     "common:actions.exit": "Exit",
     "admin:rendering.subtitle": "Configure the page rendering pipeline",
     "admin:general.siteTitleInvalidChars": "Site Title contains invalid characters.",
-    "admin:general.saveSuccess": "Site configuration saved successfully."
+    "admin:general.saveSuccess": "Site configuration saved successfully.",
+    "admin:users.userTFADisableSuccess": "2FA was disabled successfully.",
+    "admin:users.userTFAEnableSuccess": "2FA was enabled successfully.",
+    "auth:forgotPasswordLoading": "Requesting password reset...",
+    "auth:forgotPasswordSuccess": "Check your emails for password reset instructions!"
 }

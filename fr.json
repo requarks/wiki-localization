@@ -874,5 +874,9 @@
     "common:actions.exit": "Quitter",
     "admin:rendering.subtitle": "Configurer le pipeline de rendu des pages",
     "admin:general.siteTitleInvalidChars": "Le titre du site contient des caractères non valides.",
-    "admin:general.saveSuccess": "La configuration du site a été enregistrée avec succès."
+    "admin:general.saveSuccess": "La configuration du site a été enregistrée avec succès.",
+    "admin:users.userTFADisableSuccess": "L'authentification à 2 facteurs à été désactivée avec succès.",
+    "admin:users.userTFAEnableSuccess": "L'authentification à 2 facteurs à été activée avec succès.",
+    "auth:forgotPasswordLoading": "Demande de réinitialisation du mot de passe ...",
+    "auth:forgotPasswordSuccess": "Vérifiez vos courriels pour les instructions de réinitialisation de mot de passe!"
 }
