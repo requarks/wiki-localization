@@ -872,5 +872,11 @@
     "common:actions.returnToTop": "Zurück nach oben",
     "auth:fields.username": "Benutzername",
     "common:actions.exit": "Verlassen",
-    "admin:rendering.subtitle": "Konfigurieren Sie die Pipeline für die Seitendarstellung"
+    "admin:rendering.subtitle": "Konfigurieren Sie die Pipeline für die Seitendarstellung",
+    "admin:general.siteTitleInvalidChars": "Seitentitel enthält ungültige Zeichen.",
+    "admin:general.saveSuccess": "Konfiguration erfolgreich gespeichert.",
+    "admin:users.userTFADisableSuccess": "2FA wurde erfolgreich deaktiviert.",
+    "admin:users.userTFAEnableSuccess": "2FA wurde erfolgreich aktiviert.",
+    "auth:forgotPasswordLoading": "Kennwortzurücksetzung wird angefordert...",
+    "auth:forgotPasswordSuccess": "Überprüfe deine E-Mails auf Anweisungen zum Zurücksetzen des Passworts!"
 }
