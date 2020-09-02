@@ -867,5 +867,6 @@
     "common:actions.exit": "Kilépés",
     "admin:rendering.subtitle": "Oldallétrehozási folyamat beállítása",
     "admin:general.siteTitleInvalidChars": "Az oldal címe érvénytelen karaktert tartalmaz.",
-    "admin:general.saveSuccess": "Az oldal beállításai sikeresen elmentve."
+    "admin:general.saveSuccess": "Az oldal beállításai sikeresen elmentve.",
+    "auth:forgotPasswordLoading": "Jelszó-visszaállítás kérése ..."
 }
