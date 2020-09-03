@@ -872,5 +872,11 @@
     "common:actions.returnToTop": "Повратак на врх",
     "auth:fields.username": "Корисничко име",
     "common:actions.exit": "Излаз",
-    "admin:rendering.subtitle": "Конфигуриши цевовод за приказивање страница"
+    "admin:rendering.subtitle": "Конфигуриши цевовод за приказивање страница",
+    "admin:general.siteTitleInvalidChars": "Наслов сајта садржи неважеће знакове.",
+    "admin:general.saveSuccess": "Конфигурација сајта је успешно сачувана.",
+    "admin:users.userTFADisableSuccess": "2FA је успешно онемогућен.",
+    "admin:users.userTFAEnableSuccess": "2FA је успешно омогућен.",
+    "auth:forgotPasswordLoading": "Захтевам ресетовање лозинке...",
+    "auth:forgotPasswordSuccess": "Проверите своју е-пошту за инструкције за ресетовање лозинке."
 }

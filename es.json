@@ -872,5 +872,11 @@
     "common:actions.returnToTop": "Volver arriba",
     "auth:fields.username": "Nombre de usuario",
     "common:actions.exit": "Salida",
-    "admin:rendering.subtitle": "Configuración del flujo de renderizado de la página"
+    "admin:rendering.subtitle": "Configuración del flujo de renderizado de la página",
+    "admin:general.siteTitleInvalidChars": "El título del portal contiene caracteres no válidos.",
+    "admin:general.saveSuccess": "La configuración del portal se guardó correctamente.",
+    "admin:users.userTFADisableSuccess": "El 2FA se deshabilitó con éxito.",
+    "admin:users.userTFAEnableSuccess": "El 2FA se habilitó correctamente.",
+    "auth:forgotPasswordLoading": "Solicitando el restablecimiento de contraseña...",
+    "auth:forgotPasswordSuccess": "\n¡Revise su correo electrónico para obtener instrucciones sobre como restablecer su contraseña!"
 }

@@ -869,5 +869,14 @@
     "common:comments.sdTitle": "Razgovor",
     "common:page.tags": "Oznake",
     "common:page.tagsMatching": "Stranice koje odgovaraju oznakama",
-    "common:actions.returnToTop": "Povratak na vrh"
+    "common:actions.returnToTop": "Povratak na vrh",
+    "auth:fields.username": "Korisničko ime",
+    "common:actions.exit": "Izlaz",
+    "admin:rendering.subtitle": "Konfigurirajte kanal za iscrtavanje stranica",
+    "admin:general.siteTitleInvalidChars": "Naslov web-mjesta sadrži nevažeće znakove.",
+    "admin:general.saveSuccess": "Konfiguracija web-mjesta uspješno je spremljena.",
+    "admin:users.userTFADisableSuccess": "Dvofaktorska provjera autentičnosti je uspješno onemogućena.",
+    "admin:users.userTFAEnableSuccess": "Dvofaktorska provjera autentičnosti je uspješno omogućena.",
+    "auth:forgotPasswordLoading": "Ponovno postavljanje lozinke...",
+    "auth:forgotPasswordSuccess": "U svojoj e-pošti potražite upute za ponovno postavljanje lozinke!"
 }
