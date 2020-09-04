@@ -872,5 +872,11 @@
     "common:actions.returnToTop": "العودة إلى أعلى",
     "auth:fields.username": "اسم المستخدم",
     "common:actions.exit": "خروج",
-    "admin:rendering.subtitle": "تكوين مسار عرض الصفحة"
+    "admin:rendering.subtitle": "تكوين مسار عرض الصفحة",
+    "admin:general.siteTitleInvalidChars": "عنوان الموقع يحتوي على أحرف غير صالحة.",
+    "admin:general.saveSuccess": "تم حفظ تكوين الموقع بنجاح.",
+    "admin:users.userTFADisableSuccess": "تم تعطيل 2FA بنجاح.",
+    "admin:users.userTFAEnableSuccess": "تم تمكين 2FA بنجاح.",
+    "auth:forgotPasswordLoading": "طلب إعادة تعيين كلمة المرور ...",
+    "auth:forgotPasswordSuccess": "تحقق من رسائل البريد الإلكتروني للحصول على تعليمات إعادة تعيين كلمة المرور!"
 }
