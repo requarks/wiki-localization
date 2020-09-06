@@ -878,5 +878,9 @@
     "admin:users.userTFADisableSuccess": "Dvofaktorska provjera autentičnosti je uspješno onemogućena.",
     "admin:users.userTFAEnableSuccess": "Dvofaktorska provjera autentičnosti je uspješno omogućena.",
     "auth:forgotPasswordLoading": "Ponovno postavljanje lozinke...",
-    "auth:forgotPasswordSuccess": "U svojoj e-pošti potražite upute za ponovno postavljanje lozinke!"
+    "auth:forgotPasswordSuccess": "U svojoj e-pošti potražite upute za ponovno postavljanje lozinke!",
+    "admin:auth.strategyIsEnabled": "Aktivna",
+    "admin:auth.strategyIsEnabledHint": "Jesu li korisnici u mogućnosti prijaviti se koristeći ovu strategiju?",
+    "admin:auth.displayName": "Ime za prikaz",
+    "admin:auth.displayNameHint": "Naslov prikazan krajnjem korisniku za ovu strategiju provjere autentičnosti."
 }

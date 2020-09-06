@@ -878,5 +878,9 @@
     "admin:users.userTFADisableSuccess": "2FA was disabled successfully.",
     "admin:users.userTFAEnableSuccess": "2FA was enabled successfully.",
     "auth:forgotPasswordLoading": "Requesting password reset...",
-    "auth:forgotPasswordSuccess": "Check your emails for password reset instructions!"
+    "auth:forgotPasswordSuccess": "Check your emails for password reset instructions!",
+    "admin:auth.strategyIsEnabled": "Active",
+    "admin:auth.strategyIsEnabledHint": "Are users able to login using this strategy?",
+    "admin:auth.displayName": "Display Name",
+    "admin:auth.displayNameHint": "The title shown to the end user for this authentication strategy."
 }

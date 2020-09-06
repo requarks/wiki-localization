@@ -878,5 +878,9 @@
     "admin:users.userTFADisableSuccess": "L'authentification à 2 facteurs à été désactivée avec succès.",
     "admin:users.userTFAEnableSuccess": "L'authentification à 2 facteurs à été activée avec succès.",
     "auth:forgotPasswordLoading": "Demande de réinitialisation du mot de passe ...",
-    "auth:forgotPasswordSuccess": "Vérifiez vos courriels pour les instructions de réinitialisation de mot de passe!"
+    "auth:forgotPasswordSuccess": "Vérifiez vos courriels pour les instructions de réinitialisation de mot de passe!",
+    "admin:auth.strategyIsEnabled": "Active",
+    "admin:auth.strategyIsEnabledHint": "Les utilisateurs peuvent-ils se connecter en utilisant cette stratégie?",
+    "admin:auth.displayName": "Nom d'affichage",
+    "admin:auth.displayNameHint": "Le titre présenté à l'utilisateur pour cette stratégie d'authentification."
 }
