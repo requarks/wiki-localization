@@ -278,6 +278,7 @@
     "admin:storage.noTarget": "Nimate nobenega aktivnega cilja za shranjevanje.",
     "admin:storage.targetConfig": "Konfiguracija cilja",
     "admin:storage.syncDirection": "Smer sinhronizacije",
+    "admin:storage.syncDirBi": "Dvosmerno",
     "admin:storage.unsupported": "Nepodprto",
     "admin:storage.syncScheduleCurrent": "Trenutno nastavljeno na vsak {{schedule}}.",
     "admin:storage.syncScheduleDefault": "Privzeta vrednost je vsak {{schedule}}.",
@@ -337,6 +338,7 @@
     "common:user.search": "Iskanje uporabnika",
     "common:user.searchPlaceholder": "Iskanje uporabnikov...",
     "common:duration.every": "Vsak",
+    "common:duration.months": "Mesec(i)",
     "common:duration.years": "Leto(-a)",
     "editor:props.pageProperties": "Lastnosti Strani",
     "editor:props.pageInfo": "Informacije Strani",
@@ -437,6 +439,7 @@
     "admin:utilities.authTitle": "Avtentikacija",
     "admin:utilities.authSubtitle": "Različna orodja za avtentikacijo \/ uporabnike",
     "admin:utilities.cacheTitle": "Izprazni predpomnilnik",
+    "admin:utilities.graphEndpointTitle": "Dostopna točka GraphQL",
     "admin:utilities.importv1Title": "Uvozi z Wiki.js 1.x",
     "admin:utilities.importv1Subtitle": "Migracija podatkov iz prejšnje namestitve 1.x",
     "admin:utilities.telemetryTitle": "Telemetrija",
@@ -592,6 +595,7 @@
     "admin:tags.subtitle": "Upravljanje oznak strani",
     "admin:tags.emptyList": "Ni oznak za prikaz.",
     "admin:tags.edit": "Uredi oznako",
+    "admin:tags.tag": "Oznaka",
     "admin:tags.label": "Oznaka",
     "admin:tags.date": "Ustvarjeno {{created}} in nazadnje posodobljeno {{updated}}.",
     "admin:tags.delete": "Izbriši to oznako",
@@ -805,5 +809,7 @@
     "common:actions.returnToTop": "Nazaj na vrh",
     "auth:fields.username": "Uporabniško ime",
     "common:actions.exit": "Izhod",
-    "admin:rendering.subtitle": "Konfiguracija prikazovanja strani"
+    "admin:rendering.subtitle": "Konfiguracija prikazovanja strani",
+    "admin:auth.strategyIsEnabled": "Aktiven",
+    "admin:auth.displayName": "Prikazno ime"
 }

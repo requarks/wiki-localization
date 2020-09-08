@@ -874,5 +874,13 @@
     "common:actions.exit": "Выход",
     "admin:rendering.subtitle": "Настройка конвейера рендеринга страницы",
     "admin:general.siteTitleInvalidChars": "Название сайта содержит недопустимые символы.",
-    "admin:general.saveSuccess": "Конфигурация сайта успешно сохранена."
+    "admin:general.saveSuccess": "Конфигурация сайта успешно сохранена.",
+    "admin:users.userTFADisableSuccess": "Двухфакторная авторизация успешно отключена.",
+    "admin:users.userTFAEnableSuccess": "Двухфакторная авторизация успешно включена.",
+    "auth:forgotPasswordLoading": "Запрос сброса пароля ...",
+    "auth:forgotPasswordSuccess": "Проверьте электронную почту на наличие инструкций по сбросу пароля!",
+    "admin:auth.strategyIsEnabled": "Активно",
+    "admin:auth.strategyIsEnabledHint": "Могут ли пользователи войти в систему, используя этот способ?",
+    "admin:auth.displayName": "Отображаемое имя",
+    "admin:auth.displayNameHint": "Название, показываемое конечному пользователю для этого способа авторизации"
 }
