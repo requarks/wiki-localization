@@ -826,5 +826,18 @@
     "admin:comments.providerNoConfig": "Denne tilbyderen har ingen konfigurasjoner du kan endre.",
     "admin:users.deleteConfirmReplaceWarn": "Alt innhold (sider, opplastinger, kommentarer osv.) som ble opprettet av denne brukeren vil bli tildelt brukeren som er valgt nedenfor. Det anbefales å opprette en dummy-målbruker (f.eks. Slettet bruker) hvis du ikke vil at innholdet skal tilordnes til noen nåværende aktiv bruker.",
     "admin:auth.activeStrategies": "Aktive strategier",
-    "admin:auth.addStrategy": "Legg til strategi"
+    "admin:auth.addStrategy": "Legg til strategi",
+    "common:actions.returnToTop": "Gå tilbake til toppen",
+    "auth:fields.username": "Brukernavn",
+    "common:actions.exit": "Avslutt",
+    "admin:general.siteTitleInvalidChars": "Områdetittel inneholder ugyldige tegn.",
+    "admin:general.saveSuccess": "Områdekonfigurasjonen er lagret.",
+    "admin:users.userTFADisableSuccess": "2FA ble deaktivert.",
+    "admin:users.userTFAEnableSuccess": "2FA ble aktivert.",
+    "auth:forgotPasswordLoading": "Ber om tilbakestilling av passord...",
+    "auth:forgotPasswordSuccess": "Sjekk e-postene dine for instruksjoner for tilbakestilling av passord!",
+    "admin:auth.strategyIsEnabled": "Aktiv",
+    "admin:auth.strategyIsEnabledHint": "Kan brukere logge inn ved denne metoden?",
+    "admin:auth.displayName": "Visningsnavn",
+    "admin:auth.displayNameHint": "Tittelen som vises til sluttbrukeren for denne godkjenningsmetoden."
 }

@@ -878,5 +878,9 @@
     "admin:users.userTFADisableSuccess": "2FA је успешно онемогућен.",
     "admin:users.userTFAEnableSuccess": "2FA је успешно омогућен.",
     "auth:forgotPasswordLoading": "Захтевам ресетовање лозинке...",
-    "auth:forgotPasswordSuccess": "Проверите своју е-пошту за инструкције за ресетовање лозинке."
+    "auth:forgotPasswordSuccess": "Проверите своју е-пошту за инструкције за ресетовање лозинке.",
+    "admin:auth.strategyIsEnabled": "Активан",
+    "admin:auth.strategyIsEnabledHint": "Да ли корисници могу да се пријаве помоћу ове стратегије?",
+    "admin:auth.displayName": "Име за приказивање",
+    "admin:auth.displayNameHint": "Наслов приказан крајњем кориснику за ову стратегију потврде идентитета."
 }

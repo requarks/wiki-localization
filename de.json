@@ -878,5 +878,9 @@
     "admin:users.userTFADisableSuccess": "2FA wurde erfolgreich deaktiviert.",
     "admin:users.userTFAEnableSuccess": "2FA wurde erfolgreich aktiviert.",
     "auth:forgotPasswordLoading": "Kennwortzurücksetzung wird angefordert...",
-    "auth:forgotPasswordSuccess": "Überprüfe deine E-Mails auf Anweisungen zum Zurücksetzen des Passworts!"
+    "auth:forgotPasswordSuccess": "Überprüfe deine E-Mails auf Anweisungen zum Zurücksetzen des Passworts!",
+    "admin:auth.strategyIsEnabled": "Betriebsbereit",
+    "admin:auth.strategyIsEnabledHint": "Können Benutzer sich mit dieser Methode anmelden ?",
+    "admin:auth.displayName": "Angezeigter Name",
+    "admin:auth.displayNameHint": "Die für den Endbenutzer angezeigte Überschrift für diesen Authentifizierungs-Vorgang."
 }
