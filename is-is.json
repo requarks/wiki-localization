@@ -874,5 +874,13 @@
     "common:actions.exit": "Hætta",
     "admin:rendering.subtitle": "Stilla flæði í birtingaröðun síðu",
     "admin:general.siteTitleInvalidChars": "Titill síðunnar inniheldur ógilda stafi.",
-    "admin:general.saveSuccess": "Stillingar uppfærðar."
+    "admin:general.saveSuccess": "Stillingar uppfærðar.",
+    "admin:users.userTFADisableSuccess": "2FA hefur veirð gert óvirkt.",
+    "admin:users.userTFAEnableSuccess": "Kveikt var á 2FA.",
+    "auth:forgotPasswordLoading": "Bið um að endursetja lykilorð...",
+    "auth:forgotPasswordSuccess": "Athugaðu tölvupóstinn þinn varðandi leiðbeiningar um að endurstilla lykilorð!",
+    "admin:auth.strategyIsEnabled": "Virkt",
+    "admin:auth.strategyIsEnabledHint": "Geta notendur skráð sig inn með þessari veitu?",
+    "admin:auth.displayName": "Birt nafn",
+    "admin:auth.displayNameHint": "Titill sem birtist notandanum fyrir þessa auðkenningarveitu."
 }
