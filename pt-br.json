@@ -875,12 +875,12 @@
     "admin:rendering.subtitle": "Configure o pipeline de renderização das páginas",
     "admin:general.siteTitleInvalidChars": "O título do site contém caracteres inválidos.",
     "admin:general.saveSuccess": "As configurações do site foram salvas com êxito.",
-    "admin:users.userTFADisableSuccess": "Autenticação de dois fatores desativada com sucesso.",
-    "admin:users.userTFAEnableSuccess": "Autenticação de dois fatores ativada com sucesso.",
+    "admin:users.userTFADisableSuccess": "Autenticação de dois fatores desativada com êxito.",
+    "admin:users.userTFAEnableSuccess": "Autenticação de dois fatores ativada com êxito.",
     "auth:forgotPasswordLoading": "Solicitando redefinição de senha...",
-    "auth:forgotPasswordSuccess": "Verifique seu email para instruções de redefinição de senha!",
+    "auth:forgotPasswordSuccess": "Verifique seus e-mails para obter instruções de redefinição de senha!",
     "admin:auth.strategyIsEnabled": "Ativo",
-    "admin:auth.strategyIsEnabledHint": "Os usuários podem fazer login usando essa estratégia?",
-    "admin:auth.displayName": "Nome em Exibição",
+    "admin:auth.strategyIsEnabledHint": "Os usuários podem fazer login usando esta estratégia?",
+    "admin:auth.displayName": "Nome de exibição",
     "admin:auth.displayNameHint": "O título mostrado ao usuário final para esta estratégia de autenticação."
 }
