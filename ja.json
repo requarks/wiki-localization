@@ -865,9 +865,22 @@
     "admin:security.enforce2faHint": "ユーザー名 \/ パスワードフォームが表示される認証方式を使用している場合、すべてのユーザーに二段階認証の使用を強制します。",
     "common:comments.viewDiscussion": "コメント欄を表示",
     "common:comments.newComment": "新しいコメント",
+    "common:comments.fieldContent": "コメント内容",
     "common:comments.sdTitle": "コメント",
     "common:page.tags": "タグ",
+    "common:page.tagsMatching": "タグに一致するページ",
     "common:actions.returnToTop": "トップへ戻る",
     "auth:fields.username": "ユーザー名",
-    "common:actions.exit": "閉じる"
+    "common:actions.exit": "閉じる",
+    "admin:rendering.subtitle": "ページをレンダリングする際のパイプラインを設定します",
+    "admin:general.siteTitleInvalidChars": "サイトタイトルに無効な文字が含まれています。",
+    "admin:general.saveSuccess": "サイト設定は正常に保存されました。",
+    "admin:users.userTFADisableSuccess": "2段階認証は正常に無効化されました。",
+    "admin:users.userTFAEnableSuccess": "2段階認証は正常に有効化されました。",
+    "auth:forgotPasswordLoading": "パスワードの再設定を申請中...",
+    "auth:forgotPasswordSuccess": "メールを確認してパスワードを再設定してください",
+    "admin:auth.strategyIsEnabled": "有効",
+    "admin:auth.strategyIsEnabledHint": "ユーザーにこの方式を使用したログインを許可しますか？",
+    "admin:auth.displayName": "表示名",
+    "admin:auth.displayNameHint": "この認証方式のエンドユーザーに表示されるタイトル"
 }
