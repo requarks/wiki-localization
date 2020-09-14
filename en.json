@@ -882,5 +882,19 @@
     "admin:auth.strategyIsEnabled": "Active",
     "admin:auth.strategyIsEnabledHint": "Are users able to login using this strategy?",
     "admin:auth.displayName": "Display Name",
-    "admin:auth.displayNameHint": "The title shown to the end user for this authentication strategy."
+    "admin:auth.displayNameHint": "The title shown to the end user for this authentication strategy.",
+    "auth:selectAuthProvider": "Select Authentication Provider",
+    "auth:enterCredentials": "Enter your credentials",
+    "auth:forgotPasswordTitle": "Forgot your password",
+    "auth:tfaFormTitle": "Enter the security code generated from your trusted device:",
+    "auth:tfaSetupTitle": "Your administrator has required Two-Factor Authentication (2FA) to be enabled on your account.",
+    "auth:tfaSetupInstrFirst": "1) Scan the QR code below from your mobile 2FA application:",
+    "auth:tfaSetupInstrSecond": "2) Enter the security code generated from your trusted device:",
+    "common:actions.select": "Select",
+    "common:pageSelector.createTitle": "Select New Page Location",
+    "common:pageSelector.moveTitle": "Move \/ Rename Page Location",
+    "common:pageSelector.selectTitle": "Select a Page",
+    "common:pageSelector.virtualFolders": "Virtual Folders",
+    "common:pageSelector.pages": "Pages",
+    "common:pageSelector.folderEmptyWarning": "This folder is empty."
 }

@@ -882,5 +882,19 @@
     "admin:auth.strategyIsEnabled": "Active",
     "admin:auth.strategyIsEnabledHint": "Les utilisateurs peuvent-ils se connecter en utilisant cette stratégie?",
     "admin:auth.displayName": "Nom d'affichage",
-    "admin:auth.displayNameHint": "Le titre présenté à l'utilisateur pour cette stratégie d'authentification."
+    "admin:auth.displayNameHint": "Le titre présenté à l'utilisateur pour cette stratégie d'authentification.",
+    "auth:selectAuthProvider": "Sélectionnez un fournisseur d'authentification",
+    "auth:enterCredentials": "Entrez vos identifiants",
+    "auth:forgotPasswordTitle": "Mot de passe oublié",
+    "auth:tfaFormTitle": "Entrez le code de sécurité généré à partir de votre appareil de confiance:",
+    "auth:tfaSetupTitle": "Votre administrateur requiert l'authentification à deux facteurs (2FA) pour votre compte.",
+    "auth:tfaSetupInstrFirst": "1) Numérisez le code QR ci-dessous à partir de votre application mobile 2FA:",
+    "auth:tfaSetupInstrSecond": "2) Entrez le code de sécurité généré par votre appareil de confiance:",
+    "common:actions.select": "Sélectionner",
+    "common:pageSelector.createTitle": "Sélectionnez l'emplacement de la nouvelle page",
+    "common:pageSelector.moveTitle": "Déplacer \/ renommer l'emplacement de la page",
+    "common:pageSelector.selectTitle": "Sélectionnez une page",
+    "common:pageSelector.virtualFolders": "Dossiers virtuels",
+    "common:pageSelector.pages": "Pages",
+    "common:pageSelector.folderEmptyWarning": "Ce dossier est vide."
 }
