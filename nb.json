@@ -882,5 +882,19 @@
     "admin:auth.strategyIsEnabled": "Aktiv",
     "admin:auth.strategyIsEnabledHint": "Kan brukere logge inn ved denne metoden?",
     "admin:auth.displayName": "Visningsnavn",
-    "admin:auth.displayNameHint": "Tittelen som vises til sluttbrukeren for denne godkjenningsmetoden."
+    "admin:auth.displayNameHint": "Tittelen som vises til sluttbrukeren for denne godkjenningsmetoden.",
+    "auth:selectAuthProvider": "Velg autentiseringsleverandør",
+    "auth:enterCredentials": "Angi legitimasjonen din",
+    "auth:forgotPasswordTitle": "Glemt passord",
+    "auth:tfaFormTitle": "Angi sikkerhetskoden generert fra den pålitelige enheten din:",
+    "auth:tfaSetupTitle": "Administratoren har aktivert tofaktorautentisering (2FA) som må aktiveres på kontoen din.",
+    "auth:tfaSetupInstrFirst": "1) Skann QR-koden nedenfor fra din mobile 2FA-applikasjon:",
+    "auth:tfaSetupInstrSecond": "2) Angi sikkerhetskoden generert fra den pålitelige enheten din:",
+    "common:actions.select": "Velg",
+    "common:pageSelector.createTitle": "Velg ny sideplassering",
+    "common:pageSelector.moveTitle": "Flytt \/ endre navn på sideplassering",
+    "common:pageSelector.selectTitle": "Velg en side",
+    "common:pageSelector.virtualFolders": "Virtuelle mapper",
+    "common:pageSelector.pages": "Sider",
+    "common:pageSelector.folderEmptyWarning": "Denne mappen er tom."
 }

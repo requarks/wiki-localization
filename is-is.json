@@ -882,5 +882,19 @@
     "admin:auth.strategyIsEnabled": "Virkt",
     "admin:auth.strategyIsEnabledHint": "Geta notendur skráð sig inn með þessari veitu?",
     "admin:auth.displayName": "Birt nafn",
-    "admin:auth.displayNameHint": "Titill sem birtist notandanum fyrir þessa auðkenningarveitu."
+    "admin:auth.displayNameHint": "Titill sem birtist notandanum fyrir þessa auðkenningarveitu.",
+    "auth:selectAuthProvider": "Velja sannvottunarveitu",
+    "auth:enterCredentials": "Sláðu inn upplýsingarnar",
+    "auth:forgotPasswordTitle": "Gleymt lykilorð?",
+    "auth:tfaFormTitle": "2) Sláðu inn öryggiskóðann sem er búinn til úr trausta tækinu þínu:",
+    "auth:tfaSetupTitle": "Kerfisstjóri síðunnar hefur krafist þess að tveggja þátta auðkenningar (2FA) á reikningnum þínum.",
+    "auth:tfaSetupInstrFirst": "1) Skannaðu QR kóðann hér að neðan úr farsíma 2FA forritinu þínu:",
+    "auth:tfaSetupInstrSecond": "2) Sláðu inn öryggiskóðann sem er búinn til úr trausta tækinu þínu:",
+    "common:actions.select": "Velja",
+    "common:pageSelector.createTitle": "Veldu nýja staðsetningu síðu",
+    "common:pageSelector.moveTitle": "Færa \/ endurnefna staðsetningu síðunnar",
+    "common:pageSelector.selectTitle": "Veldu síðu",
+    "common:pageSelector.virtualFolders": "Sýndarmöppur",
+    "common:pageSelector.pages": "Síður",
+    "common:pageSelector.folderEmptyWarning": "Þessi mappa er tóm."
 }

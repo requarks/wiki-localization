@@ -364,7 +364,7 @@
     "admin:general.siteDescriptionHint": "Alapértelmezett leírás, ha egy oldalnak nincs megadva.",
     "admin:general.metaRobots": "Meta robotok",
     "admin:general.metaRobotsHint": "Alapértelmezés szerint: Index, Follow. Oldalanként is beállítható.",
-    "common:header.searchHint": "Írj be legalább 2 karaktert a keresés...",
+    "common:header.searchHint": "Írj be legalább 2 karaktert a kereséshez...",
     "common:header.searchLoading": "Keresés...",
     "common:header.searchNoResult": "Nincsenek a keresésnek megfelelő oldalak.",
     "common:header.searchResultsCount": "{{total}} eredmény",

@@ -882,5 +882,19 @@
     "admin:auth.strategyIsEnabled": "Активно",
     "admin:auth.strategyIsEnabledHint": "Могут ли пользователи войти в систему, используя этот способ?",
     "admin:auth.displayName": "Отображаемое имя",
-    "admin:auth.displayNameHint": "Название, показываемое конечному пользователю для этого способа авторизации"
+    "admin:auth.displayNameHint": "Название, показываемое конечному пользователю для этого способа авторизации",
+    "auth:selectAuthProvider": "Выберите поставщика аутентификации",
+    "auth:enterCredentials": "Введите учетные данные",
+    "auth:forgotPasswordTitle": "Забыли пароль?",
+    "auth:tfaFormTitle": "Введите код безопасности, созданный на вашем доверенном устройстве:",
+    "auth:tfaSetupTitle": "Ваш администратор потребовал, чтобы для вашей учетной записи была включена двухфакторная аутентификация (2FA).",
+    "auth:tfaSetupInstrFirst": "1) Отсканируйте приведенный ниже QR-код из своего мобильного приложения 2FA:",
+    "auth:tfaSetupInstrSecond": "Введите код безопасности, созданный на вашем доверенном устройстве:",
+    "common:actions.select": "Выбрать",
+    "common:pageSelector.createTitle": "Выберите новое расположение страницы",
+    "common:pageSelector.moveTitle": "Переместить \/ переименовать расположение страницы",
+    "common:pageSelector.selectTitle": "Выберите страницу",
+    "common:pageSelector.virtualFolders": "Виртуальные папки",
+    "common:pageSelector.pages": "Страницы",
+    "common:pageSelector.folderEmptyWarning": "Папка пуста."
 }

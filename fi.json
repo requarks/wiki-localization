@@ -882,5 +882,19 @@
     "admin:auth.strategyIsEnabled": "Aktiivinen",
     "admin:auth.strategyIsEnabledHint": "Voivatko käyttäjät kirjautua sisään tällä strategialla?",
     "admin:auth.displayName": "Näytettävä nimi",
-    "admin:auth.displayNameHint": "Käyttäjälle näytettävä todennusstrategian nimi."
+    "admin:auth.displayNameHint": "Käyttäjälle näytettävä todennusstrategian nimi.",
+    "auth:selectAuthProvider": "Valitse todennuspalvelu",
+    "auth:enterCredentials": "Kirjaudu sisään",
+    "auth:forgotPasswordTitle": "Salasanan palautus",
+    "auth:tfaFormTitle": "Syötä laitteella luotu suojauskoodi",
+    "auth:tfaSetupTitle": "Järjestelmänvalvoja on vaatinut kaksivaiheisen todennuksen (2FA) käyttöönottoa tililläsi.",
+    "auth:tfaSetupInstrFirst": "1) Skannaa alla oleva QR-koodi matkapuhelimesi 2FA -sovelluksella:",
+    "auth:tfaSetupInstrSecond": "Syötä laitteella luotu suojauskoodi",
+    "common:actions.select": "Valitse",
+    "common:pageSelector.createTitle": "Valitse uuden sivun sijainti",
+    "common:pageSelector.moveTitle": "Siirrä \/ nimeä sivun sijainti uudelleen",
+    "common:pageSelector.selectTitle": "Valitse sivu",
+    "common:pageSelector.virtualFolders": "Virtuaaliset kansiot",
+    "common:pageSelector.pages": "Sivut",
+    "common:pageSelector.folderEmptyWarning": "Tämä kansio on tyhjä."
 }
