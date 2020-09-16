@@ -882,5 +882,19 @@
     "admin:auth.strategyIsEnabled": "Ativo",
     "admin:auth.strategyIsEnabledHint": "Os usuários podem fazer login usando esta estratégia?",
     "admin:auth.displayName": "Nome de exibição",
-    "admin:auth.displayNameHint": "O título mostrado ao usuário final para esta estratégia de autenticação."
+    "admin:auth.displayNameHint": "O título mostrado ao usuário final para esta estratégia de autenticação.",
+    "auth:selectAuthProvider": "Selecione o provedor de autenticação",
+    "auth:enterCredentials": "Insira as suas credenciais",
+    "auth:forgotPasswordTitle": "Esqueceu sua senha?",
+    "auth:tfaFormTitle": "Digite o código de segurança gerado pelo seu dispositivo de confiança:",
+    "auth:tfaSetupTitle": "Seu administrador determinou que a autenticação de dois fatores (2FA) seja ativada na sua conta.",
+    "auth:tfaSetupInstrFirst": "1) Escaneie o código QR abaixo a partir de seu aplicativo móvel de autenticação de dois fatores:",
+    "auth:tfaSetupInstrSecond": "2) Digite o código de segurança gerado pelo seu dispositivo de confiança:",
+    "common:actions.select": "Selecionar",
+    "common:pageSelector.createTitle": "Selecione o local da nova página",
+    "common:pageSelector.moveTitle": "Mover\/renomear local da página",
+    "common:pageSelector.selectTitle": "Selecione uma página",
+    "common:pageSelector.virtualFolders": "Pastas virtuais",
+    "common:pageSelector.pages": "Páginas",
+    "common:pageSelector.folderEmptyWarning": "Esta pasta está vazia."
 }

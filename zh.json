@@ -881,5 +881,20 @@
     "auth:forgotPasswordSuccess": "查看您的电子邮件以重置密码！",
     "admin:auth.strategyIsEnabled": "启用",
     "admin:auth.strategyIsEnabledHint": "用户能否使用此策略登录？",
-    "admin:auth.displayName": "显示名称"
+    "admin:auth.displayName": "显示名称",
+    "admin:auth.displayNameHint": "此身份验证策略显示给用户的标题。",
+    "auth:selectAuthProvider": "选择身份验证提供程序",
+    "auth:enterCredentials": "输入您的凭证",
+    "auth:forgotPasswordTitle": "忘记密码",
+    "auth:tfaFormTitle": "输入从您信任的设备生成的安全代码：",
+    "auth:tfaSetupTitle": "您的管理员要求您在您的帐户上启用两因素身份验证（2FA）。",
+    "auth:tfaSetupInstrFirst": "1）从您的移动2FA应用程序中扫描以下二维码：",
+    "auth:tfaSetupInstrSecond": "2）输入从您信任的设备生成的安全代码：",
+    "common:actions.select": "选择",
+    "common:pageSelector.createTitle": "选择新页面位置",
+    "common:pageSelector.moveTitle": "移动\/重命名页面位置",
+    "common:pageSelector.selectTitle": "选择一个页面",
+    "common:pageSelector.virtualFolders": "虚拟文件夹",
+    "common:pageSelector.pages": "页数",
+    "common:pageSelector.folderEmptyWarning": "这个文件夹是空的。"
 }

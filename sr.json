@@ -882,5 +882,19 @@
     "admin:auth.strategyIsEnabled": "Активан",
     "admin:auth.strategyIsEnabledHint": "Да ли корисници могу да се пријаве помоћу ове стратегије?",
     "admin:auth.displayName": "Име за приказивање",
-    "admin:auth.displayNameHint": "Наслов приказан крајњем кориснику за ову стратегију потврде идентитета."
+    "admin:auth.displayNameHint": "Наслов приказан крајњем кориснику за ову стратегију потврде идентитета.",
+    "auth:selectAuthProvider": "Изаберите добављача аутентичности",
+    "auth:enterCredentials": "Унесите своје акредитиве",
+    "auth:forgotPasswordTitle": "Заборавили сте лозинку",
+    "auth:tfaFormTitle": "2) Унесите безбедносни код генерисан од вашег поузданог уређаја:",
+    "auth:tfaSetupTitle": "Ваш администратор је захтевао да на вашем налогу буде омогућена двофакторска потврда идентитета (2FA).",
+    "auth:tfaSetupInstrFirst": "1) Скенирајте доњи QR код из своје мобилне 2FA апликације:",
+    "auth:tfaSetupInstrSecond": "2) Унесите безбедносни код генерисан од вашег поузданог уређаја:",
+    "common:actions.select": "Изаберите",
+    "common:pageSelector.createTitle": "Изаберите нову локалцију странице",
+    "common:pageSelector.moveTitle": "Премештање \/ преименовање локације странице",
+    "common:pageSelector.selectTitle": "Изаберите страницу",
+    "common:pageSelector.virtualFolders": "Виртуелни фолдери",
+    "common:pageSelector.pages": "Странице",
+    "common:pageSelector.folderEmptyWarning": "Овај фолдер је празан."
 }

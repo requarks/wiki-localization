@@ -882,5 +882,9 @@
     "admin:auth.strategyIsEnabled": "Aktív",
     "admin:auth.strategyIsEnabledHint": "Be tudnak jelentkezni a felhasználók ezzel a stratégiával?",
     "admin:auth.displayName": "Megjelenített név",
-    "admin:auth.displayNameHint": "A hitelesítési stratégia felhasználóknak megjelenített címe."
+    "admin:auth.displayNameHint": "A hitelesítési stratégia felhasználóknak megjelenített címe.",
+    "common:actions.select": "Kiválasztás",
+    "common:pageSelector.virtualFolders": "Virtuális mappák",
+    "common:pageSelector.pages": "Oldalak",
+    "common:pageSelector.folderEmptyWarning": "Ez a mappa üres."
 }
