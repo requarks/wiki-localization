@@ -872,5 +872,14 @@
     "common:actions.returnToTop": "Başa dön",
     "auth:fields.username": "Kullanıcı adı",
     "common:actions.exit": "Çıkış",
-    "admin:rendering.subtitle": "Sayfa oluşturma ayarlarını yapılandırın"
+    "admin:rendering.subtitle": "Sayfa oluşturma ayarlarını yapılandırın",
+    "auth:selectAuthProvider": "Kimlik Doğrulama Sağlayıcısını Seçin",
+    "auth:enterCredentials": "Kimlik bilgilerinizi girin",
+    "auth:tfaFormTitle": "Güvenilir cihazınızdan üretilen güvenlik kodunu girin:",
+    "auth:tfaSetupTitle": "Yönetici ayarları, hesabınızda İki Faktörlü Kimlik Doğrulamanın (2FA) etkinleştirilmesini gerektiriyor.",
+    "common:pageSelector.moveTitle": "Sayfa Konumunu Taşı \/ Yeniden Adlandır",
+    "common:pageSelector.selectTitle": "Bir Sayfa Seçin",
+    "common:pageSelector.virtualFolders": "Sanal Klasörler",
+    "common:pageSelector.pages": "Sayfalar",
+    "common:pageSelector.folderEmptyWarning": "Bu klasör boş."
 }
