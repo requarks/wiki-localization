@@ -882,5 +882,19 @@
     "admin:auth.strategyIsEnabled": "فعال",
     "admin:auth.strategyIsEnabledHint": "آیا این روش فعال است و کاربران می‌توانند از آن استفاده کنند؟",
     "admin:auth.displayName": "نام نمایشی",
-    "admin:auth.displayNameHint": "عنوانی که به کاربر نهایی برای این روش احراز هویت نشان داده می‌شود."
+    "admin:auth.displayNameHint": "عنوانی که به کاربر نهایی برای این روش احراز هویت نشان داده می‌شود.",
+    "auth:selectAuthProvider": "انتخاب ارائه دهنده احراز هویت",
+    "auth:enterCredentials": "اطلاعات  حساب خود راوارد نمائید",
+    "auth:forgotPasswordTitle": "رمز ورود خود را فراموش کرده اید?",
+    "auth:tfaFormTitle": "کد امنیتی تولید شده توسط دستگاه مورد اعتماد خود را وارد کنید:",
+    "auth:tfaSetupTitle": "ادمین درخواست فعال سازی احراز هویت ۲ مرحله ای (2FA) را  برروی اکانت شما دارد.",
+    "auth:tfaSetupInstrFirst": "توسط برنامه 2FA دستگاه خود کد QR زر را اسکن کنید:",
+    "auth:tfaSetupInstrSecond": "2) کد امنیتی ایجاد شده توسط دستگاه مورد اعتماد خود را وارد کنید:",
+    "common:actions.select": "انتخاب کنید",
+    "common:pageSelector.createTitle": "انتخاب مکان صفحه جدید",
+    "common:pageSelector.moveTitle": "انتقال \/ تغییر نام مکان صفحه",
+    "common:pageSelector.selectTitle": "یک صفحه را انتخاب کنید",
+    "common:pageSelector.virtualFolders": "پوشه های مجازی",
+    "common:pageSelector.pages": "صفحات",
+    "common:pageSelector.folderEmptyWarning": "این پوشه خالی است."
 }

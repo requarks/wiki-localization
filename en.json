@@ -400,7 +400,7 @@
     "editor:props.tagsHint": "Use tags to categorize your pages and make them easier to find.",
     "editor:props.publishState": "Publishing State",
     "editor:props.publishToggle": "Published",
-    "editor:props.publishToggleHint": "Unpublished pages can still be seen by users having write permissions on this page.",
+    "editor:props.publishToggleHint": "Unpublished pages are still visible to users with write permissions on this page.",
     "editor:props.publishStart": "Publish starting on...",
     "editor:props.publishStartHint": "Leave empty for no start date",
     "editor:props.publishEnd": "Publish ending on...",
