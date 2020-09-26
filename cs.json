@@ -872,5 +872,16 @@
     "common:actions.returnToTop": "Vrátit se nahoru",
     "auth:fields.username": "Uživatelské jméno",
     "common:actions.exit": "Ukončit",
-    "admin:rendering.subtitle": "Konfigurace kanálu vykreslování stránek"
+    "admin:rendering.subtitle": "Konfigurace kanálu vykreslování stránek",
+    "admin:auth.strategyIsEnabled": "Aktivní",
+    "auth:selectAuthProvider": "Vyberte poskytovatele ověřování",
+    "auth:enterCredentials": "Zadejte své přihlašovací údaje",
+    "auth:forgotPasswordTitle": "Zapomněli jste heslo",
+    "common:actions.select": "Vybrat",
+    "common:pageSelector.createTitle": "Vyberte Nové umístění stránky",
+    "common:pageSelector.moveTitle": "Přesunout \/ přejmenovat umístění stránky",
+    "common:pageSelector.selectTitle": "Vyberte stránku",
+    "common:pageSelector.virtualFolders": "Virtuální složky",
+    "common:pageSelector.pages": "Stránky",
+    "common:pageSelector.folderEmptyWarning": "Tato složka je prázdná."
 }
