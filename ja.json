@@ -882,5 +882,7 @@
     "admin:auth.strategyIsEnabled": "有効",
     "admin:auth.strategyIsEnabledHint": "ユーザーにこの方式を使用したログインを許可しますか？",
     "admin:auth.displayName": "表示名",
-    "admin:auth.displayNameHint": "この認証方式のエンドユーザーに表示されるタイトル"
+    "admin:auth.displayNameHint": "この認証方式のエンドユーザーに表示されるタイトル",
+    "common:pageSelector.pages": "ページ",
+    "common:pageSelector.folderEmptyWarning": "このフォルダは空です。"
 }
