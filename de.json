@@ -400,7 +400,7 @@
     "editor:props.tagsHint": "Verwenden Sie Schlagwörter, um Ihre Seiten zu kategorisieren und leichter zu finden.",
     "editor:props.publishState": "Veröffentlichungsstatus",
     "editor:props.publishToggle": "Veröffentlicht",
-    "editor:props.publishToggleHint": "Nicht veröffentlichte Seiten können weiterhin von Benutzern angezeigt werden, die über Schreibberechtigungen für diese Seite verfügen.",
+    "editor:props.publishToggleHint": "Unveröffentlichte Seiten sind weiterhin sichtbar für Benutzer, die über Schreibberechtigungen für diese Seite verfügen.",
     "editor:props.publishStart": "Veröffentlichen ab ...",
     "editor:props.publishStartHint": "Leer lassen für kein Startdatum",
     "editor:props.publishEnd": "Ende der Veröffentlichung am ...",
