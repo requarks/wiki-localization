@@ -748,7 +748,7 @@
     "editor:conflict.readonly": "（只读）",
     "editor:conflict.remoteVersion": "远程版本 {{refReadOnly}}",
     "editor:conflict.leftPanelInfo": "您当前的修改基于{{date}}页面版本",
-    "editor:conflict.rightPanelInfo": "最后由 {{authorName}} 编辑, {{date}}",
+    "editor:conflict.rightPanelInfo": "最后由 {{authorName}} 于{{date}}编辑",
     "editor:conflict.pageTitle": "标题：",
     "editor:conflict.pageDescription": "说明：",
     "editor:unsavedWarning": "您有未保存的修改。 是否确认离开编辑器?",
