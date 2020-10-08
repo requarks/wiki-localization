@@ -883,6 +883,18 @@
     "admin:auth.strategyIsEnabledHint": "ユーザーにこの方式を使用したログインを許可しますか？",
     "admin:auth.displayName": "表示名",
     "admin:auth.displayNameHint": "この認証方式のエンドユーザーに表示されるタイトル",
+    "auth:selectAuthProvider": "認証プロバイダを選択",
+    "auth:enterCredentials": "資格情報を入力",
+    "auth:forgotPasswordTitle": "パスワードを忘れた場合",
+    "auth:tfaFormTitle": "信頼できるデバイスから生成されたセキュリティコードを入力:",
+    "auth:tfaSetupTitle": "管理者がアカウントの2段階認証 (2FA) を要求しています。",
+    "auth:tfaSetupInstrFirst": "1) モバイル2FAアプリケーションで以下のQRコードをスキャン:",
+    "auth:tfaSetupInstrSecond": "2) 信頼できるデバイスから生成されたセキュリティコードを入力:",
+    "common:actions.select": "選択",
+    "common:pageSelector.createTitle": "新しいページの場所を選択",
+    "common:pageSelector.moveTitle": "ページの場所を移動・リネーム",
+    "common:pageSelector.selectTitle": "ページを選択",
+    "common:pageSelector.virtualFolders": "仮想フォルダ",
     "common:pageSelector.pages": "ページ",
     "common:pageSelector.folderEmptyWarning": "このフォルダは空です。"
 }
