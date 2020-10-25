@@ -848,6 +848,7 @@
     "admin:general.saveSuccess": "사이트 구성이 성공적으로 저장되었습니다.",
     "admin:users.userTFADisableSuccess": "2FA가 성공적으로 비활성화되었습니다.",
     "admin:users.userTFAEnableSuccess": "2FA가 성공적으로 활성화되었습니다.",
+    "auth:forgotPasswordTitle": "비밀번호를 잊었나요?",
     "auth:tfaFormTitle": "신뢰할 수 있는 장치에서 생성된 보안 코드를 입력하세요:",
     "auth:tfaSetupInstrFirst": "1) 모바일 2FA 애플리케이션에서 아래 QR 코드를 스캔하세요.",
     "auth:tfaSetupInstrSecond": "2) 신뢰할 수 있는 장치에서 생성된 보안 코드를 입력하세요.",
