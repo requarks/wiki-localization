@@ -872,5 +872,13 @@
     "common:actions.returnToTop": "返回頂部",
     "auth:fields.username": "用戶名",
     "common:actions.exit": "退出",
-    "admin:rendering.subtitle": "配置頁面渲染管道"
+    "admin:rendering.subtitle": "配置頁面渲染管道",
+    "admin:users.userTFADisableSuccess": "2FA已禁用成功",
+    "admin:users.userTFAEnableSuccess": "2FA已啟用成功",
+    "auth:forgotPasswordLoading": "要求重設密碼...",
+    "common:actions.select": "選擇",
+    "common:pageSelector.selectTitle": "選擇頁面",
+    "common:pageSelector.virtualFolders": "虛擬資料夾",
+    "common:pageSelector.pages": "頁面",
+    "common:pageSelector.folderEmptyWarning": "此資料夾是空的。"
 }
