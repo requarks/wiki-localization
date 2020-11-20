@@ -177,5 +177,9 @@
     "admin:system.refreshSuccess": "Sisteminformoj estis reaktualigitaj.",
     "admin:auth.subtitle": "Agordi aŭtentigon por via vikio",
     "admin:auth.strategies": "Strategioj",
-    "admin:auth.globalAdvSettings": "Ĝeneralaj progresintaj agordoj."
+    "admin:auth.globalAdvSettings": "Ĝeneralaj progresintaj agordoj.",
+    "common:pageSelector.selectTitle": "Elektu Paĝon",
+    "common:pageSelector.virtualFolders": "Virtualaj Dosierujoj",
+    "common:pageSelector.pages": "Paĝoj",
+    "common:pageSelector.folderEmptyWarning": "Ĉi tiu dosierujo malplenas."
 }
