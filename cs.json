@@ -4,7 +4,7 @@
     "admin:analytics.providerNoConfiguration": "Tento poskytovatel nemá žádné možnosti konfigurace, které můžete upravovat.",
     "admin:analytics.providers": "Poskytovatelé",
     "admin:analytics.refreshSuccess": "Seznam poskytovatelů byl úspěšně aktualizován.",
-    "admin:analytics.saveSuccess": "Analitická konfigurace byla úspěšně uložena.",
+    "admin:analytics.saveSuccess": "Analytická konfigurace byla úspěšně uložena.",
     "admin:analytics.subtitle": "Přidejte do své wiki analytické a sledovací nástroje",
     "admin:analytics.title": "Analytika",
     "admin:api.disableButton": "Zakázat API",
