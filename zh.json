@@ -525,7 +525,7 @@
     "auth:registerSubTitle": "请完成下面的表单来创建账户。",
     "auth:registerSuccess": "账户创建成功！",
     "auth:registerTitle": "创建一个账户",
-    "auth:selectAuthProvider": "选择身份验证提供程序",
+    "auth:selectAuthProvider": "Select Authentication Provider",
     "auth:sendResetPassword": "重置密码",
     "auth:signingIn": "登录中...",
     "auth:switchToLogin.link": "改为登录",
