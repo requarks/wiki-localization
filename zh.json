@@ -776,7 +776,7 @@
     "editor:markup.insertAssets": "插入文件",
     "editor:markup.insertBlock": "插入块",
     "editor:markup.insertCodeBlock": "插入代码块",
-    "editor:markup.insertDiagram": "插入图片",
+    "editor:markup.insertDiagram": "插入绘图",
     "editor:markup.insertLink": "插入链接",
     "editor:markup.insertMathExpression": "插入数学表达式",
     "editor:markup.insertVideoAudio": "插入视频\/音频",
