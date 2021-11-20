@@ -683,7 +683,7 @@
     "common:pageSelector.createTitle": "选择新页面位置",
     "common:pageSelector.folderEmptyWarning": "此文件夹是空的。",
     "common:pageSelector.moveTitle": "移动\/重命名页面位置",
-    "common:pageSelector.pages": "页数",
+    "common:pageSelector.pages": "页面",
     "common:pageSelector.selectTitle": "选择一个页面",
     "common:pageSelector.virtualFolders": "虚拟文件夹",
     "common:password.average": "普通",
