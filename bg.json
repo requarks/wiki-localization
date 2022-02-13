@@ -709,6 +709,7 @@
     "common:user.search": "Търсене на потребител",
     "common:user.searchPlaceholder": "Търсене на потребители...",
     "common:welcome.createhome": "Създаване на начална страница",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Нека започнем и да създадем началната страница.",
     "common:welcome.title": "Добре дошли във вашето Wiki!",
     "editor:assets.deleteAsset": "Изтриване на актив",

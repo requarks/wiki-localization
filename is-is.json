@@ -709,6 +709,7 @@
     "common:user.search": "Leita að notanda",
     "common:user.searchPlaceholder": "Leita að notendum...",
     "common:welcome.createhome": "Stofna forsíðu",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Við skulum byrja og búa til heimasíðuna.",
     "common:welcome.title": "Velkomin á wiki síðuna!",
     "editor:assets.deleteAsset": "Eyða efni",

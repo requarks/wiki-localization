@@ -709,6 +709,7 @@
     "common:user.search": "بحث المستخدم",
     "common:user.searchPlaceholder": "البحث عن المستخدمين ...",
     "common:welcome.createhome": "إنشاء الصفحة الرئيسية",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "لنبدأ وننشئ الصفحة الرئيسية.",
     "common:welcome.title": "مرحبًا بك في الويكي الخاص بك!",
     "editor:assets.deleteAsset": "حذف الأصل",

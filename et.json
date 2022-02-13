@@ -709,6 +709,7 @@
     "common:user.search": "Otsi kasutajat",
     "common:user.searchPlaceholder": "Otsi kasutajaid...",
     "common:welcome.createhome": "Loo koduleht",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Alustame ja loome kodulehekülje.",
     "common:welcome.title": "Tere tulemast oma vikisse!",
     "editor:assets.deleteAsset": "Kustuta vara",

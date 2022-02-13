@@ -709,6 +709,7 @@
     "common:user.search": "Meklēt lietotāju",
     "common:user.searchPlaceholder": "Lietotāju meklēšana...",
     "common:welcome.createhome": "Izveidot sākumlapu",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Sāksim darbu un veidosim mājas lapu.",
     "common:welcome.title": "Laipni lūdzam jūsu wiki!",
     "editor:assets.deleteAsset": "Dzēst failu",

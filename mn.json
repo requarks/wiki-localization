@@ -709,6 +709,7 @@
     "common:user.search": "Хэрэглэгч хайх",
     "common:user.searchPlaceholder": "Хэрэглэгчдийг хайх ...",
     "common:welcome.createhome": "Нүүр хуудас үүсгэх",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Эхлээд нүүр хуудсыг бүтээцгээе.",
     "common:welcome.title": "Вики хуудсанд тавтай морилно уу!",
     "editor:assets.deleteAsset": "Ассетыг устгах",

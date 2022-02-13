@@ -709,6 +709,7 @@
     "common:user.search": "搜尋使用者",
     "common:user.searchPlaceholder": "搜尋使用者...",
     "common:welcome.createhome": "建立首頁",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "讓我們開始建立首頁。",
     "common:welcome.title": "歡迎來到您的維基！",
     "editor:assets.deleteAsset": "刪除資產",

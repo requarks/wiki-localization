@@ -709,6 +709,7 @@
     "common:user.search": "Sök användare",
     "common:user.searchPlaceholder": "Sök användare ...",
     "common:welcome.createhome": "Skapa Startsida",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Låt oss komma igång och skapa startsidan.",
     "common:welcome.title": "Välkommen till din wiki!",
     "editor:assets.deleteAsset": "Ta bort fil",

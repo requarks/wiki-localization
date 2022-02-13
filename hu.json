@@ -709,6 +709,7 @@
     "common:user.search": "Felhasználó keresése",
     "common:user.searchPlaceholder": "Felhasználók keresése ...",
     "common:welcome.createhome": "Kezdőlap létrehozása",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Kezdünk bele és hozzuk létre a kezdőlapot.",
     "common:welcome.title": "Üdvözlünk a wikin!",
     "editor:assets.deleteAsset": "Elem törlése",

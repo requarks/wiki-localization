@@ -709,6 +709,7 @@
     "common:user.search": "Kullanıcı Ara",
     "common:user.searchPlaceholder": "Kullanıcıları Ara ...",
     "common:welcome.createhome": "Ana Sayfa Oluştur",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Hadi ilk iş olarak ana sayfayı oluşturalım.",
     "common:welcome.title": "Wiki projenize hoş geldiniz!",
     "editor:assets.deleteAsset": "Varlığı Sil",

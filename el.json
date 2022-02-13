@@ -709,6 +709,7 @@
     "common:user.search": "Αναζήτηση χρήστη",
     "common:user.searchPlaceholder": "Αναζήτηση χρηστών …",
     "common:welcome.createhome": "Δημιουργία Αρχικής Σελίδας",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Ας ξεκινήσουμε δημιουργώντας την αρχική σελίδα.",
     "common:welcome.title": "Καλώς ήλθατε στο Wiki σας!",
     "editor:assets.deleteAsset": "Διαγραφή στοιχείου",

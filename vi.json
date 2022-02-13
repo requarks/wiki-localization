@@ -709,6 +709,7 @@
     "common:user.search": "Tìm người dùng ...",
     "common:user.searchPlaceholder": "Tìm người dùng ...",
     "common:welcome.createhome": "Tạo trang chủ",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Hãy bắt đầu và tạo trang chủ.",
     "common:welcome.title": "Chào mừng đến với wiki của bạn!",
     "editor:assets.deleteAsset": "Delete Asset",

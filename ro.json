@@ -709,6 +709,7 @@
     "common:user.search": "Căutare utilizator",
     "common:user.searchPlaceholder": "Căutați utilizatori ...",
     "common:welcome.createhome": "Creați pagina de pornire",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Să începem și să creăm pagina de pornire.",
     "common:welcome.title": "Bine ați venit pe wiki!",
     "editor:assets.deleteAsset": "Ștergeți materialul",

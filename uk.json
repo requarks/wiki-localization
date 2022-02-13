@@ -709,6 +709,7 @@
     "common:user.search": "Пошук користувача",
     "common:user.searchPlaceholder": "Пошук користувачів ...",
     "common:welcome.createhome": "Створити домашню сторінку",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Давайте почнемо та створимо домашню сторінку.",
     "common:welcome.title": "Ласкаво просимо до вашої вікі!",
     "editor:assets.deleteAsset": "Видалити файл",

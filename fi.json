@@ -709,6 +709,7 @@
     "common:user.search": "Hae käyttäjä",
     "common:user.searchPlaceholder": "Hae käyttäjiä...",
     "common:welcome.createhome": "Luo etusivu",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Aloitetaan ja luodaan ensimmäiseksi etusivu.",
     "common:welcome.title": "Tervetuloa wikiisi!",
     "editor:assets.deleteAsset": "Poista resurssi",

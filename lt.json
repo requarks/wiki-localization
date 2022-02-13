@@ -709,6 +709,7 @@
     "common:user.search": "Ieškoti vartotojo",
     "common:user.searchPlaceholder": "Ieškoti vartotojų...",
     "common:welcome.createhome": "Kurti pagrindinį puslapį",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Pradėkime ir sukurkime pagrindinį puslapį.",
     "common:welcome.title": "Sveiki atvykę į jūsų Wiki!",
     "editor:assets.deleteAsset": "ištrinti failą",

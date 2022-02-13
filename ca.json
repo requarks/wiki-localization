@@ -709,6 +709,7 @@
     "common:user.search": "Cerca usuari",
     "common:user.searchPlaceholder": "Cerca usuaris ...",
     "common:welcome.createhome": "Crea la pàgina d'inici",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Let's get started and create the home page.",
     "common:welcome.title": "Welcome to your wiki!",
     "editor:assets.deleteAsset": "Suprimeix l'arxiu",

@@ -709,6 +709,7 @@
     "common:user.search": "جستجوی کاربر",
     "common:user.searchPlaceholder": "جستجوی کاربران...",
     "common:welcome.createhome": "ایجاد صفحه اصلی",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "شروع و ساختن صفحه اصلی",
     "common:welcome.title": "به ویکی خودتان خوش آمدید!",
     "editor:assets.deleteAsset": "حذف دارایی",

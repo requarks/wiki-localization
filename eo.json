@@ -709,6 +709,7 @@
     "common:user.search": "Search User",
     "common:user.searchPlaceholder": "Search Users...",
     "common:welcome.createhome": "Kreu hejmpaĝon",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Komencu kaj kreu la hejmpaĝon.",
     "common:welcome.title": "Bonvenon al via vikio !",
     "editor:assets.deleteAsset": "Delete Asset",

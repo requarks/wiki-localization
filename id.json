@@ -709,6 +709,7 @@
     "common:user.search": "Cari Pengguna",
     "common:user.searchPlaceholder": "Cari Pengguna ...",
     "common:welcome.createhome": "Buat Halaman Beranda",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Mari kita mulai dan membuat beranda.",
     "common:welcome.title": "Selamat datang di wiki anda!",
     "editor:assets.deleteAsset": "Hapus Aset",

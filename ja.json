@@ -709,6 +709,7 @@
     "common:user.search": "ユーザーを検索",
     "common:user.searchPlaceholder": "ユーザーを検索...",
     "common:welcome.createhome": "ホームページの作成",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "まずはホームページを作成してみましょう",
     "common:welcome.title": "あなたのウィキへようこそ！",
     "editor:assets.deleteAsset": "ファイルを削除",

@@ -709,6 +709,7 @@
     "common:user.search": "搜索用户",
     "common:user.searchPlaceholder": "搜索用户...",
     "common:welcome.createhome": "创建首页",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "让我们开始并创建首页。",
     "common:welcome.title": "欢迎访问您的 wiki 站点！",
     "editor:assets.deleteAsset": "删除",

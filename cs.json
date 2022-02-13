@@ -709,6 +709,7 @@
     "common:user.search": "Hledat uživatele",
     "common:user.searchPlaceholder": "Vyhledat uživatele...",
     "common:welcome.createhome": "Vytvořit domovskou stránku",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Začněme a vytvoříme domovskou stránku.",
     "common:welcome.title": "Vítejte na Vaší wiki!",
     "editor:assets.deleteAsset": "Odstranit Objekt",

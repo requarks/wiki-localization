@@ -709,6 +709,7 @@
     "common:user.search": "Pesquisar Utilizador",
     "common:user.searchPlaceholder": "Pesquisar utilizadores…",
     "common:welcome.createhome": "Criar Página Inicial",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Vamos começar a criar a sua página inicial.",
     "common:welcome.title": "Bem-vindo à sua wiki!",
     "editor:assets.deleteAsset": "Excluir ativo",

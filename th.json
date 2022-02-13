@@ -709,6 +709,7 @@
     "common:user.search": "ค้นหาผู้ใช้",
     "common:user.searchPlaceholder": "ค้นหาผู้ใช้",
     "common:welcome.createhome": "สร้างหน้าหลัก",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "มาเริ่มกันเลยและสร้างหน้าหลัก",
     "common:welcome.title": "ยินดีต้อนรับสู่วิกิของคุณ!",
     "editor:assets.deleteAsset": "ลบเนื้อหา",

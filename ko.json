@@ -709,6 +709,7 @@
     "common:user.search": "사용자 검색",
     "common:user.searchPlaceholder": "사용자 검색...",
     "common:welcome.createhome": "처음 문서 만들기",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "처음 문서를 만들어 보세요.",
     "common:welcome.title": "환영합니다!",
     "editor:assets.deleteAsset": "자원 삭제하기",

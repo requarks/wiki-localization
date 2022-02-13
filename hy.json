@@ -709,6 +709,7 @@
     "common:user.search": "Որոնել օգտագործողին",
     "common:user.searchPlaceholder": "Որոնել օգագործողներին...",
     "common:welcome.createhome": "Create Home Page",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Եկեք սկսենք և ստեղծենք գլխավոր էջը:",
     "common:welcome.title": "Բարի գալուստ ձեր վիքի:",
     "editor:assets.deleteAsset": "Delete Asset",

@@ -709,6 +709,7 @@
     "common:user.search": "Iskanje uporabnika",
     "common:user.searchPlaceholder": "Iskanje uporabnikov...",
     "common:welcome.createhome": "Ustvari domačo stran",
+    "common:welcome.goadmin": "Administration",
     "common:welcome.subtitle": "Začnimo in ustvarimo domačo stran.",
     "common:welcome.title": "Dobrodošli na vašem wikiju!",
     "editor:assets.deleteAsset": "Izbriši vir",
