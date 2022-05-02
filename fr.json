@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "Purger la cache",
     "admin:utilities.contentSubtitle": "Divers outils pour les pages",
     "admin:utilities.contentTitle": "Contenu",
+    "admin:utilities.exportSubtitle": "Sauvegarder le contenu dans un fichier tarball pour la sauvegarde \/ migration",
+    "admin:utilities.exportTitle": "Exporter vers le disque",
     "admin:utilities.graphEndpointSubtitle": "Modifier le point de terminaison GraphQL pour Wiki.js",
     "admin:utilities.graphEndpointTitle": "Point de terminaison GraphQL",
     "admin:utilities.importv1Subtitle": "Migrer les données d'une précédente installation 1.x",

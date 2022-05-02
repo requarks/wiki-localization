@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "Tühjenda vahemälu",
     "admin:utilities.contentSubtitle": "Mitmesugused tööriistad lehtede jaoks",
     "admin:utilities.contentTitle": "Sisu",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "Muuda Wiki.js-i GraphQL-i lõpp-punkti",
     "admin:utilities.graphEndpointTitle": "GraphQL lõpp-punkt",
     "admin:utilities.importv1Subtitle": "Migreeri andmed versiooni 1.x paigaldusest",

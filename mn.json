@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "Кэшийг цэвэрлэх",
     "admin:utilities.contentSubtitle": "Хуудасны янз бүрийн хэрэгсэл",
     "admin:utilities.contentTitle": "Агуулга",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "Wiki.js-ийн GraphQL төгсгөлийг өөрчлөх",
     "admin:utilities.graphEndpointTitle": "GraphQL Endpoint",
     "admin:utilities.importv1Subtitle": "Өмнөх 1.x суулгацын өгөгдлийг нааш шилжүүлэх",

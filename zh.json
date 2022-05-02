@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "刷新缓存",
     "admin:utilities.contentSubtitle": "页面工具",
     "admin:utilities.contentTitle": "内容",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "更改 Wiki.js 的 GraphQL 端点",
     "admin:utilities.graphEndpointTitle": "GraphQL 端点",
     "admin:utilities.importv1Subtitle": "从 1.x 版本中迁移数据",

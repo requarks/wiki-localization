@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "Vyprázdnit Cache",
     "admin:utilities.contentSubtitle": "Různé nástroje pro stránky",
     "admin:utilities.contentTitle": "Obsah",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "Změnit GraphQL endpoint pro Wiki.js",
     "admin:utilities.graphEndpointTitle": "GraphQL Endpoint",
     "admin:utilities.importv1Subtitle": "Migrace dat z předchozí instalace 1.x.",

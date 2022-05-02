@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "Svuota la cache",
     "admin:utilities.contentSubtitle": "Tools per le pagine",
     "admin:utilities.contentTitle": "Contenuto",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "Cambia l'endpoint GraphQL per Wiki.js",
     "admin:utilities.graphEndpointTitle": "Endpoint GraphQL",
     "admin:utilities.importv1Subtitle": "Migrare i dati da una precedente installazione 1.x.",

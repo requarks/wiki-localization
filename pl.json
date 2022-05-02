@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "Opróżnij pamięć podręczną",
     "admin:utilities.contentSubtitle": "Różne narzędzia do stron",
     "admin:utilities.contentTitle": "Zawartość",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "Zmień punkt końcowy GraphQL dla Wiki.js",
     "admin:utilities.graphEndpointTitle": "Punkt końcowy GraphQL",
     "admin:utilities.importv1Subtitle": "Przeprowadź migrację danych z poprzedniej instalacji 1.x",

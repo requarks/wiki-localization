@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "캐시 플러시",
     "admin:utilities.contentSubtitle": "페이지를 위한 다양한 도구",
     "admin:utilities.contentTitle": "콘텐츠",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "Wiki.js에 대한 GraphQL 종점 변경",
     "admin:utilities.graphEndpointTitle": "GraphQL 종점",
     "admin:utilities.importv1Subtitle": "이전 1.x 설치에서 데이터 마이그레이션",

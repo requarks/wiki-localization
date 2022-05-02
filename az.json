@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "Önbelleği (cache) təmizləyin",
     "admin:utilities.contentSubtitle": "Səhifələr üçün müxtəlif alətlər",
     "admin:utilities.contentTitle": "Məzmun",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "Wiki.js üçün GraphQL müraciət ünvanını dəyişdirin",
     "admin:utilities.graphEndpointTitle": "GraphQL müraciət ünvanı",
     "admin:utilities.importv1Subtitle": "Əvvəlki 1.x məlumatlarını köçürün",

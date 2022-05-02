@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "Hreinsa skyndiminni",
     "admin:utilities.contentSubtitle": "Ýmis verkfæri fyrir síður",
     "admin:utilities.contentTitle": "Efni",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "Breyta GraphQL endapunkti fyrir Wiki.js",
     "admin:utilities.graphEndpointTitle": "GraphQL endapunktur",
     "admin:utilities.importv1Subtitle": "Flytja gögn frá fyrri 1.x uppsetningu",

@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "Rensa cache",
     "admin:utilities.contentSubtitle": "Verktyg för sidor",
     "admin:utilities.contentTitle": "Innehåll",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "Ändra slutpunkten för GraphQL för Wiki.js",
     "admin:utilities.graphEndpointTitle": "GraphQL Endpoint",
     "admin:utilities.importv1Subtitle": "Överför data från en tidigare 1.x-installation",

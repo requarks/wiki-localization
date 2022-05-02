@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "ล้างแคช",
     "admin:utilities.contentSubtitle": "เครื่องมือต่าง ๆ สำหรับหน้า",
     "admin:utilities.contentTitle": "เนื้อหา",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "เปลี่ยนปลายทาง GraphQL สำหรับ Wiki.js",
     "admin:utilities.graphEndpointTitle": "GraphQL Endpoint",
     "admin:utilities.importv1Subtitle": "โอนย้ายข้อมูลจากการติดตั้งรุ่น 1.x",

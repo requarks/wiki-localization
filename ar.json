@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "ذاكرة التخزين المؤقت",
     "admin:utilities.contentSubtitle": "أدوات مختلفة للصفحات",
     "admin:utilities.contentTitle": "المحتوي",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "تغيير نقطة النهاية GraphQL ل Wiki.js",
     "admin:utilities.graphEndpointTitle": "GraphQL Endpoint",
     "admin:utilities.importv1Subtitle": "ترحيل البيانات من تثبيت 1.x السابق",

@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "Flush Cache",
     "admin:utilities.contentSubtitle": "Various tools for pages",
     "admin:utilities.contentTitle": "Content",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "Change the GraphQL endpoint for Wiki.js",
     "admin:utilities.graphEndpointTitle": "GraphQL Endpoint",
     "admin:utilities.importv1Subtitle": "Migrate data from a previous 1.x installation",

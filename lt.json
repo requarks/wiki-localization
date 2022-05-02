@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "Išvalyti spartinančiąją atmintį",
     "admin:utilities.contentSubtitle": "Įvairūs puslapių įrankiai",
     "admin:utilities.contentTitle": "Turinys",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "Pakeiskite „Wiki.js“ „GraphQL“ baigtį",
     "admin:utilities.graphEndpointTitle": "GraphQL galinis punktas",
     "admin:utilities.importv1Subtitle": "Perkelti duomenis iš ankstesnio 1.x diegimo",

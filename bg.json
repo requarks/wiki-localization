@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "Изчистване на кеша",
     "admin:utilities.contentSubtitle": "Различни инструменти за страници",
     "admin:utilities.contentTitle": "Съдържание",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "Променете контактната точка на GraphQL за Wiki.js",
     "admin:utilities.graphEndpointTitle": "Контактна точка на GraphQL",
     "admin:utilities.importv1Subtitle": "Мигриране на данни от предишна инсталация 1. x",

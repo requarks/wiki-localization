@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "Izprazni predpomnilnik",
     "admin:utilities.contentSubtitle": "Različna orodja za strani",
     "admin:utilities.contentTitle": "Vsebina",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "Spremenite dostopno točko GraphQL za Wiki.js",
     "admin:utilities.graphEndpointTitle": "Dostopna točka GraphQL",
     "admin:utilities.importv1Subtitle": "Migracija podatkov iz prejšnje namestitve 1.x",

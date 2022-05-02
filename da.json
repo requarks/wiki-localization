@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "Tøm cache",
     "admin:utilities.contentSubtitle": "Forskellige værktøjer til sider",
     "admin:utilities.contentTitle": "Indhold",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "Skift GraphQL-endepunktet for Wiki.js",
     "admin:utilities.graphEndpointTitle": "GraphQL Endpoint",
     "admin:utilities.importv1Subtitle": "Migrer data fra en tidligere 1.x installation",

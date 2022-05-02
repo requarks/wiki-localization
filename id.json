@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "Hapus Cache",
     "admin:utilities.contentSubtitle": "Berbagai alat untuk halaman",
     "admin:utilities.contentTitle": "Konten",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "Ubah titik akhir GraphQL untuk Wiki.js",
     "admin:utilities.graphEndpointTitle": "Titik Akhir GraphQL",
     "admin:utilities.importv1Subtitle": "Migrasikan data dari instalasi 1.x sebelumnya",

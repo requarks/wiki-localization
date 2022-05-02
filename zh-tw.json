@@ -456,6 +456,8 @@
     "admin:utilities.cacheTitle": "清除快取",
     "admin:utilities.contentSubtitle": "各種頁面工具",
     "admin:utilities.contentTitle": "內容",
+    "admin:utilities.exportSubtitle": "Save content to tarball for backup \/ migration",
+    "admin:utilities.exportTitle": "Export to Disk",
     "admin:utilities.graphEndpointSubtitle": "變更Wiki.js的GraphQL端點",
     "admin:utilities.graphEndpointTitle": "GraphQL端點",
     "admin:utilities.importv1Subtitle": "從先前的1.x安裝遷移數據",
