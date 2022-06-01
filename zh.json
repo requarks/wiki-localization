@@ -676,7 +676,7 @@
     "common:page.share": "分享",
     "common:page.tags": "标签",
     "common:page.tagsMatching": "匹配标签的页面",
-    "common:page.toc": "目录",
+    "common:page.toc": "页面内容",
     "common:page.unpublished": "未发布",
     "common:page.unpublishedWarning": "此页面尚未发布。",
     "common:page.versionId": "版本 ID {{id}}",
