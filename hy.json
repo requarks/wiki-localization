@@ -699,7 +699,7 @@
     "common:sidebar.root": "(root)",
     "common:unauthorized.action.create": "Դուք չեք կարող ստեղծել էջ։",
     "common:unauthorized.action.download": "Դուք չեք կարող ներբեռնել էջի բովանդակությունը:",
-    "common:unauthorized.action.downloadVersion": "You cannot download the content for this page version.",
+    "common:unauthorized.action.downloadVersion": "Դուք չեք կարող ներբեռնել էջի` այս տարբերակի բովանդակությունը:",
     "common:unauthorized.action.edit": "Դուք չեք կարող խմբագրել էջը:",
     "common:unauthorized.action.history": "Դուք չեք կարող տեսնել էջի պատմությունը:",
     "common:unauthorized.action.source": "Դուք չեք կարող տեսնել էջի աղբյուրը:",
