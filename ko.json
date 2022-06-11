@@ -209,6 +209,8 @@
     "admin:mail.senderName": "보내는 사람 이름",
     "admin:mail.smtp": "SMTP 설정",
     "admin:mail.smtpHost": "호스트",
+    "admin:mail.smtpName": "Client Identifying Hostname",
+    "admin:mail.smtpNameHint": "An optional name to send to the SMTP server to identify your mailer. Leave empty to use server hostname. For Google Workspace customers, this should be your main domain name.",
     "admin:mail.smtpPort": "포트",
     "admin:mail.smtpPortHint": "일반적인 건 465 (권장), 587 혹은 25예요.",
     "admin:mail.smtpPwd": "암호",

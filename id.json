@@ -209,6 +209,8 @@
     "admin:mail.senderName": "Nama pengirim",
     "admin:mail.smtp": "Pengaturan SMTP",
     "admin:mail.smtpHost": "Host",
+    "admin:mail.smtpName": "Client Identifying Hostname",
+    "admin:mail.smtpNameHint": "An optional name to send to the SMTP server to identify your mailer. Leave empty to use server hostname. For Google Workspace customers, this should be your main domain name.",
     "admin:mail.smtpPort": "Port",
     "admin:mail.smtpPortHint": "Biasanya 465 (disarankan), 587 atau 25.",
     "admin:mail.smtpPwd": "Kata Sandi",

@@ -209,6 +209,8 @@
     "admin:mail.senderName": "Absender Name",
     "admin:mail.smtp": "SMTP-Einstellungen",
     "admin:mail.smtpHost": "Server",
+    "admin:mail.smtpName": "Client Identifying Hostname",
+    "admin:mail.smtpNameHint": "An optional name to send to the SMTP server to identify your mailer. Leave empty to use server hostname. For Google Workspace customers, this should be your main domain name.",
     "admin:mail.smtpPort": "Port",
     "admin:mail.smtpPortHint": "Normalerweise 465 (empfohlen), 587 oder 25.",
     "admin:mail.smtpPwd": "Passwort",

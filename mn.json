@@ -209,6 +209,8 @@
     "admin:mail.senderName": "Илгээгчийн нэр",
     "admin:mail.smtp": "SMTP тохиргоо",
     "admin:mail.smtpHost": "Хост",
+    "admin:mail.smtpName": "Client Identifying Hostname",
+    "admin:mail.smtpNameHint": "An optional name to send to the SMTP server to identify your mailer. Leave empty to use server hostname. For Google Workspace customers, this should be your main domain name.",
     "admin:mail.smtpPort": "Порт",
     "admin:mail.smtpPortHint": "Ихэвчлэн 465 (санал болгосон), 587 эсвэл 25.",
     "admin:mail.smtpPwd": "Нууц үг",

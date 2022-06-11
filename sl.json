@@ -209,6 +209,8 @@
     "admin:mail.senderName": "Ime pošiljatelja",
     "admin:mail.smtp": "Nastavitve SMTP",
     "admin:mail.smtpHost": "Gostitelj",
+    "admin:mail.smtpName": "Client Identifying Hostname",
+    "admin:mail.smtpNameHint": "An optional name to send to the SMTP server to identify your mailer. Leave empty to use server hostname. For Google Workspace customers, this should be your main domain name.",
     "admin:mail.smtpPort": "Vrata",
     "admin:mail.smtpPortHint": "Običajno 465 (priporočeno), 587 ali 25.",
     "admin:mail.smtpPwd": "Geslo",

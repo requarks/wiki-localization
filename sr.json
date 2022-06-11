@@ -209,6 +209,8 @@
     "admin:mail.senderName": "Име пошиљаоца",
     "admin:mail.smtp": "Подешавања SMTP-а",
     "admin:mail.smtpHost": "Домаћин",
+    "admin:mail.smtpName": "Client Identifying Hostname",
+    "admin:mail.smtpNameHint": "An optional name to send to the SMTP server to identify your mailer. Leave empty to use server hostname. For Google Workspace customers, this should be your main domain name.",
     "admin:mail.smtpPort": "Порт",
     "admin:mail.smtpPortHint": "Обично 465 (препоручено), 587 или 25.",
     "admin:mail.smtpPwd": "Лозинка",

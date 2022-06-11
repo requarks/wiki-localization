@@ -209,6 +209,8 @@
     "admin:mail.senderName": "Numele expeditorului",
     "admin:mail.smtp": "Setări SMTP",
     "admin:mail.smtpHost": "Gazdă",
+    "admin:mail.smtpName": "Client Identifying Hostname",
+    "admin:mail.smtpNameHint": "An optional name to send to the SMTP server to identify your mailer. Leave empty to use server hostname. For Google Workspace customers, this should be your main domain name.",
     "admin:mail.smtpPort": "Port",
     "admin:mail.smtpPortHint": "De obicei 465 (recomandat), 587 sau 25.",
     "admin:mail.smtpPwd": "Parolă",

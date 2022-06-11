@@ -209,6 +209,8 @@
     "admin:mail.senderName": "نام فرستنده",
     "admin:mail.smtp": "تنظیمات SMTP",
     "admin:mail.smtpHost": "میزبان",
+    "admin:mail.smtpName": "Client Identifying Hostname",
+    "admin:mail.smtpNameHint": "An optional name to send to the SMTP server to identify your mailer. Leave empty to use server hostname. For Google Workspace customers, this should be your main domain name.",
     "admin:mail.smtpPort": "پورت",
     "admin:mail.smtpPortHint": "معمولا ۴۶۵ (توصیه می شود) ، ۵۸۷ یا 25.",
     "admin:mail.smtpPwd": "رمز عبور",

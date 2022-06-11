@@ -209,6 +209,8 @@
     "admin:mail.senderName": "Afsender navn",
     "admin:mail.smtp": "SMTP-indstillinger",
     "admin:mail.smtpHost": "Vært",
+    "admin:mail.smtpName": "Client Identifying Hostname",
+    "admin:mail.smtpNameHint": "An optional name to send to the SMTP server to identify your mailer. Leave empty to use server hostname. For Google Workspace customers, this should be your main domain name.",
     "admin:mail.smtpPort": "Port",
     "admin:mail.smtpPortHint": "Normalt 465 (anbefales), 587 eller 25.",
     "admin:mail.smtpPwd": "Adgangskode",

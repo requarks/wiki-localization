@@ -209,6 +209,8 @@
     "admin:mail.senderName": "Saatja nimi",
     "admin:mail.smtp": "SMTP seaded",
     "admin:mail.smtpHost": "Meiliserver",
+    "admin:mail.smtpName": "Client Identifying Hostname",
+    "admin:mail.smtpNameHint": "An optional name to send to the SMTP server to identify your mailer. Leave empty to use server hostname. For Google Workspace customers, this should be your main domain name.",
     "admin:mail.smtpPort": "Port",
     "admin:mail.smtpPortHint": "Tavaliselt 465 (soovitatav), 587 või 25.",
     "admin:mail.smtpPwd": "Parool",

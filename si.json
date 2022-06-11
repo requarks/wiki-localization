@@ -209,6 +209,8 @@
     "admin:mail.senderName": "Senderගේ නම",
     "admin:mail.smtp": "SMTP Settings",
     "admin:mail.smtpHost": "Host",
+    "admin:mail.smtpName": "Client Identifying Hostname",
+    "admin:mail.smtpNameHint": "An optional name to send to the SMTP server to identify your mailer. Leave empty to use server hostname. For Google Workspace customers, this should be your main domain name.",
     "admin:mail.smtpPort": "Port එක",
     "admin:mail.smtpPortHint": "සාමාන්‍යයෙන් 465 (recommended port එක), 587 හෝ 25 වෙන්නත් පුළුවන්.",
     "admin:mail.smtpPwd": "Password එක",

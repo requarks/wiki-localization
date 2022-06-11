@@ -209,6 +209,8 @@
     "admin:mail.senderName": "ชื่อผู้ส่ง",
     "admin:mail.smtp": "การตั้งค่า SMTP",
     "admin:mail.smtpHost": "โฮสต์",
+    "admin:mail.smtpName": "Client Identifying Hostname",
+    "admin:mail.smtpNameHint": "An optional name to send to the SMTP server to identify your mailer. Leave empty to use server hostname. For Google Workspace customers, this should be your main domain name.",
     "admin:mail.smtpPort": "พอร์ต",
     "admin:mail.smtpPortHint": "โดยปกติเป็น 465 (แนะนำ), 587 หรือ 25",
     "admin:mail.smtpPwd": "รหัสผ่าน",

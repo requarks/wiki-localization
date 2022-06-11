@@ -209,6 +209,8 @@
     "admin:mail.senderName": "அனுப்புநர் பெயர்",
     "admin:mail.smtp": "SMTP அமைப்புகள்",
     "admin:mail.smtpHost": "ஹோஸ்ட்",
+    "admin:mail.smtpName": "Client Identifying Hostname",
+    "admin:mail.smtpNameHint": "An optional name to send to the SMTP server to identify your mailer. Leave empty to use server hostname. For Google Workspace customers, this should be your main domain name.",
     "admin:mail.smtpPort": "முணையம்",
     "admin:mail.smtpPortHint": "பொதுவாக 465 (பரிந்துரைக்கப்பட்டது), 587 அல்லது 25.",
     "admin:mail.smtpPwd": "கடவுச்சொல்",
