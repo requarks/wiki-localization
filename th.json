@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "รูปภาพที่จะใช้เป็นโลโก้ สนับสนุนไฟล์ SVG, PNG, JPG ในอัตราส่วนจตุรัส 34x34 พิกเซลหรือใหญ่กว่า คลิกที่ปุ่มด้านขวาเพื่ออัปโหลดภาพใหม่",
     "admin:general.metaRobots": "Meta Robots",
     "admin:general.metaRobotsHint": "ค่าเริ่มต้น: Index, Follow นอกจากนี้ยังสามารถตั้งค่าได้ต่อหน้า",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "บันทึกการกำหนดค่าเว็บไซต์สำเร็จแล้ว",
     "admin:general.siteBranding": "แบรนด์ดิ้งเว็บไซต์",
     "admin:general.siteDescription": "รายละเอียดเว็บไซต์",

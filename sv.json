@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Välj en bild att använda som logga. SVG, PNG och JPG stöds i kvadratiskt format med storleken 34x34 pixlar eller större. Tryck på knappen till höger för att ladda upp en ny bild.",
     "admin:general.metaRobots": "Meta-robotar",
     "admin:general.metaRobotsHint": "Standard: Index, Follow. Kan också ställas in per sida.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Sidans konfiguration har sparats.",
     "admin:general.siteBranding": "Webbplats Branding",
     "admin:general.siteDescription": "Beskrivning av webbplatsen",

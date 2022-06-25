@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Καθορίστε μια εικόνα που θα χρησιμοποιηθεί ως λογότυπο. SVG, PNG, JPG υποστηρίζονται, σε τετραγωνικό λόγο, 34x34 εικονοστοιχεία ή μεγαλύτερα. Κάντε κλικ στο κουμπί στα δεξιά για να ανεβάσετε μια νέα εικόνα.",
     "admin:general.metaRobots": "Μέτα Ρομπότ",
     "admin:general.metaRobotsHint": "Προεπιλογή: Ευρετήριο, Ακολουθήστε. Μπορεί επίσης να οριστεί ανά σελίδα.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Η ρύθμισης του ιστότοπου αποθηκεύτηκε με επιτυχία.",
     "admin:general.siteBranding": "Επωνυμία ιστοσελίδας",
     "admin:general.siteDescription": "Περιγραφή ιστοσελίδας",

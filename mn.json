@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Лого болгон ашиглах зургийг зааж өгнө. SVG, PNG, JPG нь 34х34 пиксел ба түүнээс дээш квадрат харьцаагаар дэмжигддэг. Шинэ зураг ачаалахын тулд баруун талд байгаа товч дээр дарна уу.",
     "admin:general.metaRobots": "Мета робот",
     "admin:general.metaRobotsHint": "Өгөгдмөл: Индекс, Дагах. Нэг хуудсанд зориулан тохируулах боломжтой.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Сайтын тохиргоог амжилттай хадгаллаа.",
     "admin:general.siteBranding": "Сайтын брэнд",
     "admin:general.siteDescription": "Сайтын тайлбар",

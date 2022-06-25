@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Tilgreindu mynd sem á að nota sem merki. SVG, PNG, JPG eru studd, í ferningshlutfalli, 34x34 pixlar eða stærri. Smelltu á hnappinn til hægri til að hlaða upp nýrri mynd.",
     "admin:general.metaRobots": "Meta vélmenni",
     "admin:general.metaRobotsHint": "Sjálfgefið: Index, Follow. Einnig stillanlegt á hverri undirsíðu.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Stillingar uppfærðar.",
     "admin:general.siteBranding": "Síðuþema",
     "admin:general.siteDescription": "Lýsing síðu",

@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Chỉ định một hình ảnh để sử dụng làm logo. SVG, PNG, JPG được hỗ trợ, theo tỷ lệ vuông, 34x34 pixels hoặc lớn hơn. Nhấp vào nút bên phải để tải lên một hình ảnh mới.",
     "admin:general.metaRobots": "Meta Robots",
     "admin:general.metaRobotsHint": "Default: Index, Follow. Can also be set on a per-page basis.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Cấu hình site đã được lưu",
     "admin:general.siteBranding": "Site Branding",
     "admin:general.siteDescription": "Site Description",

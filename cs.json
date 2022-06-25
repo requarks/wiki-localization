@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Určete obrázek, který chcete použít jako logo. Podporovány jsou SVG, PNG, JPG ve čtvercovém poměru 34 x 34 pixelů nebo větší. Kliknutím na tlačítko vpravo nahrajte nový obrázek.",
     "admin:general.metaRobots": "Meta Roboti",
     "admin:general.metaRobotsHint": "Výchozí: Index, Follow. Lze také nastavit na základě jednotlivých stránek.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Konfigurace webu úspěšně uložena.",
     "admin:general.siteBranding": "Značení stránky",
     "admin:general.siteDescription": "Popisek Stránky",

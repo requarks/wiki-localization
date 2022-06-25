@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "로고로 사용할 이미지를 지정합니다. 정사각형 비율의 SVG, PNG, JPG가 지원되며, 34x34 픽셀 이상이어야 합니다. 오른쪽 버튼을 클릭하여 새 이미지를 업로드하세요.",
     "admin:general.metaRobots": "메타 로봇",
     "admin:general.metaRobotsHint": "기본값 : Index, Follow. 페이지 단위로 설정할 수 있습니다.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "사이트 구성이 성공적으로 저장되었습니다.",
     "admin:general.siteBranding": "사이트 브랜딩",
     "admin:general.siteDescription": "사이트 설명",

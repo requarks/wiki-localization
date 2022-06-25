@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "בחר תמונה שתשמש כלוגו. SVG, PNG, JPG נתמכים, ביחס מרובע, 34x34 פיקסלים ומעלה. לחץ על הכפתור משמאל כדי להעלות תמונה חדשה.",
     "admin:general.metaRobots": "רובוטי מטא",
     "admin:general.metaRobotsHint": "ברירת מחדל:  Index, Follow. ניתן גם להגדיר על בסיס עמוד.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "ההגדרות נשמרו בהצלחה.",
     "admin:general.siteBranding": "מיתוג האתר",
     "admin:general.siteDescription": "תיאור האתר",

@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Logo olarak kullanılacak bir resim belirtin. SVG, PNG, JPG, 34x34 piksel veya daha büyük bir kare oranı, desteklenir. Yeni bir resim yüklemek için sağdaki düğmeye tıklayın.",
     "admin:general.metaRobots": "Meta Robotlar",
     "admin:general.metaRobotsHint": "Varsayılan: Dizin, Takip et. Ayrıca sayfa başına da ayarlanabilir.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Site yapılandırması başarıyla kaydedildi.",
     "admin:general.siteBranding": "Site Markası",
     "admin:general.siteDescription": "Site Açıklaması",

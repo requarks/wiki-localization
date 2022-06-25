@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "指定一個影像檔作為標誌。支援的格式有SVG，PNG，JPG。解析度為34x34像素或更大的正方形比例。點擊右側按鈕上傳新影像檔。",
     "admin:general.metaRobots": "Meta Robots",
     "admin:general.metaRobotsHint": "預設值: Index, Follow. 也可以按頁設定",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "網站設定儲存成功。",
     "admin:general.siteBranding": "網站品牌",
     "admin:general.siteDescription": "網站描述",

@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "حدد صورة لاستخدامها كشعار. يتم دعم SVG ، PNG ، JPG ، بمعدل مربع ، 34x34 بكسل أو أكبر. انقر فوق الزر الموجود على اليمين لتحميل صورة جديدة.",
     "admin:general.metaRobots": "Meta Robots",
     "admin:general.metaRobotsHint": "الافتراضي: فهرس ، اتبع. ويمكن أيضا تعيين علي أساس كل صفحه.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "تم حفظ تكوين الموقع بنجاح.",
     "admin:general.siteBranding": "العلامة التجارية للموقع",
     "admin:general.siteDescription": "وصف الموقع",

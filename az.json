@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Loqo kimi istifadə ediləcək şəkil göstərin. SVG, PNG, JPG, 34x34 piksel və ya daha böyük bir kvadrat nisbətində dəstəklənir. Yeni bir şəkil yükləmək üçün sağdakı düyməni basın.",
     "admin:general.metaRobots": "Meta robotlar",
     "admin:general.metaRobotsHint": "Susmaya görə: İndeks, İzləmə. Hər səhifə üçün müəyyən edilə bilər.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Sayt konfiqurasiyası uğurla qeyd edildi.",
     "admin:general.siteBranding": "Sayt brendi",
     "admin:general.siteDescription": "Saytın təsviri",

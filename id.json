@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Tentukan gambar yang akan digunakan sebagai logo. Format yang didukung adalah SVG, PNG, JPG, dalam rasio persegi, 34x34 piksel atau lebih besar. Klik tombol di sebelah kanan untuk mengunggah gambar baru.",
     "admin:general.metaRobots": "Robot Meta",
     "admin:general.metaRobotsHint": "Bawaan: Index, Follow. Dapat juga diatur untuk setiap halaman.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Konfigurasi situs berhasil disimpan.",
     "admin:general.siteBranding": "Pencitraan Situs",
     "admin:general.siteDescription": "Deskripsi Situs",

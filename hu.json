@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "A logóként használni kívánt kép megadása. Négyzetes arányű, minimum 34x34 pixel méretű SVG, PNG, JPG képek támogatottak. A jobb oldali gombra kattintva lehet feltölteni új képet.",
     "admin:general.metaRobots": "Meta robotok",
     "admin:general.metaRobotsHint": "Alapértelmezés szerint: Index, Follow. Oldalanként is beállítható.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Az oldal beállításai sikeresen elmentve.",
     "admin:general.siteBranding": "Webhely branding",
     "admin:general.siteDescription": "Oldal leírás",

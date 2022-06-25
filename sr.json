@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Наведите слику која ће се користити као логотип. Подржани су SVG, PNG, JPG, у квадратној размери, 34x34 пиксела или већим. Кликните на дугме са десне стране да бисте поставили нову слику.",
     "admin:general.metaRobots": "Мета Роботи",
     "admin:general.metaRobotsHint": "Подразумевано: Index, Follow. Може се подесити и по страници.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Конфигурација сајта је успешно сачувана.",
     "admin:general.siteBranding": "Брендирање сајта",
     "admin:general.siteDescription": "Опис сајта",

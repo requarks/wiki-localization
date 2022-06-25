@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "குறிப்படத்தை பயன்படுத்த ஒரு படத்தைக் குறிப்பிடவும். SVG, PNG, JPG ஆகியவை சதுர விகிதத்தில், 34x34 பிக்சல்கள் அல்லது பெரியதாக ஆதரிக்கப்படுகின்றன. புதிய படத்தைப் பதிவேற்ற வலது புறத்தில் உள்ள பொத்தானைக் கிளிக் செய்யவும்.",
     "admin:general.metaRobots": "மெட்டா ரோபோக்கள்",
     "admin:general.metaRobotsHint": "இயல்புநிலை: பொருளறி, பின்பற்று (Index, Follow). ஒரு பக்க அடிப்படையிலும் அமைக்கலாம்.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "தள உள்ளமைவு வெற்றிகரமாகச் சேமிக்கப்பட்டது.",
     "admin:general.siteBranding": "தள பிராண்டிங்",
     "admin:general.siteDescription": "தள விளக்கம்",

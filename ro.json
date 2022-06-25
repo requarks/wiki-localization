@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Specifică o imagine pentru a fi utilizată ca logo. SVG, PNG, JPG sunt acceptate, într-un raport pătrat, 34x34 pixeli sau mai mare. Apasă pe butonul din dreapta pentru a încărca o nouă imagine.",
     "admin:general.metaRobots": "Meta Roboți",
     "admin:general.metaRobotsHint": "Implicit: Index, Follow. Poate fi setat și pe pagină.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Configurarea site-ului a fost salvată cu succes.",
     "admin:general.siteBranding": "Marcarea site-ului",
     "admin:general.siteDescription": "Descrierea siteului",

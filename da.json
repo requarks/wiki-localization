@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Angiv et billede, der skal bruges som logo. SVG, PNG, JPG understøttes i et kvadratforhold på 34x34 pixels eller større. Klik på knappen til højre for at uploade et nyt billede.",
     "admin:general.metaRobots": "Meta-robotter",
     "admin:general.metaRobotsHint": "Standard: Indeks, følg. Kan også indstilles på en side-basis.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Webstedskonfiguration blev gemt.",
     "admin:general.siteBranding": "Site branding",
     "admin:general.siteDescription": "Beskrivelse af websted",

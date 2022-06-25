@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Määritä kuva, jota käytetään logona. SVG-, PNG- ja JPG-tiedostoja tuetaan neliösuhteessa, vähintään 34x34 pikseliä. Lähetä uusi kuva napsauttamalla oikealla olevaa painiketta.",
     "admin:general.metaRobots": "Metarobotit",
     "admin:general.metaRobotsHint": "Oletus: Index, Follow. Voidaan myös asettaa sivukohtaisesti.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Sivuston asetukset tallennettu.",
     "admin:general.siteBranding": "Sivuston brändäys",
     "admin:general.siteDescription": "Sivuston kuvaus",

@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Вкажіть зображення, яке використовуватиме як логотип. SVG, PNG, JPG підтримуються, у квадратному співвідношенні, 34x34 пікселів або більше. Натисніть кнопку праворуч, щоб завантажити нове зображення.",
     "admin:general.metaRobots": "Мета-тег Robots",
     "admin:general.metaRobotsHint": "За замовчуванням: Index, Follow. Може бути задано окремо для кожної сторінки.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Конфігурацію сайту успішно збережено.",
     "admin:general.siteBranding": "Брендинг сайту",
     "admin:general.siteDescription": "Опис сайту",

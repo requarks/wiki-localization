@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Especifiqueu una imatge per utilitzar-la com a logotip. S'admeten SVG, PNG, JPG, en proporció quadrada, de 34x34 píxels o més. Feu clic al botó de la dreta per penjar una imatge nova.",
     "admin:general.metaRobots": "Meta Robots",
     "admin:general.metaRobotsHint": "Per defecte: Índex, Segueix. També es pot configurar per pàgina.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "La configuració del lloc s'ha guardat correctament",
     "admin:general.siteBranding": "Marca del lloc web",
     "admin:general.siteDescription": "Descripció del lloc",

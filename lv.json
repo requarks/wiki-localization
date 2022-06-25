@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Norādiet attēlu, ko izmantot kā logotipu. Tiek atbalstīti SVG, PNG, JPG, kvadrāta attiecība 34 x 34 pikseļi vai lielāki. Noklikšķiniet uz pogas labajā pusē, lai augšupielādētu jaunu attēlu.",
     "admin:general.metaRobots": "Meta roboti",
     "admin:general.metaRobotsHint": "Noklusējums: indekss, sekojums. Var iestatīt arī katrai lapai.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Vietnes konfigurācija ir veiksmīgi saglabāta.",
     "admin:general.siteBranding": "Vietnes zīmolrade",
     "admin:general.siteDescription": "Vietnes apraksts",

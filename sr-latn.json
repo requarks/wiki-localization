@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Specify an image to use as the logo. SVG, PNG, JPG are supported, in a square ratio, 34x34 pixels or larger. Click the button on the right to upload a new image.",
     "admin:general.metaRobots": "Meta Robots",
     "admin:general.metaRobotsHint": "Default: Index, Follow. Can also be set on a per-page basis.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Konfiguracija site-a je uspešno sačuvana.",
     "admin:general.siteBranding": "Site Branding",
     "admin:general.siteDescription": "Site Description",

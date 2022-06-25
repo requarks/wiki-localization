@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Nurodykite paveikslėlį, kurį norite naudoti kaip logotipą. Palaikomos SVG, PNG, JPG, kurių kvadratinis santykis yra ne mažesnis kaip 34x34 taškų. Paspauskite ant mygtuko dešinėje, kad įkeltumėte naują vaizdą.",
     "admin:general.metaRobots": "Meta robotai",
     "admin:general.metaRobotsHint": "Numatytasis: Index, Follow. Taip pat galima nustatyti kiekvienam puslapiui atskirai.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Svetainės konfigūracija sėkmingai įrašyta.",
     "admin:general.siteBranding": "Svetainės prekės ženklas",
     "admin:general.siteDescription": "Svetainės aprašymas",

@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Escolha uma imagem para usar como logo. Imagens em SVG, PNG e JPG são aceitas, em proporção quadrada, com no mínimo 34 × 34 pixels. Clique no botão à direita para enviar uma nova imagem.",
     "admin:general.metaRobots": "Meta Robots",
     "admin:general.metaRobotsHint": "Padrão: Index, Follow. Também pode ser definido individualmente por página.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "As configurações do site foram salvas com êxito.",
     "admin:general.siteBranding": "Marca do site",
     "admin:general.siteDescription": "Descrição do site",

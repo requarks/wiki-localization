@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Wybierz obraz logo. Obsługiwane formaty to SVG, PNG i JPG – najlepiej kwadratowe, 34x34 pikseli lub większe. Kliknij przycisk po prawej, aby dodać nowy obraz.",
     "admin:general.metaRobots": "Meta Roboty",
     "admin:general.metaRobotsHint": "Domyślnie: Index, Follow. Może być również ustawione dla każdej strony z osobna.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Konfiguracja zapisana pomyślnie.",
     "admin:general.siteBranding": "Branding witryny",
     "admin:general.siteDescription": "Opis strony",

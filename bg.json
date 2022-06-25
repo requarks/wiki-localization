@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Задайте изображение, което да се използва като лого. Поддържат се SVG, PNG, JPG в квадратно съотношение, размер 34x34 пиксела или по-голям. Щракнете върху бутона вдясно, за да качите ново изображение.",
     "admin:general.metaRobots": "Мета роботи",
     "admin:general.metaRobotsHint": "По подразбиране: индекс, следване. Може да се зададе и на базата на страница.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Конфигурацията на сайта бе записана успешно.",
     "admin:general.siteBranding": "Марка на сайта",
     "admin:general.siteDescription": "Описание на сайта",

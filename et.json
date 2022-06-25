@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Määrake logona kasutatav pilt. Toetatud on võrdkülgne SVG, PNG, JPG 34x34 pikslit või rohkem. Uue pildi üleslaadimiseks klõpsake paremal olevat nuppu.",
     "admin:general.metaRobots": "Meta robotid",
     "admin:general.metaRobotsHint": "Vaikimisi: Index, Follow. Saab seada ka leheküljepõhiselt.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Saidi konfiguratsioon salvestati edukalt.",
     "admin:general.siteBranding": "Saidi brändimine",
     "admin:general.siteDescription": "Saidi kirjeldus",

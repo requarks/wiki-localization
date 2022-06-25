@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "Odredite sliku koja će se koristiti logotip. Podržane su datoteke tipa SVG, PNG i JPG, u kvadratnom omjeru, 34x34 piksela ili više. Kliknite na tipku na desnoj strani kako biste prenijeli novu sliku.",
     "admin:general.metaRobots": "Meta-roboti",
     "admin:general.metaRobotsHint": "Zadano: Index, Follow. Može se posebno postaviti i po stranici.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "Konfiguracija web-mjesta uspješno je spremljena.",
     "admin:general.siteBranding": "Brendiranje web-mjesta",
     "admin:general.siteDescription": "Opis web-mjesta",

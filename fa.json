@@ -151,6 +151,8 @@
     "admin:general.logoUrlHint": "یک تصویر برای لوگو وارد کنید ، تصویر باید با یکی از فرمت های SVG , PNG , JPG و در اندازه 34*34 پیکسل باشد. برای آپلود تصویر جدید رو دکمه زیر کلیک کنید.",
     "admin:general.metaRobots": "ربات های متا",
     "admin:general.metaRobotsHint": "پیش فرض: شاخص گذاری، دنبال کردن. همچنین می توانید بر اساس هر صفحه تنظیم کنید.",
+    "admin:general.pageExtensions": "Page Extensions",
+    "admin:general.pageExtensionsHint": "A comma-separated list of URL extensions that will be treated as pages. For example, adding md will treat \/foobar.md the same as \/foobar.",
     "admin:general.saveSuccess": "تنظیمات سایت با موفقیت ذخیره شد.",
     "admin:general.siteBranding": "نام تجاری سایت",
     "admin:general.siteDescription": "توضیحات سایت",
