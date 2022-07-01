@@ -719,7 +719,7 @@
     "common:welcome.createhome": "Crea la pàgina d'inici",
     "common:welcome.goadmin": "Administració",
     "common:welcome.subtitle": "Comença creant la pàgina principal.",
-    "common:welcome.title": "Welcome to your wiki!",
+    "common:welcome.title": "Benvingut a la teva wiki!",
     "editor:assets.deleteAsset": "Suprimeix l'arxiu",
     "editor:assets.deleteAssetConfirm": "Esteu segur que voleu suprimir els recursos",
     "editor:assets.deleteAssetWarn": "Aquesta acció no es pot desfer!",
