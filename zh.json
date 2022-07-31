@@ -493,7 +493,7 @@
     "auth:errors.tooManyAttemptsMsg": "短时间内失败次数过多，请在 {{time}} 后再尝试。",
     "auth:errors.userNotFound": "未找到用户",
     "auth:fields.email": "电子邮件地址",
-    "auth:fields.emailUser": "电子邮件地址 \/用户名",
+    "auth:fields.emailUser": "电子邮件地址 \/ 用户名",
     "auth:fields.name": "名字",
     "auth:fields.password": "密码",
     "auth:fields.username": "用户名",
