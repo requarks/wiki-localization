@@ -499,7 +499,7 @@
     "auth:fields.username": "Uživatelské jméno",
     "auth:fields.verifyPassword": "Ověření hesla",
     "auth:forgotPasswordCancel": "Zrušit",
-    "auth:forgotPasswordLink": "Zapomněl jste heslo?",
+    "auth:forgotPasswordLink": "Zapomněli jste heslo?",
     "auth:forgotPasswordLoading": "Žádání o obnovení hesla...",
     "auth:forgotPasswordSubtitle": "Zadejte svoji e-mailovou adresu pro obdržení instrukcí k obnovení Vašeho hesla:",
     "auth:forgotPasswordSuccess": "Zkontrolujte své e-maily pro pokyny k obnovení hesla!",
