@@ -686,7 +686,7 @@
     "common:page.delete": "Pagina verwijderen",
     "common:page.deleteSubtitle": "De pagina kan worden hersteld vanuit administratie.",
     "common:page.deleteTitle": "Weet je zeker dat je de pagina {{title}} wilt verwijderen?",
-    "common:page.editExternal": "Edit on {{name}}",
+    "common:page.editExternal": "Bewerk op {{name}}",
     "common:page.editPage": "Pagina bewerken",
     "common:page.global": "Globaal",
     "common:page.id": "ID {{id}}",
