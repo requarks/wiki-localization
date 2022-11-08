@@ -690,7 +690,7 @@
     "common:page.editPage": "Edit Page",
     "common:page.global": "Global",
     "common:page.id": "ID {{id}}",
-    "common:page.lastEditedBy": "Last edited by",
+    "common:page.lastEditedBy": "છેલ્લે કોને અપડેટ કર્યું",
     "common:page.loading": "Loading Page...",
     "common:page.printFormat": "Print Format",
     "common:page.private": "Private",
