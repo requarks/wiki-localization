@@ -181,7 +181,7 @@
     "admin:general.siteUrlHint": "Full URL to your wiki, without the trailing slash. (e.g. https:\/\/wiki.example.com)",
     "admin:general.subtitle": "Main settings of your wiki",
     "admin:general.title": "General",
-    "admin:general.uploadClear": "Clear",
+    "admin:general.uploadClear": "លុបចោល",
     "admin:general.uploadLogo": "Upload Logo",
     "admin:general.uploadSizeHint": "An image of {{size}} pixels is recommended for best results.",
     "admin:general.uploadTypesHint": "{{typeList}} or {{lastType}} files only",
