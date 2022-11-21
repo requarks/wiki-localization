@@ -1,4 +1,6 @@
-# wiki-localization
+# Wiki.js 2.x Localization Files
 
-The localization files for [Wiki.js](https://js.wiki/) in this repo are updated automatically. To how to contribute to
-translations, please read [this page](https://docs.requarks.io/dev/translations).
+The [Wiki.js](https://js.wiki/) localization files in this repository are updated automatically.  
+**PULL REQUESTS ARE NOT ACCEPTED HERE**.
+
+To learn how to contribute new translations or improve existing ones, check out the [docs](https://docs.requarks.io/dev/translations).
