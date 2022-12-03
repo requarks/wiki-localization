@@ -207,7 +207,7 @@
     "admin:locale.nativeName": "Nom nadiu",
     "admin:locale.rtl": "RTL",
     "admin:locale.settings": "Configuració regional",
-    "admin:locale.sideload": "Sideload Locale Package",
+    "admin:locale.sideload": "Carrega configuració regional",
     "admin:locale.sideloadHelp": "Si no esteu connectat a Internet o no podeu descarregar fitxers de configuració regional mitjançant el mètode anterior, podeu carregar els paquets manualment penjant-los a continuació.",
     "admin:locale.subtitle": "Definiu les opcions de localització del vostre wiki",
     "admin:locale.title": "Configuració regional",

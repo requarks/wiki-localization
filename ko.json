@@ -686,7 +686,7 @@
     "common:page.delete": "페이지 삭제",
     "common:page.deleteSubtitle": "관리 영역에서 페이지를 복원할 수 있습니다.",
     "common:page.deleteTitle": "{{title}} 페이지를 삭제 하시겠습니까?",
-    "common:page.editExternal": "{{name}}에서 편집",
+    "common:page.editExternal": "Edit on {{name}}",
     "common:page.editPage": "문서 수정",
     "common:page.global": "전역",
     "common:page.id": "아이디 {{id}}",
