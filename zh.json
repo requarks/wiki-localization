@@ -157,7 +157,7 @@
     "admin:general.editMenuExternalIconHint": "显示在编辑按钮上的图标。如：输入mdi-github 会显示 GitHub 图标。",
     "admin:general.editMenuExternalName": "按钮显示的站点名称",
     "admin:general.editMenuExternalNameHint": "要在编辑按钮上显示的外部站点的名称。不要包括“编辑”前缀。",
-    "admin:general.editMenuExternalUrl": "按钮地址",
+    "admin:general.editMenuExternalUrl": "按钮网址",
     "admin:general.editMenuExternalUrlHint": "指向外部存储库的地址。需在要包含文件名的地方使用 {filename} 标识（如：https:\/\/github.com\/foo\/bar\/blob\/main\/{filename} ）。",
     "admin:general.editShortcuts": "修改快捷键",
     "admin:general.footerCopyright": "页脚版权说明",
