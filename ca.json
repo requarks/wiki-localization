@@ -615,7 +615,7 @@
     "common:comments.postComment": "Escriu un comentari",
     "common:comments.postSuccess": "El nou comentari s'ha publicat correctament.",
     "common:comments.postingAs": "Publica com a {{name}}",
-    "common:comments.sdTitle": "Parlar",
+    "common:comments.sdTitle": "Conversa",
     "common:comments.title": "Comentaris",
     "common:comments.updateComment": "Actualitza el comentari",
     "common:comments.updateSuccess": "El comentari s'ha actualitzat correctament.",
