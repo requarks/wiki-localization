@@ -719,7 +719,7 @@
     "common:sidebar.browse": "Durchsuchen",
     "common:sidebar.currentDirectory": "Aktuelles Verzeichnis",
     "common:sidebar.mainMenu": "Hauptmenü",
-    "common:sidebar.root": "(root)",
+    "common:sidebar.root": "(Wurzel)",
     "common:unauthorized.action.create": "Du darfst diese Seite nicht erstellen.",
     "common:unauthorized.action.download": "Du darfst den Seiteninhalt nicht herunterladen.",
     "common:unauthorized.action.downloadVersion": "Du darfst den Inhalt dieser Seitenversion nicht herunterladen.",

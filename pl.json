@@ -159,7 +159,7 @@
     "admin:general.editMenuExternalNameHint": "The name of the external site to display on the edit button. Do not include the \"Edit on\" prefix.",
     "admin:general.editMenuExternalUrl": "Button URL",
     "admin:general.editMenuExternalUrlHint": "Url to the page on the external repository. Use the {filename} placeholder where the filename should be included. (e.g. https:\/\/github.com\/foo\/bar\/blob\/main\/{filename} )",
-    "admin:general.editShortcuts": "Edit Shortcuts",
+    "admin:general.editShortcuts": "Edytuj Skróty",
     "admin:general.footerCopyright": "Prawa autorskie w stopce",
     "admin:general.general": "Ogólne",
     "admin:general.logo": "Logo",
