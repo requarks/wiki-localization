@@ -90,7 +90,7 @@
     "admin:auth.tokenExpiration": "Token 到期日",
     "admin:auth.tokenExpirationHint": "Token 需要被更新的有效期限。（預設值：30 分）",
     "admin:auth.tokenRenewalPeriod": "Token 更新週期",
-    "admin:auth.tokenRenewalPeriodHint": "Token 過期後可以被更新的最大期限。（預設值：14 日）",
+    "admin:auth.tokenRenewalPeriodHint": "Token 過期後可以被更新的最大期限。（預設值：14d）",
     "admin:comments.provider": "供應商",
     "admin:comments.providerConfig": "供應商設定",
     "admin:comments.providerNoConfig": "該供應商沒有您可以修改的設定選項。",
