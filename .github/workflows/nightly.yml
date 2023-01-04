@@ -18,8 +18,8 @@ jobs:
           wget https://github.com/lokalise/lokalise-cli-2-go/releases/latest/download/lokalise2_linux_x86_64.tar.gz -O $GITHUB_WORKSPACE/lokalise2.tar.gz
           tar -xvzf $GITHUB_WORKSPACE/lokalise2.tar.gz
           chmod +x lokalise2
-          apt update
-          apt install rename -y
+          sudo apt update
+          sudo apt install rename -y
           
       - name: Fetch locales from Lokalize
         run: |
