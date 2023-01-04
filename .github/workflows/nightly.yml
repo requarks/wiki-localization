@@ -16,7 +16,8 @@ jobs:
       - name: Fetch Lokalize CLI
         run: |
           curl https://github.com/lokalise/lokalise-cli-2-go/releases/latest/download/lokalise2_linux_x86_64.tar.gz -o $GITHUB_WORKSPACE/lokalise2.tar.gz
-          tar -xvf lokalise2.tar.gz
+          tar -xvzf $GITHUB_WORKSPACE/lokalise2.tar.gz
+          chmod +x lokalise2
           
       - name: Fetch locales from Lokalize
         run: |
