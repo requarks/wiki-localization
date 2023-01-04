@@ -17,6 +17,7 @@ jobs:
         run: |
           wget https://github.com/lokalise/lokalise-cli-2-go/releases/latest/download/lokalise2_linux_x86_64.tar.gz -O $GITHUB_WORKSPACE/lokalise2.tar.gz
           tar -xvzf $GITHUB_WORKSPACE/lokalise2.tar.gz
+          rm -rf $GITHUB_WORKSPACE/lokalise2.tar.gz
           chmod +x lokalise2
           sudo apt update
           sudo apt install rename -y
@@ -27,12 +28,15 @@ jobs:
           rename 's/_/-/' $GITHUB_WORKSPACE/locale/*
           cp -rf $GITHUB_WORKSPACE/locale/. $GITHUB_WORKSPACE/
           rm -rf $GITHUB_WORKSPACE/locale
+          rm -rf $GITHUB_WORKSPACE/lokalise2
           
       - name: Fetch metadata file
         run: |
           curl 'https://graph.requarks.io/' -H 'Accept-Encoding: gzip, deflate' -H 'Content-Type: application/json' -H 'Accept: application/json' -H 'Origin: https://graph.requarks.io' --data-binary '{"query":"{\n  localization {\n    locales {\n      code\n      name\n      nativeName\n      isRTL\n      createdAt\n      updatedAt\n      availability\n    }\n  }\n}"}' --compressed -o ./locales.json
           
-      - name: Cleanup
-        run: |
-          ls -la
+      - name: Commit localization files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'Nightly Export'
+          file_pattern: '*.json'
           
