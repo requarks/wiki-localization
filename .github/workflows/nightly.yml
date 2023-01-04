@@ -1,0 +1,31 @@
+name: Nightly Build
+
+on:
+  schedule:
+  - cron: "0 0 * * *"
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch from Lokalize
+        run: |
+          curl -sfL https://raw.githubusercontent.com/lokalise/lokalise-cli-2-go/master/install.sh | sh
+          lokalise2 --token $LOKALISE_TOKEN file download --project-id $LOKALISE_PROJECT --format json --export-empty-as base --export-sort a_z --original-filenames=false --unzip-to $GITHUB_WORKSPACE
+          rename -a '_' '-' $GITHUB_WORKSPACE/locale/*
+          
+      - name: Fetch metadata file
+        run: |
+          curl 'https://graph.requarks.io/' -H 'Accept-Encoding: gzip, deflate' -H 'Content-Type: application/json' -H 'Accept: application/json' -H 'Origin: https://graph.requarks.io' --data-binary '{"query":"{\n  localization {\n    locales {\n      code\n      name\n      nativeName\n      isRTL\n      createdAt\n      updatedAt\n      availability\n    }\n  }\n}"}' --compressed -o '$(GITHUB_WORKSPACE)/locale/locales.json'
+          
+      - name: Cleanup
+        run: |
+          cp -rf $GITHUB_WORKSPACE/locale/. $GITHUB_WORKSPACE/
+          rm -rf $GITHUB_WORKSPACE/locale
+          ls -la
+          
