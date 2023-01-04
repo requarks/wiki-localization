@@ -13,19 +13,22 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Fetch from Lokalize
+      - name: Install Lokalize CLI
         run: |
           curl -sfL https://raw.githubusercontent.com/lokalise/lokalise-cli-2-go/master/install.sh | sh
+          
+      - name: Fetch from Lokalize
+        run: |
           lokalise2 --token $LOKALISE_TOKEN file download --project-id $LOKALISE_PROJECT --format json --export-empty-as base --export-sort a_z --original-filenames=false --unzip-to $GITHUB_WORKSPACE
           rename -a '_' '-' $GITHUB_WORKSPACE/locale/*
+          cp -rf $GITHUB_WORKSPACE/locale/. $GITHUB_WORKSPACE/
+          rm -rf $GITHUB_WORKSPACE/locale
           
       - name: Fetch metadata file
         run: |
-          curl 'https://graph.requarks.io/' -H 'Accept-Encoding: gzip, deflate' -H 'Content-Type: application/json' -H 'Accept: application/json' -H 'Origin: https://graph.requarks.io' --data-binary '{"query":"{\n  localization {\n    locales {\n      code\n      name\n      nativeName\n      isRTL\n      createdAt\n      updatedAt\n      availability\n    }\n  }\n}"}' --compressed -o '$(GITHUB_WORKSPACE)/locale/locales.json'
+          curl 'https://graph.requarks.io/' -H 'Accept-Encoding: gzip, deflate' -H 'Content-Type: application/json' -H 'Accept: application/json' -H 'Origin: https://graph.requarks.io' --data-binary '{"query":"{\n  localization {\n    locales {\n      code\n      name\n      nativeName\n      isRTL\n      createdAt\n      updatedAt\n      availability\n    }\n  }\n}"}' --compressed -o '$(GITHUB_WORKSPACE)/locales.json'
           
       - name: Cleanup
         run: |
-          cp -rf $GITHUB_WORKSPACE/locale/. $GITHUB_WORKSPACE/
-          rm -rf $GITHUB_WORKSPACE/locale
           ls -la
           
