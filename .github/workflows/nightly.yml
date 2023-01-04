@@ -30,7 +30,7 @@ jobs:
           
       - name: Fetch metadata file
         run: |
-          curl 'https://graph.requarks.io/' -H 'Accept-Encoding: gzip, deflate' -H 'Content-Type: application/json' -H 'Accept: application/json' -H 'Origin: https://graph.requarks.io' --data-binary '{"query":"{\n  localization {\n    locales {\n      code\n      name\n      nativeName\n      isRTL\n      createdAt\n      updatedAt\n      availability\n    }\n  }\n}"}' --compressed -o '$(GITHUB_WORKSPACE)/locales.json'
+          curl 'https://graph.requarks.io/' -H 'Accept-Encoding: gzip, deflate' -H 'Content-Type: application/json' -H 'Accept: application/json' -H 'Origin: https://graph.requarks.io' --data-binary '{"query":"{\n  localization {\n    locales {\n      code\n      name\n      nativeName\n      isRTL\n      createdAt\n      updatedAt\n      availability\n    }\n  }\n}"}' --compressed -o '$GITHUB_WORKSPACE/locales.json'
           
       - name: Cleanup
         run: |
