@@ -13,11 +13,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install Lokalize CLI
+      - name: Fetch Lokalize CLI
         run: |
-          curl -sfL https://raw.githubusercontent.com/lokalise/lokalise-cli-2-go/master/install.sh | sh
+          curl https://github.com/lokalise/lokalise-cli-2-go/releases/latest/download/lokalise2_linux_x86_64.tar.gz -o $GITHUB_WORKSPACE/lokalise2.tar.gz
+          tar -xvf lokalise2.tar.gz
           
-      - name: Fetch from Lokalize
+      - name: Fetch locales from Lokalize
         run: |
           lokalise2 --token $LOKALISE_TOKEN file download --project-id $LOKALISE_PROJECT --format json --export-empty-as base --export-sort a_z --original-filenames=false --unzip-to $GITHUB_WORKSPACE
           rename -a '_' '-' $GITHUB_WORKSPACE/locale/*
