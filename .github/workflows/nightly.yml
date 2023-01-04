@@ -24,7 +24,7 @@ jobs:
       - name: Fetch locales from Lokalize
         run: |
           ./lokalise2 --token ${{ secrets.LOKALISE_TOKEN }} file download --project-id ${{ secrets.LOKALISE_PROJECT }} --format json --export-empty-as base --export-sort a_z --original-filenames=false --unzip-to $GITHUB_WORKSPACE
-          rename -a '_' '-' $GITHUB_WORKSPACE/locale/*
+          rename 's/_/-/' $GITHUB_WORKSPACE/locale/*
           cp -rf $GITHUB_WORKSPACE/locale/. $GITHUB_WORKSPACE/
           rm -rf $GITHUB_WORKSPACE/locale
           
