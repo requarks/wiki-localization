@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Tokenin voimassaoloaika, kunnes se on uusittava. (oletus: 30m)",
     "admin:auth.tokenRenewalPeriod": "Tokenin uusiutumisaika",
     "admin:auth.tokenRenewalPeriodHint": "Tokenin enimmäisaika voidaan uusia, kun se on kulunut umpeen. (oletus: 14 päivää)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Toimittaja",
     "admin:comments.providerConfig": "Toimittajan määritykset",
     "admin:comments.providerNoConfig": "Tällä palvelulla ei ole asetuksia, joita voit muokata.",

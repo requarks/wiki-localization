@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Period važenja tokena pre nego što se mora obnoviti. (podrazumevano: 30m)",
     "admin:auth.tokenRenewalPeriod": "Period obnove tokena",
     "admin:auth.tokenRenewalPeriodHint": "Maksimalni period koji token može da se obnovi nakon što je istekao. (podrazumevano: 14 dana)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Provajder",
     "admin:comments.providerConfig": "Konfiguracija provajdera",
     "admin:comments.providerNoConfig": "Ovaj provajder nema opcije konfiguracije koje možete da izmenite.",

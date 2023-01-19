@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "La période d’expiration d’un jeton, au moment duquel il doit être renouvelé. (défaut : 30m)",
     "admin:auth.tokenRenewalPeriod": "Période de renouvellement des jetons",
     "admin:auth.tokenRenewalPeriodHint": "La période maximale pendant laquelle un jeton peut être renouvelé une fois expiré. (défaut : 14d)",
+    "admin:comments.configSaveSuccess": "La configuration des commentaires a été enregistrée avec succès.",
     "admin:comments.provider": "Fournisseur",
     "admin:comments.providerConfig": "Configuration du fournisseur",
     "admin:comments.providerNoConfig": "Ce fournisseur n'a pas d'options de configuration que vous pouvez modifier.",

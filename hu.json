@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "A token lejárati ideje, amíg meg nem kell újítani. (alapértelmezett: 30p)",
     "admin:auth.tokenRenewalPeriod": "Token megújítási időszak",
     "admin:auth.tokenRenewalPeriodHint": "A maximális időtartam, amelyet egy token megújíthat, ha lejárt. (alapértelmezett: 14n)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Szolgáltató",
     "admin:comments.providerConfig": "Szolgáltató beállítása",
     "admin:comments.providerNoConfig": "Ez a szolgáltató nem rendelkezik módosítható beállításokkal.",

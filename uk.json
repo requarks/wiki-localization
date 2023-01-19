@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Термін придатності токена до моменту необхідності його поновлення. (за замовчуванням: 30м)",
     "admin:auth.tokenRenewalPeriod": "Період продовження токена",
     "admin:auth.tokenRenewalPeriodHint": "Максимальний період часу, протягом якого може бути оновлено токен з вичерпаним терміном дії. (За замовчуванням: 14дн)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Модуль",
     "admin:comments.providerConfig": "Конфігурація модуля",
     "admin:comments.providerNoConfig": "Цей модуль не має параметрів конфігурації, які можна змінити.",

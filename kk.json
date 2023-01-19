@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "The expiration period of a token until it must be renewed. (default: 30m)",
     "admin:auth.tokenRenewalPeriod": "Token Renewal Period",
     "admin:auth.tokenRenewalPeriodHint": "The maximum period a token can be renewed when expired. (default: 14d)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Провайдер",
     "admin:comments.providerConfig": "Провайдер конфигурациясы",
     "admin:comments.providerNoConfig": "Бұл провайдердің сіз өзгерте алатын конфигурация параметрлері жоқ.",

@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Masa kedaluwarsa token hingga harus diperbarui. (standar: 30m)",
     "admin:auth.tokenRenewalPeriod": "Periode Pembaruan Token",
     "admin:auth.tokenRenewalPeriodHint": "Periode maksimum sebuah token dapat diperbarui ketika kadaluwarsa. (bawaan: 14d)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Penyedia",
     "admin:comments.providerConfig": "Konfigurasi Penyedia",
     "admin:comments.providerNoConfig": "Penyedia ini tidak memiliki opsi konfigurasi yang dapat anda modifikasi.",

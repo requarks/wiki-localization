@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "El período de caducidad de un token hasta que deba renovarse. (por defecto: 30m)",
     "admin:auth.tokenRenewalPeriod": "Período de renovación del token",
     "admin:auth.tokenRenewalPeriodHint": "El período máximo en el que se puede renovar un token al caducar. (por defecto: 14d)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Proveedor",
     "admin:comments.providerConfig": "Configuración del proveedor",
     "admin:comments.providerNoConfig": "Este proveedor no tiene opciones de configuración que pueda modificar.",

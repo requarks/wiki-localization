@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Токенийг шинэчлэх хүртэлх хугацаа. (өгөгдмөл: 30м)",
     "admin:auth.tokenRenewalPeriod": "Токен шинэчлэх хугацаа",
     "admin:auth.tokenRenewalPeriodHint": "Токений хугацаа дуусахад сунгаж болох хамгийн дээд хугацаа. (өгөгдмөл: 14d)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Провайдер",
     "admin:comments.providerConfig": "Провайдерын тохиргоо",
     "admin:comments.providerNoConfig": "Энэ провайдерт таны өөрчлөх боломжтой тохиргоо алга.",

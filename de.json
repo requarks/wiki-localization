@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Die Gültigkeitsdauer eines Tokens, bis dieser erneuert werden muss. (Standard: 30min)",
     "admin:auth.tokenRenewalPeriod": "Token-Erneuerungszeitraum",
     "admin:auth.tokenRenewalPeriodHint": "Der maximale Zeitraum, in dem ein Token nach Ablauf verlängert werden kann. (Standard: 14 Tage)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Anbieter",
     "admin:comments.providerConfig": "Anbieter-Konfiguration",
     "admin:comments.providerNoConfig": "Dieser Anbieter verfügt über keine Konfigurationsoptionen, die angepasst werden können.",

@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "De vervaldatum van een token totdat deze moet worden vernieuwd. (standaard: 30 min)",
     "admin:auth.tokenRenewalPeriod": "Vernieuwingsperiode van token",
     "admin:auth.tokenRenewalPeriodHint": "De maximale termijn van een token welk na afloop kan worden verlengd. (standaard: 14 dagen)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Provider",
     "admin:comments.providerConfig": "Provider Configuratie",
     "admin:comments.providerNoConfig": "Deze provider heeft geen configuratie-opties die u kunt wijzigen.",

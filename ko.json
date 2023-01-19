@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "토큰을 갱신해야 할 때까지 걸리는 시간이에요. (기본값: 30분)",
     "admin:auth.tokenRenewalPeriod": "토큰 갱신 기간",
     "admin:auth.tokenRenewalPeriodHint": "토큰을 폐기해야 할 때까지 걸리는 시간이에요. (기본값: 14일)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "제공자",
     "admin:comments.providerConfig": "제공자 구성",
     "admin:comments.providerNoConfig": "이 제공자는 당신이 수정할 수 있는 옵션을 제공하지 않습니다",

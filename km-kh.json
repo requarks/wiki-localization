@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "រយៈ ពេល ផុត កំណត់ នៃ ការ ធ្វើ Token រហូត ដល់ វា ត្រូវ តែ ធ្វើ ឡើង វិញ ។ (default: 30m)",
     "admin:auth.tokenRenewalPeriod": "រយៈពេលបន្ត Token",
     "admin:auth.tokenRenewalPeriodHint": "រយៈពេល អតិបរមា ដែល Token អាច ត្រូវ បាន ធ្វើ ឡើង វិញ នៅ ពេល ផុត កំណត់ ។ (default: 14d)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "អ្នកផ្តល់សេវា",
     "admin:comments.providerConfig": "ការកំណត់រចនាសម្ព័ន្ធអ្នកផ្តល់សេវា",
     "admin:comments.providerNoConfig": "អ្នកផ្តល់សេវានេះមិនមានជម្រើសកំណត់រចនាសម្ព័ន្ធដែលអ្នកអាចកែប្រែបានទេ។",

@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Η περίοδος λήξης ενός διακριτικού έως ότου πρέπει να ανανεωθεί. (προεπιλογή: 30 λεπτά)",
     "admin:auth.tokenRenewalPeriod": "Περίοδος ανανέωσης διακριτικού",
     "admin:auth.tokenRenewalPeriodHint": "Η μέγιστη περίοδος που μπορεί να ανανεωθεί ένα διακριτικό όταν λήξει. (προεπιλογή: 14 ημέρες)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Πάροχος",
     "admin:comments.providerConfig": "Διαμόρφωση παρόχου",
     "admin:comments.providerNoConfig": "Αυτός ο παροχέας δε διαθέτει επιλογές διαμόρφωσης που μπορείτε να τροποποιήσετε.",

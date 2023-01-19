@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Token yenilənməli olduğu müddət. (susmaya görə: 30m)",
     "admin:auth.tokenRenewalPeriod": "Token yeniləmə dövrü",
     "admin:auth.tokenRenewalPeriodHint": "Token-in vaxtı bitdikdə maksimum yenilənmə müddət. (susmaya görə: 14d)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Təchizatçı",
     "admin:comments.providerConfig": "Təchizatçı konfiqurasiyası",
     "admin:comments.providerNoConfig": "Bu təminatçının dəyişdirə biləcəyiniz konfiqurasiya variantları yoxdur.",

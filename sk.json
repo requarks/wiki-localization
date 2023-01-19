@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Uplynutie doby platnosti tokenu, pokiaľ sa nebude musieť obnoviť. (predvolené: 30m)",
     "admin:auth.tokenRenewalPeriod": "Čas Obnovenia Tokenu",
     "admin:auth.tokenRenewalPeriodHint": "Maximálny čas kedy môže byť token obnovený po vypršaní platnosti. (predvolené: 14d)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Poskytovateľ",
     "admin:comments.providerConfig": "Konfigurácia poskytovateľa",
     "admin:comments.providerNoConfig": "Tento poskytovateľ nemá žiadne možnosti konfigurácie.",

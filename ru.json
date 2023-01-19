@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Срок действия токена до следующего продления. (по умолчанию: 30мин)",
     "admin:auth.tokenRenewalPeriod": "Период продления токена",
     "admin:auth.tokenRenewalPeriodHint": "Максимальный период времени, в течение которого токен с истекшим сроком действия может быть продлён. (по умолчанию: 14дн)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Провайдер",
     "admin:comments.providerConfig": "Конфигурация провайдера",
     "admin:comments.providerNoConfig": "У этого провайдера нет изменяемых параметров конфигурации.",

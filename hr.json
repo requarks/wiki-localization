@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Rok trajanja tokena dok ga nije potrebno obnoviti. (zadano: 30m)",
     "admin:auth.tokenRenewalPeriod": "Razdoblje obnove tokena",
     "admin:auth.tokenRenewalPeriodHint": "Najdulje moguće razdoblje tijekom kojega token može biti obnovljen nakon isteka. (zadano: 14d)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Pružatelj usluge",
     "admin:comments.providerConfig": "Konfiguracija pružatelja usluge",
     "admin:comments.providerNoConfig": "Ovaj pružatelj usluge nema mogućnosti konfiguracije koje možete izmijeniti.",

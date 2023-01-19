@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Срокът на валидност на токен, преди да трябва да бъде подновен. (по подразбиране: 30 мин)",
     "admin:auth.tokenRenewalPeriod": "Период на подновяване на токен",
     "admin:auth.tokenRenewalPeriodHint": "Максималният период, в който маркерът може да бъде подновен, когато е изтекъл. (по подразбиране: 14 дни)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Доставчик",
     "admin:comments.providerConfig": "Конфигурация на доставчика",
     "admin:comments.providerNoConfig": "Този доставчик няма опции за конфигурирация, които можете да модифицирате.",

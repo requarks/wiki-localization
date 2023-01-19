@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "دوره انقضا یک نشانه تا زمانی که باید تمدید شود. (به طور پیش فرض: 30 دقیقه)",
     "admin:auth.tokenRenewalPeriod": "دوره تمدید توکن",
     "admin:auth.tokenRenewalPeriodHint": "حداکثر مدت زمانی که یک توکن به پایان رسیده، قابل تمدید است. (مقدار پیش فرض: 14 روز)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "ارائه دهنده",
     "admin:comments.providerConfig": "پیکربندی ارائه دهنده",
     "admin:comments.providerNoConfig": "این ارائه دهنده هیچ گزینه پیکربندی برای ویرایش ندارد.",

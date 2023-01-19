@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "ระยะเวลาหมดอายุของโทเค็นจนกว่าจะต่ออายุ (ค่าเริ่มต้น: 30 นาที)",
     "admin:auth.tokenRenewalPeriod": "ระยะเวลาต่ออายุโทเค็น",
     "admin:auth.tokenRenewalPeriodHint": "ระยะเวลาหมดอายุของโทเค็นจนกว่าจะต่ออายุ (ค่าเริ่มต้น: 14 วัน)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "ผู้ให้บริการ",
     "admin:comments.providerConfig": "การกำหนดค่า",
     "admin:comments.providerNoConfig": "ไม่มีตัวเลือกการกำหนดค่าที่คุณสามารถแก้ไขได้",

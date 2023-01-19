@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Utløpsperioden for et token til det må fornyes. (standard: 30m)",
     "admin:auth.tokenRenewalPeriod": "Fornyelsesperiode for token",
     "admin:auth.tokenRenewalPeriodHint": "Den maksimale perioden et token kan fornyes når det er utløpt. (standard: 14d)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Tilbyder",
     "admin:comments.providerConfig": "Tilbyderkonfigurasjon",
     "admin:comments.providerNoConfig": "Denne tilbyderen har ingen konfigurasjoner du kan endre.",

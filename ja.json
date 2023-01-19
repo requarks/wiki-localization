@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "トークンを更新しなければならなくなるまでの有効期間 (デフォルト: 30分)",
     "admin:auth.tokenRenewalPeriod": "トークンの更新期限",
     "admin:auth.tokenRenewalPeriodHint": "トークンの有効期限が切れたときに更新できる最大期間 (デフォルト: 14日)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "コメントシステム",
     "admin:comments.providerConfig": "コメントシステムの設定",
     "admin:comments.providerNoConfig": "このコメントシステムには変更可能な設定がありません",

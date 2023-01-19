@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Gildistími auðkennis þar til það verður að endurnýja það. (sjálfgefið: 30mín)",
     "admin:auth.tokenRenewalPeriod": "Endurnýjunartímabil auðkenningartákns",
     "admin:auth.tokenRenewalPeriodHint": "Hámarkstímabilið sem auðkenningartákn getur verið endurnýjað þegar það rennur út. (sjálfgefið: 14dagar)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Veita",
     "admin:comments.providerConfig": "Stillingar veitu",
     "admin:comments.providerNoConfig": "Þessi veita hefur enga skilgreiningarvalkosti sem hægt er að breyta.",

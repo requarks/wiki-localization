@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Obdobje poteka žetona, dokler ni potrebno podaljšanje. (privzeto: 30m)",
     "admin:auth.tokenRenewalPeriod": "Obdobje podaljšanja žetona",
     "admin:auth.tokenRenewalPeriodHint": "Najdaljše obdobje, v katerem se lahko žeton podaljša, ko je že potekel. (privzeto: 14d)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Ponudnik",
     "admin:comments.providerConfig": "Konfiguracija ponudnika",
     "admin:comments.providerNoConfig": "Ta ponudnik nima možnosti konfiguracije, ki bi jih lahko spremenili.",

@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Perioada de expirare a unui token până când trebuie reînnoit. (implicit: 30m)",
     "admin:auth.tokenRenewalPeriod": "Perioada de reînnoire a token-urilor",
     "admin:auth.tokenRenewalPeriodHint": "Perioada maximă a unui token poate fi reînnoită atunci când expiră. (implicit: 14d)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Furnizor",
     "admin:comments.providerConfig": "Configurare Furnizor",
     "admin:comments.providerNoConfig": "Acest furnizor nu are opțiuni de configurare ce pot fi modificate.",

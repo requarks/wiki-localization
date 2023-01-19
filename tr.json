@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Bir simgenin yenilenmesi gereken son kullanma süresi. (varsayılan: 30m)",
     "admin:auth.tokenRenewalPeriod": "Jeton Yenileme Dönemi",
     "admin:auth.tokenRenewalPeriodHint": "Bir token süresi dolduğunda maksimum süre yenilenebilir. (varsayılan: 14d)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Sağlayıcı",
     "admin:comments.providerConfig": "Sağlayıcı Yapılandırması",
     "admin:comments.providerNoConfig": "Bu sağlayıcının değiştirebileceğiniz yapılandırma seçeneği bulunmuyor.",

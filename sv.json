@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Giltighetsperioden för en token tills den måste förnyas. (standard: 30 min)",
     "admin:auth.tokenRenewalPeriod": "Förnyelseperiod för token",
     "admin:auth.tokenRenewalPeriodHint": "Den längsta period som en token kan förnyas när den har upphört att gälla. (standard: 14 dagar)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Leverantör",
     "admin:comments.providerConfig": "Leverantörskonfiguration",
     "admin:comments.providerNoConfig": "Denna leverantör har inga konfigurationsalternativ som du kan ändra.",

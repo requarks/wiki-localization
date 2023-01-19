@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Pääsme kehtivusaeg, kuni seda tuleb uuendada. (vaikimisi: 30 min)",
     "admin:auth.tokenRenewalPeriod": "Pääsme uuendamise periood",
     "admin:auth.tokenRenewalPeriodHint": "Maksimaalne aeg, mille jooksul saab pääset aegumise korral pikendada. (vaikimisi: 14 päeva)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Pakkuja",
     "admin:comments.providerConfig": "Pakkuja konfiguratsioon",
     "admin:comments.providerNoConfig": "Sellel pakkujal pole muudetavaid konfiguratsioonisuvandeid.",

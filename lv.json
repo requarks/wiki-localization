@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Marķierierīces derīguma termiņš līdz tās atjaunošanai (noklusējums: 30 m)",
     "admin:auth.tokenRenewalPeriod": "Marķiera atjaunošanas periods",
     "admin:auth.tokenRenewalPeriodHint": "Maksimālais pilnvaru periods, kad beidzies derīguma termiņš. (noklusējums: 14d)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Pakalpojumu sniedzējs",
     "admin:comments.providerConfig": "Pakalpojumu sniedzēja iestatījumi",
     "admin:comments.providerNoConfig": "Šim pakalpojumu sniedzējam nav konfigurācijas opciju, kuru varat modificēt.",

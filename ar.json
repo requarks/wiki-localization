@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "فتره انتهاء صلاحيه الرمز  إلى ان يتم تجديده. (الافتراضي: 30m)",
     "admin:auth.tokenRenewalPeriod": "فترة تجديد الرمز",
     "admin:auth.tokenRenewalPeriodHint": "الحد الأقصى للفترة التي يمكن تجديد الرمز المميز عند انتهائها. (الافتراضي: 14d)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "مزود",
     "admin:comments.providerConfig": "إعدادات المزود",
     "admin:comments.providerNoConfig": "لا يحتوي هذا المزود على خيارات إعداد يمكنك تعديلها.",

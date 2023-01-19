@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "תקופת התפוגה של אסימון עד שיש לחדשו. (ברירת מחדל: 30 דקות)",
     "admin:auth.tokenRenewalPeriod": "תקופת חידוש טוקן",
     "admin:auth.tokenRenewalPeriodHint": "התקופה המקסימלית אליה טוקן יכול להיות מחודש (ברירת מחדל: 14d)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "ספק",
     "admin:comments.providerConfig": "קביעת תצורה של ספק",
     "admin:comments.providerNoConfig": "לספק זה אין אפשרויות תצורה שבאפשרותך לשנות.",

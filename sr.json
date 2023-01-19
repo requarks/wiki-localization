@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "Период важења токена док се не мора обновити. (задано: 30месеци)",
     "admin:auth.tokenRenewalPeriod": "Период обнове токена",
     "admin:auth.tokenRenewalPeriodHint": "Максимални период који токен може да се обнови када је истекао. (задано: 14д)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "Провајдер",
     "admin:comments.providerConfig": "Конфигурација провајдера",
     "admin:comments.providerNoConfig": "Овај провајдер нема опције конфигурације које можете да измените.",

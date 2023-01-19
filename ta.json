@@ -91,6 +91,7 @@
     "admin:auth.tokenExpirationHint": "டோக்கன் புதுப்பிக்கப்பட வேண்டும் வரை அதன் காலாவதி காலம். (இயல்புநிலை: 30 நிமிடங்கள்)",
     "admin:auth.tokenRenewalPeriod": "டோக்கன் புதுப்பித்தல் காலம்",
     "admin:auth.tokenRenewalPeriodHint": "டோக்கன் காலாவதியாகும்போது புதுப்பிக்கப்படும் அதிகபட்ச காலம். (இயல்புநிலை: 14 நாட்கள்)",
+    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
     "admin:comments.provider": "வழங்குநர்",
     "admin:comments.providerConfig": "வழங்குநர் உள்ளமைவு",
     "admin:comments.providerNoConfig": "இந்த வழங்குநர் நீங்கள் மாற்றியமைக்க கூடிய எந்த உள்ளமைவு தேர்வுகளையும் கொண்டிருக்கவில்லை",
