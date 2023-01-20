@@ -91,7 +91,7 @@
     "admin:auth.tokenExpirationHint": "Okres ważności tokena, przed którym musi zostać odnowiony. (domyślnie: 30 minut)",
     "admin:auth.tokenRenewalPeriod": "Okres odnawiania tokena",
     "admin:auth.tokenRenewalPeriodHint": "Maksymalny okres, przez jaki token może zostać odnowiony po upływie jego ważności. (domyślnie: 14 dni)",
-    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
+    "admin:comments.configSaveSuccess": "Konfiguracja komentarzy zapisana z sukcesem",
     "admin:comments.provider": "Dostawca",
     "admin:comments.providerConfig": "Konfiguracja dostawcy",
     "admin:comments.providerNoConfig": "Ten dostawca nie ma opcji konfiguracji, które można by zmodyfikować.",
