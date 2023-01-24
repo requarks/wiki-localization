@@ -91,7 +91,7 @@
     "admin:auth.tokenExpirationHint": "令牌的最长有效期（默认：30 分钟）。",
     "admin:auth.tokenRenewalPeriod": "令牌续签周期",
     "admin:auth.tokenRenewalPeriodHint": "令牌续签的最长期限（默认：14 天）。",
-    "admin:comments.configSaveSuccess": "Comments configuration saved successfully.",
+    "admin:comments.configSaveSuccess": "评论配置已成功保存。",
     "admin:comments.provider": "服务提供商",
     "admin:comments.providerConfig": "提供者配置",
     "admin:comments.providerNoConfig": "该提供者没有可供您修改的配置选项。",
