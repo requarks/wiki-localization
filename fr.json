@@ -475,7 +475,7 @@
     "admin:users.verified": "Vérifié",
     "admin:utilities.authSubtitle": "Divers outils d'authentification \/ utilisateurs",
     "admin:utilities.authTitle": "Authentification",
-    "admin:utilities.cacheSubtitle": "Purger la cache de divers composants",
+    "admin:utilities.cacheSubtitle": "Purger la mémoire cache de divers composants",
     "admin:utilities.cacheTitle": "Purger la cache",
     "admin:utilities.contentSubtitle": "Divers outils pour les pages",
     "admin:utilities.contentTitle": "Contenu",
