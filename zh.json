@@ -162,6 +162,8 @@
     "admin:general.editMenuExternalUrlHint": "指向外部存储库的地址。需在要包含文件名的地方使用 {filename} 标识（如：https:\/\/github.com\/foo\/bar\/blob\/main\/{filename} ）。",
     "admin:general.editShortcuts": "修改快捷键",
     "admin:general.footerCopyright": "页脚版权说明",
+    "admin:general.footerOverride": "Footer Text Override",
+    "admin:general.footerOverrideHint": "Optionally override the footer text with a custom message. Useful if none of the above licenses are appropriate.",
     "admin:general.general": "常规",
     "admin:general.logo": "Logo",
     "admin:general.logoUrl": "Logo URL",

@@ -162,6 +162,8 @@
     "admin:general.editMenuExternalUrlHint": "URL vers la page du répertoire externe. Utilisez le mot-clé {filename} à l'endroit où le nom de fichier de la page devrait être remplacé. (ex: https:\/\/github.com\/foo\/bar\/blob\/main\/{filename} )",
     "admin:general.editShortcuts": "Raccourcis d'édition",
     "admin:general.footerCopyright": "Copyright en pied de page",
+    "admin:general.footerOverride": "Remplacement du texte du pied de page",
+    "admin:general.footerOverrideHint": "Remplacer optionnellement le texte du pied de page par un message personnalisé. Utile si aucune des licences ci-dessus n'est appropriée.",
     "admin:general.general": "Général",
     "admin:general.logo": "Logo",
     "admin:general.logoUrl": "URL du logo",

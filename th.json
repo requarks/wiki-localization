@@ -162,6 +162,8 @@
     "admin:general.editMenuExternalUrlHint": "Url to the page on the external repository. Use the {filename} placeholder where the filename should be included. (e.g. https:\/\/github.com\/foo\/bar\/blob\/main\/{filename} )",
     "admin:general.editShortcuts": "Edit Shortcuts",
     "admin:general.footerCopyright": "ลิขสิทธิ์ส่วนท้าย",
+    "admin:general.footerOverride": "Footer Text Override",
+    "admin:general.footerOverrideHint": "Optionally override the footer text with a custom message. Useful if none of the above licenses are appropriate.",
     "admin:general.general": "ทั่วไป",
     "admin:general.logo": "โลโก้",
     "admin:general.logoUrl": "URL โลโก้",

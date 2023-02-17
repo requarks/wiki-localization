@@ -162,6 +162,8 @@
     "admin:general.editMenuExternalUrlHint": "Url a la página del repositorio externo. Utilice el marcador de posición {filename} donde debe incluirse el nombre del archivo. (por ejemplo, https:\/\/github.com\/foo\/bar\/blob\/main\/{filename} )",
     "admin:general.editShortcuts": "Editar Accesos Directos",
     "admin:general.footerCopyright": "Copyright pie de página",
+    "admin:general.footerOverride": "Footer Text Override",
+    "admin:general.footerOverrideHint": "Optionally override the footer text with a custom message. Useful if none of the above licenses are appropriate.",
     "admin:general.general": "General",
     "admin:general.logo": "Logo",
     "admin:general.logoUrl": "URL del logotipo",

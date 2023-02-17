@@ -162,6 +162,8 @@
     "admin:general.editMenuExternalUrlHint": "Ulkoisen repositorion URL-osoite. Käytä paikkamerkkiä {filename} , johon tiedoston nimi tulee sisällyttää. (esim. https:\/\/github.com\/foo\/bar\/blob\/main\/ {filename} )",
     "admin:general.editShortcuts": "Muokkaa oikoteitä",
     "admin:general.footerCopyright": "Alatunnisteen tekijänoikeustiedot",
+    "admin:general.footerOverride": "Footer Text Override",
+    "admin:general.footerOverrideHint": "Optionally override the footer text with a custom message. Useful if none of the above licenses are appropriate.",
     "admin:general.general": "Yleinen",
     "admin:general.logo": "Logo",
     "admin:general.logoUrl": "Logon URL-osoite",

@@ -162,6 +162,8 @@
     "admin:general.editMenuExternalUrlHint": "Url ទៅទំព័រនៅលើឃ្លាំងខាងក្រៅ(external repository)។ ប្រើកន្លែងដាក់ {filename} ដែលឈ្មោះឯកសារគួរតែត្រូវបានរួមបញ្ចូល។ (ឧទាហរណ៍ https:\/\/github.com\/foo\/bar\/blob\/main\/ {filename} )",
     "admin:general.editShortcuts": "កែសម្រួលផ្លូវកាត់",
     "admin:general.footerCopyright": "រក្សាសិទ្ធិបាតកថា",
+    "admin:general.footerOverride": "Footer Text Override",
+    "admin:general.footerOverrideHint": "Optionally override the footer text with a custom message. Useful if none of the above licenses are appropriate.",
     "admin:general.general": "ទូទៅ",
     "admin:general.logo": "និមិត្តសញ្ញា",
     "admin:general.logoUrl": "និមិត្តសញ្ញា URL",
