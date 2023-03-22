@@ -94,7 +94,7 @@
     "admin:comments.configSaveSuccess": "La configuration des commentaires a été enregistrée avec succès.",
     "admin:comments.provider": "Fournisseur",
     "admin:comments.providerConfig": "Configuration du fournisseur",
-    "admin:comments.providerNoConfig": "Ce fournisseur n'a pas d'options de configuration que vous pouvez modifier.",
+    "admin:comments.providerNoConfig": "Ce fournisseur n'a pas d'option de configuration que vous pouvez modifier.",
     "admin:comments.subtitle": "Ajoutez des discussions à vos pages wiki",
     "admin:comments.title": "Commentaires",
     "admin:contribute.becomeAPatron": "Devenez un mécène",
@@ -684,7 +684,7 @@
     "common:outdatedBrowserWarning": "Votre navigateur est obsolète. Mettez à niveau vers un {{modernBrowser}}.",
     "common:page.bookmark": "Ajouter aux favoris",
     "common:page.convert": "Convertir la page",
-    "common:page.convertSubtitle": "Le contenu de la page sera converti au format de l'éditeur sélectionné. Notez que certains contenus spéciaux \/ mise en forme pourraient être perdus suite à la conversion. Une sauvegarde du contenu actuel sera effectuée et peut être restauré à tout moment.",
+    "common:page.convertSubtitle": "Le contenu de la page sera converti au format de l'éditeur sélectionné. Notez que certains contenus spéciaux \/ mise en forme pourraient être perdus suite à la conversion. Une sauvegarde du contenu actuel sera effectuée et peut être restaurée à tout moment.",
     "common:page.convertTitle": "Sélectionnez l’éditeur que vous souhaitez désormais utiliser pour la page :{{title}}",
     "common:page.delete": "Supprimer la page",
     "common:page.deleteSubtitle": "La page peut être restaurée à partir de la zone d'administration.",
@@ -933,7 +933,7 @@
     "tags:orderByField.title": "Titre",
     "tags:pageLastUpdated": "Mise à jour {{date}}",
     "tags:retrievingResultsLoading": "Recherche en cours…",
-    "tags:searchWithinResultsPlaceholder": "Raffiner les résultats de recherche…",
+    "tags:searchWithinResultsPlaceholder": "Affiner les résultats de recherche…",
     "tags:selectOneMoreTags": "Sélectionnez un ou plusieurs mots clés",
     "tags:selectOneMoreTagsHint": "Sélectionnez un ou plusieurs mots clés à gauche."
 }
