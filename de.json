@@ -615,7 +615,7 @@
     "common:comments.newComment": "Neuer Kommentar",
     "common:comments.newPlaceholder": "Neuen Kommentar schreiben...",
     "common:comments.none": "Noch keine Kommentare.",
-    "common:comments.postComment": "Kommentar veröffentlichen",
+    "common:comments.postComment": "OK",
     "common:comments.postSuccess": "Neuer Kommentar erfolgreich gepostet.",
     "common:comments.postingAs": "Kommentiere als {{name}}",
     "common:comments.sdTitle": "Kommentieren",

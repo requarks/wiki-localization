@@ -632,7 +632,7 @@
     "common:error.unexpected": "一个意料之外的问题发生了。",
     "common:footer.copyright": "© {{year}} {{company}}。 保留所有权利。",
     "common:footer.license": "内容由{{company}}在{{license}}下提供。",
-    "common:footer.poweredBy": "提供者",
+    "common:footer.poweredBy": "Powered by",
     "common:header.account": "账户",
     "common:header.admin": "管理",
     "common:header.assets": "资料",
