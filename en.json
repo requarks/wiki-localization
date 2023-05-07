@@ -303,6 +303,8 @@
     "admin:security.bypassLoginHint": "Should the user be redirected automatically to the first authentication provider.",
     "admin:security.enforce2fa": "Enforce 2FA",
     "admin:security.enforce2faHint": "Force all users to use Two-Factor Authentication when using an authentication provider with a user \/ password form.",
+    "admin:security.guestLogin": "Authenticate Unauthorized Guests",
+    "admin:security.guestLoginHint": "Instead of showing guests an 'Unauthorized' page, automatically initiate the login process.",
     "admin:security.hideLocalLogin": "Hide Local Authentication Provider",
     "admin:security.hideLocalLoginHint": "Don't show the local authentication provider on the login screen. Add ?all to the URL to temporarily use it.",
     "admin:security.jwt": "JWT Configuration",
