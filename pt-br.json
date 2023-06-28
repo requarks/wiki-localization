@@ -150,7 +150,7 @@
     "admin:general.displayEditMenuBtn": "Mostrar Botão de Editar",
     "admin:general.displayEditMenuBtnHint": "Mostrar um botão para editar a página atual.",
     "admin:general.displayEditMenuExternalBtn": "Mostrar Botão Externo de Editar",
-    "admin:general.displayEditMenuExternalBtnHint": "Mostrar um botão com link a um repositório externo (ex.: GitHub) onde usuários podem editar ou enviar um PR para a página atual",
+    "admin:general.displayEditMenuExternalBtnHint": "Mostrar um botão com link a um repositório externo (ex.: GitHub) onde usuários podem editar ou enviar um PR para a página atual.",
     "admin:general.editFab": "Editar Barra de Menu",
     "admin:general.editFabHint": "Exiba o botão de ação flutuante de edição (FAB) com um menu de discagem rápida no canto inferior direito da tela.",
     "admin:general.editMenuBar": "Editar Barra de Menu",
