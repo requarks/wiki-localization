@@ -162,7 +162,7 @@
     "admin:general.editMenuExternalUrlHint": "Ссылка на страницу во внешнем хранилище. Используйте {filename}, где имя документа должно быть указано. (например, https:\/\/github.com\/foo\/bar\/blob\/main\/{filename}).",
     "admin:general.editShortcuts": "Кнопка \"Редактировать страницу\"",
     "admin:general.footerCopyright": "Авторские права в нижнем колонтитуле",
-    "admin:general.footerOverride": "Footer Text Override",
+    "admin:general.footerOverride": "Переопределение текста нижнего колонтитула",
     "admin:general.footerOverrideHint": "Optionally override the footer text with a custom message. Useful if none of the above licenses are appropriate.",
     "admin:general.general": "Общие настройки",
     "admin:general.logo": "Логотип",
