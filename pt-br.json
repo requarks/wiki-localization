@@ -527,7 +527,7 @@
     "auth:invalidEmail": "O endereço de e-mail é inválido.",
     "auth:invalidEmailUsername": "Digite um e-mail\/nome de usuário válido.",
     "auth:invalidPassword": "Digite uma senha válida.",
-    "auth:loginRequired": "Login required",
+    "auth:loginRequired": "Login necessário",
     "auth:loginSuccess": "Login feito com sucesso! Redirecionando…",
     "auth:loginUsingStrategy": "Entrar usando {{strategy}}",
     "auth:missingEmail": "Está faltando o endereço de e-mail.",
