@@ -320,7 +320,7 @@
     "admin:security.subtitle": "配置安全设置",
     "admin:security.title": "安全",
     "admin:security.uploads": "上传",
-    "admin:security.uploadsInfo": "这些设置只影响 Wiki.js。 如果您使用反向代理(例如 Nginx、Apache、Cloudflare)，您必须更改它们的设置以生效",
+    "admin:security.uploadsInfo": "这些设置只影响 Wiki.js。 如果您使用反向代理（例如 Nginx、Apache、Cloudflare），您必须更改它们的设置以生效",
     "admin:ssl.currentState": "当前状态",
     "admin:ssl.domain": "域名",
     "admin:ssl.domainHint": "输入指向您的 wiki 站点的完整域名（例如：wiki.example.com）",
