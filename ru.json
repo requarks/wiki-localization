@@ -163,7 +163,7 @@
     "admin:general.editShortcuts": "Кнопка \"Редактировать страницу\"",
     "admin:general.footerCopyright": "Авторские права в нижнем колонтитуле",
     "admin:general.footerOverride": "Переопределение текста нижнего колонтитула",
-    "admin:general.footerOverrideHint": "Optionally override the footer text with a custom message. Useful if none of the above licenses are appropriate.",
+    "admin:general.footerOverrideHint": "При желании переопределите текст нижнего колонтитула с помощью пользовательского сообщения. Полезно, если ни одна из вышеуказанных лицензий не подходит.",
     "admin:general.general": "Общие настройки",
     "admin:general.logo": "Логотип",
     "admin:general.logoUrl": "URL логотипа",
