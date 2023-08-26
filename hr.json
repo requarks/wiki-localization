@@ -617,7 +617,7 @@
     "common:comments.none": "Još nema komentara.",
     "common:comments.postComment": "Objavi komentar",
     "common:comments.postSuccess": "Novi komentar uspješno je objavljen.",
-    "common:comments.postingAs": "Objavli kao {{name}}",
+    "common:comments.postingAs": "Objavi kao {{name}}",
     "common:comments.sdTitle": "Razgovor",
     "common:comments.title": "Komentari",
     "common:comments.updateComment": "Ažuriraj komentar",
