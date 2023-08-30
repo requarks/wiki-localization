@@ -689,7 +689,7 @@
     "common:page.delete": "Obriši stranicu",
     "common:page.deleteSubtitle": "Stranica se može vratiti iz administracijskog sučelja.",
     "common:page.deleteTitle": "Jeste li sigurni da želite obrisati stranicu {{title}} ?",
-    "common:page.editExternal": "uredi na {{name}}",
+    "common:page.editExternal": "Uredi na {{name}}",
     "common:page.editPage": "Uredi stranicu",
     "common:page.global": "Općenito",
     "common:page.id": "ID {{id}}",
