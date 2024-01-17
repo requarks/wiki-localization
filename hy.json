@@ -689,7 +689,7 @@
     "common:page.delete": "Հեռացնել էջը",
     "common:page.deleteSubtitle": "Էջը կարող է վերականգնվել ադմինիստրատիվ տարածքից։",
     "common:page.deleteTitle": "Համոզվա՞ծ եք, որ ցանկանում եք ջնջել {{title}} էջը:",
-    "common:page.editExternal": "Edit on {{name}}",
+    "common:page.editExternal": "Խմբագրել {{name}}-ում",
     "common:page.editPage": "Խմբագրել էջը",
     "common:page.global": "Համաշխարհային",
     "common:page.id": "ID {{id}}",
