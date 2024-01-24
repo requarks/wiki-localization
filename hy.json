@@ -163,7 +163,7 @@
     "admin:general.editShortcuts": "Edit Shortcuts",
     "admin:general.footerCopyright": "Footer Copyright",
     "admin:general.footerOverride": "Footer Text Override",
-    "admin:general.footerOverrideHint": "ոխարինեք ստորագրի տեքստը հատուկ հաղորդագրությամբ: Օգտակար է, եթե վերը նշված լիցենզիաներից ոչ մեկը համապատասխան չէ:",
+    "admin:general.footerOverrideHint": "Փոխարինեք ստորագրի տեքստը հատուկ հաղորդագրությամբ: Օգտակար է, եթե վերը նշված լիցենզիաներից ոչ մեկը համապատասխան չէ:",
     "admin:general.general": "Ընդհանուր",
     "admin:general.logo": "Logo",
     "admin:general.logoUrl": "Լոգոյի URL",
