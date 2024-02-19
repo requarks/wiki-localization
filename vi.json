@@ -353,7 +353,7 @@
     "admin:stats.title": "Thống kê",
     "admin:storage.actionRun": "Chạy",
     "admin:storage.actions": "Hành động",
-    "admin:storage.actionsInactiveWarn": "Bạn phải bật storage target này và lưu lại trước khi chạy action",
+    "admin:storage.actionsInactiveWarn": "Bạn phải kích hoạt mục tiêu lưu trữ này và áp dụng các thay đổi trước khi có thể chạy các hành động.",
     "admin:storage.errorMsg": "Thông báo lỗi",
     "admin:storage.lastSync": "Đồng bộ hóa lần cuối lúc {{time}}",
     "admin:storage.lastSyncAttempt": "Lần thử cuối cùng lúc {{time}}",
