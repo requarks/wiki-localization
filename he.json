@@ -812,7 +812,7 @@
     "editor:markup.italic": "נטוי",
     "editor:markup.keyboardKey": "מקש מקלדת",
     "editor:markup.markdownFormattingHelp": "עזרה עבור עיצוב סימון",
-    "editor:markup.noSelectionError": "יש לבחור תחילה טקסט!",
+    "editor:markup.noSelectionError": "יש לבחור מלל תחילה!",
     "editor:markup.orderedList": "רשימה מסודרת",
     "editor:markup.strikethrough": "קו חוצה",
     "editor:markup.subscript": "כתב תחתון",
