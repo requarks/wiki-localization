@@ -34,7 +34,7 @@
     "admin:api.newKeyGroupPermissions": "eller bruk gruppetillatelser...",
     "admin:api.newKeyGuestGroupError": "Gjestegruppen kan ikke brukes til API-nøkler.",
     "admin:api.newKeyName": "Navn",
-    "admin:api.newKeyNameError": "Navet mangler eller er ugyldig.",
+    "admin:api.newKeyNameError": "Navnet mangler eller er ugyldig.",
     "admin:api.newKeyNameHint": "Formålet med denne nøkkelen",
     "admin:api.newKeyPermissionScopes": "Scope for rettigheter",
     "admin:api.newKeySuccess": "API nøkkelen ble opprettet.",
