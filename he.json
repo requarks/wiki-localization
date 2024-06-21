@@ -923,7 +923,7 @@
     "tags:currentSelection": "בחירה נוכחית",
     "tags:locale": "שפה",
     "tags:localeAny": "הכול",
-    "tags:noResults": "לא נמצא שום עמוד עם התגים שנבחרו.",
+    "tags:noResults": "לא נמצאו עמודים עם התגים שנבחרו.",
     "tags:noResultsWithFilter": "לא נמצא שום עמוד התואם את אפשרויות הסינון הנוכחיות.",
     "tags:orderBy": "מיין לפי",
     "tags:orderByField.ID": "מזהה",
@@ -932,8 +932,8 @@
     "tags:orderByField.path": "נתיב",
     "tags:orderByField.title": "כותרת",
     "tags:pageLastUpdated": "עודכן לאחרונה {{date}}",
-    "tags:retrievingResultsLoading": "טוען תוצאות",
+    "tags:retrievingResultsLoading": "מתבצעת טעינת תוצאות...",
     "tags:searchWithinResultsPlaceholder": "חיפוש בתוצאות...",
     "tags:selectOneMoreTags": "בחירת תג אחד או יותר",
-    "tags:selectOneMoreTagsHint": "נא לבחור תג אחת או יותר מימין."
+    "tags:selectOneMoreTagsHint": "נא לבחור תג אחד או יותר מימין."
 }
