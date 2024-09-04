@@ -632,7 +632,7 @@
     "common:error.unexpected": "שגיאה לא צפויה התרחשה.",
     "common:footer.copyright": "© {{year}} {{company}}. כל הזכויות שמורות.",
     "common:footer.license": "תוכן זמין ב־{{license}}, על ידי {{company}}.",
-    "common:footer.poweredBy": "מועצם על ישי",
+    "common:footer.poweredBy": "מופעל על ידי",
     "common:header.account": "חשבון",
     "common:header.admin": "ניהול",
     "common:header.assets": "נכסים",
