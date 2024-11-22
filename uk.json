@@ -101,7 +101,7 @@
     "admin:contribute.becomeASponsor": "Стати спонсором",
     "admin:contribute.contribute": "Внесок",
     "admin:contribute.ethereum": "Ми приймаємо пожертвування за допомогою Ethereum:",
-    "admin:contribute.followUsOnTwitter": "Підписуйтесь на нас у {{0}}",
+    "admin:contribute.followUsOnTwitter": "Підписуйтесь на нас у {{0}}.",
     "admin:contribute.foundABug": "Знайшли помилку? Надішліть проблему на {{0}}.",
     "admin:contribute.fundOurWork": "Профінансуйте нашу роботу",
     "admin:contribute.github": "Станьте спонсором за допомогою GitHub Sponsors (безпосередньо йде на підтримку можливості провідного розробника Nicolas Giard працювати над Wiki.js повноцінно)",
