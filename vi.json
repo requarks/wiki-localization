@@ -194,7 +194,7 @@
     "admin:locale.autoUpdate.hint": "Tự động tải xuống các bản cập nhật cho ngôn ngữ này khi chúng có sẵn.",
     "admin:locale.autoUpdate.hintWithNS": "Tự động tải xuống các bản cập nhật cho tất cả các ngôn ngữ được đặt tên được kích hoạt bên dưới.",
     "admin:locale.autoUpdate.label": "Cập nhật bản dịch tự động",
-    "admin:locale.availability": "Tỉnh khả dụng",
+    "admin:locale.availability": "Tính khả dụng",
     "admin:locale.base.hint": "Tất cả các thành phần văn bản UI sẽ được hiển thị bằng ngôn ngữ đã chọn.",
     "admin:locale.base.label": "Ngôn ngữ trang web",
     "admin:locale.base.labelWithNS": "Ngôn ngữ cơ sở",
