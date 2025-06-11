@@ -317,6 +317,8 @@
     "admin:security.maxUploadSize": "Max Upload Size",
     "admin:security.maxUploadSizeHint": "The maximum size for a single file.",
     "admin:security.maxUploadSizeSuffix": "bytes",
+    "admin:security.startGuestAuth": "Authenticate Unauthorized Guests",
+    "admin:security.startGuestAuthHint": "Instead of showing guests an 'Unauthorized' page, automatically initiate the login process.",
     "admin:security.subtitle": "Configure security settings",
     "admin:security.title": "Security",
     "admin:security.uploads": "Uploads",
