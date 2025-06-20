@@ -565,7 +565,7 @@
     "auth:tfa.verifyToken": "Egiaztatu",
     "auth:tfaFormTitle": "Enter the security code generated from your trusted device:",
     "auth:tfaSetupInstrFirst": "1) Scan the QR code below from your mobile 2FA application:",
-    "auth:tfaSetupInstrSecond": "2) Enter the security code generated from your trusted device:",
+    "auth:tfaSetupInstrSecond": "2) Sartu zure gailu seguruak sortutako segurtasun-kodea:",
     "auth:tfaSetupTitle": "Your administrator has required Two-Factor Authentication (2FA) to be enabled on your account.",
     "common:actions.add": "Gehitu",
     "common:actions.apply": "Aplikatu",
