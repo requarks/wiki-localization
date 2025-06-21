@@ -689,7 +689,7 @@
     "common:page.delete": "Ezabatu orrialdea",
     "common:page.deleteSubtitle": "The page can be restored from the administration area.",
     "common:page.deleteTitle": "Are you sure you want to delete page {{title}}?",
-    "common:page.editExternal": "Edit on {{name}}",
+    "common:page.editExternal": "Editatu {{name}}-en",
     "common:page.editPage": "Editatu orrialdea",
     "common:page.global": "Globala",
     "common:page.id": "{{id}} IDa",
