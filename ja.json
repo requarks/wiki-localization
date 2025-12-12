@@ -170,7 +170,7 @@
     "admin:general.logoUrlHint": "ロゴとして使用する画像を指定します。SVG, PNG, JPGがサポートされています。34x34ピクセル以上の正方形にしてください。右のボタンをクリックすると新しい画像をアップロードできます。",
     "admin:general.metaRobots": "クローラー設定",
     "admin:general.metaRobotsHint": "デフォルト: index、follow。ページ単位で設定することもできます",
-    "admin:general.pageExtensions": "ページ拡張機能",
+    "admin:general.pageExtensions": "ページ拡張子",
     "admin:general.pageExtensionsHint": "ページとして扱うURL拡張子(コンマ区切り)。たとえば、mdを追加すると\/foobar.mdは\/foobarと同じように扱われます。",
     "admin:general.saveSuccess": "サイト設定は正常に保存されました。",
     "admin:general.siteBranding": "サイトのブランディング",
